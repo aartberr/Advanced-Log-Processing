@@ -1,0 +1,11 @@
+,0,1
+Dataset,Android,Average
+parse_time,-1.0,-1.0
+identified_templates,204.0,204.0
+ground_templates,166.0,166.0
+GA,0.821,0.821
+PA,0.767,0.767
+FGA,0.773,0.773
+PTA,0.431,0.431
+RTA,0.53,0.53
+FTA,0.476,0.476

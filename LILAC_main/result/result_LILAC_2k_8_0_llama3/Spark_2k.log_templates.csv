@@ -1,0 +1,39 @@
+EventId,EventTemplate
+E1,"Registered signal handlers for [<*>],"
+E2,"Changing view acls to: yarn,curi"
+E3,"Changing modify acls to: yarn,curi"
+E4,"SecurityManager: authentication disabled; ui acls disabled; users with view permissions: Set(yarn, curi); users with modify permissions: Set(yarn, curi)"
+E5,Slf4jLogger started
+E6,Starting remoting
+E7,Remoting started; listening on addresses :[akka.tcp://sparkExecutorActorSystem@mesos-slave-<*>]
+E8,Successfully started service 'sparkExecutorActorSystem' on port <*>.
+E9,Created local directory at /opt/hdfs/nodemanager/usercache/curi/appcache/application_<*>_<*>/blockmgr-70293f72-844a-4b39-9ad6-fb0ad7e364e4
+E10,MemoryStore started with capacity <*> GB
+E11,Connecting to driver: spark://CoarseGrainedScheduler@<*>
+E12,Successfully registered with driver
+E13,Starting executor ID <*> on host mesos-slave-<*>
+E14,Successfully started service 'org.apache.spark.network.netty.NettyBlockTransferService' on port <*>.
+E15,Server created on <*>
+E16,Trying to register BlockManager
+E17,Registered BlockManager
+E18,Got assigned task <*>
+E19,Running task <*> in stage <*> (TID <*>)
+E20,Started reading broadcast variable <*>
+E21,"Block <*> stored as bytes in memory (estimated size <*> KB, free <*> KB)"
+E22,Reading broadcast variable <*> took <*> ms
+E23,"Block <*> stored as values in memory (estimated size <*> KB, free <*> KB)"
+E24,"Partition <*> not found, computing it"
+E25,Input split: hdfs://<*>/pjhe/logs/2kSOSP.log:<*>+<*>
+E26,"mapred.tip.id is deprecated. Instead, use mapreduce.task.id"
+E27,"mapred.task.id is deprecated. Instead, use mapreduce.task.<*>"
+E28,"mapred.task.is.map is deprecated. Instead, use mapreduce.task.<*>"
+E29,"mapred.job.id is deprecated. Instead, use mapreduce.<*>"
+E30,"mapred.task.partition is deprecated. Instead, use mapreduce.task.partition"
+E31,"Block <*> stored as bytes in memory (estimated size <*> B, free <*> KB)"
+E32,"Block <*> stored as values in memory (estimated size <*> B, free <*> KB)"
+E33,"Times: total = <*>, boot = <*>, init = <*>, finish = <*>"
+E34,Finished task <*> in stage <*> (TID <*>). <*> bytes result sent to driver
+E35,Found block <*> locally
+E36,File Output Committer Algorithm version is <*>
+E37,Saved output of task <*> to hdfs://<*>/pjhe/test/<*>/_temporary/<*>/task_<*>_<*>_m_<*>
+E38,<*>: Committed

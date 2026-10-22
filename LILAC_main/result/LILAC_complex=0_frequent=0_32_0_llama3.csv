@@ -1,0 +1,11 @@
+,0,1
+Dataset,OpenStack,Average
+parse_time,-1.0,-1.0
+identified_templates,497.0,497.0
+ground_templates,43.0,43.0
+GA,0.205,0.205
+PA,0.023,0.023
+FGA,0.056,0.056
+PTA,0.008,0.008
+RTA,0.093,0.093
+FTA,0.015,0.015

@@ -1,0 +1,4 @@
+{"query": "notifyUiVisibilityChanged:vis=0x40000500, SystemUiVisibility=0x40000500", "answer": "notifyUiVisibilityChanged:vis={variables}, SystemUiVisibility={variables}"}
+{"query": "Taking screenshot from Surface with crop:[Rect(0, 48 - 720, 1208)], width:[432], height:[696], minLayer:[21085], maxLayer:[21085], inRotation:[false], rot:[0]", "answer": "Taking screenshot from Surface with crop:[Rect({variables}, {variables} - {variables}, {variables})], width:[{variables}], height:[{variables}], minLayer:[{variables}], maxLayer:[{variables}], inRotation:[false], rot:[{variables}]"}
+{"query": "shouldBlockLocation  ret:false", "answer": "shouldBlockLocation  ret:false"}
+{"query": "rotationForOrientationLw(orient=1, last=0); user=0 USER_ROTATION_LOCKED", "answer": "rotationForOrientationLw(orient={variables}, last={variables}); user={variables} USER_ROTATION_LOCKED"}

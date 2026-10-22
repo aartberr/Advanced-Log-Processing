@@ -1,0 +1,2000 @@
+0 Component State Change: Component \042SCSI-WWID:01000010:6005-08b4-0001-00c6-0006-3000-003d-0000\042 is in the unavailable state (HWID=1973)
+1 Component State Change: Component \042alt0\042 is in the unavailable state (HWID=3180)
+2 Component State Change: Component \042alt0\042 is in the unavailable state (HWID=5089)
+3 Component State Change: Component \042alt0\042 is in the unavailable state (HWID=4088)
+4 Component State Change: Component \042alt0\042 is in the unavailable state (HWID=2538)
+5 Component State Change: Component \042alt0\042 is in the unavailable state (HWID=2480)
+6 Component State Change: Component \042alt0\042 is in the unavailable state (HWID=3713)
+7 Component State Change: Component \042alt0\042 is in the unavailable state (HWID=3891)
+8 Component State Change: Component \042alt0\042 is in the unavailable state (HWID=2478)
+9 Component State Change: Component \042alt0\042 is in the unavailable state (HWID=2969)
+10 Component State Change: Component \042alt0\042 is in the unavailable state (HWID=4159)
+11 Component State Change: Component \042alt0\042 is in the unavailable state (HWID=2608)
+12 clusterAddMember  (command 1902)
+13 clusterAddMember  (command 1900)
+14 risBoot  (command 1903)
+15 bootGenvmunix  (command 1903)
+16 boot  (command 1911)
+17 boot  (command 1910)
+18 boot  (command 1978)
+19 boot  (command 1967)
+20 wait  (command 1975)
+21 boot  (command 1999)
+22 halt  (command 1982)
+23 boot  (command 1981)
+24 boot  (command 1973)
+25 wait  (command 1973)
+26 wait  (command 2057)
+27 boot  (command 2152)
+28 wait  (command 2154)
+29 boot  (command 2141)
+30 boot  (command 2110)
+31 boot  (command 2160)
+32 halt  (command 2221)
+33 wait  (command 2217)
+34 wait  (command 2217)
+35 wait  (command 2201)
+36 wait  (command 2199)
+37 boot  (command 2183)
+38 wait  (command 2189)
+39 wait  (command 2302)
+40 wait  (command 2270)
+41 wait  (command 2257)
+42 boot  (command 2257)
+43 boot  (command 2316)
+44 boot  (command 2316)
+45 wait  (command 2322)
+46 wait  (command 2354)
+47 wait  (command 2347)
+48 boot  (command 2368)
+49 boot  (command 2392)
+50 boot  (command 2406)
+51 boot  (command 2417)
+52 boot  (command 2423)
+53 wait  (command 2424)
+54 wait  (command 2449)
+55 boot  (command 2464)
+56 wait  (command 2468)
+57 boot  (command 2520)
+58 wait  (command 2517)
+59 boot  (command 2517)
+60 wait  (command 2511)
+61 wait  (command 2513)
+62 boot  (command 2514)
+63 wait  (command 2484)
+64 boot  (command 2625)
+65 wait  (command 2607)
+66 boot  (command 2616)
+67 boot  (command 2619)
+68 boot  (command 2616)
+69 boot  (command 2616)
+70 boot  (command 2602)
+71 wait  (command 2582)
+72 boot  (command 2584)
+73 wait  (command 2549)
+74 boot  (command 2550)
+75 boot  (command 2548)
+76 boot  (command 2538)
+77 wait  (command 2683)
+78 boot  (command 2686)
+79 wait  (command 2682)
+80 wait  (command 2763)
+81 wait  (command 2800)
+82 boot  (command 2790)
+83 wait  (command 2817)
+84 wait  (command 2823)
+85 wait  (command 2817)
+86 wait  (command 2900)
+87 wait  (command 2885)
+88 wait  (command 2909)
+89 boot  (command 2960)
+90 wait  (command 2963)
+91 boot  (command 2999)
+92 halt  (command 2992)
+93 wait  (command 3087)
+94 wait  (command 3079)
+95 wait  (command 3078)
+96 wait  (command 3141)
+97 boot  (command 3138)
+98 boot  (command 3169)
+99 boot  (command 3169)
+100 boot  (command 3194)
+101 boot  (command 3320)
+102 boot  (command 3318)
+103 boot  (command 3317)
+104 wait  (command 3319)
+105 wait  (command 3334)
+106 boot  (command 3334)
+107 wait  (command 3412)
+108 boot  (command 3413)
+109 boot  (command 3473)
+110 wait  (command 3523)
+111 wait  (command 3525)
+112 wait  (command 3519)
+113 boot  (command 3519)
+114 boot  (command 3512)
+115 boot  (command 3579)
+116 boot  (command 3572)
+117 boot  (command 3580)
+118 wait  (command 3612)
+119 boot  (command 3615)
+120 wait  (command 3609)
+121 boot  (command 3624)
+122 wait  (command 3649)
+123 boot  (command 3639)
+124 wait  (command 3690)
+125 boot  (command 3696)
+126 wait  (command 3698)
+127 wait  (command 3709)
+128 wait  (command 3837)
+129 wait  (command 3847)
+130 boot  (command 3951)
+131 boot  (command 3928)
+132 boot  (command 3939)
+133 boot  (command 3964)
+134 wait  (command 3973)
+135 wait  (command 3981)
+136 wait  (command 3981)
+137 boot  (command 4024)
+138 wait  (command 4061)
+139 wait  (command 4110)
+140 boot  (command 4118)
+141 wait  (command 4116)
+142 wait  (command 4117)
+143 boot  (command 4109)
+144 wait  (command 4145)
+145 boot  (command 4176)
+146 boot  (command 4170)
+147 wait  (command 4176)
+148 wait  (command 4176)
+149 bootGenvmunix  (command 4185)
+150 boot  (command 4223)
+151 wait  (command 4221)
+152 wait  (command 4219)
+153 Command has completed successfully
+154 Command has completed successfully
+155 Command has completed successfully
+156 Command has completed successfully
+157 Command has completed successfully
+158 Command has completed successfully
+159 Command has completed successfully
+160 Command has completed successfully
+161 Command has completed successfully
+162 Command has completed successfully
+163 Targeting domains:node-D3 and nodes:node-[104-127] child of command 1963
+164 Targeting domains:node-D4 and nodes:node-[136-159] child of command 1964
+165 Targeting domains:node-D7 and nodes:node-[224\ 228\ 232]
+166 Targeting domains:node-D4 and nodes:node-[128-135] child of command 2401
+167 Targeting domains:node-D0 and nodes:node-[8-31] child of command 2489
+168 Targeting domains:node-D0 and nodes:node-0
+169 Targeting domains:node-D[0\ 5] and nodes:node-[27\ 191]
+170 Targeting domains:node-D2 and nodes:node-[64-95] child of command 3488
+171 Targeting domains:node-D2 and nodes:node-84
+172 psu failure\ ambient=28
+173 psu failure\ ambient=28
+174 psu failure\ ambient=28
+175 psu failure\ ambient=28
+176 psu failure\ ambient=31
+177 Temperature (41C) exceeds warning threshold
+178 Temperature (41C) exceeds warning threshold
+179 ClusterFileSystem: There is no server for ServerFileSystem domain storage234
+180 ClusterFileSystem: There is no server for ServerFileSystem domain storage1412
+181 ClusterFileSystem: There is no server for ServerFileSystem domain storage1024
+182 ClusterFileSystem: There is no server for ServerFileSystem domain storage1534
+183 ClusterFileSystem: There is no server for ServerFileSystem domain storage1231
+184 ClusterFileSystem: There is no server for ServerFileSystem domain storage934
+185 ClusterFileSystem: There is no server for ServerFileSystem domain storage131
+186 ClusterFileSystem: There is no server for ServerFileSystem domain storage1144
+187 ClusterFileSystem: There is no server for ServerFileSystem domain storage444
+188 ClusterFileSystem: There is no server for ServerFileSystem domain storage141
+189 ClusterFileSystem: There is no server for ServerFileSystem domain storage1622
+190 ClusterFileSystem: There is no server for ServerFileSystem domain storage1612
+191 ClusterFileSystem: There is no server for ServerFileSystem domain storage1622
+192 ClusterFileSystem: There is no server for ServerFileSystem domain storage1542
+193 ClusterFileSystem: There is no server for ServerFileSystem domain storage1644
+194 ClusterFileSystem: There is no server for ServerFileSystem domain storage242
+195 ClusterFileSystem: There is no server for ServerFileSystem domain storage1031
+196 ClusterFileSystem: There is no server for ServerFileSystem domain storage1331
+197 ClusterFileSystem: There is no server for ServerFileSystem domain storage742
+198 ClusterFileSystem: There is no server for ServerFileSystem domain storage221
+199 ClusterFileSystem: There is no server for ServerFileSystem domain storage622
+200 ClusterFileSystem: There is no server for ServerFileSystem domain storage112
+201 ClusterFileSystem: There is no server for ServerFileSystem domain storage1432
+202 ClusterFileSystem: There is no server for ServerFileSystem domain storage142
+203 ClusterFileSystem: There is no server for ServerFileSystem domain storage742
+204 ClusterFileSystem: There is no server for ServerFileSystem domain storage1231
+205 ClusterFileSystem: There is no server for ServerFileSystem domain storage1311
+206 ClusterFileSystem: There is no server for ServerFileSystem domain storage411
+207 ClusterFileSystem: There is no server for ServerFileSystem domain storage132
+208 ClusterFileSystem: There is no server for ServerFileSystem domain storage832
+209 ClusterFileSystem: There is no server for ServerFileSystem domain storage531
+210 ClusterFileSystem: There is no server for ServerFileSystem domain storage321
+211 NIFF: node node-69 detected a failed network connection on network 5.5.224.0 via interface alt0
+212 NIFF: node node-162 detected a failed network connection on network 5.5.224.0 via interface alt0
+213 ServerFileSystem: An ServerFileSystem domain panic has occurred on storage442
+214 Fan speeds ( 3552 3534 3375 **** 3515 3479 )
+215 Fan speeds ( 3552 3534 3375 **** 3515 3479 )
+216 Fan speeds ( 3552 3534 3375 **** 3515 3479 )
+217 Fan speeds ( 3552 3534 3375 **** 3515 3479 )
+218 Fan speeds ( 3552 3534 3375 4245 3515 3479 )
+219 Fan speeds ( 3552 3534 3375 **** 3515 3479 )
+220 Fan speeds ( 3552 3534 3375 11637 3515 3479 )
+221 Fan speeds ( 3552 3534 3375 **** 3515 3479 )
+222 Fan speeds ( 3552 3534 3375 **** 3515 3479 )
+223 Fan speeds ( 3552 3534 3375 4245 3515 3479 )
+224 Fan speeds ( 3552 3534 3375 **** 3515 3479 )
+225 Fan speeds ( 3552 3534 3375 **** 3515 3479 )
+226 Fan speeds ( 3552 3534 3375 **** 3515 3479 )
+227 Fan speeds ( 3552 3534 3375 4470 3515 3479 )
+228 Fan speeds ( 3552 3534 3375 **** 3515 3479 )
+229 Fan speeds ( 3552 3534 3375 **** 3515 3479 )
+230 Fan speeds ( 3552 3534 3375 **** 3515 3479 )
+231 Fan speeds ( 3552 3534 3375 **** 3515 3479 )
+232 Fan speeds ( 3552 3534 3375 **** 3515 3479 )
+233 Fan speeds ( 3552 3534 3375 **** 3515 3479 )
+234 Fan speeds ( 3552 3534 3375 **** 3515 3479 )
+235 Fan speeds ( 3552 3534 3375 **** 3515 3479 )
+236 Fan speeds ( 3552 3534 3375 **** 3515 3479 )
+237 Fan speeds ( 3552 3534 3375 **** 3515 3479 )
+238 Fan speeds ( 3552 3534 3375 **** 3515 3479 )
+239 Fan speeds ( 3552 3534 3375 **** 3515 3479 )
+240 Fan speeds ( 3552 3534 3375 **** 3515 3479 )
+241 Fan speeds ( 3552 3534 3375 **** 3515 3479 )
+242 Fan speeds ( 3552 3534 3375 **** 3515 3479 )
+243 Fan speeds ( 3552 3534 3375 **** 3515 3479 )
+244 Fan speeds ( 3552 3534 3375 **** 3515 3479 )
+245 Fan speeds ( 3552 3534 3375 **** 3515 3479 )
+246 Fan speeds ( 3552 3534 3375 **** 3515 3479 )
+247 Fan speeds ( 3552 3534 3375 **** 3515 3479 )
+248 Fan speeds ( 3552 3534 3375 **** 3515 3479 )
+249 Fan speeds ( 3552 3534 3375 **** 3515 3479 )
+250 Fan speeds ( 3552 3534 3375 **** 3515 3479 )
+251 Fan speeds ( 3552 3534 3375 **** 3515 3479 )
+252 Fan speeds ( 3552 3534 3375 4166 3515 3479 )
+253 Fan speeds ( 3552 3534 3375 **** 3515 3479 )
+254 Fan speeds ( 3552 3534 3375 **** 3515 3479 )
+255 Fan speeds ( 3552 3534 3375 **** 3515 3479 )
+256 Fan speeds ( 3552 3534 3375 **** 3515 3479 )
+257 Fan speeds ( 3552 3534 3375 **** 3515 3479 )
+258 Fan speeds ( 3552 3534 3375 **** 3515 3479 )
+259 Fan speeds ( 3552 3534 3375 **** 3515 3479 )
+260 Fan speeds ( 3552 3534 3375 **** 3515 3479 )
+261 Fan speeds ( 3552 3534 3375 **** 3515 3479 )
+262 Fan speeds ( 3552 3534 3375 **** 3515 3479 )
+263 Fan speeds ( 3552 3534 3375 **** 3515 3479 )
+264 Fan speeds ( 3552 3534 3375 **** 3515 3479 )
+265 Fan speeds ( 3552 3534 3375 **** 3515 3479 )
+266 Fan speeds ( 3552 3534 3375 4530 3515 3479 )
+267 Fan speeds ( 3552 3534 3375 **** 3515 3479 )
+268 Fan speeds ( 3552 3534 3375 **** 3515 3479 )
+269 Fan speeds ( 3552 3534 3375 **** 3515 3479 )
+270 Fan speeds ( 3552 3534 3375 **** 3515 3479 )
+271 Fan speeds ( 3552 3534 3375 4192 3515 3479 )
+272 Fan speeds ( 3552 3534 3375 **** 3515 3479 )
+273 Fan speeds ( 3552 3534 3391 **** 3515 3479 )
+274 Fan speeds ( 3552 3534 3391 **** 3515 3479 )
+275 Fan speeds ( 3552 3534 3391 **** 3515 3479 )
+276 Fan speeds ( 3552 3534 3391 **** 3515 3479 )
+277 Fan speeds ( 3552 3534 3391 **** 3515 3479 )
+278 Fan speeds ( 3552 3534 3391 **** 3515 3479 )
+279 Fan speeds ( 3552 3534 3391 **** 3515 3479 )
+280 Fan speeds ( 3552 3534 3391 **** 3515 3479 )
+281 Fan speeds ( 3552 3534 3391 **** 3515 3479 )
+282 Fan speeds ( 3552 3534 3391 **** 3515 3479 )
+283 Fan speeds ( 3552 3534 3391 **** 3515 3479 )
+284 Fan speeds ( 3552 3534 3391 **** 3515 3479 )
+285 Fan speeds ( 3552 3534 3391 4299 3515 3479 )
+286 Fan speeds ( 3552 3534 3391 **** 3515 3479 )
+287 Fan speeds ( 3552 3534 3391 **** 3515 3479 )
+288 Fan speeds ( 3552 3534 3391 **** 3515 3479 )
+289 Fan speeds ( 3552 3552 3391 **** 3515 3497 )
+290 Fan speeds ( 3552 3552 3391 **** 3515 3497 )
+291 Fan speeds ( 3534 3534 3375 **** 3497 3479 )
+292 Fan speeds ( 3534 3534 3375 **** 3497 3479 )
+293 Fan speeds ( 3534 3534 3375 4272 3497 3479 )
+294 Fan speeds ( 3534 3534 3375 4470 3497 3479 )
+295 Fan speeds ( 3534 3534 3375 **** 3497 3479 )
+296 Fan speeds ( 3534 3534 3375 **** 3497 3479 )
+297 Fan speeds ( 3534 3534 3375 **** 3497 3479 )
+298 Fan speeds ( 3534 3534 3375 **** 3497 3479 )
+299 Fan speeds ( 3534 3534 3375 **** 3497 3479 )
+300 Fan speeds ( 3534 3534 3375 4115 3497 3479 )
+301 Fan speeds ( 3534 3534 3375 **** 3497 3479 )
+302 Fan speeds ( 3534 3534 3375 **** 3497 3479 )
+303 Fan speeds ( 3534 3534 3375 **** 3497 3479 )
+304 Command has been aborted
+305 power/control problem
+306 Link error
+307 Link error
+308 Link error
+309 Link error
+310 Link in reset
+311 Link error
+312 Link error
+313 Link error
+314 Link error
+315 Link error
+316 Link in reset
+317 Link ok
+318 Link error on broadcast tree Interconnect-0T00:00:2:1
+319 Link error on broadcast tree Interconnect-1T00:00:3:6
+320 Link error on broadcast tree Interconnect-1T00:00:2:0
+321 Link error on broadcast tree Interconnect-1T00:00:2:0
+322 ServerFileSystem: ServerFileSystem domain root14_local is full
+323 ServerFileSystem: ServerFileSystem domain root10_local is full
+324 ServerFileSystem: ServerFileSystem domain root22_local is full
+325 ServerFileSystem: ServerFileSystem domain root13_local is full
+326 ServerFileSystem: ServerFileSystem domain root26_tmp is full
+327 ServerFileSystem: ServerFileSystem domain root7_local is full
+328 ServerFileSystem: ServerFileSystem domain root1_local is full
+329 ServerFileSystem: ServerFileSystem domain root22_local is full
+330 ServerFileSystem: ServerFileSystem domain root3_local is full
+331 ServerFileSystem: ServerFileSystem domain root25_local is full
+332 ServerFileSystem: ServerFileSystem domain root26_local is full
+333 ServerFileSystem: ServerFileSystem domain root22_local is full
+334 ClusterFileSystem: ServerFileSystem domain cluster_root_backup is no longer served by node node-96
+335 ClusterFileSystem: ServerFileSystem domain root_domain is no longer served by node node-160
+336 ClusterFileSystem: ServerFileSystem domain root3_domain is no longer served by node node-128
+337 ClusterFileSystem: ServerFileSystem domain root9_domain is no longer served by node node-224
+338 ClusterFileSystem: ServerFileSystem domain root10_domain is no longer served by node node-224
+339 ClusterFileSystem: ServerFileSystem domain root28_domain is no longer served by node node-96
+340 ClusterFileSystem: ServerFileSystem domain root30_domain is no longer served by node node-0
+341 ClusterFileSystem: ServerFileSystem domain root26_domain is no longer served by node node-57
+342 ClusterFileSystem: ServerFileSystem domain root29_local is no longer served by node node-28
+343 ClusterFileSystem: ServerFileSystem domain root12_domain is no longer served by node node-11
+344 ClusterFileSystem: ServerFileSystem domain root5_domain is no longer served by node node-196
+345 ClusterFileSystem: ServerFileSystem domain root28_domain is no longer served by node node-187
+346 ClusterFileSystem: ServerFileSystem domain root5_tmp is no longer served by node node-228
+347 ClusterFileSystem: ServerFileSystem domain storage1422 is no longer served by node node-245
+348 ClusterFileSystem: ServerFileSystem domain storage343 is no longer served by node node-11
+349 ClusterFileSystem: ServerFileSystem domain root19_domain is no longer served by node node-114
+350 ClusterFileSystem: ServerFileSystem domain root14_local is no longer served by node node-77
+351 ClusterFileSystem: ServerFileSystem domain root6_domain is no longer served by node node-37
+352 ClusterFileSystem: ServerFileSystem domain storage534 is no longer served by node node-18
+353 ClusterFileSystem: ServerFileSystem domain root12_tmp is no longer served by node node-11
+354 ClusterFileSystem: ServerFileSystem domain root23_local is no longer served by node node-182
+355 ClusterFileSystem: ServerFileSystem domain root14_tmp is no longer served by node node-45
+356 ClusterFileSystem: ServerFileSystem domain storage211 is no longer served by node node-4
+357 ClusterFileSystem: ServerFileSystem domain root8_domain is no longer served by node node-167
+358 ClusterFileSystem: ServerFileSystem domain root25_local is no longer served by node node-216
+359 ClusterFileSystem: ServerFileSystem domain cluster_usr_backup is no longer served by node node-160
+360 ClusterFileSystem: ServerFileSystem domain root_domain is no longer served by node node-128
+361 ClusterFileSystem: ServerFileSystem domain root24_local is no longer served by node node-247
+362 ClusterFileSystem: ServerFileSystem domain root18_tmp is no longer served by node node-241
+363 ClusterFileSystem: ServerFileSystem domain root17_domain is no longer served by node node-240
+364 ClusterFileSystem: ServerFileSystem domain sc_cluster_backup is no longer served by node node-0
+365 ClusterFileSystem: ServerFileSystem domain cluster_usr_backup is no longer served by node node-192
+366 ClusterFileSystem: ServerFileSystem domain cluster_var_backup is no longer served by node node-224
+367 ClusterFileSystem: ServerFileSystem domain root1_tmp_backup is no longer served by node node-96
+368 ClusterFileSystem: ServerFileSystem domain root1_domain_backup is no longer served by node node-96
+369 ClusterFileSystem: ServerFileSystem domain root28_domain is no longer served by node node-219
+370 running
+371 running
+372 running
+373 running
+374 running
+375 running
+376 running
+377 blocked
+378 blocked
+379 running
+380 running
+381 not responding
+382 not responding
+383 configured out
+384 running
+385 running
+386 running
+387 not responding
+388 not responding
+389 running
+390 not responding
+391 not responding
+392 configured out
+393 not responding
+394 running
+395 running
+396 running
+397 running
+398 not responding
+399 not responding
+400 not responding
+401 inconsistent nodesets node-160 0x0001edfe <ok> node-161 0x1001fdfe <ok> node-162 0x1001fdfe <ok> node-163 0x1001fdfe <ok>
+402 running
+403 running
+404 running
+405 running
+406 running
+407 running
+408 running
+409 configured out
+410 running
+411 active
+412 configured out
+413 running
+414 running
+415 configured out
+416 configured out
+417 configured out
+418 running
+419 configured out
+420 not responding
+421 running
+422 running
+423 configured out
+424 not responding
+425 running
+426 configured out
+427 not responding
+428 inconsistent nodesets node-32 0x00000002 <ok> node-34 0x000001fe <ok> node-33 0x000001fe <ok> node-35 0x000001fe <ok>
+429 configured out
+430 not responding
+431 running
+432 configured out
+433 configured out
+434 configured out
+435 not responding
+436 configured out
+437 configured out
+438 running
+439 running
+440 running
+441 configured out
+442 configured out
+443 not responding
+444 not responding
+445 configured out
+446 running
+447 configured out
+448 configured out
+449 running
+450 not responding
+451 active
+452 running
+453 running
+454 configured out
+455 running
+456 configured out
+457 running
+458 running
+459 blocked
+460 not responding
+461 not responding
+462 running
+463 not responding
+464 not responding
+465 not responding
+466 running
+467 running
+468 running
+469 not responding
+470 running
+471 running
+472 configured out
+473 configured out
+474 running
+475 running
+476 not responding
+477 running
+478 running
+479 not responding
+480 configured out
+481 configured out
+482 configured out
+483 configured out
+484 configured out
+485 not responding
+486 not responding
+487 not responding
+488 running
+489 running
+490 configured out
+491 configured out
+492 configured out
+493 configured out
+494 running
+495 running
+496 configured out
+497 running
+498 not responding
+499 not responding
+500 not responding
+501 running
+502 running
+503 configured out
+504 not responding
+505 running
+506 not responding
+507 running
+508 configured out
+509 running
+510 running
+511 not responding
+512 not responding
+513 configured out
+514 configured out
+515 running
+516 running
+517 running
+518 configured out
+519 running
+520 running
+521 configured out
+522 configured out
+523 configured out
+524 running
+525 running
+526 running
+527 blocked
+528 blocked
+529 not responding
+530 running
+531 running
+532 configured out
+533 running
+534 running
+535 running
+536 running
+537 running
+538 configured out
+539 configured out
+540 not-responding
+541 running
+542 running
+543 active
+544 running
+545 running
+546 running
+547 running
+548 running
+549 running
+550 not responding
+551 configured out
+552 configured out
+553 not responding
+554 running
+555 running
+556 configured out
+557 configured out
+558 running
+559 running
+560 running
+561 configured out
+562 inconsistent nodesets node-1 0x000001fc <ok> node-2 0x000001fc <ok> node-7 0x000001fc <ok> node-4 0x000001fc <ok> node-6 0x000001fc <ok> node-5 0x000001fc <ok> node-3 0x000001fc <ok> node-14 0x0003fdfc <ok> node-13 0x0003fdfc <ok> node-12 0x0003fdfc <ok> node-10 0x0003fdfc <ok> node-16 0x0003fdfc <ok> node-15 0x0003fdfc <ok>
+563 configured out
+564 blocked
+565 configured out
+566 running
+567 running
+568 running
+569 configured out
+570 not responding
+571 configured out
+572 not responding
+573 running
+574 active
+575 not responding
+576 configured out
+577 configured out
+578 running
+579 running
+580 configured out
+581 not responding
+582 running
+583 configured out
+584 blocked
+585 running
+586 configured out
+587 not responding
+588 configured out
+589 configured out
+590 configured out
+591 configured out
+592 running
+593 configured out
+594 configured out
+595 running
+596 running
+597 running
+598 running
+599 running
+600 configured out
+601 configured out
+602 running
+603 blocked
+604 configured out
+605 running
+606 running
+607 running
+608 running
+609 blocked
+610 configured out
+611 running
+612 not responding
+613 running
+614 running
+615 running
+616 running
+617 configured out
+618 configured out
+619 not responding
+620 running
+621 running
+622 running
+623 not responding
+624 running
+625 running
+626 not responding
+627 starting
+628 configured out
+629 configured out
+630 configured out
+631 configured out
+632 running
+633 configured out
+634 not responding
+635 not responding
+636 configured out
+637 running
+638 running
+639 configured out
+640 not responding
+641 running
+642 configured out
+643 running
+644 configured out
+645 blocked
+646 running
+647 running
+648 running
+649 running
+650 blocked
+651 running
+652 running
+653 running
+654 configured out
+655 closing
+656 running
+657 running
+658 running
+659 running
+660 running
+661 running
+662 running
+663 running
+664 running
+665 running
+666 running
+667 configured out
+668 not responding
+669 not responding
+670 blocked
+671 running
+672 not responding
+673 running
+674 active
+675 not responding
+676 configured out
+677 not responding
+678 running
+679 running
+680 blocked
+681 running
+682 not responding
+683 not responding
+684 running
+685 running
+686 blocked
+687 not responding
+688 configured out
+689 configured out
+690 running
+691 running
+692 running
+693 configured out
+694 configured out
+695 configured out
+696 running
+697 running
+698 running
+699 inconsistent nodesets node-31 0x1fffffffe <ok> node-0 0xfffffffe <ok> node-1 0xfffffffe <ok> node-2 0xfffffffe <ok> node-30 0xfffffffe <ok>
+700 configured out
+701 running
+702 blocked
+703 running
+704 not responding
+705 configured out
+706 running
+707 running
+708 running
+709 running
+710 normal
+711 normal
+712 warning
+713 normal
+714 normal
+715 warning
+716 ambient=30
+717 normal
+718 ambient=30
+719 normal
+720 normal
+721 critical
+722 normal
+723 normal
+724 critical
+725 normal
+726 ambient=31
+727 normal
+728 normal
+729 ambient=30
+730 ambient=29
+731 normal
+732 ambient=26
+733 ambient=30
+734 warning
+735 critical
+736 normal
+737 ambient=32
+738 ambient=29
+739 normal
+740 ambient=33
+741 ambient=28
+742 ambient=31
+743 ambient=33
+744 normal
+745 warning
+746 warning
+747 warning
+748 ambient=31
+749 warning
+750 normal
+751 ambient=30
+752 ambient=30
+753 normal
+754 ambient=31
+755 warning
+756 warning
+757 normal
+758 warning
+759 normal
+760 ambient=31
+761 warning
+762 ambient=26
+763 ambient=31
+764 normal
+765 warning
+766 normal
+767 ambient=29
+768 warning
+769 warning
+770 warning
+771 ambient=27
+772 ambient=30
+773 ambient=26
+774 warning
+775 warning
+776 normal
+777 warning
+778 normal
+779 normal
+780 normal
+781 normal
+782 warning
+783 warning
+784 normal
+785 warning
+786 normal
+787 normal
+788 normal
+789 ambient=34
+790 warning
+791 warning
+792 normal
+793 warning
+794 normal
+795 warning
+796 ambient=31
+797 normal
+798 warning
+799 warning
+800 warning
+801 ambient=32
+802 normal
+803 ambient=33
+804 warning
+805 warning
+806 warning
+807 warning
+808 ambient=35
+809 ambient=31
+810 ambient=31
+811 ambient=31
+812 ambient=30
+813 ambient=31
+814 ambient=29
+815 warning
+816 normal
+817 ambient=26
+818 normal
+819 warning
+820 normal
+821 ambient=33
+822 normal
+823 ambient=31
+824 warning
+825 critical
+826 ambient=34
+827 ambient=35
+828 ambient=30
+829 warning
+830 ambient=35
+831 ambient=33
+832 ambient=33
+833 normal
+834 ambient=30
+835 ambient=28
+836 ambient=27
+837 warning
+838 warning
+839 normal
+840 normal
+841 warning
+842 ambient=32
+843 ambient=31
+844 ambient=35
+845 ambient=32
+846 ambient=28
+847 warning
+848 ambient=30
+849 normal
+850 warning
+851 normal
+852 normal
+853 normal
+854 normal
+855 ambient=31
+856 normal
+857 ambient=31
+858 warning
+859 normal
+860 warning
+861 warning
+862 warning
+863 warning
+864 ambient=29
+865 warning
+866 normal
+867 warning
+868 warning
+869 normal
+870 normal
+871 warning
+872 normal
+873 warning
+874 normal
+875 normal
+876 normal
+877 warning
+878 warning
+879 normal
+880 normal
+881 warning
+882 warning
+883 warning
+884 warning
+885 ambient=29
+886 normal
+887 normal
+888 ambient=30
+889 ambient=30
+890 ambient=33
+891 ambient=32
+892 normal
+893 ambient=27
+894 warning
+895 normal
+896 normal
+897 ambient=32
+898 normal
+899 warning
+900 ambient=33
+901 warning
+902 normal
+903 normal
+904 normal
+905 warning
+906 ambient=29
+907 warning
+908 warning
+909 normal
+910 warning
+911 ambient=32
+912 ambient=29
+913 normal
+914 ambient=36
+915 ambient=29
+916 ambient=30
+917 warning
+918 ambient=29
+919 normal
+920 ambient=32
+921 ambient=30
+922 ambient=32
+923 ambient=30
+924 ambient=33
+925 ambient=31
+926 normal
+927 ambient=33
+928 normal
+929 ambient=33
+930 ambient=31
+931 ambient=33
+932 critical
+933 normal
+934 ambient=27
+935 normal
+936 ambient=33
+937 normal
+938 ambient=33
+939 normal
+940 warning
+941 normal
+942 warning
+943 normal
+944 ambient=29
+945 ambient=33
+946 ambient=36
+947 ambient=30
+948 normal
+949 warning
+950 warning
+951 ambient=28
+952 ambient=26
+953 warning
+954 normal
+955 ambient=29
+956 normal
+957 ambient=25
+958 ambient=29
+959 warning
+960 warning
+961 warning
+962 warning
+963 warning
+964 normal
+965 warning
+966 ambient=34
+967 ambient=28
+968 ambient=27
+969 normal
+970 warning
+971 normal
+972 warning
+973 warning
+974 normal
+975 warning
+976 normal
+977 warning
+978 warning
+979 normal
+980 warning
+981 normal
+982 ambient=27
+983 normal
+984 ambient=33
+985 ambient=27
+986 warning
+987 ambient=30
+988 ambient=33
+989 ambient=27
+990 normal
+991 ambient=27
+992 normal
+993 normal
+994 warning
+995 warning
+996 normal
+997 normal
+998 normal
+999 warning
+1000 warning
+1001 warning
+1002 warning
+1003 normal
+1004 warning
+1005 normal
+1006 warning
+1007 ambient=27
+1008 normal
+1009 normal
+1010 warning
+1011 normal
+1012 normal
+1013 warning
+1014 warning
+1015 warning
+1016 warning
+1017 normal
+1018 normal
+1019 normal
+1020 normal
+1021 ambient=26
+1022 normal
+1023 normal
+1024 normal
+1025 normal
+1026 normal
+1027 warning
+1028 critical
+1029 warning
+1030 warning
+1031 warning
+1032 warning
+1033 ambient=29
+1034 warning
+1035 normal
+1036 ambient=28
+1037 normal
+1038 normal
+1039 normal
+1040 warning
+1041 normal
+1042 ambient=28
+1043 warning
+1044 normal
+1045 warning
+1046 normal
+1047 normal
+1048 ambient=26
+1049 normal
+1050 normal
+1051 warning
+1052 warning
+1053 warning
+1054 warning
+1055 normal
+1056 warning
+1057 ambient=35
+1058 ambient=33
+1059 ambient=32
+1060 ambient=31
+1061 ambient=31
+1062 critical
+1063 warning
+1064 warning
+1065 normal
+1066 warning
+1067 warning
+1068 warning
+1069 ambient=27
+1070 normal
+1071 ambient=33
+1072 normal
+1073 normal
+1074 normal
+1075 warning
+1076 ambient=32
+1077 warning
+1078 ambient=30
+1079 normal
+1080 warning
+1081 warning
+1082 warning
+1083 normal
+1084 critical
+1085 warning
+1086 warning
+1087 warning
+1088 critical
+1089 ambient=34
+1090 warning
+1091 ambient=27
+1092 normal
+1093 warning
+1094 ambient=23
+1095 normal
+1096 warning
+1097 normal
+1098 ambient=29
+1099 normal
+1100 ambient=28
+1101 ambient=26
+1102 normal
+1103 ambient=28
+1104 ambient=25
+1105 ambient=24
+1106 warning
+1107 ambient=34
+1108 ambient=31
+1109 critical
+1110 normal
+1111 ambient=28
+1112 ambient=30
+1113 ambient=33
+1114 ambient=31
+1115 ambient=31
+1116 ambient=33
+1117 ambient=32
+1118 ambient=27
+1119 ambient=29
+1120 warning
+1121 critical
+1122 normal
+1123 warning
+1124 normal
+1125 warning
+1126 normal
+1127 normal
+1128 normal
+1129 normal
+1130 warning
+1131 normal
+1132 normal
+1133 normal
+1134 normal
+1135 warning
+1136 normal
+1137 normal
+1138 normal
+1139 warning
+1140 normal
+1141 warning
+1142 critical
+1143 normal
+1144 warning
+1145 warning
+1146 warning
+1147 critical
+1148 warning
+1149 normal
+1150 warning
+1151 ambient=25
+1152 warning
+1153 warning
+1154 warning
+1155 ambient=28
+1156 ambient=33
+1157 ambient=33
+1158 ambient=36
+1159 ambient=36
+1160 ambient=28
+1161 warning
+1162 critical
+1163 ambient=35
+1164 normal
+1165 warning
+1166 ambient=29
+1167 warning
+1168 warning
+1169 warning
+1170 warning
+1171 normal
+1172 ambient=25
+1173 normal
+1174 normal
+1175 ambient=34
+1176 ambient=35
+1177 ambient=36
+1178 ambient=35
+1179 warning
+1180 warning
+1181 warning
+1182 warning
+1183 normal
+1184 warning
+1185 ambient=27
+1186 warning
+1187 ambient=29
+1188 ambient=26
+1189 ambient=26
+1190 ambient=30
+1191 warning
+1192 normal
+1193 warning
+1194 normal
+1195 normal
+1196 warning
+1197 warning
+1198 warning
+1199 warning
+1200 normal
+1201 warning
+1202 warning
+1203 normal
+1204 normal
+1205 ambient=24
+1206 normal
+1207 ambient=30
+1208 ambient=31
+1209 ambient=33
+1210 ambient=31
+1211 normal
+1212 warning
+1213 normal
+1214 warning
+1215 warning
+1216 warning
+1217 ambient=27
+1218 normal
+1219 ambient=29
+1220 ambient=31
+1221 normal
+1222 warning
+1223 warning
+1224 warning
+1225 ambient=30
+1226 ambient=32
+1227 warning
+1228 ambient=29
+1229 normal
+1230 ambient=24
+1231 ambient=30
+1232 warning
+1233 ambient=28
+1234 ambient=34
+1235 ambient=25
+1236 ambient=26
+1237 ambient=25
+1238 ambient=25
+1239 ambient=25
+1240 ambient=27
+1241 ambient=30
+1242 warning
+1243 ambient=31
+1244 ambient=29
+1245 warning
+1246 warning
+1247 ambient=28
+1248 ambient=28
+1249 normal
+1250 normal
+1251 ambient=25
+1252 ambient=30
+1253 ambient=30
+1254 ambient=26
+1255 warning
+1256 ambient=25
+1257 warning
+1258 ambient=29
+1259 normal
+1260 ambient=29
+1261 ambient=27
+1262 warning
+1263 ambient=26
+1264 normal
+1265 normal
+1266 warning
+1267 ambient=25
+1268 warning
+1269 normal
+1270 ambient=28
+1271 ambient=29
+1272 ambient=28
+1273 normal
+1274 ambient=30
+1275 ambient=30
+1276 ambient=27
+1277 normal
+1278 ambient=28
+1279 warning
+1280 normal
+1281 ambient=30
+1282 normal
+1283 normal
+1284 ambient=30
+1285 ambient=27
+1286 warning
+1287 ambient=26
+1288 ambient=27
+1289 ambient=24
+1290 normal
+1291 ambient=26
+1292 ambient=31
+1293 warning
+1294 warning
+1295 ambient=29
+1296 ambient=29
+1297 warning
+1298 ambient=27
+1299 normal
+1300 ambient=33
+1301 ambient=30
+1302 ambient=29
+1303 ambient=33
+1304 normal
+1305 ambient=29
+1306 warning
+1307 ambient=30
+1308 ambient=29
+1309 ambient=28
+1310 ambient=32
+1311 warning
+1312 ambient=28
+1313 ambient=28
+1314 warning
+1315 normal
+1316 normal
+1317 warning
+1318 ambient=29
+1319 ambient=30
+1320 ambient=31
+1321 ambient=31
+1322 ambient=34
+1323 warning
+1324 ambient=36
+1325 ambient=33
+1326 ambient=25
+1327 ambient=36
+1328 ambient=33
+1329 ambient=25
+1330 normal
+1331 normal
+1332 normal
+1333 warning
+1334 ambient=30
+1335 normal
+1336 normal
+1337 ambient=33
+1338 ambient=37
+1339 warning
+1340 ambient=27
+1341 ambient=30
+1342 ambient=35
+1343 ambient=27
+1344 ambient=29
+1345 warning
+1346 normal
+1347 ambient=28
+1348 normal
+1349 ambient=28
+1350 ambient=27
+1351 ambient=26
+1352 ambient=25
+1353 ambient=30
+1354 ambient=35
+1355 ambient=32
+1356 ambient=29
+1357 ambient=35
+1358 critical
+1359 ambient=27
+1360 ambient=29
+1361 ambient=28
+1362 ambient=28
+1363 ambient=25
+1364 ambient=25
+1365 ambient=27
+1366 ambient=30
+1367 ambient=28
+1368 critical
+1369 ambient=25
+1370 normal
+1371 ambient=27
+1372 normal
+1373 ambient=25
+1374 ambient=28
+1375 ambient=33
+1376 ambient=36
+1377 ambient=30
+1378 ambient=36
+1379 ambient=33
+1380 normal
+1381 ambient=31
+1382 normal
+1383 ambient=27
+1384 ambient=26
+1385 warning
+1386 critical
+1387 normal
+1388 normal
+1389 ambient=33
+1390 warning
+1391 normal
+1392 ambient=36
+1393 ambient=33
+1394 normal
+1395 ambient=26
+1396 ambient=25
+1397 ambient=27
+1398 ambient=31
+1399 ambient=25
+1400 ambient=28
+1401 warning
+1402 normal
+1403 ambient=32
+1404 ambient=33
+1405 ambient=28
+1406 ambient=31
+1407 critical
+1408 normal
+1409 ambient=30
+1410 ambient=29
+1411 ambient=30
+1412 normal
+1413 normal
+1414 normal
+1415 warning
+1416 warning
+1417 ambient=27
+1418 normal
+1419 critical
+1420 warning
+1421 warning
+1422 normal
+1423 warning
+1424 normal
+1425 warning
+1426 ambient=28
+1427 ambient=26
+1428 ambient=34
+1429 warning
+1430 warning
+1431 critical
+1432 warning
+1433 Link ok
+1434 Link ok
+1435 Link ok
+1436 Link ok
+1437 Link error
+1438 Link error
+1439 Link in reset
+1440 Link ok
+1441 Link ok
+1442 Link in reset
+1443 Link ok
+1444 Link error
+1445 Link ok
+1446 Link ok
+1447 Link ok
+1448 Link error
+1449 Link in reset
+1450 Link ok
+1451 Link ok
+1452 Link in reset
+1453 Link in reset
+1454 Link in reset
+1455 Link in reset
+1456 Linkerror event interval expired
+1457 Linkerror event interval expired
+1458 risBoot (command 1903) Error: Timed out while waiting for SRM prompt: <ABORT code completed>
+1459 Linkerror event interval expired
+1460 Linkerror event interval expired
+1461 Linkerror event interval expired
+1462 Linkerror event interval expired
+1463 Linkerror event interval expired
+1464 Linkerror event interval expired
+1465 Linkerror event interval expired
+1466 Linkerror event interval expired
+1467 Linkerror event interval expired
+1468 Linkerror event interval expired
+1469 Linkerror event interval expired
+1470 Linkerror event interval expired
+1471 Linkerror event interval expired
+1472 Linkerror event interval expired
+1473 Linkerror event interval expired
+1474 Linkerror event interval expired
+1475 Linkerror event interval expired
+1476 Linkerror event interval expired
+1477 Linkerror event interval expired
+1478 Linkerror event interval expired
+1479 Linkerror event interval expired
+1480 Linkerror event interval expired
+1481 Linkerror event interval expired
+1482 Linkerror event interval expired
+1483 Linkerror event interval expired
+1484 Linkerror event interval expired
+1485 Linkerror event interval expired
+1486 Linkerror event interval expired
+1487 Linkerror event interval expired
+1488 Linkerror event interval expired
+1489 Linkerror event interval expired
+1490 Linkerror event interval expired
+1491 Linkerror event interval expired
+1492 Linkerror event interval expired
+1493 Linkerror event interval expired
+1494 Linkerror event interval expired
+1495 Linkerror event interval expired
+1496 Linkerror event interval expired
+1497 Linkerror event interval expired
+1498 Linkerror event interval expired
+1499 Linkerror event interval expired
+1500 Linkerror event interval expired
+1501 Linkerror event interval expired
+1502 Linkerror event interval expired
+1503 Linkerror event interval expired
+1504 Linkerror event interval expired
+1505 Linkerror event interval expired
+1506 Linkerror event interval expired
+1507 Linkerror event interval expired
+1508 Linkerror event interval expired
+1509 Linkerror event interval expired
+1510 Linkerror event interval expired
+1511 Linkerror event interval expired
+1512 Linkerror event interval expired
+1513 Linkerror event interval expired
+1514 Linkerror event interval expired
+1515 Linkerror event interval expired
+1516 Linkerror event interval expired
+1517 Linkerror event interval expired
+1518 Linkerror event interval expired
+1519 Linkerror event interval expired
+1520 Linkerror event interval expired
+1521 Linkerror event interval expired
+1522 Linkerror event interval expired
+1523 Linkerror event interval expired
+1524 Linkerror event interval expired
+1525 Linkerror event interval expired
+1526 Linkerror event interval expired
+1527 Linkerror event interval expired
+1528 Linkerror event interval expired
+1529 Linkerror event interval expired
+1530 Linkerror event interval expired
+1531 Linkerror event interval expired
+1532 Linkerror event interval expired
+1533 Linkerror event interval expired
+1534 Linkerror event interval expired
+1535 Linkerror event interval expired
+1536 Linkerror event interval expired
+1537 Linkerror event interval expired
+1538 Linkerror event interval expired
+1539 Linkerror event interval expired
+1540 Linkerror event interval expired
+1541 boot (command 2092) Error: HALT asserted\  cannot continue
+1542 Linkerror event interval expired
+1543 Linkerror event interval expired
+1544 Linkerror event interval expired
+1545 Linkerror event interval expired
+1546 Linkerror event interval expired
+1547 Linkerror event interval expired
+1548 Linkerror event interval expired
+1549 Linkerror event interval expired
+1550 Linkerror event interval expired
+1551 Linkerror event interval expired
+1552 Linkerror event interval expired
+1553 Linkerror event interval expired
+1554 Linkerror event interval expired
+1555 Linkerror event interval expired
+1556 Linkerror event interval expired
+1557 Linkerror event interval expired
+1558 Linkerror event interval expired
+1559 Linkerror event interval expired
+1560 Linkerror event interval expired
+1561 Linkerror event interval expired
+1562 Linkerror event interval expired
+1563 Linkerror event interval expired
+1564 Linkerror event interval expired
+1565 Linkerror event interval expired
+1566 Linkerror event interval expired
+1567 Linkerror event interval expired
+1568 Linkerror event interval expired
+1569 Linkerror event interval expired
+1570 Linkerror event interval expired
+1571 Linkerror event interval expired
+1572 Linkerror event interval expired
+1573 Linkerror event interval expired
+1574 Linkerror event interval expired
+1575 Linkerror event interval expired
+1576 Linkerror event interval expired
+1577 Linkerror event interval expired
+1578 Linkerror event interval expired
+1579 Linkerror event interval expired
+1580 Linkerror event interval expired
+1581 Linkerror event interval expired
+1582 Linkerror event interval expired
+1583 Linkerror event interval expired
+1584 Linkerror event interval expired
+1585 Linkerror event interval expired
+1586 Linkerror event interval expired
+1587 Linkerror event interval expired
+1588 Linkerror event interval expired
+1589 Linkerror event interval expired
+1590 Linkerror event interval expired
+1591 Linkerror event interval expired
+1592 Linkerror event interval expired
+1593 Linkerror event interval expired
+1594 Linkerror event interval expired
+1595 Linkerror event interval expired
+1596 Linkerror event interval expired
+1597 Linkerror event interval expired
+1598 Linkerror event interval expired
+1599 Linkerror event interval expired
+1600 Linkerror event interval expired
+1601 Linkerror event interval expired
+1602 Linkerror event interval expired
+1603 Linkerror event interval expired
+1604 Linkerror event interval expired
+1605 Linkerror event interval expired
+1606 Linkerror event interval expired
+1607 Linkerror event interval expired
+1608 Linkerror event interval expired
+1609 Linkerror event interval expired
+1610 Linkerror event interval expired
+1611 Linkerror event interval expired
+1612 Linkerror event interval expired
+1613 Linkerror event interval expired
+1614 Linkerror event interval expired
+1615 Linkerror event interval expired
+1616 Linkerror event interval expired
+1617 Linkerror event interval expired
+1618 Linkerror event interval expired
+1619 Linkerror event interval expired
+1620 Linkerror event interval expired
+1621 Linkerror event interval expired
+1622 Linkerror event interval expired
+1623 Linkerror event interval expired
+1624 Linkerror event interval expired
+1625 Linkerror event interval expired
+1626 Linkerror event interval expired
+1627 Linkerror event interval expired
+1628 Linkerror event interval expired
+1629 Linkerror event interval expired
+1630 Linkerror event interval expired
+1631 Linkerror event interval expired
+1632 Linkerror event interval expired
+1633 Linkerror event interval expired
+1634 Linkerror event interval expired
+1635 Linkerror event interval expired
+1636 Linkerror event interval expired
+1637 Linkerror event interval expired
+1638 Linkerror event interval expired
+1639 Linkerror event interval expired
+1640 Linkerror event interval expired
+1641 Linkerror event interval expired
+1642 Linkerror event interval expired
+1643 Linkerror event interval expired
+1644 Linkerror event interval expired
+1645 Linkerror event interval expired
+1646 Linkerror event interval expired
+1647 Linkerror event interval expired
+1648 Linkerror event interval expired
+1649 Linkerror event interval expired
+1650 Linkerror event interval expired
+1651 Linkerror event interval expired
+1652 Linkerror event interval expired
+1653 Linkerror event interval expired
+1654 Linkerror event interval expired
+1655 Linkerror event interval expired
+1656 Linkerror event interval expired
+1657 Linkerror event interval expired
+1658 Linkerror event interval expired
+1659 Linkerror event interval expired
+1660 Linkerror event interval expired
+1661 Linkerror event interval expired
+1662 Linkerror event interval expired
+1663 Linkerror event interval expired
+1664 Linkerror event interval expired
+1665 Linkerror event interval expired
+1666 Linkerror event interval expired
+1667 Linkerror event interval expired
+1668 Linkerror event interval expired
+1669 Linkerror event interval expired
+1670 Linkerror event interval expired
+1671 Linkerror event interval expired
+1672 Linkerror event interval expired
+1673 Linkerror event interval expired
+1674 Linkerror event interval expired
+1675 Linkerror event interval expired
+1676 Linkerror event interval expired
+1677 Linkerror event interval expired
+1678 Linkerror event interval expired
+1679 Linkerror event interval expired
+1680 Linkerror event interval expired
+1681 Linkerror event interval expired
+1682 Linkerror event interval expired
+1683 Linkerror event interval expired
+1684 Linkerror event interval expired
+1685 Linkerror event interval expired
+1686 Linkerror event interval expired
+1687 Linkerror event interval expired
+1688 Linkerror event interval expired
+1689 Linkerror event interval expired
+1690 Linkerror event interval expired
+1691 Linkerror event interval expired
+1692 Linkerror event interval expired
+1693 Linkerror event interval expired
+1694 Linkerror event interval expired
+1695 Linkerror event interval expired
+1696 Linkerror event interval expired
+1697 Linkerror event interval expired
+1698 Linkerror event interval expired
+1699 Linkerror event interval expired
+1700 Linkerror event interval expired
+1701 Linkerror event interval expired
+1702 Linkerror event interval expired
+1703 Linkerror event interval expired
+1704 Linkerror event interval expired
+1705 Linkerror event interval expired
+1706 Linkerror event interval expired
+1707 Linkerror event interval expired
+1708 Linkerror event interval expired
+1709 Linkerror event interval expired
+1710 Linkerror event interval expired
+1711 Linkerror event interval expired
+1712 Linkerror event interval expired
+1713 Linkerror event interval expired
+1714 Linkerror event interval expired
+1715 Linkerror event interval expired
+1716 Linkerror event interval expired
+1717 Linkerror event interval expired
+1718 Linkerror event interval expired
+1719 Linkerror event interval expired
+1720 Linkerror event interval expired
+1721 Linkerror event interval expired
+1722 Linkerror event interval expired
+1723 Linkerror event interval expired
+1724 Linkerror event interval expired
+1725 Linkerror event interval expired
+1726 Linkerror event interval expired
+1727 Linkerror event interval expired
+1728 Linkerror event interval expired
+1729 Linkerror event interval expired
+1730 Linkerror event interval expired
+1731 Linkerror event interval expired
+1732 Linkerror event interval expired
+1733 Linkerror event interval expired
+1734 Linkerror event interval expired
+1735 Linkerror event interval expired
+1736 Linkerror event interval expired
+1737 Linkerror event interval expired
+1738 Linkerror event interval expired
+1739 Linkerror event interval expired
+1740 Linkerror event interval expired
+1741 Linkerror event interval expired
+1742 Linkerror event interval expired
+1743 Linkerror event interval expired
+1744 Linkerror event interval expired
+1745 Linkerror event interval expired
+1746 Linkerror event interval expired
+1747 Linkerror event interval expired
+1748 Linkerror event interval expired
+1749 Linkerror event interval expired
+1750 Linkerror event interval expired
+1751 Linkerror event interval expired
+1752 Linkerror event interval expired
+1753 Linkerror event interval expired
+1754 Linkerror event interval expired
+1755 Linkerror event interval expired
+1756 Linkerror event interval expired
+1757 Linkerror event interval expired
+1758 Linkerror event interval expired
+1759 Linkerror event interval expired
+1760 Linkerror event interval expired
+1761 Linkerror event interval expired
+1762 Linkerror event interval expired
+1763 Linkerror event interval expired
+1764 Linkerror event interval expired
+1765 Linkerror event interval expired
+1766 Linkerror event interval expired
+1767 Linkerror event interval expired
+1768 Linkerror event interval expired
+1769 Linkerror event interval expired
+1770 Linkerror event interval expired
+1771 Linkerror event interval expired
+1772 Linkerror event interval expired
+1773 Linkerror event interval expired
+1774 Linkerror event interval expired
+1775 Linkerror event interval expired
+1776 Linkerror event interval expired
+1777 Linkerror event interval expired
+1778 Linkerror event interval expired
+1779 Linkerror event interval expired
+1780 Linkerror event interval expired
+1781 Linkerror event interval expired
+1782 Linkerror event interval expired
+1783 Linkerror event interval expired
+1784 Linkerror event interval expired
+1785 Linkerror event interval expired
+1786 Linkerror event interval expired
+1787 Linkerror event interval expired
+1788 Linkerror event interval expired
+1789 Linkerror event interval expired
+1790 Linkerror event interval expired
+1791 Linkerror event interval expired
+1792 Linkerror event interval expired
+1793 Linkerror event interval expired
+1794 Linkerror event interval expired
+1795 Linkerror event interval expired
+1796 Linkerror event interval expired
+1797 Linkerror event interval expired
+1798 Linkerror event interval expired
+1799 Linkerror event interval expired
+1800 Linkerror event interval expired
+1801 Linkerror event interval expired
+1802 Linkerror event interval expired
+1803 Linkerror event interval expired
+1804 Linkerror event interval expired
+1805 Linkerror event interval expired
+1806 Linkerror event interval expired
+1807 Linkerror event interval expired
+1808 Linkerror event interval expired
+1809 Linkerror event interval expired
+1810 Linkerror event interval expired
+1811 Linkerror event interval expired
+1812 Linkerror event interval expired
+1813 Linkerror event interval expired
+1814 Linkerror event interval expired
+1815 Linkerror event interval expired
+1816 Linkerror event interval expired
+1817 Linkerror event interval expired
+1818 Linkerror event interval expired
+1819 Linkerror event interval expired
+1820 Linkerror event interval expired
+1821 Linkerror event interval expired
+1822 Linkerror event interval expired
+1823 Linkerror event interval expired
+1824 Linkerror event interval expired
+1825 Linkerror event interval expired
+1826 Linkerror event interval expired
+1827 Linkerror event interval expired
+1828 Linkerror event interval expired
+1829 Linkerror event interval expired
+1830 Linkerror event interval expired
+1831 Linkerror event interval expired
+1832 Linkerror event interval expired
+1833 Linkerror event interval expired
+1834 Linkerror event interval expired
+1835 Linkerror event interval expired
+1836 Linkerror event interval expired
+1837 Linkerror event interval expired
+1838 Linkerror event interval expired
+1839 Linkerror event interval expired
+1840 Failed subcommands 3406
+1841 Linkerror event interval expired
+1842 Linkerror event interval expired
+1843 Linkerror event interval expired
+1844 Linkerror event interval expired
+1845 Linkerror event interval expired
+1846 Linkerror event interval expired
+1847 Linkerror event interval expired
+1848 Linkerror event interval expired
+1849 Linkerror event interval expired
+1850 Linkerror event interval expired
+1851 Linkerror event interval expired
+1852 Linkerror event interval expired
+1853 link errors remain current
+1854 link errors remain current
+1855 link errors remain current
+1856 link errors remain current
+1857 link errors remain current
+1858 link errors remain current
+1859 link errors remain current
+1860 link errors remain current
+1861 link errors remain current
+1862 link errors remain current
+1863 link errors remain current
+1864 link errors remain current
+1865 link errors remain current
+1866 link errors remain current
+1867 link errors remain current
+1868 link errors remain current
+1869 link errors remain current
+1870 link errors remain current
+1871 link errors remain current
+1872 link errors remain current
+1873 link errors remain current
+1874 link errors remain current
+1875 link errors remain current
+1876 link errors remain current
+1877 link errors remain current
+1878 link errors remain current
+1879 link errors remain current
+1880 link errors remain current
+1881 link errors remain current
+1882 link errors remain current
+1883 link errors remain current
+1884 link errors remain current
+1885 link errors remain current
+1886 link errors remain current
+1887 link errors remain current
+1888 link errors remain current
+1889 link errors remain current
+1890 link errors remain current
+1891 link errors remain current
+1892 link errors remain current
+1893 link errors remain current
+1894 link errors remain current
+1895 link errors remain current
+1896 link errors remain current
+1897 link errors remain current
+1898 link errors remain current
+1899 link errors remain current
+1900 link errors remain current
+1901 link errors remain current
+1902 link errors remain current
+1903 link errors remain current
+1904 link errors remain current
+1905 link errors remain current
+1906 link errors remain current
+1907 link errors remain current
+1908 link errors remain current
+1909 NIFF: node node-129 has detected an available network connection on network 10.128.0.0 via interface ee0
+1910 NIFF: node node-148 has detected an available network connection on network 5.5.226.0 via interface alt0
+1911 NIFF: node node-24 has detected an available network connection on network 10.128.0.0 via interface ee0
+1912 NIFF: node node-232 has detected an available network connection on network 10.128.0.0 via interface ee0
+1913 NIFF: node node-17 has detected an available network connection on network 10.128.0.0 via interface ee0
+1914 NIFF: node node-241 has detected an available network connection on network 10.128.0.0 via interface ee0
+1915 NIFF: node node-26 has detected an available network connection on network 5.5.226.0 via interface alt0
+1916 NIFF: node node-120 has detected an available network connection on network 5.5.226.0 via interface alt0
+1917 NIFF: node node-142 has detected an available network connection on network 0.0.0.0 via interface alt0
+1918 NIFF: node node-73 has detected an available network connection on network 5.5.226.0 via interface alt0
+1919 NIFF: node node-252 has detected an available network connection on network 5.5.226.0 via interface alt0
+1920 NIFF: node node-173 has detected an available network connection on network 10.128.0.0 via interface ee0
+1921 NIFF: node node-189 has detected an available network connection on network 10.128.0.0 via interface ee0
+1922 NIFF: node node-163 has detected an available network connection on network 0.0.0.0 via interface alt0
+1923 NIFF: node node-186 has detected an available network connection on network 5.5.226.0 via interface alt0
+1924 NIFF: node node-205 has detected an available network connection on network 10.128.0.0 via interface ee0
+1925 NIFF: node node-155 has detected an available network connection on network 10.128.0.0 via interface ee0
+1926 NIFF: node node-176 has detected an available network connection on network 5.5.226.0 via interface alt0
+1927 NIFF: node node-75 has detected an available network connection on network 10.128.0.0 via interface ee0
+1928 NIFF: node node-9 has detected an available network connection on network 10.128.0.0 via interface ee0
+1929 NIFF: node node-237 has detected an available network connection on network 5.5.226.0 via interface alt0
+1930 NIFF: node node-208 has detected an available network connection on network 10.128.0.0 via interface ee0
+1931 NIFF: node node-157 has detected an available network connection on network 5.5.226.0 via interface alt0
+1932 NIFF: node node-139 has detected an available network connection on network 10.128.0.0 via interface ee0
+1933 NIFF: node node-84 has detected an available network connection on network 10.128.0.0 via interface ee0
+1934 NIFF: node node-217 has detected an available network connection on network 10.128.0.0 via interface ee0
+1935 NIFF: node node-214 has detected an available network connection on network 5.5.226.0 via interface alt0
+1936 NIFF: node node-202 has detected an available network connection on network 10.128.0.0 via interface ee0
+1937 NIFF: node node-254 has detected an available network connection on network 10.128.0.0 via interface ee0
+1938 NIFF: node node-234 has detected an available network connection on network 10.128.0.0 via interface ee0
+1939 NIFF: node node-244 has detected an available network connection on network 10.128.0.0 via interface ee0
+1940 NIFF: node node-30 has detected an available network connection on network 10.128.0.0 via interface ee0
+1941 NIFF: node node-130 has detected an available network connection on network 10.96.0.0 via interface scip0
+1942 NIFF: node node-45 has detected an available network connection on network 5.5.224.0 via interface alt0
+1943 NIFF: node node-44 has detected an available network connection on network 10.128.0.0 via interface ee0
+1944 NIFF: node node-151 has detected an available network connection on network 5.5.224.0 via interface alt0
+1945 NIFF: node node-255 has detected an available network connection on network 10.128.0.0 via interface ee0
+1946 NIFF: node node-188 has detected an available network connection on network 10.128.0.0 via interface ee0
+1947 NIFF: node node-29 has detected an available network connection on network 0.0.0.0 via interface alt0
+1948 NIFF: node node-87 has detected an available network connection on network 5.5.224.0 via interface alt0
+1949 NIFF: node node-203 has detected an available network connection on network 5.5.224.0 via interface alt0
+1950 NIFF: node node-72 has detected an available network connection on network 10.128.0.0 via interface ee0
+1951 NIFF: node node-113 has detected an available network connection on network 5.5.224.0 via interface alt0
+1952 NIFF: node node-152 has detected an available network connection on network 10.128.0.0 via interface ee0
+1953 NIFF: node node-104 has detected an available network connection on network 5.5.224.0 via interface alt0
+1954 NIFF: node node-142 has detected an available network connection on network 10.128.0.0 via interface ee0
+1955 NIFF: node node-193 has detected an available network connection on network 5.5.224.0 via interface alt0
+1956 NIFF: node node-139 has detected an available network connection on network 5.5.224.0 via interface alt0
+1957 NIFF: node node-143 has detected an available network connection on network 5.5.224.0 via interface alt0
+1958 NIFF: node node-45 has detected an available network connection on network 10.128.0.0 via interface ee0
+1959 NIFF: node node-106 has detected an available network connection on network 0.0.0.0 via interface alt0
+1960 NIFF: node node-7 has detected an available network connection on network 5.5.224.0 via interface alt0
+1961 NIFF: node node-233 has detected an available network connection on network 10.128.0.0 via interface ee0
+1962 NIFF: node node-23 has detected an available network connection on network 10.128.0.0 via interface ee0
+1963 NIFF: node node-190 has detected an available network connection on network 10.128.0.0 via interface ee0
+1964 NIFF: node node-84 has detected an available network connection on network 10.128.0.0 via interface ee0
+1965 NIFF: node node-19 has detected an available network connection on network 10.128.0.0 via interface ee0
+1966 NIFF: node node-253 has detected an available network connection on network 10.128.0.0 via interface ee0
+1967 NIFF: node node-29 has detected an available network connection on network 10.128.0.0 via interface ee0
+1968 NIFF: node node-240 has detected an available network connection on network 5.5.224.0 via interface alt0
+1969 NIFF: node node-86 has detected an available network connection on network 10.128.0.0 via interface ee0
+1970 NIFF: node node-204 has detected an available network connection on network 5.5.224.0 via interface alt0
+1971 NIFF: node node-46 has detected an available network connection on network 5.5.224.0 via interface alt0
+1972 NIFF: node node-150 has detected an available network connection on network 5.5.224.0 via interface alt0
+1973 NIFF: node node-42 has detected an available network connection on network 10.128.0.0 via interface ee0
+1974 NIFF: node node-91 has detected an available network connection on network 5.5.224.0 via interface alt0
+1975 NIFF: node node-26 has detected an available network connection on network 10.128.0.0 via interface ee0
+1976 NIFF: node node-44 has detected an available network connection on network 5.5.224.0 via interface alt0
+1977 NIFF: node node-244 has detected an available network connection on network 5.5.224.0 via interface alt0
+1978 NIFF: node node-182 has detected an available network connection on network 10.128.0.0 via interface ee0
+1979 NIFF: node node-144 has detected an available network connection on network 10.96.0.0 via interface scip0
+1980 NIFF: node node-17 has detected an available network connection on network 0.0.0.0 via interface alt0
+1981 NIFF: node node-69 has detected an available network connection on network 10.128.0.0 via interface ee0
+1982 NIFF: node node-202 has detected an available network connection on network 5.5.224.0 via interface alt0
+1983 NIFF: node node-205 has detected an available network connection on network 5.5.224.0 via interface alt0
+1984 NIFF: node node-44 has detected an available network connection on network 5.5.224.0 via interface alt0
+1985 NIFF: node node-183 has detected an available network connection on network 10.128.0.0 via interface ee0
+1986 NIFF: node node-212 has detected an available network connection on network 10.128.0.0 via interface ee0
+1987 NIFF: node node-187 has detected an available network connection on network 5.5.224.0 via interface alt0
+1988 NIFF: node node-221 has detected an available network connection on network 5.5.224.0 via interface alt0
+1989 NIFF: node node-189 has detected an available network connection on network 5.5.224.0 via interface alt0
+1990 NIFF: node node-218 has detected an available network connection on network 5.5.224.0 via interface alt0
+1991 NIFF: node node-94 has detected an available network connection on network 5.5.224.0 via interface alt0
+1992 NIFF: node node-248 has detected an available network connection on network 10.128.0.0 via interface ee0
+1993 NIFF: node node-176 has detected an available network connection on network 10.128.0.0 via interface ee0
+1994 NIFF: node node-77 has detected an available network connection on network 5.5.224.0 via interface alt0
+1995 NIFF: node node-176 has detected an available network connection on network 10.128.0.0 via interface ee0
+1996 NIFF: node node-178 has detected an available network connection on network 0.0.0.0 via interface alt0
+1997 NIFF: node node-161 has detected an available network connection on network 0.0.0.0 via interface alt0
+1998 NIFF: node node-73 has detected an available network connection on network 0.0.0.0 via interface alt0
+1999 NIFF: node node-171 has detected an available network connection on network 10.128.0.0 via interface ee0

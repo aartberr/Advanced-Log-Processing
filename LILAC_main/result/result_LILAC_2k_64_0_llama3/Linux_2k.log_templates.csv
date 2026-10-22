@@ -1,0 +1,144 @@
+EventId,EventTemplate
+E1,authentication failure; logname= uid=<*> euid=<*> tty=NODEVssh ruser= rhost=<*>
+E2,check pass; user unknown
+E3,session opened for user cyrus by (uid=<*>)
+E4,session closed for user cyrus
+E5,ALERT exited abnormally with [<*>]
+E6,session opened for user news by (uid=<*>)
+E7,session closed for user news
+E8,connection from <*> (<*>-<*>-<*>-<*>.bflony.adelphia.net) at Fri Jun <*> <*> <*>
+E9,session opened for user test by (uid=<*>)
+E10,session closed for user test
+E11,connection from <*> (lns-vlq-<*>-tou-<*>-<*>-<*>-<*>.adsl.proxad.net) at Fri Jun <*> <*> <*>
+E12,connection from <*> (lns-vlq-<*>-tou-<*>-<*>-<*>-<*>.adsl.proxad.net) at Sat Jun <*> <*> <*>
+E13,User unknown timed out after <*> seconds at Sat Jun <*> <*> <*>
+E14,cupsd shutdown succeeded
+E15,cupsd startup succeeded
+E16,restart.
+E17,connection from <*> () at Mon Jun <*> <*> <*>
+E18,Received SNMP packet(s) from <*>
+E19,connection from <*> () at Wed Jun <*> <*> <*>
+E20,connection from <*> () at Fri Jun <*> <*> <*>
+E21,connection from <*> () at Sat Jun <*> <*> <*>
+E22,Authentication failed from <*> (<*>): Permission denied in replay cache code
+E23,Kerberos authentication failed
+E24,Authentication failed from <*> (<*>): Software caused connection abort
+E25,connection from <*> () at Fri Jul <*> <*> <*>
+E26,connection from <*> (dsl-Chn-static-<*>.touchtelindia.net) at Sun Jul <*> <*> <*>
+E27,connection from <*> (<*>.sh.interxion.inode.at) at Sun Jul <*> <*> <*>
+E28,connection from <*> (adsl-<*>-<*>-<*>-<*>.dsl.mtry01.pacbell.net) at Mon Jul <*> <*> <*>
+E29,connection from <*> () at Tue Jul <*> <*> <*>
+E30,connection from <*> () at Wed Jul <*> <*> <*>
+E31,*** info [mice.c(<*>)]:
+E32,imps2: Auto-detected intellimouse PS/<*>
+E33,session opened for user root by LOGIN(uid=<*>)
+E34,ROOT LOGIN ON tty2
+E35,session closed for user root
+E36,removing device node '/udev/vcsa2'
+E37,removing device node '/udev/vcs2'
+E38,creating device node '/udev/vcs2'
+E39,creating device node '/udev/vcsa2'
+E40,connection from <*> () at <*> <*> <*>
+E41,connection from <*> (host129.<*>.maximumasp.com) at Sat Jul <*> <*> <*>
+E42,connection from <*> (dsl-<*>-<*>-<*>-<*>.arcor-ip.net) at Sun Jul <*> <*> <*>
+E43,authentication failure; logname= uid=<*> euid=<*> tty=:<*> ruser= rhost=
+E44,Couldn't authenticate user
+E45,connection from <*> (aml-sfh-3310b.adsl.wanadoo.nl) at Sun Jul <*> <*> <*>
+E46,connection from <*> (host8.topspot.net) at Sun Jul <*> <*> <*>
+E47,connection from <*> (<*>-<*>-<*>-<*>.dsl.in-addr.zen.co.uk) at Sun Jul <*> <*> <*>
+E48,"ANONYMOUS FTP LOGIN FROM <*>, (anonymous)"
+E49,notify question section contains no SOA
+E50,getpeername (ftpd): Transport endpoint is not connected
+E51,warning: can't get client address: Connection reset by peer
+E52,syslogd startup succeeded
+E53,"klogd <*>, log source = /proc/kmsg started."
+E54,Linux version <*>-<*> (bhcompile@bugs.build.redhat.com) (gcc version <*> <*> (Red Hat Linux <*>-<*>)) <*> Sat May <*> <*> EDT <*>
+E55,BIOS-provided physical RAM map:
+E56,BIOS-e820: <*>- 00000000000a0000 (usable)
+E57,BIOS-e820: 00000000000f0000 - <*>(reserved)
+E58,BIOS-e820: <*>- 0000000007eae000 (usable)
+E59,BIOS-e820: 0000000007eae000 - <*>(reserved)
+E60,BIOS-e820: 00000000ffb00000 - <*>(reserved)
+E61,0MB HIGHMEM available.
+E62,126MB LOWMEM available.
+E63,zapping low mappings.
+E64,klogd startup succeeded
+E65,On node <*> totalpages: <*>
+E66,"DMA zone: <*> pages, LIFO batch:<*>"
+E67,"Normal zone: <*> pages, LIFO batch:<*>"
+E68,irqbalance startup succeeded
+E69,"HighMem zone: <*> pages, LIFO batch:<*>"
+E70,DMI <*>
+E71,ACPI disabled because your bios is from <*> and too old
+E72,You can enable it with acpi=force
+E73,Built <*> zonelists
+E74,Kernel command line: ro root=LABEL=/ rhgb quiet
+E75,mapped 4G/4G trampoline to ffff3000.
+E76,Initializing CPU#<*>
+E77,"CPU <*> irqstacks, hard=<*> soft=<*>"
+E78,portmap startup succeeded
+E79,PID hash table entries: <*> (order <*>: <*> bytes)
+E80,Detected <*> MHz processor.
+E81,Version <*> Starting
+E82,Using tsc for high-res timesource
+E83,rpc.statd startup succeeded
+E84,Console: colour VGA+ 80x25
+E85,"Memory: 125312k/129720k available (1540k kernel code, 3860k reserved, 599k data, 144k init, 0k highmem)"
+E86,Calibrating delay loop... <*> BogoMIPS
+E87,Security Scaffold v1.<*> initialized
+E88,SELinux: Initializing.
+E89,SELinux: Starting in permissive mode
+E90,"There is already a security framework initialized, register_security failed."
+E91,Failure registering capabilities with the <*>
+E92,selinux_register_security: Registering secondary module capability
+E93,Capability LSM initialized
+E94,rpc.idmapd startup succeeded
+E95,"Dentry cache hash table entries: <*> (order: <*>, <*> bytes)"
+E96,"Inode-cache hash table entries: <*> (order: <*>, <*> bytes)"
+E97,"Mount-cache hash table entries: <*> (order: <*>, <*> bytes)"
+E98,"CPU: L1 I cache: 16K, L1 D cache: 16K"
+E99,CPU: L2 cache: 256K
+E100,Intel machine check architecture supported.
+E101,Intel machine check reporting enabled on CPU#<*>.
+E102,CPU: Intel Pentium III (Coppermine) stepping <*>
+E103,Enabling fast FPU save and restore... done.
+E104,Enabling unmasked SIMD FPU exception support... done.
+E105,Checking 'hlt' instruction... OK.
+E106,Initializing random number generator: succeeded
+E107,POSIX conformance testing by UNIFIX
+E108,NET: Registered protocol family <*>
+E109,"PCI: PCI BIOS revision <*> entry at <*>, last bus=<*>"
+E110,PCI: Using configuration type <*>
+E111,mtrr: v2.<*> (<*>)
+E112,ACPI: Subsystem revision <*>
+E113,ACPI: Interpreter disabled.
+E114,Linux Plug and Play Support v0.<*> (c) Adam Belay
+E115,Starting pcmcia: succeeded
+E116,usbcore: registered new driver usbfs
+E117,usbcore: registered new driver hub
+E118,ACPI: ACPI tables contain no <*>
+E119,PCI: Invalid ACPI-PCI IRQ routing table
+E120,PCI: Probing PCI hardware
+E121,PCI: Probing PCI hardware (bus <*>)
+E122,<*>:1e.<*>
+E123,PCI: Using IRQ router PIIX/ICH [<*>] at <*>:1f.<*>
+E124,apm: BIOS version <*> Flags <*> (Driver version <*>.16ac)
+E125,audit: initializing netlink socket (disabled)
+E126,kernel.core_uses_pid = <*>
+E127,HCI daemon ver <*> started
+E128,hcid startup succeeded
+E129,audit(<*>): initialized
+E130,Setting network parameters: succeeded
+E131,sdpd startup succeeded
+E132,sdpd v1.<*> started
+E133,"Total HugeTLB memory allocated, <*>"
+E134,Bringing up loopback interface: succeeded
+E135,VFS: Disk quotas <*>
+E136,"Dquot-cache hash table entries: <*> (order <*>, <*> bytes)"
+E137,SELinux: Registering netfilter hooks
+E138,Initializing Cryptographic API
+E139,pci_hotplug: PCI Hot Plug PCI Core version: <*>
+E140,isapnp: Scanning for PnP cards...
+E141,isapnp: No Plug & Play device found
+E142,Real Time Clock Driver v1.<*>
+E143,Linux agpgart interface v0.<*> (c) Dave Jones

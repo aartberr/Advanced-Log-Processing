@@ -1,0 +1,2000 @@
+0 printFreezingDisplayLogsopening app wtoken = AppWindowToken{9f4ef63 token=Token{a64f992 ActivityRecord{de9231d u0 com.tencent.qt.qtl/.activity.info.NewsDetailXmlActivity t761}}}, allDrawn= false, startingDisplayed =  false, startingMoved =  false, isRelaunching =  false
+1 acquire lock=233570404, flags=0x1, tag="View Lock", name=com.android.systemui, ws=null, uid=10037, pid=2227
+2 ready=true,policy=3,wakefulness=1,wksummary=0x23,uasummary=0x1,bootcompleted=true,boostinprogress=false,waitmodeenable=false,mode=false,manual=38,auto=-1,adj=0.0userId=0
+3 Skipping AppWindowToken{df0798e token=Token{78af589 ActivityRecord{3b04890 u0 com.tencent.qt.qtl/com.tencent.video.player.activity.PlayerActivity t761}}} -- going to hide
+4 visible is system.time.showampm
+5 mVisiblity.getValue is false
+6 visible is system.charge.show
+7 mVisiblity.getValue is false
+8 visible is system.call.count gt 0
+9 mVisiblity.getValue is false
+10 visible is system.message.count gt 0
+11 mVisiblity.getValue is false
+12 visible is system.ownerinfo.show
+13 mVisiblity.getValue is false
+14 release:lock=233570404, flg=0x0, tag="View Lock", name=com.android.systemui", ws=null, uid=10037, pid=2227
+15 ready=true,policy=3,wakefulness=1,wksummary=0x23,uasummary=0x1,bootcompleted=true,boostinprogress=false,waitmodeenable=false,mode=false,manual=38,auto=-1,adj=0.0userId=0
+16 Skipping AppWindowToken{df0798e token=Token{78af589 ActivityRecord{3b04890 u0 com.tencent.qt.qtl/com.tencent.video.player.activity.PlayerActivity t761}}} -- going to hide
+17 updateClipping isOverlap:false, getTopPadding=333.0, Translation=-24.0
+18 updateDimmedActivatedHideSensitive overlap:false
+19 getRunningAppProcesses: caller 10113 does not hold REAL_GET_TASKS; limiting output
+20 release:lock=189667585, flg=0x0, tag="*launch*", name=android", ws=WorkSource{10113}, uid=1000, pid=1702
+21 ready=true,policy=3,wakefulness=1,wksummary=0x23,uasummary=0x1,bootcompleted=true,boostinprogress=false,waitmodeenable=false,mode=false,manual=38,auto=-1,adj=0.0userId=0
+22 setSystemUiVisibility vis=40000500 mask=ffffffff oldVal=508 newVal=40000500 diff=40000008 fullscreenStackVis=0 dockedStackVis=0, fullscreenStackBounds=Rect(0, 0 - 720, 1280), dockedStackBounds=Rect(0, 0 - 0, 0)
+23 cancelAutohide
+24 notifyUiVisibilityChanged:vis=0x40000500, SystemUiVisibility=0x40000500
+25 Destroying surface Surface(name=SurfaceView - com.tencent.qt.qtl/com.tencent.video.player.activity.PlayerActivity) called by com.android.server.wm.WindowStateAnimator.destroyDeferredSurfaceLocked:942 com.android.server.wm.WindowManagerService.performDeferredDestroyWindow:3407 com.android.server.wm.Session.performDeferredDestroy:225 android.view.IWindowSession$Stub.onTransact:398 com.android.server.wm.Session.onTransact:136 android.os.Binder.execTransact:565 <bottom of call stack> <bottom of call stack>
+26 Destroying surface Surface(name=com.tencent.qt.qtl/com.tencent.video.player.activity.PlayerActivity) called by com.android.server.wm.WindowStateAnimator.destroySurface:2060 com.android.server.wm.WindowStateAnimator.destroySurfaceLocked:913 com.android.server.wm.WindowState.destroyOrSaveSurface:2201 com.android.server.wm.WindowManagerService.tryStartExitingAnimation:3299 com.android.server.wm.WindowManagerService.relayoutWindow:3179 com.android.server.wm.Session.relayout:215 android.view.IWindowSession$Stub.onTransact:286 com.android.server.wm.Session.onTransact:136
+27 release:lock=62617001, flg=0x0, tag="WindowManager", name=android", ws=WorkSource{10113}, uid=1000, pid=1702
+28 userActivityNoUpdateLocked: eventTime=261843648, event=0, flags=0x1, uid=1000
+29 ready=true,policy=3,wakefulness=1,wksummary=0x1,uasummary=0x1,bootcompleted=true,boostinprogress=false,waitmodeenable=false,mode=false,manual=38,auto=-1,adj=0.0userId=0
+30 orientation change is complete, call stopFreezingDisplayLocked
+31 Screen frozen for +1s0ms due to Window{ca98d5 u0 com.tencent.qt.qtl/com.tencent.qt.qtl.activity.info.NewsDetailXmlActivity}
+32 startAnimation begin
+33 startAnimation end
+34 release:lock=226887582, flg=0x0, tag="SCREEN_FROZEN", name=android", ws=null, uid=1000, pid=1702
+35 ready=true,policy=3,wakefulness=1,wksummary=0x1,uasummary=0x1,bootcompleted=true,boostinprogress=false,waitmodeenable=false,mode=false,manual=38,auto=-1,adj=0.0userId=0
+36 remove(PendingIntent{19abed0: PendingIntentRecord{a485420 com.tencent.qt.qtl broadcastIntent}}) changed bounds; rebatching
+37 rotationForOrientationLw(orient=1, last=0); user=0 USER_ROTATION_LOCKED
+38 Application requested orientation 1, got rotation 0 which has compatible metrics
+39 acquire lock=166121161, flags=0x1, tag="RILJ_ACK_WL", name=com.android.phone, ws=null, uid=1001, pid=2626
+40 ready=true,policy=3,wakefulness=1,wksummary=0x1,uasummary=0x1,bootcompleted=true,boostinprogress=false,waitmodeenable=false,mode=false,manual=38,auto=-1,adj=0.0userId=0
+41 ready=true,policy=3,wakefulness=1,wksummary=0x1,uasummary=0x1,bootcompleted=true,boostinprogress=false,waitmodeenable=false,mode=false,manual=38,auto=-1,adj=0.0userId=0
+42 ready=true,policy=3,wakefulness=1,wksummary=0x1,uasummary=0x1,bootcompleted=true,boostinprogress=false,waitmodeenable=false,mode=false,manual=38,auto=-1,adj=0.0userId=0
+43 ready=true,policy=3,wakefulness=1,wksummary=0x1,uasummary=0x1,bootcompleted=true,boostinprogress=false,waitmodeenable=false,mode=false,manual=38,auto=-1,adj=0.0userId=0
+44 ready=true,policy=3,wakefulness=1,wksummary=0x1,uasummary=0x1,bootcompleted=true,boostinprogress=false,waitmodeenable=false,mode=false,manual=38,auto=-1,adj=0.0userId=0
+45 ready=true,policy=3,wakefulness=1,wksummary=0x1,uasummary=0x1,bootcompleted=true,boostinprogress=false,waitmodeenable=false,mode=false,manual=38,auto=-1,adj=0.0userId=0
+46 shouldBlockLocation running ...
+47 shouldBlockLocation  ret:false
+48 shouldBlockLocation running ...
+49 shouldBlockLocation  ret:false
+50 getNeighboringCellInfo calling app is com.amap.android.ams
+51 shouldBlockLocation running ...
+52 shouldBlockLocation  ret:false
+53 ready=true,policy=3,wakefulness=1,wksummary=0x1,uasummary=0x1,bootcompleted=true,boostinprogress=false,waitmodeenable=false,mode=false,manual=38,auto=-1,adj=0.0userId=0
+54 ready=true,policy=3,wakefulness=1,wksummary=0x1,uasummary=0x1,bootcompleted=true,boostinprogress=false,waitmodeenable=false,mode=false,manual=38,auto=-1,adj=0.0userId=0
+55 shouldBlockLocation running ...
+56 shouldBlockLocation  ret:false
+57 ready=true,policy=3,wakefulness=1,wksummary=0x1,uasummary=0x1,bootcompleted=true,boostinprogress=false,waitmodeenable=false,mode=false,manual=38,auto=-1,adj=0.0userId=0
+58 ready=true,policy=3,wakefulness=1,wksummary=0x1,uasummary=0x1,bootcompleted=true,boostinprogress=false,waitmodeenable=false,mode=false,manual=38,auto=-1,adj=0.0userId=0
+59 ready=true,policy=3,wakefulness=1,wksummary=0x1,uasummary=0x1,bootcompleted=true,boostinprogress=false,waitmodeenable=false,mode=false,manual=38,auto=-1,adj=0.0userId=0
+60 ready=true,policy=3,wakefulness=1,wksummary=0x1,uasummary=0x1,bootcompleted=true,boostinprogress=false,waitmodeenable=false,mode=false,manual=38,auto=-1,adj=0.0userId=0
+61 release:lock=166121161, flg=0x0, tag="RILJ_ACK_WL", name=com.android.phone", ws=null, uid=1001, pid=2626
+62 ready=true,policy=3,wakefulness=1,wksummary=0x1,uasummary=0x1,bootcompleted=true,boostinprogress=false,waitmodeenable=false,mode=false,manual=38,auto=-1,adj=0.0userId=0
+63 shouldBlockLocation running ...
+64 shouldBlockLocation  ret:false
+65 release:lock=264232593, flg=0x0, tag="AudioMix", name=audioserver", ws=null, uid=1041, pid=0
+66 ready=true,policy=3,wakefulness=1,wksummary=0x0,uasummary=0x1,bootcompleted=true,boostinprogress=false,waitmodeenable=false,mode=false,manual=38,auto=-1,adj=0.0userId=0
+67 Releasing suspend blocker "PowerManagerService.WakeLocks".
+68 HBM brightnessIn =38
+69 HBM brightnessOut =38
+70 Animating brightness: target=38, rate=200
+71 userActivityNoUpdateLocked: eventTime=261849942, event=2, flags=0x0, uid=1000
+72 ready=true,policy=3,wakefulness=1,wksummary=0x0,uasummary=0x1,bootcompleted=true,boostinprogress=false,waitmodeenable=false,mode=false,manual=38,auto=-1,adj=0.0userId=0
+73 suspendAutohide
+74 interceptKeyTq keycode=4 interactive=true keyguardActive=false policyFlags=2b000002 down true canceled false
+75 interceptKeyBeforeQueueing: key 4 , result : 1
+76 userActivityNoUpdateLocked: eventTime=261849949, event=1, flags=0x0, uid=1000
+77 ready=true,policy=3,wakefulness=1,wksummary=0x0,uasummary=0x1,bootcompleted=true,boostinprogress=false,waitmodeenable=false,mode=false,manual=38,auto=-1,adj=0.0userId=0
+78 resumeSuspendedAutohide
+79 interceptKeyTq keycode=4 interactive=true keyguardActive=false policyFlags=2b000002 down false canceled false
+80 interceptKeyBeforeQueueing: key 4 , result : 1
+81 querySoundEffectsEnabled...
+82 acquire lock=189667585, flags=0x1, tag="*launch*", name=android, ws=WorkSource{10113}, uid=1000, pid=1702
+83 ready=true,policy=3,wakefulness=1,wksummary=0x1,uasummary=0x1,bootcompleted=true,boostinprogress=false,waitmodeenable=false,mode=false,manual=38,auto=-1,adj=0.0userId=0
+84 Acquiring suspend blocker "PowerManagerService.WakeLocks".
+85 Skipping AppWindowToken{9f4ef63 token=Token{a64f992 ActivityRecord{de9231d u0 com.tencent.qt.qtl/.activity.info.NewsDetailXmlActivity t761}}} -- going to hide
+86 setSystemUiVisibility vis=508 mask=ffffffff oldVal=40000500 newVal=508 diff=40000008 fullscreenStackVis=0 dockedStackVis=0, fullscreenStackBounds=Rect(0, 0 - 720, 1280), dockedStackBounds=Rect(0, 0 - 0, 0)
+87 cancelAutohide
+88 notifyUiVisibilityChanged:vis=0x508, SystemUiVisibility=0x508
+89 Bad activity token: android.os.BinderProxy@2bd79ce
+90 java.lang.ClassCastException: android.os.BinderProxy cannot be cast to com.android.server.am.ActivityRecord$Token
+91 Skipping AppWindowToken{9f4ef63 token=Token{a64f992 ActivityRecord{de9231d u0 com.tencent.qt.qtl/.activity.info.NewsDetailXmlActivity t761}}} -- going to hide
+92 release:lock=189667585, flg=0x0, tag="*launch*", name=android", ws=WorkSource{10113}, uid=1000, pid=1702
+93 ready=true,policy=3,wakefulness=1,wksummary=0x0,uasummary=0x1,bootcompleted=true,boostinprogress=false,waitmodeenable=false,mode=false,manual=38,auto=-1,adj=0.0userId=0
+94 Releasing suspend blocker "PowerManagerService.WakeLocks".
+95 setSystemUiVisibility vis=40000500 mask=ffffffff oldVal=508 newVal=40000500 diff=40000008 fullscreenStackVis=0 dockedStackVis=0, fullscreenStackBounds=Rect(0, 0 - 720, 1280), dockedStackBounds=Rect(0, 0 - 0, 0)
+96 cancelAutohide
+97 notifyUiVisibilityChanged:vis=0x40000500, SystemUiVisibility=0x40000500
+98 userActivityNoUpdateLocked: eventTime=261850777, event=2, flags=0x0, uid=1000
+99 ready=true,policy=3,wakefulness=1,wksummary=0x0,uasummary=0x1,bootcompleted=true,boostinprogress=false,waitmodeenable=false,mode=false,manual=38,auto=-1,adj=0.0userId=0
+100 suspendAutohide
+101 suspendAutohide
+102 onTouchEvent::0, x=271.0, y=14.0
+103 schedulePeek
+104 getRingtonePlayer...
+105 disable: < expand ICONS* alerts SYSTEM_INFO* back home recent clock navigationbar search quick_settings >
+106 suspendAutohide
+107 updateLightsLocked,mInCall =false,mScreenOn = true,ledNotification == null?true
+108 updateLightsLocked,turn off notificationLight
+109 getRingtonePlayer...
+110 updateLightsLocked,mInCall =false,mScreenOn = true,ledNotification == null?true
+111 updateLightsLocked,turn off notificationLight
+112 overlapAmount:196.0, previousNotificationEnd:0.0, newYTranslation:-196.0, location:4, i:0, getTopPadding:333.0, getLocationOnScreen():-529
+113 state.clipTopAmount:180, i:0
+114 updateClipping isOverlap:true, getTopPadding=333.0, Translation=-529.0
+115 updateDimmedActivatedHideSensitive overlap:true
+116 getRunningAppProcesses: caller 10113 does not hold REAL_GET_TASKS; limiting output
+117 setSystemUiVisibility vis=40000600 mask=ffffffff oldVal=40000500 newVal=40000600 diff=300 fullscreenStackVis=0 dockedStackVis=0, fullscreenStackBounds=Rect(0, 0 - 720, 1280), dockedStackBounds=Rect(0, 0 - 0, 0)
+118 notifyUiVisibilityChanged:vis=0x40000600, SystemUiVisibility=0x40000600
+119 suspendAutohide
+120 onExpandingStarted
+121 suspendAutohide
+122 onTrackingStarted
+123 Destroying surface Surface(name=com.tencent.qt.qtl/com.tencent.qt.qtl.activity.info.NewsDetailXmlActivity) called by com.android.server.wm.WindowStateAnimator.destroySurface:2060 com.android.server.wm.WindowStateAnimator.destroySurfaceLocked:913 com.android.server.wm.WindowState.removeLocked:1554 com.android.server.wm.WindowManagerService.removeWindowInnerLocked:2739 com.android.server.wm.WindowManagerService.removeWindowInnerLocked:2702 com.android.server.wm.WindowManagerService.removeWindowLocked:2691 com.android.server.wm.WindowManagerService.removeWindowLocked:2560 com.android.server.wm.WindowManagerService.removeWindow:2555
+124 suspendAutohide
+125 overlapAmount:146.0, previousNotificationEnd:0.0, newYTranslation:-146.0, location:4, i:0, getTopPadding:333.0, getLocationOnScreen():-479
+126 state.clipTopAmount:130, i:0
+127 updateClipping isOverlap:true, getTopPadding=333.0, Translation=-479.0
+128 updateDimmedActivatedHideSensitive overlap:true
+129 suspendAutohide
+130 overlapAmount:119.0, previousNotificationEnd:0.0, newYTranslation:-119.0, location:4, i:0, getTopPadding:333.0, getLocationOnScreen():-452
+131 state.clipTopAmount:103, i:0
+132 updateClipping isOverlap:true, getTopPadding=333.0, Translation=-452.0
+133 updateDimmedActivatedHideSensitive overlap:true
+134 suspendAutohide
+135 overlapAmount:85.0, previousNotificationEnd:0.0, newYTranslation:-85.0, location:4, i:0, getTopPadding:333.0, getLocationOnScreen():-418
+136 state.clipTopAmount:69, i:0
+137 updateClipping isOverlap:true, getTopPadding=333.0, Translation=-418.0
+138 updateDimmedActivatedHideSensitive overlap:true
+139 suspendAutohide
+140 overlapAmount:46.0, previousNotificationEnd:0.0, newYTranslation:-46.0, location:4, i:0, getTopPadding:333.0, getLocationOnScreen():-379
+141 state.clipTopAmount:30, i:0
+142 updateClipping isOverlap:true, getTopPadding=333.0, Translation=-379.0
+143 updateDimmedActivatedHideSensitive overlap:true
+144 suspendAutohide
+145 overlapAmount:5.0, previousNotificationEnd:0.0, newYTranslation:-5.0, location:4, i:0, getTopPadding:333.0, getLocationOnScreen():-338
+146 state.clipTopAmount:-1, i:0
+147 updateClipping isOverlap:true, getTopPadding=333.0, Translation=-338.0
+148 updateDimmedActivatedHideSensitive overlap:true
+149 suspendAutohide
+150 updateClipping isOverlap:false, getTopPadding=333.0, Translation=-293.0
+151 updateDimmedActivatedHideSensitive overlap:false
+152 suspendAutohide
+153 updateClipping isOverlap:false, getTopPadding=333.0, Translation=-250.0
+154 updateDimmedActivatedHideSensitive overlap:false
+155 suspendAutohide
+156 suspendAutohide
+157 onTouchEvent::1, x=296.0, y=327.0
+158 cancelPeek: false
+159 flingToHeight: vel=2849.079, expand=true, target=553.0, collapseSpeedUpFactor=1.0, expandBecauseOfFalsing=false
+160 onTrackingStopped: true
+161 updateClipping isOverlap:false, getTopPadding=333.0, Translation=-240.0
+162 updateDimmedActivatedHideSensitive overlap:false
+163 updateClipping isOverlap:false, getTopPadding=333.0, Translation=-200.0
+164 updateDimmedActivatedHideSensitive overlap:false
+165 updateClipping isOverlap:false, getTopPadding=333.0, Translation=-168.0
+166 updateDimmedActivatedHideSensitive overlap:false
+167 updateClipping isOverlap:false, getTopPadding=333.0, Translation=-139.0
+168 updateDimmedActivatedHideSensitive overlap:false
+169 updateClipping isOverlap:false, getTopPadding=333.0, Translation=-113.0
+170 updateDimmedActivatedHideSensitive overlap:false
+171 updateClipping isOverlap:false, getTopPadding=333.0, Translation=-90.0
+172 updateDimmedActivatedHideSensitive overlap:false
+173 updateClipping isOverlap:false, getTopPadding=333.0, Translation=-72.0
+174 updateDimmedActivatedHideSensitive overlap:false
+175 updateClipping isOverlap:false, getTopPadding=333.0, Translation=-55.0
+176 updateDimmedActivatedHideSensitive overlap:false
+177 updateClipping isOverlap:false, getTopPadding=333.0, Translation=-40.0
+178 updateDimmedActivatedHideSensitive overlap:false
+179 updateClipping isOverlap:false, getTopPadding=333.0, Translation=-29.0
+180 updateDimmedActivatedHideSensitive overlap:false
+181 updateClipping isOverlap:false, getTopPadding=333.0, Translation=-19.0
+182 updateDimmedActivatedHideSensitive overlap:false
+183 updateClipping isOverlap:false, getTopPadding=333.0, Translation=-11.0
+184 updateDimmedActivatedHideSensitive overlap:false
+185 updateClipping isOverlap:false, getTopPadding=333.0, Translation=-6.0
+186 updateDimmedActivatedHideSensitive overlap:false
+187 updateClipping isOverlap:false, getTopPadding=333.0, Translation=-2.0
+188 updateDimmedActivatedHideSensitive overlap:false
+189 updateClipping isOverlap:false, getTopPadding=333.0, Translation=-1.0
+190 updateDimmedActivatedHideSensitive overlap:false
+191 onExpandingFinished
+192 updateClipping isOverlap:false, getTopPadding=333.0, Translation=0.0
+193 updateDimmedActivatedHideSensitive overlap:false
+194 Sending non-protected broadcast com.android.systemui.statusbar.visible.change from system 2227:com.android.systemui/u0a37 pkg com.android.systemui
+195 logNotificationVisibilityChanges runInThread start
+196 onNotificationVisibilityChanged called
+197 logNotificationVisibilityChanges runInThread over
+198 isSimPinSecure mSimDatas is null or empty
+199 registerCallback not in UI.
+200 android.util.AndroidRuntimeException: Must execute in UI
+201 *** register callback for com.android.systemui.statusbar.policy.KeyguardMonitor@712d093
+202 registerCallback not in UI.
+203 android.util.AndroidRuntimeException: Must execute in UI
+204 *** unregister callback for null
+205 [PhoneIntfMgr] getDataEnabled: subId=1 phoneId=1
+206 [PhoneIntfMgr] getDataEnabled: subId=1 retVal=true
+207 userActivityNoUpdateLocked: eventTime=261851646, event=2, flags=0x0, uid=1000
+208 ready=true,policy=3,wakefulness=1,wksummary=0x0,uasummary=0x1,bootcompleted=true,boostinprogress=false,waitmodeenable=false,mode=false,manual=38,auto=-1,adj=0.0userId=0
+209 onInterceptTouchEvent MotionEvent { action=ACTION_DOWN, actionButton=0, id[0]=0, x[0]=317.0, y[0]=419.0, toolType[0]=TOOL_TYPE_FINGER, buttonState=0, metaState=0, flags=0x0, edgeFlags=0x0, pointerCount=1, historySize=0, eventTime=261851646, downTime=261851646, deviceId=3, source=0x1002 }, mBlockTouches=false
+210 updateClipping isOverlap:false, getTopPadding=333.0, Translation=0.0
+211 updateDimmedActivatedHideSensitive overlap:false
+212 onInterceptTouchEvent MotionEvent { action=ACTION_UP, actionButton=0, id[0]=0, x[0]=317.0, y[0]=419.0, toolType[0]=TOOL_TYPE_FINGER, buttonState=0, metaState=0, flags=0x0, edgeFlags=0x0, pointerCount=1, historySize=0, eventTime=261851713, downTime=261851646, deviceId=3, source=0x1002 }, mBlockTouches=false
+213 playSoundEffect   effectType: 0
+214 querySoundEffectsEnabled...
+215 animateCollapsePanels:flags=2, force=true, delayed=true, mExpandedVisible=true
+216 onExpandingStarted
+217 logNotificationVisibilityChanges runInThread start
+218 onNotificationVisibilityChanged called
+219 logNotificationVisibilityChanges runInThread over
+220 START u0 {act=com.tencent.mobileqq.action.MAINACTIVITY flg=0x14000000 cmp=com.tencent.mobileqq/.activity.SplashActivity (has extras)} from uid 10111 on display 0
+221 ActivityRecord info: ActivityInfo{d1c8e63 com.tencent.mobileqq.activity.SplashActivity}, euid: 0
+222 setSystemUiVisibility vis=40000500 mask=ffffffff oldVal=40000600 newVal=40000500 diff=300 fullscreenStackVis=0 dockedStackVis=0, fullscreenStackBounds=Rect(0, 0 - 720, 1280), dockedStackBounds=Rect(0, 0 - 0, 0)
+223 notifyUiVisibilityChanged:vis=0x40000500, SystemUiVisibility=0x40000500
+224 acquire lock=189667585, flags=0x1, tag="*launch*", name=android, ws=WorkSource{10111}, uid=1000, pid=1702
+225 ready=true,policy=3,wakefulness=1,wksummary=0x1,uasummary=0x1,bootcompleted=true,boostinprogress=false,waitmodeenable=false,mode=false,manual=38,auto=-1,adj=0.0userId=0
+226 Acquiring suspend blocker "PowerManagerService.WakeLocks".
+227 onNotificationClick called
+228 cancelNotification,index:0
+229 cancelNotification,cancelNotificationLocked,callingUid = 10037,callingPid = 2227
+230 cancelNotificationLocked called,tell the app,reason = 1
+231 cancelNotificationLocked:0|com.tencent.mobileqq|121|null|10111
+232 cancelNotificationLocked,remove =com.tencent.mobileqq
+233 applyOptionsLocked: Unknown animationType=0
+234 cancelPeek: false
+235 flingToHeight: vel=0.0, expand=false, target=0.0, collapseSpeedUpFactor=1.0, expandBecauseOfFalsing=false
+236 updateClipping isOverlap:false, getTopPadding=333.0, Translation=-6.0
+237 updateDimmedActivatedHideSensitive overlap:false
+238 updateClipping isOverlap:false, getTopPadding=333.0, Translation=-21.0
+239 updateDimmedActivatedHideSensitive overlap:false
+240 updateClipping isOverlap:false, getTopPadding=333.0, Translation=-43.0
+241 updateDimmedActivatedHideSensitive overlap:false
+242 Taking screenshot from Surface with crop:[Rect(0, 48 - 720, 1208)], width:[432], height:[696], minLayer:[21085], maxLayer:[21085], inRotation:[false], rot:[0]
+243 updateClipping isOverlap:false, getTopPadding=333.0, Translation=-70.0
+244 updateDimmedActivatedHideSensitive overlap:false
+245 updateClipping isOverlap:false, getTopPadding=333.0, Translation=-102.0
+246 updateDimmedActivatedHideSensitive overlap:false
+247 updateClipping isOverlap:false, getTopPadding=333.0, Translation=-139.0
+248 updateDimmedActivatedHideSensitive overlap:false
+249 updateLightsLocked,mInCall =false,mScreenOn = true,ledNotification == null?true
+250 updateLightsLocked,turn off notificationLight
+251 updateClipping isOverlap:false, getTopPadding=333.0, Translation=-178.0
+252 updateDimmedActivatedHideSensitive overlap:false
+253 updateClipping isOverlap:false, getTopPadding=333.0, Translation=-222.0
+254 updateDimmedActivatedHideSensitive overlap:false
+255 updateClipping isOverlap:false, getTopPadding=333.0, Translation=-270.0
+256 updateDimmedActivatedHideSensitive overlap:false
+257 removeNotification:0|com.tencent.mobileqq|121|null|10111
+258 updateNotificationShade: total=0, active=0
+259 animateCollapsePanels:flags=0, force=false, delayed=false, mExpandedVisible=true
+260 updateClipping isOverlap:false, getTopPadding=333.0, Translation=-321.0
+261 updateDimmedActivatedHideSensitive overlap:false
+262 The change in focus caused us to need to do a layout begin
+263 The change in focus caused us to need to do a layout end
+264 overlapAmount:95.0, previousNotificationEnd:0.0, newYTranslation:-95.0, location:4, i:0, getTopPadding:333.0, getLocationOnScreen():-428
+265 state.clipTopAmount:79, i:0
+266 updateClipping isOverlap:true, getTopPadding=333.0, Translation=-428.0
+267 updateDimmedActivatedHideSensitive overlap:true
+268 setSystemUiVisibility vis=508 mask=ffffffff oldVal=40000500 newVal=508 diff=40000008 fullscreenStackVis=0 dockedStackVis=0, fullscreenStackBounds=Rect(0, 0 - 720, 1280), dockedStackBounds=Rect(0, 0 - 0, 0)
+269 cancelAutohide
+270 notifyUiVisibilityChanged:vis=0x508, SystemUiVisibility=0x508
+271 setLightsOn(true)
+272 setSystemUiVisibility vis=0 mask=1 oldVal=508 newVal=508 diff=0 fullscreenStackVis=0 dockedStackVis=0, fullscreenStackBounds=Rect(0, 0 - 0, 0), dockedStackBounds=Rect(0, 0 - 0, 0)
+273 overlapAmount:154.0, previousNotificationEnd:0.0, newYTranslation:-154.0, location:4, i:0, getTopPadding:333.0, getLocationOnScreen():-487
+274 state.clipTopAmount:138, i:0
+275 updateClipping isOverlap:true, getTopPadding=333.0, Translation=-487.0
+276 updateDimmedActivatedHideSensitive overlap:true
+277 overlapAmount:213.0, previousNotificationEnd:0.0, newYTranslation:-213.0, location:4, i:0, getTopPadding:333.0, getLocationOnScreen():-546
+278 state.clipTopAmount:197, i:0
+279 updateClipping isOverlap:true, getTopPadding=333.0, Translation=-546.0
+280 updateDimmedActivatedHideSensitive overlap:true
+281 updateNotificationShade: total=0, active=0
+282 removeNotificationChildren
+283 onExpandingFinished
+284 updateNotificationShade: total=0, active=0
+285 removeNotificationChildren
+286 Sending non-protected broadcast com.android.systemui.statusbar.visible.change from system 2227:com.android.systemui/u0a37 pkg com.android.systemui
+287 updateClipping isOverlap:false, getTopPadding=333.0, Translation=0.0
+288 updateDimmedActivatedHideSensitive overlap:false
+289 Skipping, withExcluded: false, tr.intent:Intent { flg=0x10804000 cmp=com.android.systemui/.recents.RecentsActivity bnds=[264,444][920,908] }
+290 Skipping, withExcluded: false, tr.intent:Intent { act=android.intent.action.MAIN flg=0x10840000 cmp=com.android.incallui/.InCallActivity (has extras) }
+291 Skipping, withExcluded: false, tr.intent:Intent { flg=0x18800000 cmp=com.tencent.mm/.plugin.base.stub.WXEntryActivity (has extras) }
+292 Skipping, withExcluded: false, tr.intent:Intent { flg=0x10800000 cmp=com.tencent.qqmusic/.business.lockscreen.LockScreenActivity (has extras) }
+293 Skipping, withExcluded: false, tr.intent:Intent { act=com.android.contacts.action.CHOOSE_SUB dat=tel:xxxxxxxxxxx flg=0x10808000 cmp=com.android.contacts/.ChooseSubActivity (has extras) }
+294 Skipping, withExcluded: false, tr.intent:Intent { act=android.intent.action.VIEW dat=file:///storage/emulated/0/Tencent/QQfile_recv/b.apk typ=application/vnd.android.package-archive flg=0x10800000 cmp=com.android.packageinstaller/.PackageInstallerActivity (has extras) }
+295 getRecentTasks: num=20,flags=62,totalTasks=46
+296 getRecentTasks: topActivity=ComponentInfo{com.tencent.mobileqq/com.tencent.mobileqq.activity.SplashActivity}
+297 ready=true,policy=3,wakefulness=1,wksummary=0x1,uasummary=0x1,bootcompleted=true,boostinprogress=false,waitmodeenable=false,mode=false,manual=38,auto=-1,adj=0.0userId=0
+298 Skipping, withExcluded: false, tr.intent:Intent { flg=0x10804000 cmp=com.android.systemui/.recents.RecentsActivity bnds=[264,444][920,908] }
+299 Skipping, withExcluded: false, tr.intent:Intent { act=android.intent.action.MAIN flg=0x10840000 cmp=com.android.incallui/.InCallActivity (has extras) }
+300 Skipping, withExcluded: false, tr.intent:Intent { flg=0x18800000 cmp=com.tencent.mm/.plugin.base.stub.WXEntryActivity (has extras) }
+301 getRecentTasks: num=10,flags=62,totalTasks=46
+302 getRecentTasks: topActivity=ComponentInfo{com.tencent.mobileqq/com.tencent.mobileqq.activity.SplashActivity}
+303 cancelNotificationWithTag pid 28601,uid = 10111,tag = null,pkg =com.tencent.mobileqq,id =121
+304 cancelNotification,index:-1
+305 cancelNotificationWithTag pid 28601,uid = 10111,tag = null,pkg =com.tencent.mobileqq,id =119
+306 cancelNotification,index:-1
+307 cancelNotificationWithTag pid 28601,uid = 10111,tag = null,pkg =com.tencent.mobileqq,id =122
+308 setLightsOn(true)
+309 setSystemUiVisibility vis=0 mask=1 oldVal=508 newVal=508 diff=0 fullscreenStackVis=0 dockedStackVis=0, fullscreenStackBounds=Rect(0, 0 - 0, 0), dockedStackBounds=Rect(0, 0 - 0, 0)
+310 setSystemUiVisibility vis=40000500 mask=ffffffff oldVal=508 newVal=40000500 diff=40000008 fullscreenStackVis=0 dockedStackVis=0, fullscreenStackBounds=Rect(0, 0 - 720, 1280), dockedStackBounds=Rect(0, 0 - 0, 0)
+311 cancelAutohide
+312 notifyUiVisibilityChanged:vis=0x40000500, SystemUiVisibility=0x40000500
+313 makeExpandedInvisible: mExpandedVisible=true
+314 closeQs
+315 cancelPeek: false
+316 instantCollapse
+317 cancelPeek: false
+318 closeQs
+319 resumeSuspendedAutohide
+320 disable: < expand icons* alerts system_info* back home recent clock navigationbar search quick_settings >
+321 cancelNotificationWithTag pid 28601,uid = 10111,tag = null,pkg =com.tencent.mobileqq,id =123
+322 cancelNotification,index:-1
+323 cancelNotification,index:-1
+324 getRunningAppProcesses: caller 10111 does not hold REAL_GET_TASKS; limiting output
+325 release:lock=189667585, flg=0x0, tag="*launch*", name=android", ws=WorkSource{10111}, uid=1000, pid=1702
+326 ready=true,policy=3,wakefulness=1,wksummary=0x1,uasummary=0x1,bootcompleted=true,boostinprogress=false,waitmodeenable=false,mode=false,manual=38,auto=-1,adj=0.0userId=0
+327 cancelNotificationWithTag pid 28601,uid = 10111,tag = null,pkg =com.tencent.mobileqq,id =129
+328 cancelNotification,index:-1
+329 cancelNotificationWithTag pid 28601,uid = 10111,tag = null,pkg =com.tencent.mobileqq,id =135
+330 cancelNotificationWithTag pid 28601,uid = 10111,tag = null,pkg =com.tencent.mobileqq,id =140
+331 cancelNotificationWithTag pid 28601,uid = 10111,tag = null,pkg =com.tencent.mobileqq,id =144
+332 cancelNotification,index:-1
+333 cancelNotification,index:-1
+334 cancelNotification,index:-1
+335 cancelNotificationWithTag pid 28601,uid = 10111,tag = null,pkg =com.tencent.mobileqq,id =193
+336 cancelNotification,index:-1
+337 ready=true,policy=3,wakefulness=1,wksummary=0x0,uasummary=0x1,bootcompleted=true,boostinprogress=false,waitmodeenable=false,mode=false,manual=38,auto=-1,adj=0.0userId=0
+338 Releasing suspend blocker "PowerManagerService.WakeLocks".
+339 updateClipping isOverlap:false, getTopPadding=333.0, Translation=0.0
+340 updateDimmedActivatedHideSensitive overlap:false
+341 setLightsOn(true)
+342 setSystemUiVisibility vis=0 mask=1 oldVal=40000500 newVal=40000500 diff=0 fullscreenStackVis=0 dockedStackVis=0, fullscreenStackBounds=Rect(0, 0 - 0, 0), dockedStackBounds=Rect(0, 0 - 0, 0)
+343 registerCallback not in UI.
+344 android.util.AndroidRuntimeException: Must execute in UI
+345 *** unregister callback for com.android.systemui.statusbar.policy.KeyguardMonitor@712d093
+346 setLightsOn(true)
+347 setSystemUiVisibility vis=0 mask=1 oldVal=40000500 newVal=40000500 diff=0 fullscreenStackVis=0 dockedStackVis=0, fullscreenStackBounds=Rect(0, 0 - 0, 0), dockedStackBounds=Rect(0, 0 - 0, 0)
+348 setLightsOn(true)
+349 setSystemUiVisibility vis=0 mask=1 oldVal=40000500 newVal=40000500 diff=0 fullscreenStackVis=0 dockedStackVis=0, fullscreenStackBounds=Rect(0, 0 - 0, 0), dockedStackBounds=Rect(0, 0 - 0, 0)
+350 setLightsOn(true)
+351 setSystemUiVisibility vis=0 mask=1 oldVal=40000500 newVal=40000500 diff=0 fullscreenStackVis=0 dockedStackVis=0, fullscreenStackBounds=Rect(0, 0 - 0, 0), dockedStackBounds=Rect(0, 0 - 0, 0)
+352 getTasks: caller 10113 does not hold REAL_GET_TASKS; limiting output
+353 setLightsOn(true)
+354 setSystemUiVisibility vis=0 mask=1 oldVal=40000500 newVal=40000500 diff=0 fullscreenStackVis=0 dockedStackVis=0, fullscreenStackBounds=Rect(0, 0 - 0, 0), dockedStackBounds=Rect(0, 0 - 0, 0)
+355 Destroying surface Surface(name=com.tencent.qt.qtl/com.tencent.qt.qtl.activity.main.MainTabActivity) called by com.android.server.wm.WindowStateAnimator.destroySurface:2060 com.android.server.wm.WindowStateAnimator.destroySurfaceLocked:913 com.android.server.wm.WindowState.destroyOrSaveSurface:2201 com.android.server.wm.AppWindowToken.destroySurfaces:374 com.android.server.wm.AppWindowToken.notifyAppStopped:400 com.android.server.wm.WindowManagerService.notifyAppStopped:4869 com.android.server.am.ActivityStack.activityStoppedLocked:1393 com.android.server.am.ActivityManagerService.activityStopped:7690
+356 HBM brightnessIn =38
+357 HBM brightnessOut =38
+358 Animating brightness: target=38, rate=200
+359 getTasks: caller 10111 does not hold REAL_GET_TASKS; limiting output
+360 isMusicActive...
+361 isMusicActive...
+362 Start dump, calling from : pid=12782, uid=1000
+363 HBM brightnessIn =38
+364 HBM brightnessOut =38
+365 Animating brightness: target=38, rate=200
+366 getRunningAppProcesses: caller 10113 does not hold REAL_GET_TASKS; limiting output
+367 getRunningAppProcesses: caller 10113 does not hold REAL_GET_TASKS; limiting output
+368 getRunningAppProcesses: caller 10113 does not hold REAL_GET_TASKS; limiting output
+369 acquire lock=237091223, flags=0x1, tag="WiredAccessoryManager", name=android, ws=null, uid=1000, pid=1702
+370 ready=true,policy=3,wakefulness=1,wksummary=0x1,uasummary=0x1,bootcompleted=true,boostinprogress=false,waitmodeenable=false,mode=false,manual=38,auto=-1,adj=0.0userId=0
+371 Acquiring suspend blocker "PowerManagerService.WakeLocks".
+372 setWiredDeviceConnectionState  type: -2147483632  state: 0
+373 acquire lock=86152250, flags=0x1, tag="handleAudioEvent", name=android, ws=null, uid=1000, pid=1702
+374 ready=true,policy=3,wakefulness=1,wksummary=0x1,uasummary=0x1,bootcompleted=true,boostinprogress=false,waitmodeenable=false,mode=false,manual=38,auto=-1,adj=0.0userId=0
+375 setWiredDeviceConnectionState  type: 4  state: 0
+376 release:lock=237091223, flg=0x0, tag="WiredAccessoryManager", name=android", ws=null, uid=1000, pid=1702
+377 ready=true,policy=3,wakefulness=1,wksummary=0x1,uasummary=0x1,bootcompleted=true,boostinprogress=false,waitmodeenable=false,mode=false,manual=38,auto=-1,adj=0.0userId=0
+378 isMusicActive...
+379 ActivityManagerService,attachApplication,callingPid = 12787
+380 getRunningAppProcesses: caller 10111 does not hold REAL_GET_TASKS; limiting output
+381 HBM brightnessIn =38
+382 HBM brightnessOut =38
+383 Animating brightness: target=38, rate=200
+384 acquire lock=219829192, flags=0x1, tag="AudioMix", name=audioserver, ws=null, uid=1041, pid=0
+385 ready=true,policy=3,wakefulness=1,wksummary=0x1,uasummary=0x1,bootcompleted=true,boostinprogress=false,waitmodeenable=false,mode=false,manual=38,auto=-1,adj=0.0userId=0
+386 release:lock=86152250, flg=0x0, tag="handleAudioEvent", name=android", ws=null, uid=1000, pid=1702
+387 ready=true,policy=3,wakefulness=1,wksummary=0x1,uasummary=0x1,bootcompleted=true,boostinprogress=false,waitmodeenable=false,mode=false,manual=38,auto=-1,adj=0.0userId=0
+388 isBluetoothA2dpOn...
+389 isMusicActive...
+390 isBluetoothScoOn...
+391 getLastAudibleStreamVolume  treamType: 0
+392 ready=true,policy=3,wakefulness=1,wksummary=0x1,uasummary=0x1,bootcompleted=true,boostinprogress=false,waitmodeenable=false,mode=false,manual=38,auto=-1,adj=0.0userId=0
+393 ready=true,policy=3,wakefulness=1,wksummary=0x1,uasummary=0x1,bootcompleted=true,boostinprogress=false,waitmodeenable=false,mode=false,manual=38,auto=-1,adj=0.0userId=0
+394 cancelNotification,index:-1
+395 getRunningAppProcesses: caller 10091 does not hold REAL_GET_TASKS; limiting output
+396 getRunningAppProcesses: caller 10091 does not hold REAL_GET_TASKS; limiting output
+397 ready=true,policy=3,wakefulness=1,wksummary=0x1,uasummary=0x1,bootcompleted=true,boostinprogress=false,waitmodeenable=false,mode=false,manual=38,auto=-1,adj=0.0userId=0
+398 getRunningAppProcesses: caller 10091 does not hold REAL_GET_TASKS; limiting output
+399 getRunningAppProcesses: caller 10091 does not hold REAL_GET_TASKS; limiting output
+400 getRunningAppProcesses: caller 10091 does not hold REAL_GET_TASKS; limiting output
+401 getLastAudibleStreamVolume  treamType: 1
+402 getLastAudibleStreamVolume  treamType: 2
+403 getRunningAppProcesses: caller 10091 does not hold REAL_GET_TASKS; limiting output
+404 ready=true,policy=3,wakefulness=1,wksummary=0x1,uasummary=0x1,bootcompleted=true,boostinprogress=false,waitmodeenable=false,mode=false,manual=38,auto=-1,adj=0.0userId=0
+405 getDevicesForStream  streamType: 3
+406 getLastAudibleStreamVolume  treamType: 3
+407 getDevicesForStream  streamType: 3
+408 getRunningAppProcesses: caller 10091 does not hold REAL_GET_TASKS; limiting output
+409 getRunningAppProcesses: caller 10091 does not hold REAL_GET_TASKS; limiting output
+410 getLastAudibleStreamVolume  treamType: 4
+411 getLastAudibleStreamVolume  treamType: 5
+412 getLastAudibleStreamVolume  treamType: 6
+413 getLastAudibleStreamVolume  treamType: 7
+414 getLastAudibleStreamVolume  treamType: 8
+415 cleanUpApplicationRecord -- 12025
+416 cleanUpApplicationRecordLocked, pid: 12025, restart: false
+417 cleanUpApplicationRecordLocked, reset pid: 12025, euid: 0
+418 stopWifiDisplayScanLocked record.mWifiDisplayScanRequested=false
+419 stopWifiDisplayScanLocked mWifiDisplayScanRequestCount=0
+420 getMode...
+421 setSpeakerphoneOn  on: true
+422 setSpeakerphoneOn on:true
+423 getRunningAppProcesses: caller 10091 does not hold REAL_GET_TASKS; limiting output
+424 getRunningAppProcesses: caller 10113 does not hold REAL_GET_TASKS; limiting output
+425 getRunningAppProcesses: caller 10091 does not hold REAL_GET_TASKS; limiting output
+426 HBM brightnessIn =38
+427 HBM brightnessOut =38
+428 Animating brightness: target=38, rate=200
+429 release:lock=219829192, flg=0x0, tag="AudioMix", name=audioserver", ws=null, uid=1041, pid=0
+430 ready=true,policy=3,wakefulness=1,wksummary=0x0,uasummary=0x1,bootcompleted=true,boostinprogress=false,waitmodeenable=false,mode=false,manual=38,auto=-1,adj=0.0userId=0
+431 Releasing suspend blocker "PowerManagerService.WakeLocks".
+432 sending alarm Alarm{aa90550 type 3 when 509142332 PendingIntent{1749923: PendingIntentRecord{9600e20 android broadcastIntent}}},repeatInterval = 0,listenerTag =time_tick
+433 ready=true,policy=3,wakefulness=1,wksummary=0x1,uasummary=0x1,bootcompleted=true,boostinprogress=false,waitmodeenable=false,mode=false,manual=38,auto=-1,adj=0.0userId=0
+434 Acquiring suspend blocker "PowerManagerService.WakeLocks".
+435 Received TIME_TICK alarm; rescheduling
+436 scheduleTimeTickEvent triggerAtTime = 509202333
+437 updateClipping isOverlap:false, getTopPadding=333.0, Translation=0.0
+438 updateDimmedActivatedHideSensitive overlap:false
+439 updateClipping isOverlap:false, getTopPadding=333.0, Translation=0.0
+440 updateDimmedActivatedHideSensitive overlap:false
+441 received broadcast android.intent.action.TIME_TICK
+442 handleTimeUpdate
+443 ready=true,policy=3,wakefulness=1,wksummary=0x0,uasummary=0x1,bootcompleted=true,boostinprogress=false,waitmodeenable=false,mode=false,manual=38,auto=-1,adj=0.0userId=0
+444 Releasing suspend blocker "PowerManagerService.WakeLocks".
+445 userActivityNoUpdateLocked: eventTime=261866434, event=2, flags=0x0, uid=1000
+446 ready=true,policy=3,wakefulness=1,wksummary=0x0,uasummary=0x1,bootcompleted=true,boostinprogress=false,waitmodeenable=false,mode=false,manual=38,auto=-1,adj=0.0userId=0
+447 setLightsOn(true)
+448 setSystemUiVisibility vis=0 mask=1 oldVal=40000500 newVal=40000500 diff=0 fullscreenStackVis=0 dockedStackVis=0, fullscreenStackBounds=Rect(0, 0 - 0, 0), dockedStackBounds=Rect(0, 0 - 0, 0)
+449 setLightsOn(true)
+450 setSystemUiVisibility vis=0 mask=1 oldVal=40000500 newVal=40000500 diff=0 fullscreenStackVis=0 dockedStackVis=0, fullscreenStackBounds=Rect(0, 0 - 0, 0), dockedStackBounds=Rect(0, 0 - 0, 0)
+451 setLightsOn(true)
+452 setSystemUiVisibility vis=0 mask=1 oldVal=40000500 newVal=40000500 diff=0 fullscreenStackVis=0 dockedStackVis=0, fullscreenStackBounds=Rect(0, 0 - 0, 0), dockedStackBounds=Rect(0, 0 - 0, 0)
+453 setLightsOn(true)
+454 setSystemUiVisibility vis=0 mask=1 oldVal=40000500 newVal=40000500 diff=0 fullscreenStackVis=0 dockedStackVis=0, fullscreenStackBounds=Rect(0, 0 - 0, 0), dockedStackBounds=Rect(0, 0 - 0, 0)
+455 setLightsOn(true)
+456 setSystemUiVisibility vis=0 mask=1 oldVal=40000500 newVal=40000500 diff=0 fullscreenStackVis=0 dockedStackVis=0, fullscreenStackBounds=Rect(0, 0 - 0, 0), dockedStackBounds=Rect(0, 0 - 0, 0)
+457 setLightsOn(true)
+458 setSystemUiVisibility vis=0 mask=1 oldVal=40000500 newVal=40000500 diff=0 fullscreenStackVis=0 dockedStackVis=0, fullscreenStackBounds=Rect(0, 0 - 0, 0), dockedStackBounds=Rect(0, 0 - 0, 0)
+459 setLightsOn(true)
+460 setSystemUiVisibility vis=0 mask=1 oldVal=40000500 newVal=40000500 diff=0 fullscreenStackVis=0 dockedStackVis=0, fullscreenStackBounds=Rect(0, 0 - 0, 0), dockedStackBounds=Rect(0, 0 - 0, 0)
+461 setLightsOn(true)
+462 setSystemUiVisibility vis=0 mask=1 oldVal=40000500 newVal=40000500 diff=0 fullscreenStackVis=0 dockedStackVis=0, fullscreenStackBounds=Rect(0, 0 - 0, 0), dockedStackBounds=Rect(0, 0 - 0, 0)
+463 setLightsOn(true)
+464 setSystemUiVisibility vis=0 mask=1 oldVal=40000500 newVal=40000500 diff=0 fullscreenStackVis=0 dockedStackVis=0, fullscreenStackBounds=Rect(0, 0 - 0, 0), dockedStackBounds=Rect(0, 0 - 0, 0)
+465 setLightsOn(true)
+466 setSystemUiVisibility vis=0 mask=1 oldVal=40000500 newVal=40000500 diff=0 fullscreenStackVis=0 dockedStackVis=0, fullscreenStackBounds=Rect(0, 0 - 0, 0), dockedStackBounds=Rect(0, 0 - 0, 0)
+467 setLightsOn(true)
+468 setSystemUiVisibility vis=0 mask=1 oldVal=40000500 newVal=40000500 diff=0 fullscreenStackVis=0 dockedStackVis=0, fullscreenStackBounds=Rect(0, 0 - 0, 0), dockedStackBounds=Rect(0, 0 - 0, 0)
+469 setLightsOn(true)
+470 setSystemUiVisibility vis=0 mask=1 oldVal=40000500 newVal=40000500 diff=0 fullscreenStackVis=0 dockedStackVis=0, fullscreenStackBounds=Rect(0, 0 - 0, 0), dockedStackBounds=Rect(0, 0 - 0, 0)
+471 setLightsOn(true)
+472 setSystemUiVisibility vis=0 mask=1 oldVal=40000500 newVal=40000500 diff=0 fullscreenStackVis=0 dockedStackVis=0, fullscreenStackBounds=Rect(0, 0 - 0, 0), dockedStackBounds=Rect(0, 0 - 0, 0)
+473 setLightsOn(true)
+474 setSystemUiVisibility vis=0 mask=1 oldVal=40000500 newVal=40000500 diff=0 fullscreenStackVis=0 dockedStackVis=0, fullscreenStackBounds=Rect(0, 0 - 0, 0), dockedStackBounds=Rect(0, 0 - 0, 0)
+475 setLightsOn(true)
+476 setSystemUiVisibility vis=0 mask=1 oldVal=40000500 newVal=40000500 diff=0 fullscreenStackVis=0 dockedStackVis=0, fullscreenStackBounds=Rect(0, 0 - 0, 0), dockedStackBounds=Rect(0, 0 - 0, 0)
+477 setLightsOn(true)
+478 setSystemUiVisibility vis=0 mask=1 oldVal=40000500 newVal=40000500 diff=0 fullscreenStackVis=0 dockedStackVis=0, fullscreenStackBounds=Rect(0, 0 - 0, 0), dockedStackBounds=Rect(0, 0 - 0, 0)
+479 userActivityNoUpdateLocked: eventTime=261867236, event=2, flags=0x0, uid=1000
+480 ready=true,policy=3,wakefulness=1,wksummary=0x0,uasummary=0x1,bootcompleted=true,boostinprogress=false,waitmodeenable=false,mode=false,manual=38,auto=-1,adj=0.0userId=0
+481 setLightsOn(true)
+482 setSystemUiVisibility vis=0 mask=1 oldVal=40000500 newVal=40000500 diff=0 fullscreenStackVis=0 dockedStackVis=0, fullscreenStackBounds=Rect(0, 0 - 0, 0), dockedStackBounds=Rect(0, 0 - 0, 0)
+483 setLightsOn(true)
+484 setSystemUiVisibility vis=0 mask=1 oldVal=40000500 newVal=40000500 diff=0 fullscreenStackVis=0 dockedStackVis=0, fullscreenStackBounds=Rect(0, 0 - 0, 0), dockedStackBounds=Rect(0, 0 - 0, 0)
+485 setLightsOn(true)
+486 setSystemUiVisibility vis=0 mask=1 oldVal=40000500 newVal=40000500 diff=0 fullscreenStackVis=0 dockedStackVis=0, fullscreenStackBounds=Rect(0, 0 - 0, 0), dockedStackBounds=Rect(0, 0 - 0, 0)
+487 setLightsOn(true)
+488 setSystemUiVisibility vis=0 mask=1 oldVal=40000500 newVal=40000500 diff=0 fullscreenStackVis=0 dockedStackVis=0, fullscreenStackBounds=Rect(0, 0 - 0, 0), dockedStackBounds=Rect(0, 0 - 0, 0)
+489 setLightsOn(true)
+490 setSystemUiVisibility vis=0 mask=1 oldVal=40000500 newVal=40000500 diff=0 fullscreenStackVis=0 dockedStackVis=0, fullscreenStackBounds=Rect(0, 0 - 0, 0), dockedStackBounds=Rect(0, 0 - 0, 0)
+491 setLightsOn(true)
+492 setSystemUiVisibility vis=0 mask=1 oldVal=40000500 newVal=40000500 diff=0 fullscreenStackVis=0 dockedStackVis=0, fullscreenStackBounds=Rect(0, 0 - 0, 0), dockedStackBounds=Rect(0, 0 - 0, 0)
+493 setLightsOn(true)
+494 setSystemUiVisibility vis=0 mask=1 oldVal=40000500 newVal=40000500 diff=0 fullscreenStackVis=0 dockedStackVis=0, fullscreenStackBounds=Rect(0, 0 - 0, 0), dockedStackBounds=Rect(0, 0 - 0, 0)
+495 setLightsOn(true)
+496 setSystemUiVisibility vis=0 mask=1 oldVal=40000500 newVal=40000500 diff=0 fullscreenStackVis=0 dockedStackVis=0, fullscreenStackBounds=Rect(0, 0 - 0, 0), dockedStackBounds=Rect(0, 0 - 0, 0)
+497 userActivityNoUpdateLocked: eventTime=261867854, event=2, flags=0x0, uid=1000
+498 ready=true,policy=3,wakefulness=1,wksummary=0x0,uasummary=0x1,bootcompleted=true,boostinprogress=false,waitmodeenable=false,mode=false,manual=38,auto=-1,adj=0.0userId=0
+499 setLightsOn(true)
+500 setSystemUiVisibility vis=0 mask=1 oldVal=40000500 newVal=40000500 diff=0 fullscreenStackVis=0 dockedStackVis=0, fullscreenStackBounds=Rect(0, 0 - 0, 0), dockedStackBounds=Rect(0, 0 - 0, 0)
+501 HBM brightnessIn =38
+502 HBM brightnessOut =38
+503 Animating brightness: target=38, rate=200
+504 setLightsOn(true)
+505 setSystemUiVisibility vis=0 mask=1 oldVal=40000500 newVal=40000500 diff=0 fullscreenStackVis=0 dockedStackVis=0, fullscreenStackBounds=Rect(0, 0 - 0, 0), dockedStackBounds=Rect(0, 0 - 0, 0)
+506 getRunningAppProcesses: caller 10091 does not hold REAL_GET_TASKS; limiting output
+507 getRunningAppProcesses: caller 10091 does not hold REAL_GET_TASKS; limiting output
+508 userActivityNoUpdateLocked: eventTime=261868506, event=2, flags=0x0, uid=1000
+509 ready=true,policy=3,wakefulness=1,wksummary=0x0,uasummary=0x1,bootcompleted=true,boostinprogress=false,waitmodeenable=false,mode=false,manual=38,auto=-1,adj=0.0userId=0
+510 setLightsOn(true)
+511 setSystemUiVisibility vis=0 mask=1 oldVal=40000500 newVal=40000500 diff=0 fullscreenStackVis=0 dockedStackVis=0, fullscreenStackBounds=Rect(0, 0 - 0, 0), dockedStackBounds=Rect(0, 0 - 0, 0)
+512 playSoundEffect   effectType: 0
+513 querySoundEffectsEnabled...
+514 getRunningAppProcesses: caller 10111 does not hold REAL_GET_TASKS; limiting output
+515 Destroying surface Surface(name=PopupWindow:9b04807) called by com.android.server.wm.WindowStateAnimator.destroySurface:2060 com.android.server.wm.WindowStateAnimator.destroySurfaceLocked:913 com.android.server.wm.WindowState.removeLocked:1554 com.android.server.wm.WindowManagerService.removeWindowInnerLocked:2739 com.android.server.wm.WindowManagerService.removeWindowInnerLocked:2702 com.android.server.wm.WindowManagerService.removeWindowLocked:2691 com.android.server.wm.WindowManagerService.removeWindowLocked:2560 com.android.server.wm.WindowManagerService.removeWindow:2555
+516 setLightsOn(true)
+517 setSystemUiVisibility vis=0 mask=1 oldVal=40000500 newVal=40000500 diff=0 fullscreenStackVis=0 dockedStackVis=0, fullscreenStackBounds=Rect(0, 0 - 0, 0), dockedStackBounds=Rect(0, 0 - 0, 0)
+518 getRunningAppProcesses: caller 10111 does not hold REAL_GET_TASKS; limiting output
+519 Destroying surface Surface(name=PopupWindow:317e46) called by com.android.server.wm.WindowStateAnimator.destroySurface:2060 com.android.server.wm.WindowStateAnimator.destroySurfaceLocked:913 com.android.server.wm.WindowState.removeLocked:1554 com.android.server.wm.WindowManagerService.removeWindowInnerLocked:2739 com.android.server.wm.WindowManagerService.removeWindowInnerLocked:2702 com.android.server.wm.WindowManagerService.removeWindowLocked:2691 com.android.server.wm.WindowManagerService.removeWindowLocked:2560 com.android.server.wm.WindowManagerService.removeWindow:2555
+520 setLightsOn(true)
+521 setSystemUiVisibility vis=0 mask=1 oldVal=40000500 newVal=40000500 diff=0 fullscreenStackVis=0 dockedStackVis=0, fullscreenStackBounds=Rect(0, 0 - 0, 0), dockedStackBounds=Rect(0, 0 - 0, 0)
+522 setLightsOn(true)
+523 setSystemUiVisibility vis=0 mask=1 oldVal=40000500 newVal=40000500 diff=0 fullscreenStackVis=0 dockedStackVis=0, fullscreenStackBounds=Rect(0, 0 - 0, 0), dockedStackBounds=Rect(0, 0 - 0, 0)
+524 setLightsOn(true)
+525 setSystemUiVisibility vis=0 mask=1 oldVal=40000500 newVal=40000500 diff=0 fullscreenStackVis=0 dockedStackVis=0, fullscreenStackBounds=Rect(0, 0 - 0, 0), dockedStackBounds=Rect(0, 0 - 0, 0)
+526 setLightsOn(true)
+527 setSystemUiVisibility vis=0 mask=1 oldVal=40000500 newVal=40000500 diff=0 fullscreenStackVis=0 dockedStackVis=0, fullscreenStackBounds=Rect(0, 0 - 0, 0), dockedStackBounds=Rect(0, 0 - 0, 0)
+528 setLightsOn(true)
+529 setSystemUiVisibility vis=0 mask=1 oldVal=40000500 newVal=40000500 diff=0 fullscreenStackVis=0 dockedStackVis=0, fullscreenStackBounds=Rect(0, 0 - 0, 0), dockedStackBounds=Rect(0, 0 - 0, 0)
+530 getTasks: caller 10111 does not hold REAL_GET_TASKS; limiting output
+531 getTasks: caller 10111 does not hold REAL_GET_TASKS; limiting output
+532 getTasks: caller 10111 does not hold REAL_GET_TASKS; limiting output
+533 getTasks: caller 10111 does not hold REAL_GET_TASKS; limiting output
+534 getTasks: caller 10111 does not hold REAL_GET_TASKS; limiting output
+535 getRunningAppProcesses: caller 10111 does not hold REAL_GET_TASKS; limiting output
+536 userActivityNoUpdateLocked: eventTime=261870094, event=2, flags=0x0, uid=1000
+537 ready=true,policy=3,wakefulness=1,wksummary=0x0,uasummary=0x1,bootcompleted=true,boostinprogress=false,waitmodeenable=false,mode=false,manual=38,auto=-1,adj=0.0userId=0
+538 setLightsOn(true)
+539 setSystemUiVisibility vis=0 mask=1 oldVal=40000500 newVal=40000500 diff=0 fullscreenStackVis=0 dockedStackVis=0, fullscreenStackBounds=Rect(0, 0 - 0, 0), dockedStackBounds=Rect(0, 0 - 0, 0)
+540 setLightsOn(true)
+541 setSystemUiVisibility vis=0 mask=1 oldVal=40000500 newVal=40000500 diff=0 fullscreenStackVis=0 dockedStackVis=0, fullscreenStackBounds=Rect(0, 0 - 0, 0), dockedStackBounds=Rect(0, 0 - 0, 0)
+542 setLightsOn(true)
+543 setSystemUiVisibility vis=0 mask=1 oldVal=40000500 newVal=40000500 diff=0 fullscreenStackVis=0 dockedStackVis=0, fullscreenStackBounds=Rect(0, 0 - 0, 0), dockedStackBounds=Rect(0, 0 - 0, 0)
+544 setLightsOn(true)
+545 setSystemUiVisibility vis=0 mask=1 oldVal=40000500 newVal=40000500 diff=0 fullscreenStackVis=0 dockedStackVis=0, fullscreenStackBounds=Rect(0, 0 - 0, 0), dockedStackBounds=Rect(0, 0 - 0, 0)
+546 setLightsOn(true)
+547 setSystemUiVisibility vis=0 mask=1 oldVal=40000500 newVal=40000500 diff=0 fullscreenStackVis=0 dockedStackVis=0, fullscreenStackBounds=Rect(0, 0 - 0, 0), dockedStackBounds=Rect(0, 0 - 0, 0)
+548 setLightsOn(true)
+549 setSystemUiVisibility vis=0 mask=1 oldVal=40000500 newVal=40000500 diff=0 fullscreenStackVis=0 dockedStackVis=0, fullscreenStackBounds=Rect(0, 0 - 0, 0), dockedStackBounds=Rect(0, 0 - 0, 0)
+550 setLightsOn(true)
+551 setSystemUiVisibility vis=0 mask=1 oldVal=40000500 newVal=40000500 diff=0 fullscreenStackVis=0 dockedStackVis=0, fullscreenStackBounds=Rect(0, 0 - 0, 0), dockedStackBounds=Rect(0, 0 - 0, 0)
+552 setLightsOn(true)
+553 setSystemUiVisibility vis=0 mask=1 oldVal=40000500 newVal=40000500 diff=0 fullscreenStackVis=0 dockedStackVis=0, fullscreenStackBounds=Rect(0, 0 - 0, 0), dockedStackBounds=Rect(0, 0 - 0, 0)
+554 setLightsOn(true)
+555 setSystemUiVisibility vis=0 mask=1 oldVal=40000500 newVal=40000500 diff=0 fullscreenStackVis=0 dockedStackVis=0, fullscreenStackBounds=Rect(0, 0 - 0, 0), dockedStackBounds=Rect(0, 0 - 0, 0)
+556 setLightsOn(true)
+557 setSystemUiVisibility vis=0 mask=1 oldVal=40000500 newVal=40000500 diff=0 fullscreenStackVis=0 dockedStackVis=0, fullscreenStackBounds=Rect(0, 0 - 0, 0), dockedStackBounds=Rect(0, 0 - 0, 0)
+558 userActivityNoUpdateLocked: eventTime=261870612, event=2, flags=0x0, uid=1000
+559 ready=true,policy=3,wakefulness=1,wksummary=0x0,uasummary=0x1,bootcompleted=true,boostinprogress=false,waitmodeenable=false,mode=false,manual=38,auto=-1,adj=0.0userId=0
+560 HBM brightnessIn =38
+561 HBM brightnessOut =38
+562 Animating brightness: target=38, rate=200
+563 setLightsOn(true)
+564 setSystemUiVisibility vis=0 mask=1 oldVal=40000500 newVal=40000500 diff=0 fullscreenStackVis=0 dockedStackVis=0, fullscreenStackBounds=Rect(0, 0 - 0, 0), dockedStackBounds=Rect(0, 0 - 0, 0)
+565 setLightsOn(true)
+566 setSystemUiVisibility vis=0 mask=1 oldVal=40000500 newVal=40000500 diff=0 fullscreenStackVis=0 dockedStackVis=0, fullscreenStackBounds=Rect(0, 0 - 0, 0), dockedStackBounds=Rect(0, 0 - 0, 0)
+567 setLightsOn(true)
+568 setSystemUiVisibility vis=0 mask=1 oldVal=40000500 newVal=40000500 diff=0 fullscreenStackVis=0 dockedStackVis=0, fullscreenStackBounds=Rect(0, 0 - 0, 0), dockedStackBounds=Rect(0, 0 - 0, 0)
+569 Destroying surface Surface(name=PopupWindow:d76a91d) called by com.android.server.wm.WindowStateAnimator.destroySurface:2060 com.android.server.wm.WindowStateAnimator.destroySurfaceLocked:913 com.android.server.wm.WindowState.removeLocked:1554 com.android.server.wm.WindowManagerService.removeWindowInnerLocked:2739 com.android.server.wm.WindowManagerService.removeWindowInnerLocked:2702 com.android.server.wm.WindowManagerService.removeWindowLocked:2691 com.android.server.wm.WindowManagerService.removeWindowLocked:2560 com.android.server.wm.WindowManagerService.removeWindow:2555
+570 setLightsOn(true)
+571 setSystemUiVisibility vis=0 mask=1 oldVal=40000500 newVal=40000500 diff=0 fullscreenStackVis=0 dockedStackVis=0, fullscreenStackBounds=Rect(0, 0 - 0, 0), dockedStackBounds=Rect(0, 0 - 0, 0)
+572 Destroying surface Surface(name=PopupWindow:9b04807) called by com.android.server.wm.WindowStateAnimator.destroySurface:2060 com.android.server.wm.WindowStateAnimator.destroySurfaceLocked:913 com.android.server.wm.WindowState.removeLocked:1554 com.android.server.wm.WindowManagerService.removeWindowInnerLocked:2739 com.android.server.wm.WindowManagerService.removeWindowInnerLocked:2702 com.android.server.wm.WindowManagerService.removeWindowLocked:2691 com.android.server.wm.WindowManagerService.removeWindowLocked:2560 com.android.server.wm.WindowManagerService.removeWindow:2555
+573 setLightsOn(true)
+574 setSystemUiVisibility vis=0 mask=1 oldVal=40000500 newVal=40000500 diff=0 fullscreenStackVis=0 dockedStackVis=0, fullscreenStackBounds=Rect(0, 0 - 0, 0), dockedStackBounds=Rect(0, 0 - 0, 0)
+575 HBM brightnessIn =38
+576 HBM brightnessOut =38
+577 Animating brightness: target=38, rate=200
+578 HBM brightnessIn =38
+579 HBM brightnessOut =38
+580 Animating brightness: target=38, rate=200
+581 getRunningAppProcesses: caller 10111 does not hold REAL_GET_TASKS; limiting output
+582 userActivityNoUpdateLocked: eventTime=261871547, event=2, flags=0x0, uid=1000
+583 ready=true,policy=3,wakefulness=1,wksummary=0x0,uasummary=0x1,bootcompleted=true,boostinprogress=false,waitmodeenable=false,mode=false,manual=38,auto=-1,adj=0.0userId=0
+584 HBM brightnessIn =38
+585 HBM brightnessOut =38
+586 Animating brightness: target=38, rate=200
+587 userActivityNoUpdateLocked: eventTime=261872249, event=2, flags=0x0, uid=1000
+588 ready=true,policy=3,wakefulness=1,wksummary=0x0,uasummary=0x1,bootcompleted=true,boostinprogress=false,waitmodeenable=false,mode=false,manual=38,auto=-1,adj=0.0userId=0
+589 setLightsOn(true)
+590 setSystemUiVisibility vis=0 mask=1 oldVal=40000500 newVal=40000500 diff=0 fullscreenStackVis=0 dockedStackVis=0, fullscreenStackBounds=Rect(0, 0 - 0, 0), dockedStackBounds=Rect(0, 0 - 0, 0)
+591 setLightsOn(true)
+592 setSystemUiVisibility vis=0 mask=1 oldVal=40000500 newVal=40000500 diff=0 fullscreenStackVis=0 dockedStackVis=0, fullscreenStackBounds=Rect(0, 0 - 0, 0), dockedStackBounds=Rect(0, 0 - 0, 0)
+593 setLightsOn(true)
+594 setSystemUiVisibility vis=0 mask=1 oldVal=40000500 newVal=40000500 diff=0 fullscreenStackVis=0 dockedStackVis=0, fullscreenStackBounds=Rect(0, 0 - 0, 0), dockedStackBounds=Rect(0, 0 - 0, 0)
+595 setLightsOn(true)
+596 setSystemUiVisibility vis=0 mask=1 oldVal=40000500 newVal=40000500 diff=0 fullscreenStackVis=0 dockedStackVis=0, fullscreenStackBounds=Rect(0, 0 - 0, 0), dockedStackBounds=Rect(0, 0 - 0, 0)
+597 setLightsOn(true)
+598 setSystemUiVisibility vis=0 mask=1 oldVal=40000500 newVal=40000500 diff=0 fullscreenStackVis=0 dockedStackVis=0, fullscreenStackBounds=Rect(0, 0 - 0, 0), dockedStackBounds=Rect(0, 0 - 0, 0)
+599 setLightsOn(true)
+600 setSystemUiVisibility vis=0 mask=1 oldVal=40000500 newVal=40000500 diff=0 fullscreenStackVis=0 dockedStackVis=0, fullscreenStackBounds=Rect(0, 0 - 0, 0), dockedStackBounds=Rect(0, 0 - 0, 0)
+601 acquire lock=60373518, flags=0x1, tag="RILJ_ACK_WL", name=com.android.phone, ws=null, uid=1001, pid=2626
+602 ready=true,policy=3,wakefulness=1,wksummary=0x1,uasummary=0x1,bootcompleted=true,boostinprogress=false,waitmodeenable=false,mode=false,manual=38,auto=-1,adj=0.0userId=0
+603 Acquiring suspend blocker "PowerManagerService.WakeLocks".
+604 ready=true,policy=3,wakefulness=1,wksummary=0x1,uasummary=0x1,bootcompleted=true,boostinprogress=false,waitmodeenable=false,mode=false,manual=38,auto=-1,adj=0.0userId=0
+605 setLightsOn(true)
+606 setSystemUiVisibility vis=0 mask=1 oldVal=40000500 newVal=40000500 diff=0 fullscreenStackVis=0 dockedStackVis=0, fullscreenStackBounds=Rect(0, 0 - 0, 0), dockedStackBounds=Rect(0, 0 - 0, 0)
+607 ready=true,policy=3,wakefulness=1,wksummary=0x1,uasummary=0x1,bootcompleted=true,boostinprogress=false,waitmodeenable=false,mode=false,manual=38,auto=-1,adj=0.0userId=0
+608 ready=true,policy=3,wakefulness=1,wksummary=0x1,uasummary=0x1,bootcompleted=true,boostinprogress=false,waitmodeenable=false,mode=false,manual=38,auto=-1,adj=0.0userId=0
+609 ready=true,policy=3,wakefulness=1,wksummary=0x1,uasummary=0x1,bootcompleted=true,boostinprogress=false,waitmodeenable=false,mode=false,manual=38,auto=-1,adj=0.0userId=0
+610 setLightsOn(true)
+611 setSystemUiVisibility vis=0 mask=1 oldVal=40000500 newVal=40000500 diff=0 fullscreenStackVis=0 dockedStackVis=0, fullscreenStackBounds=Rect(0, 0 - 0, 0), dockedStackBounds=Rect(0, 0 - 0, 0)
+612 ready=true,policy=3,wakefulness=1,wksummary=0x1,uasummary=0x1,bootcompleted=true,boostinprogress=false,waitmodeenable=false,mode=false,manual=38,auto=-1,adj=0.0userId=0
+613 shouldBlockLocation running ...
+614 shouldBlockLocation  ret:false
+615 userActivityNoUpdateLocked: eventTime=261872817, event=2, flags=0x0, uid=1000
+616 ready=true,policy=3,wakefulness=1,wksummary=0x1,uasummary=0x1,bootcompleted=true,boostinprogress=false,waitmodeenable=false,mode=false,manual=38,auto=-1,adj=0.0userId=0
+617 shouldBlockLocation running ...
+618 shouldBlockLocation  ret:false
+619 getNeighboringCellInfo calling app is com.amap.android.ams
+620 shouldBlockLocation running ...
+621 shouldBlockLocation  ret:false
+622 ready=true,policy=3,wakefulness=1,wksummary=0x1,uasummary=0x1,bootcompleted=true,boostinprogress=false,waitmodeenable=false,mode=false,manual=38,auto=-1,adj=0.0userId=0
+623 release:lock=60373518, flg=0x0, tag="RILJ_ACK_WL", name=com.android.phone", ws=null, uid=1001, pid=2626
+624 ready=true,policy=3,wakefulness=1,wksummary=0x1,uasummary=0x1,bootcompleted=true,boostinprogress=false,waitmodeenable=false,mode=false,manual=38,auto=-1,adj=0.0userId=0
+625 setLightsOn(true)
+626 setSystemUiVisibility vis=0 mask=1 oldVal=40000500 newVal=40000500 diff=0 fullscreenStackVis=0 dockedStackVis=0, fullscreenStackBounds=Rect(0, 0 - 0, 0), dockedStackBounds=Rect(0, 0 - 0, 0)
+627 ready=true,policy=3,wakefulness=1,wksummary=0x0,uasummary=0x1,bootcompleted=true,boostinprogress=false,waitmodeenable=false,mode=false,manual=38,auto=-1,adj=0.0userId=0
+628 Releasing suspend blocker "PowerManagerService.WakeLocks".
+629 shouldBlockLocation running ...
+630 shouldBlockLocation  ret:false
+631 ready=true,policy=3,wakefulness=1,wksummary=0x1,uasummary=0x1,bootcompleted=true,boostinprogress=false,waitmodeenable=false,mode=false,manual=38,auto=-1,adj=0.0userId=0
+632 Acquiring suspend blocker "PowerManagerService.WakeLocks".
+633 setLightsOn(true)
+634 setSystemUiVisibility vis=0 mask=1 oldVal=40000500 newVal=40000500 diff=0 fullscreenStackVis=0 dockedStackVis=0, fullscreenStackBounds=Rect(0, 0 - 0, 0), dockedStackBounds=Rect(0, 0 - 0, 0)
+635 ready=true,policy=3,wakefulness=1,wksummary=0x0,uasummary=0x1,bootcompleted=true,boostinprogress=false,waitmodeenable=false,mode=false,manual=38,auto=-1,adj=0.0userId=0
+636 Releasing suspend blocker "PowerManagerService.WakeLocks".
+637 ready=true,policy=3,wakefulness=1,wksummary=0x1,uasummary=0x1,bootcompleted=true,boostinprogress=false,waitmodeenable=false,mode=false,manual=38,auto=-1,adj=0.0userId=0
+638 Acquiring suspend blocker "PowerManagerService.WakeLocks".
+639 ready=true,policy=3,wakefulness=1,wksummary=0x0,uasummary=0x1,bootcompleted=true,boostinprogress=false,waitmodeenable=false,mode=false,manual=38,auto=-1,adj=0.0userId=0
+640 Releasing suspend blocker "PowerManagerService.WakeLocks".
+641 shouldBlockLocation running ...
+642 shouldBlockLocation  ret:false
+643 userActivityNoUpdateLocked: eventTime=261874138, event=2, flags=0x0, uid=1000
+644 ready=true,policy=3,wakefulness=1,wksummary=0x0,uasummary=0x1,bootcompleted=true,boostinprogress=false,waitmodeenable=false,mode=false,manual=38,auto=-1,adj=0.0userId=0
+645 setLightsOn(true)
+646 setSystemUiVisibility vis=0 mask=1 oldVal=40000500 newVal=40000500 diff=0 fullscreenStackVis=0 dockedStackVis=0, fullscreenStackBounds=Rect(0, 0 - 0, 0), dockedStackBounds=Rect(0, 0 - 0, 0)
+647 setLightsOn(true)
+648 setSystemUiVisibility vis=0 mask=1 oldVal=40000500 newVal=40000500 diff=0 fullscreenStackVis=0 dockedStackVis=0, fullscreenStackBounds=Rect(0, 0 - 0, 0), dockedStackBounds=Rect(0, 0 - 0, 0)
+649 setLightsOn(true)
+650 setSystemUiVisibility vis=0 mask=1 oldVal=40000500 newVal=40000500 diff=0 fullscreenStackVis=0 dockedStackVis=0, fullscreenStackBounds=Rect(0, 0 - 0, 0), dockedStackBounds=Rect(0, 0 - 0, 0)
+651 HBM brightnessIn =38
+652 HBM brightnessOut =38
+653 Animating brightness: target=38, rate=200
+654 getTasks: caller 10111 does not hold REAL_GET_TASKS; limiting output
+655 getTasks: caller 10111 does not hold REAL_GET_TASKS; limiting output
+656 userActivityNoUpdateLocked: eventTime=261875239, event=2, flags=0x0, uid=1000
+657 ready=true,policy=3,wakefulness=1,wksummary=0x0,uasummary=0x1,bootcompleted=true,boostinprogress=false,waitmodeenable=false,mode=false,manual=38,auto=-1,adj=0.0userId=0
+658 setLightsOn(true)
+659 setSystemUiVisibility vis=0 mask=1 oldVal=40000500 newVal=40000500 diff=0 fullscreenStackVis=0 dockedStackVis=0, fullscreenStackBounds=Rect(0, 0 - 0, 0), dockedStackBounds=Rect(0, 0 - 0, 0)
+660 setLightsOn(true)
+661 setSystemUiVisibility vis=0 mask=1 oldVal=40000500 newVal=40000500 diff=0 fullscreenStackVis=0 dockedStackVis=0, fullscreenStackBounds=Rect(0, 0 - 0, 0), dockedStackBounds=Rect(0, 0 - 0, 0)
+662 setLightsOn(true)
+663 setSystemUiVisibility vis=0 mask=1 oldVal=40000500 newVal=40000500 diff=0 fullscreenStackVis=0 dockedStackVis=0, fullscreenStackBounds=Rect(0, 0 - 0, 0), dockedStackBounds=Rect(0, 0 - 0, 0)
+664 setLightsOn(true)
+665 setSystemUiVisibility vis=0 mask=1 oldVal=40000500 newVal=40000500 diff=0 fullscreenStackVis=0 dockedStackVis=0, fullscreenStackBounds=Rect(0, 0 - 0, 0), dockedStackBounds=Rect(0, 0 - 0, 0)
+666 HBM brightnessIn =38
+667 HBM brightnessOut =38
+668 Animating brightness: target=38, rate=200
+669 userActivityNoUpdateLocked: eventTime=261879585, event=2, flags=0x0, uid=1000
+670 ready=true,policy=3,wakefulness=1,wksummary=0x0,uasummary=0x1,bootcompleted=true,boostinprogress=false,waitmodeenable=false,mode=false,manual=38,auto=-1,adj=0.0userId=0
+671 setLightsOn(true)
+672 setSystemUiVisibility vis=0 mask=1 oldVal=40000500 newVal=40000500 diff=0 fullscreenStackVis=0 dockedStackVis=0, fullscreenStackBounds=Rect(0, 0 - 0, 0), dockedStackBounds=Rect(0, 0 - 0, 0)
+673 Destroying surface Surface(name=PopupWindow:d76a91d) called by com.android.server.wm.WindowStateAnimator.destroySurface:2060 com.android.server.wm.WindowStateAnimator.destroySurfaceLocked:913 com.android.server.wm.WindowState.removeLocked:1554 com.android.server.wm.WindowManagerService.removeWindowInnerLocked:2739 com.android.server.wm.WindowManagerService.removeWindowInnerLocked:2702 com.android.server.wm.WindowManagerService.removeWindowLocked:2691 com.android.server.wm.WindowManagerService.removeWindowLocked:2560 com.android.server.wm.WindowManagerService.removeWindow:2555
+674 setLightsOn(true)
+675 setSystemUiVisibility vis=0 mask=1 oldVal=40000500 newVal=40000500 diff=0 fullscreenStackVis=0 dockedStackVis=0, fullscreenStackBounds=Rect(0, 0 - 0, 0), dockedStackBounds=Rect(0, 0 - 0, 0)
+676 Destroying surface Surface(name=PopupWindow:9b04807) called by com.android.server.wm.WindowStateAnimator.destroySurface:2060 com.android.server.wm.WindowStateAnimator.destroySurfaceLocked:913 com.android.server.wm.WindowState.removeLocked:1554 com.android.server.wm.WindowManagerService.removeWindowInnerLocked:2739 com.android.server.wm.WindowManagerService.removeWindowInnerLocked:2702 com.android.server.wm.WindowManagerService.removeWindowLocked:2691 com.android.server.wm.WindowManagerService.removeWindowLocked:2560 com.android.server.wm.WindowManagerService.removeWindow:2555
+677 setLightsOn(true)
+678 setSystemUiVisibility vis=0 mask=1 oldVal=40000500 newVal=40000500 diff=0 fullscreenStackVis=0 dockedStackVis=0, fullscreenStackBounds=Rect(0, 0 - 0, 0), dockedStackBounds=Rect(0, 0 - 0, 0)
+679 HBM brightnessIn =38
+680 HBM brightnessOut =38
+681 Animating brightness: target=38, rate=200
+682 userActivityNoUpdateLocked: eventTime=261880856, event=2, flags=0x0, uid=1000
+683 ready=true,policy=3,wakefulness=1,wksummary=0x0,uasummary=0x1,bootcompleted=true,boostinprogress=false,waitmodeenable=false,mode=false,manual=38,auto=-1,adj=0.0userId=0
+684 setLightsOn(true)
+685 setSystemUiVisibility vis=0 mask=1 oldVal=40000500 newVal=40000500 diff=0 fullscreenStackVis=0 dockedStackVis=0, fullscreenStackBounds=Rect(0, 0 - 0, 0), dockedStackBounds=Rect(0, 0 - 0, 0)
+686 setLightsOn(true)
+687 setSystemUiVisibility vis=0 mask=1 oldVal=40000500 newVal=40000500 diff=0 fullscreenStackVis=0 dockedStackVis=0, fullscreenStackBounds=Rect(0, 0 - 0, 0), dockedStackBounds=Rect(0, 0 - 0, 0)
+688 setLightsOn(true)
+689 setSystemUiVisibility vis=0 mask=1 oldVal=40000500 newVal=40000500 diff=0 fullscreenStackVis=0 dockedStackVis=0, fullscreenStackBounds=Rect(0, 0 - 0, 0), dockedStackBounds=Rect(0, 0 - 0, 0)
+690 setLightsOn(true)
+691 setSystemUiVisibility vis=0 mask=1 oldVal=40000500 newVal=40000500 diff=0 fullscreenStackVis=0 dockedStackVis=0, fullscreenStackBounds=Rect(0, 0 - 0, 0), dockedStackBounds=Rect(0, 0 - 0, 0)
+692 getRunningAppProcesses: caller 10113 does not hold REAL_GET_TASKS; limiting output
+693 setLightsOn(true)
+694 setSystemUiVisibility vis=0 mask=1 oldVal=40000500 newVal=40000500 diff=0 fullscreenStackVis=0 dockedStackVis=0, fullscreenStackBounds=Rect(0, 0 - 0, 0), dockedStackBounds=Rect(0, 0 - 0, 0)
+695 setLightsOn(true)
+696 setSystemUiVisibility vis=0 mask=1 oldVal=40000500 newVal=40000500 diff=0 fullscreenStackVis=0 dockedStackVis=0, fullscreenStackBounds=Rect(0, 0 - 0, 0), dockedStackBounds=Rect(0, 0 - 0, 0)
+697 userActivityNoUpdateLocked: eventTime=261881405, event=2, flags=0x0, uid=1000
+698 ready=true,policy=3,wakefulness=1,wksummary=0x0,uasummary=0x1,bootcompleted=true,boostinprogress=false,waitmodeenable=false,mode=false,manual=38,auto=-1,adj=0.0userId=0
+699 setLightsOn(true)
+700 setSystemUiVisibility vis=0 mask=1 oldVal=40000500 newVal=40000500 diff=0 fullscreenStackVis=0 dockedStackVis=0, fullscreenStackBounds=Rect(0, 0 - 0, 0), dockedStackBounds=Rect(0, 0 - 0, 0)
+701 setLightsOn(true)
+702 setSystemUiVisibility vis=0 mask=1 oldVal=40000500 newVal=40000500 diff=0 fullscreenStackVis=0 dockedStackVis=0, fullscreenStackBounds=Rect(0, 0 - 0, 0), dockedStackBounds=Rect(0, 0 - 0, 0)
+703 setLightsOn(true)
+704 setSystemUiVisibility vis=0 mask=1 oldVal=40000500 newVal=40000500 diff=0 fullscreenStackVis=0 dockedStackVis=0, fullscreenStackBounds=Rect(0, 0 - 0, 0), dockedStackBounds=Rect(0, 0 - 0, 0)
+705 setLightsOn(true)
+706 setSystemUiVisibility vis=0 mask=1 oldVal=40000500 newVal=40000500 diff=0 fullscreenStackVis=0 dockedStackVis=0, fullscreenStackBounds=Rect(0, 0 - 0, 0), dockedStackBounds=Rect(0, 0 - 0, 0)
+707 getRunningAppProcesses: caller 10113 does not hold REAL_GET_TASKS; limiting output
+708 userActivityNoUpdateLocked: eventTime=261883596, event=2, flags=0x0, uid=1000
+709 ready=true,policy=3,wakefulness=1,wksummary=0x0,uasummary=0x1,bootcompleted=true,boostinprogress=false,waitmodeenable=false,mode=false,manual=38,auto=-1,adj=0.0userId=0
+710 setLightsOn(true)
+711 setSystemUiVisibility vis=0 mask=1 oldVal=40000500 newVal=40000500 diff=0 fullscreenStackVis=0 dockedStackVis=0, fullscreenStackBounds=Rect(0, 0 - 0, 0), dockedStackBounds=Rect(0, 0 - 0, 0)
+712 setLightsOn(true)
+713 setSystemUiVisibility vis=0 mask=1 oldVal=40000500 newVal=40000500 diff=0 fullscreenStackVis=0 dockedStackVis=0, fullscreenStackBounds=Rect(0, 0 - 0, 0), dockedStackBounds=Rect(0, 0 - 0, 0)
+714 HBM brightnessIn =38
+715 HBM brightnessOut =38
+716 Animating brightness: target=38, rate=200
+717 setLightsOn(true)
+718 setSystemUiVisibility vis=0 mask=1 oldVal=40000500 newVal=40000500 diff=0 fullscreenStackVis=0 dockedStackVis=0, fullscreenStackBounds=Rect(0, 0 - 0, 0), dockedStackBounds=Rect(0, 0 - 0, 0)
+719 HBM brightnessIn =38
+720 HBM brightnessOut =38
+721 Animating brightness: target=38, rate=200
+722 userActivityNoUpdateLocked: eventTime=261884464, event=2, flags=0x0, uid=1000
+723 ready=true,policy=3,wakefulness=1,wksummary=0x0,uasummary=0x1,bootcompleted=true,boostinprogress=false,waitmodeenable=false,mode=false,manual=38,auto=-1,adj=0.0userId=0
+724 setLightsOn(true)
+725 setSystemUiVisibility vis=0 mask=1 oldVal=40000500 newVal=40000500 diff=0 fullscreenStackVis=0 dockedStackVis=0, fullscreenStackBounds=Rect(0, 0 - 0, 0), dockedStackBounds=Rect(0, 0 - 0, 0)
+726 isMusicActive...
+727 setLightsOn(true)
+728 setSystemUiVisibility vis=0 mask=1 oldVal=40000500 newVal=40000500 diff=0 fullscreenStackVis=0 dockedStackVis=0, fullscreenStackBounds=Rect(0, 0 - 0, 0), dockedStackBounds=Rect(0, 0 - 0, 0)
+729 setLightsOn(true)
+730 setSystemUiVisibility vis=0 mask=1 oldVal=40000500 newVal=40000500 diff=0 fullscreenStackVis=0 dockedStackVis=0, fullscreenStackBounds=Rect(0, 0 - 0, 0), dockedStackBounds=Rect(0, 0 - 0, 0)
+731 setLightsOn(true)
+732 setSystemUiVisibility vis=0 mask=1 oldVal=40000500 newVal=40000500 diff=0 fullscreenStackVis=0 dockedStackVis=0, fullscreenStackBounds=Rect(0, 0 - 0, 0), dockedStackBounds=Rect(0, 0 - 0, 0)
+733 userActivityNoUpdateLocked: eventTime=261885300, event=2, flags=0x0, uid=1000
+734 ready=true,policy=3,wakefulness=1,wksummary=0x0,uasummary=0x1,bootcompleted=true,boostinprogress=false,waitmodeenable=false,mode=false,manual=38,auto=-1,adj=0.0userId=0
+735 setLightsOn(true)
+736 setSystemUiVisibility vis=0 mask=1 oldVal=40000500 newVal=40000500 diff=0 fullscreenStackVis=0 dockedStackVis=0, fullscreenStackBounds=Rect(0, 0 - 0, 0), dockedStackBounds=Rect(0, 0 - 0, 0)
+737 userActivityNoUpdateLocked: eventTime=261885816, event=2, flags=0x0, uid=1000
+738 ready=true,policy=3,wakefulness=1,wksummary=0x0,uasummary=0x1,bootcompleted=true,boostinprogress=false,waitmodeenable=false,mode=false,manual=38,auto=-1,adj=0.0userId=0
+739 setLightsOn(true)
+740 setSystemUiVisibility vis=0 mask=1 oldVal=40000500 newVal=40000500 diff=0 fullscreenStackVis=0 dockedStackVis=0, fullscreenStackBounds=Rect(0, 0 - 0, 0), dockedStackBounds=Rect(0, 0 - 0, 0)
+741 setLightsOn(true)
+742 setSystemUiVisibility vis=0 mask=1 oldVal=40000500 newVal=40000500 diff=0 fullscreenStackVis=0 dockedStackVis=0, fullscreenStackBounds=Rect(0, 0 - 0, 0), dockedStackBounds=Rect(0, 0 - 0, 0)
+743 setLightsOn(true)
+744 setSystemUiVisibility vis=0 mask=1 oldVal=40000500 newVal=40000500 diff=0 fullscreenStackVis=0 dockedStackVis=0, fullscreenStackBounds=Rect(0, 0 - 0, 0), dockedStackBounds=Rect(0, 0 - 0, 0)
+745 setLightsOn(true)
+746 setSystemUiVisibility vis=0 mask=1 oldVal=40000500 newVal=40000500 diff=0 fullscreenStackVis=0 dockedStackVis=0, fullscreenStackBounds=Rect(0, 0 - 0, 0), dockedStackBounds=Rect(0, 0 - 0, 0)
+747 userActivityNoUpdateLocked: eventTime=261886520, event=2, flags=0x0, uid=1000
+748 ready=true,policy=3,wakefulness=1,wksummary=0x0,uasummary=0x1,bootcompleted=true,boostinprogress=false,waitmodeenable=false,mode=false,manual=38,auto=-1,adj=0.0userId=0
+749 setLightsOn(true)
+750 setSystemUiVisibility vis=0 mask=1 oldVal=40000500 newVal=40000500 diff=0 fullscreenStackVis=0 dockedStackVis=0, fullscreenStackBounds=Rect(0, 0 - 0, 0), dockedStackBounds=Rect(0, 0 - 0, 0)
+751 userActivityNoUpdateLocked: eventTime=261887070, event=2, flags=0x0, uid=1000
+752 ready=true,policy=3,wakefulness=1,wksummary=0x0,uasummary=0x1,bootcompleted=true,boostinprogress=false,waitmodeenable=false,mode=false,manual=38,auto=-1,adj=0.0userId=0
+753 playSoundEffect   effectType: 0
+754 querySoundEffectsEnabled...
+755 Destroying surface Surface(name=PopupWindow:9b04807) called by com.android.server.wm.WindowStateAnimator.destroySurface:2060 com.android.server.wm.WindowStateAnimator.destroySurfaceLocked:913 com.android.server.wm.WindowState.removeLocked:1554 com.android.server.wm.WindowManagerService.removeWindowInnerLocked:2739 com.android.server.wm.WindowManagerService.removeWindowInnerLocked:2702 com.android.server.wm.WindowManagerService.removeWindowLocked:2691 com.android.server.wm.WindowManagerService.removeWindowLocked:2560 com.android.server.wm.WindowManagerService.removeWindow:2555
+756 setLightsOn(true)
+757 setSystemUiVisibility vis=0 mask=1 oldVal=40000500 newVal=40000500 diff=0 fullscreenStackVis=0 dockedStackVis=0, fullscreenStackBounds=Rect(0, 0 - 0, 0), dockedStackBounds=Rect(0, 0 - 0, 0)
+758 Destroying surface Surface(name=PopupWindow:317e46) called by com.android.server.wm.WindowStateAnimator.destroySurface:2060 com.android.server.wm.WindowStateAnimator.destroySurfaceLocked:913 com.android.server.wm.WindowState.removeLocked:1554 com.android.server.wm.WindowManagerService.removeWindowInnerLocked:2739 com.android.server.wm.WindowManagerService.removeWindowInnerLocked:2702 com.android.server.wm.WindowManagerService.removeWindowLocked:2691 com.android.server.wm.WindowManagerService.removeWindowLocked:2560 com.android.server.wm.WindowManagerService.removeWindow:2555
+759 setLightsOn(true)
+760 setSystemUiVisibility vis=0 mask=1 oldVal=40000500 newVal=40000500 diff=0 fullscreenStackVis=0 dockedStackVis=0, fullscreenStackBounds=Rect(0, 0 - 0, 0), dockedStackBounds=Rect(0, 0 - 0, 0)
+761 setLightsOn(true)
+762 setSystemUiVisibility vis=0 mask=1 oldVal=40000500 newVal=40000500 diff=0 fullscreenStackVis=0 dockedStackVis=0, fullscreenStackBounds=Rect(0, 0 - 0, 0), dockedStackBounds=Rect(0, 0 - 0, 0)
+763 setLightsOn(true)
+764 setSystemUiVisibility vis=0 mask=1 oldVal=40000500 newVal=40000500 diff=0 fullscreenStackVis=0 dockedStackVis=0, fullscreenStackBounds=Rect(0, 0 - 0, 0), dockedStackBounds=Rect(0, 0 - 0, 0)
+765 setLightsOn(true)
+766 setSystemUiVisibility vis=0 mask=1 oldVal=40000500 newVal=40000500 diff=0 fullscreenStackVis=0 dockedStackVis=0, fullscreenStackBounds=Rect(0, 0 - 0, 0), dockedStackBounds=Rect(0, 0 - 0, 0)
+767 setLightsOn(true)
+768 setSystemUiVisibility vis=0 mask=1 oldVal=40000500 newVal=40000500 diff=0 fullscreenStackVis=0 dockedStackVis=0, fullscreenStackBounds=Rect(0, 0 - 0, 0), dockedStackBounds=Rect(0, 0 - 0, 0)
+769 HBM brightnessIn =38
+770 HBM brightnessOut =38
+771 Animating brightness: target=38, rate=200
+772 getRunningAppProcesses: caller 10113 does not hold REAL_GET_TASKS; limiting output
+773 getTasks: caller 10111 does not hold REAL_GET_TASKS; limiting output
+774 getTasks: caller 10111 does not hold REAL_GET_TASKS; limiting output
+775 getTasks: caller 10111 does not hold REAL_GET_TASKS; limiting output
+776 getTasks: caller 10111 does not hold REAL_GET_TASKS; limiting output
+777 getRunningAppProcesses: caller 10111 does not hold REAL_GET_TASKS; limiting output
+778 isMusicActive...
+779 sending alarm Alarm{19069ff type 3 when 509169377 PendingIntent{50303cc: PendingIntentRecord{e204f60 com.android.phone broadcastIntent}}},repeatInterval = 0,listenerTag =null
+780 ready=true,policy=3,wakefulness=1,wksummary=0x1,uasummary=0x1,bootcompleted=true,boostinprogress=false,waitmodeenable=false,mode=false,manual=38,auto=-1,adj=0.0userId=0
+781 Acquiring suspend blocker "PowerManagerService.WakeLocks".
+782 Killing 23484:com.android.calendar/u0a13 (adj 906): empty for 1810s
+783 ready=true,policy=3,wakefulness=1,wksummary=0x0,uasummary=0x1,bootcompleted=true,boostinprogress=false,waitmodeenable=false,mode=false,manual=38,auto=-1,adj=0.0userId=0
+784 Releasing suspend blocker "PowerManagerService.WakeLocks".
+785 stopWifiDisplayScanLocked record.mWifiDisplayScanRequested=false
+786 stopWifiDisplayScanLocked mWifiDisplayScanRequestCount=0
+787 cleanUpApplicationRecord -- 5784
+788 cleanUpApplicationRecordLocked, pid: 5784, restart: false
+789 cleanUpApplicationRecordLocked, reset pid: 5784, euid: 0
+790 stopWifiDisplayScanLocked record.mWifiDisplayScanRequested=false
+791 stopWifiDisplayScanLocked mWifiDisplayScanRequestCount=0
+792 cleanUpApplicationRecord -- 23484
+793 cleanUpApplicationRecordLocked, pid: 23484, restart: false
+794 cleanUpApplicationRecordLocked, reset pid: 23484, euid: 0
+795 stopWifiDisplayScanLocked record.mWifiDisplayScanRequested=false
+796 stopWifiDisplayScanLocked mWifiDisplayScanRequestCount=0
+797 cleanUpApplicationRecord -- 5769
+798 cleanUpApplicationRecordLocked, pid: 5769, restart: false
+799 cleanUpApplicationRecordLocked, reset pid: 5769, euid: 0
+800 HBM brightnessIn =38
+801 HBM brightnessOut =38
+802 Animating brightness: target=38, rate=200
+803 HBM brightnessIn =38
+804 HBM brightnessOut =38
+805 Animating brightness: target=38, rate=200
+806 HBM brightnessIn =38
+807 HBM brightnessOut =38
+808 Animating brightness: target=38, rate=200
+809 getRunningAppProcesses: caller 10091 does not hold REAL_GET_TASKS; limiting output
+810 getTasks: caller 10111 does not hold REAL_GET_TASKS; limiting output
+811 getTasks: caller 10111 does not hold REAL_GET_TASKS; limiting output
+812 HBM brightnessIn =38
+813 HBM brightnessOut =38
+814 Animating brightness: target=38, rate=200
+815 HBM brightnessIn =38
+816 HBM brightnessOut =38
+817 Animating brightness: target=38, rate=200
+818 HBM brightnessIn =38
+819 HBM brightnessOut =38
+820 Animating brightness: target=38, rate=200
+821 HBM brightnessIn =38
+822 HBM brightnessOut =38
+823 Animating brightness: target=38, rate=200
+824 getRunningAppProcesses: caller 10113 does not hold REAL_GET_TASKS; limiting output
+825 getRunningAppProcesses: caller 10113 does not hold REAL_GET_TASKS; limiting output
+826 HBM brightnessIn =38
+827 HBM brightnessOut =38
+828 Animating brightness: target=38, rate=200
+829 getRunningAppProcesses: caller 10111 does not hold REAL_GET_TASKS; limiting output
+830 HBM brightnessIn =38
+831 HBM brightnessOut =38
+832 Animating brightness: target=38, rate=200
+833 HBM brightnessIn =38
+834 HBM brightnessOut =38
+835 Animating brightness: target=38, rate=200
+836 isMusicActive...
+837 HBM brightnessIn =38
+838 HBM brightnessOut =38
+839 Animating brightness: target=38, rate=200
+840 getRunningAppProcesses: caller 10113 does not hold REAL_GET_TASKS; limiting output
+841 getRunningAppProcesses: caller 10113 does not hold REAL_GET_TASKS; limiting output
+842 getRunningAppProcesses: caller 10111 does not hold REAL_GET_TASKS; limiting output
+843 isMusicActive...
+844 ready=true,policy=3,wakefulness=1,wksummary=0x1,uasummary=0x1,bootcompleted=true,boostinprogress=false,waitmodeenable=false,mode=false,manual=38,auto=-1,adj=0.0userId=0
+845 Acquiring suspend blocker "PowerManagerService.WakeLocks".
+846 ready=true,policy=3,wakefulness=1,wksummary=0x0,uasummary=0x1,bootcompleted=true,boostinprogress=false,waitmodeenable=false,mode=false,manual=38,auto=-1,adj=0.0userId=0
+847 Releasing suspend blocker "PowerManagerService.WakeLocks".
+848 HBM brightnessIn =38
+849 HBM brightnessOut =38
+850 Animating brightness: target=38, rate=200
+851 HBM brightnessIn =38
+852 HBM brightnessOut =38
+853 Animating brightness: target=38, rate=200
+854 sending alarm Alarm{c1705d3 type 3 when 509202333 PendingIntent{1749923: PendingIntentRecord{9600e20 android broadcastIntent}}},repeatInterval = 0,listenerTag =time_tick
+855 ready=true,policy=3,wakefulness=1,wksummary=0x1,uasummary=0x1,bootcompleted=true,boostinprogress=false,waitmodeenable=false,mode=false,manual=38,auto=-1,adj=0.0userId=0
+856 Acquiring suspend blocker "PowerManagerService.WakeLocks".
+857 Received TIME_TICK alarm; rescheduling
+858 scheduleTimeTickEvent triggerAtTime = 509262332
+859 updateClipping isOverlap:false, getTopPadding=333.0, Translation=0.0
+860 updateDimmedActivatedHideSensitive overlap:false
+861 updateClipping isOverlap:false, getTopPadding=333.0, Translation=0.0
+862 updateDimmedActivatedHideSensitive overlap:false
+863 received broadcast android.intent.action.TIME_TICK
+864 handleTimeUpdate
+865 getRunningAppProcesses: caller 10113 does not hold REAL_GET_TASKS; limiting output
+866 ready=true,policy=3,wakefulness=1,wksummary=0x0,uasummary=0x1,bootcompleted=true,boostinprogress=false,waitmodeenable=false,mode=false,manual=38,auto=-1,adj=0.0userId=0
+867 Releasing suspend blocker "PowerManagerService.WakeLocks".
+868 acquire lock=134680583, flags=0x1, tag="RILJ_ACK_WL", name=com.android.phone, ws=null, uid=1001, pid=2626
+869 ready=true,policy=3,wakefulness=1,wksummary=0x1,uasummary=0x1,bootcompleted=true,boostinprogress=false,waitmodeenable=false,mode=false,manual=38,auto=-1,adj=0.0userId=0
+870 Acquiring suspend blocker "PowerManagerService.WakeLocks".
+871 remove(PendingIntent{e4e2534: PendingIntentRecord{e204f60 com.android.phone broadcastIntent}}) changed bounds; rebatching
+872 release:lock=134680583, flg=0x0, tag="RILJ_ACK_WL", name=com.android.phone", ws=null, uid=1001, pid=2626
+873 ready=true,policy=3,wakefulness=1,wksummary=0x0,uasummary=0x1,bootcompleted=true,boostinprogress=false,waitmodeenable=false,mode=false,manual=38,auto=-1,adj=0.0userId=0
+874 Releasing suspend blocker "PowerManagerService.WakeLocks".
+875 getRunningAppProcesses: caller 10113 does not hold REAL_GET_TASKS; limiting output
+876 acquire lock=134680583, flags=0x1, tag="RILJ_ACK_WL", name=com.android.phone, ws=null, uid=1001, pid=2626
+877 ready=true,policy=3,wakefulness=1,wksummary=0x1,uasummary=0x1,bootcompleted=true,boostinprogress=false,waitmodeenable=false,mode=false,manual=38,auto=-1,adj=0.0userId=0
+878 Acquiring suspend blocker "PowerManagerService.WakeLocks".
+879 acquire lock=134680583, flags=0x1, tag="RILJ_ACK_WL", name=com.android.phone, ws=null, uid=1001, pid=2626
+880 ready=true,policy=3,wakefulness=1,wksummary=0x1,uasummary=0x1,bootcompleted=true,boostinprogress=false,waitmodeenable=false,mode=false,manual=38,auto=-1,adj=0.0userId=0
+881 ready=true,policy=3,wakefulness=1,wksummary=0x1,uasummary=0x1,bootcompleted=true,boostinprogress=false,waitmodeenable=false,mode=false,manual=38,auto=-1,adj=0.0userId=0
+882 ready=true,policy=3,wakefulness=1,wksummary=0x1,uasummary=0x1,bootcompleted=true,boostinprogress=false,waitmodeenable=false,mode=false,manual=38,auto=-1,adj=0.0userId=0
+883 ready=true,policy=3,wakefulness=1,wksummary=0x1,uasummary=0x1,bootcompleted=true,boostinprogress=false,waitmodeenable=false,mode=false,manual=38,auto=-1,adj=0.0userId=0
+884 ready=true,policy=3,wakefulness=1,wksummary=0x1,uasummary=0x1,bootcompleted=true,boostinprogress=false,waitmodeenable=false,mode=false,manual=38,auto=-1,adj=0.0userId=0
+885 ready=true,policy=3,wakefulness=1,wksummary=0x1,uasummary=0x1,bootcompleted=true,boostinprogress=false,waitmodeenable=false,mode=false,manual=38,auto=-1,adj=0.0userId=0
+886 shouldBlockLocation running ...
+887 shouldBlockLocation  ret:false
+888 shouldBlockLocation running ...
+889 shouldBlockLocation  ret:false
+890 release:lock=134680583, flg=0x0, tag="RILJ_ACK_WL", name=com.android.phone", ws=null, uid=1001, pid=2626
+891 ready=true,policy=3,wakefulness=1,wksummary=0x0,uasummary=0x1,bootcompleted=true,boostinprogress=false,waitmodeenable=false,mode=false,manual=38,auto=-1,adj=0.0userId=0
+892 Releasing suspend blocker "PowerManagerService.WakeLocks".
+893 getNeighboringCellInfo calling app is com.amap.android.ams
+894 shouldBlockLocation running ...
+895 shouldBlockLocation  ret:false
+896 ready=true,policy=3,wakefulness=1,wksummary=0x1,uasummary=0x1,bootcompleted=true,boostinprogress=false,waitmodeenable=false,mode=false,manual=38,auto=-1,adj=0.0userId=0
+897 Acquiring suspend blocker "PowerManagerService.WakeLocks".
+898 ready=true,policy=3,wakefulness=1,wksummary=0x0,uasummary=0x1,bootcompleted=true,boostinprogress=false,waitmodeenable=false,mode=false,manual=38,auto=-1,adj=0.0userId=0
+899 Releasing suspend blocker "PowerManagerService.WakeLocks".
+900 shouldBlockLocation running ...
+901 shouldBlockLocation  ret:false
+902 ready=true,policy=3,wakefulness=1,wksummary=0x1,uasummary=0x1,bootcompleted=true,boostinprogress=false,waitmodeenable=false,mode=false,manual=38,auto=-1,adj=0.0userId=0
+903 Acquiring suspend blocker "PowerManagerService.WakeLocks".
+904 ready=true,policy=3,wakefulness=1,wksummary=0x0,uasummary=0x1,bootcompleted=true,boostinprogress=false,waitmodeenable=false,mode=false,manual=38,auto=-1,adj=0.0userId=0
+905 Releasing suspend blocker "PowerManagerService.WakeLocks".
+906 ready=true,policy=3,wakefulness=1,wksummary=0x1,uasummary=0x1,bootcompleted=true,boostinprogress=false,waitmodeenable=false,mode=false,manual=38,auto=-1,adj=0.0userId=0
+907 Acquiring suspend blocker "PowerManagerService.WakeLocks".
+908 ready=true,policy=3,wakefulness=1,wksummary=0x0,uasummary=0x1,bootcompleted=true,boostinprogress=false,waitmodeenable=false,mode=false,manual=38,auto=-1,adj=0.0userId=0
+909 Releasing suspend blocker "PowerManagerService.WakeLocks".
+910 shouldBlockLocation running ...
+911 shouldBlockLocation  ret:false
+912 HBM brightnessIn =38
+913 HBM brightnessOut =38
+914 Animating brightness: target=38, rate=200
+915 Unable to start service Intent { act=com.tencent.android.tpush.action.keepalive cmp=com.qqgame.hlddz/com.tencent.android.tpush.service.XGPushService } U=0: not found
+916 ready=true,policy=3,wakefulness=1,wksummary=0x1,uasummary=0x1,bootcompleted=true,boostinprogress=false,waitmodeenable=false,mode=false,manual=38,auto=-1,adj=0.0userId=0
+917 Acquiring suspend blocker "PowerManagerService.WakeLocks".
+918 getRunningAppProcesses: caller 10091 does not hold REAL_GET_TASKS; limiting output
+919 getRunningAppProcesses: caller 10091 does not hold REAL_GET_TASKS; limiting output
+920 ready=true,policy=3,wakefulness=1,wksummary=0x0,uasummary=0x1,bootcompleted=true,boostinprogress=false,waitmodeenable=false,mode=false,manual=38,auto=-1,adj=0.0userId=0
+921 Releasing suspend blocker "PowerManagerService.WakeLocks".
+922 acquire lock=120758482, flags=0x1, tag="RILJ_ACK_WL", name=com.android.phone, ws=null, uid=1001, pid=2626
+923 ready=true,policy=3,wakefulness=1,wksummary=0x1,uasummary=0x1,bootcompleted=true,boostinprogress=false,waitmodeenable=false,mode=false,manual=38,auto=-1,adj=0.0userId=0
+924 Acquiring suspend blocker "PowerManagerService.WakeLocks".
+925 release:lock=120758482, flg=0x0, tag="RILJ_ACK_WL", name=com.android.phone", ws=null, uid=1001, pid=2626
+926 ready=true,policy=3,wakefulness=1,wksummary=0x0,uasummary=0x1,bootcompleted=true,boostinprogress=false,waitmodeenable=false,mode=false,manual=38,auto=-1,adj=0.0userId=0
+927 Releasing suspend blocker "PowerManagerService.WakeLocks".
+928 acquire lock=120758482, flags=0x1, tag="RILJ_ACK_WL", name=com.android.phone, ws=null, uid=1001, pid=2626
+929 ready=true,policy=3,wakefulness=1,wksummary=0x1,uasummary=0x1,bootcompleted=true,boostinprogress=false,waitmodeenable=false,mode=false,manual=38,auto=-1,adj=0.0userId=0
+930 Acquiring suspend blocker "PowerManagerService.WakeLocks".
+931 acquire lock=120758482, flags=0x1, tag="RILJ_ACK_WL", name=com.android.phone, ws=null, uid=1001, pid=2626
+932 ready=true,policy=3,wakefulness=1,wksummary=0x1,uasummary=0x1,bootcompleted=true,boostinprogress=false,waitmodeenable=false,mode=false,manual=38,auto=-1,adj=0.0userId=0
+933 ready=true,policy=3,wakefulness=1,wksummary=0x1,uasummary=0x1,bootcompleted=true,boostinprogress=false,waitmodeenable=false,mode=false,manual=38,auto=-1,adj=0.0userId=0
+934 ready=true,policy=3,wakefulness=1,wksummary=0x1,uasummary=0x1,bootcompleted=true,boostinprogress=false,waitmodeenable=false,mode=false,manual=38,auto=-1,adj=0.0userId=0
+935 ready=true,policy=3,wakefulness=1,wksummary=0x1,uasummary=0x1,bootcompleted=true,boostinprogress=false,waitmodeenable=false,mode=false,manual=38,auto=-1,adj=0.0userId=0
+936 ready=true,policy=3,wakefulness=1,wksummary=0x1,uasummary=0x1,bootcompleted=true,boostinprogress=false,waitmodeenable=false,mode=false,manual=38,auto=-1,adj=0.0userId=0
+937 ready=true,policy=3,wakefulness=1,wksummary=0x1,uasummary=0x1,bootcompleted=true,boostinprogress=false,waitmodeenable=false,mode=false,manual=38,auto=-1,adj=0.0userId=0
+938 shouldBlockLocation running ...
+939 shouldBlockLocation  ret:false
+940 shouldBlockLocation running ...
+941 shouldBlockLocation  ret:false
+942 getNeighboringCellInfo calling app is com.amap.android.ams
+943 shouldBlockLocation running ...
+944 shouldBlockLocation  ret:false
+945 ready=true,policy=3,wakefulness=1,wksummary=0x1,uasummary=0x1,bootcompleted=true,boostinprogress=false,waitmodeenable=false,mode=false,manual=38,auto=-1,adj=0.0userId=0
+946 release:lock=120758482, flg=0x0, tag="RILJ_ACK_WL", name=com.android.phone", ws=null, uid=1001, pid=2626
+947 ready=true,policy=3,wakefulness=1,wksummary=0x1,uasummary=0x1,bootcompleted=true,boostinprogress=false,waitmodeenable=false,mode=false,manual=38,auto=-1,adj=0.0userId=0
+948 ready=true,policy=3,wakefulness=1,wksummary=0x0,uasummary=0x1,bootcompleted=true,boostinprogress=false,waitmodeenable=false,mode=false,manual=38,auto=-1,adj=0.0userId=0
+949 Releasing suspend blocker "PowerManagerService.WakeLocks".
+950 shouldBlockLocation running ...
+951 shouldBlockLocation  ret:false
+952 ready=true,policy=3,wakefulness=1,wksummary=0x1,uasummary=0x1,bootcompleted=true,boostinprogress=false,waitmodeenable=false,mode=false,manual=38,auto=-1,adj=0.0userId=0
+953 Acquiring suspend blocker "PowerManagerService.WakeLocks".
+954 ready=true,policy=3,wakefulness=1,wksummary=0x0,uasummary=0x1,bootcompleted=true,boostinprogress=false,waitmodeenable=false,mode=false,manual=38,auto=-1,adj=0.0userId=0
+955 Releasing suspend blocker "PowerManagerService.WakeLocks".
+956 ready=true,policy=3,wakefulness=1,wksummary=0x1,uasummary=0x1,bootcompleted=true,boostinprogress=false,waitmodeenable=false,mode=false,manual=38,auto=-1,adj=0.0userId=0
+957 Acquiring suspend blocker "PowerManagerService.WakeLocks".
+958 ready=true,policy=3,wakefulness=1,wksummary=0x0,uasummary=0x1,bootcompleted=true,boostinprogress=false,waitmodeenable=false,mode=false,manual=38,auto=-1,adj=0.0userId=0
+959 Releasing suspend blocker "PowerManagerService.WakeLocks".
+960 shouldBlockLocation running ...
+961 shouldBlockLocation  ret:false
+962 HBM brightnessIn =38
+963 HBM brightnessOut =38
+964 Animating brightness: target=38, rate=200
+965 acquire lock=120758482, flags=0x1, tag="RILJ_ACK_WL", name=com.android.phone, ws=null, uid=1001, pid=2626
+966 ready=true,policy=3,wakefulness=1,wksummary=0x1,uasummary=0x1,bootcompleted=true,boostinprogress=false,waitmodeenable=false,mode=false,manual=38,auto=-1,adj=0.0userId=0
+967 Acquiring suspend blocker "PowerManagerService.WakeLocks".
+968 acquire lock=120758482, flags=0x1, tag="RILJ_ACK_WL", name=com.android.phone, ws=null, uid=1001, pid=2626
+969 ready=true,policy=3,wakefulness=1,wksummary=0x1,uasummary=0x1,bootcompleted=true,boostinprogress=false,waitmodeenable=false,mode=false,manual=38,auto=-1,adj=0.0userId=0
+970 ready=true,policy=3,wakefulness=1,wksummary=0x1,uasummary=0x1,bootcompleted=true,boostinprogress=false,waitmodeenable=false,mode=false,manual=38,auto=-1,adj=0.0userId=0
+971 ready=true,policy=3,wakefulness=1,wksummary=0x1,uasummary=0x1,bootcompleted=true,boostinprogress=false,waitmodeenable=false,mode=false,manual=38,auto=-1,adj=0.0userId=0
+972 ready=true,policy=3,wakefulness=1,wksummary=0x1,uasummary=0x1,bootcompleted=true,boostinprogress=false,waitmodeenable=false,mode=false,manual=38,auto=-1,adj=0.0userId=0
+973 ready=true,policy=3,wakefulness=1,wksummary=0x1,uasummary=0x1,bootcompleted=true,boostinprogress=false,waitmodeenable=false,mode=false,manual=38,auto=-1,adj=0.0userId=0
+974 ready=true,policy=3,wakefulness=1,wksummary=0x1,uasummary=0x1,bootcompleted=true,boostinprogress=false,waitmodeenable=false,mode=false,manual=38,auto=-1,adj=0.0userId=0
+975 shouldBlockLocation running ...
+976 shouldBlockLocation  ret:false
+977 shouldBlockLocation running ...
+978 shouldBlockLocation  ret:false
+979 release:lock=120758482, flg=0x0, tag="RILJ_ACK_WL", name=com.android.phone", ws=null, uid=1001, pid=2626
+980 ready=true,policy=3,wakefulness=1,wksummary=0x0,uasummary=0x1,bootcompleted=true,boostinprogress=false,waitmodeenable=false,mode=false,manual=38,auto=-1,adj=0.0userId=0
+981 Releasing suspend blocker "PowerManagerService.WakeLocks".
+982 getNeighboringCellInfo calling app is com.amap.android.ams
+983 shouldBlockLocation running ...
+984 shouldBlockLocation  ret:false
+985 ready=true,policy=3,wakefulness=1,wksummary=0x1,uasummary=0x1,bootcompleted=true,boostinprogress=false,waitmodeenable=false,mode=false,manual=38,auto=-1,adj=0.0userId=0
+986 Acquiring suspend blocker "PowerManagerService.WakeLocks".
+987 ready=true,policy=3,wakefulness=1,wksummary=0x0,uasummary=0x1,bootcompleted=true,boostinprogress=false,waitmodeenable=false,mode=false,manual=38,auto=-1,adj=0.0userId=0
+988 Releasing suspend blocker "PowerManagerService.WakeLocks".
+989 shouldBlockLocation running ...
+990 shouldBlockLocation  ret:false
+991 shouldBlockLocation running ...
+992 shouldBlockLocation  ret:false
+993 HBM brightnessIn =38
+994 HBM brightnessOut =38
+995 Animating brightness: target=38, rate=200
+996 HBM brightnessIn =38
+997 HBM brightnessOut =38
+998 Animating brightness: target=38, rate=200
+999 getRunningAppProcesses: caller 10111 does not hold REAL_GET_TASKS; limiting output
+1000 unregisterAudioFocusListener...
+1001 abandonAudioFocus
+1002 [HSM] stayAwake false uid: 10111, pid: 28601
+1003 Pid:28601 MediaPlayer destructor
+1004 getRunningAppProcesses: caller 10111 does not hold REAL_GET_TASKS; limiting output
+1005 getRunningAppProcesses: caller 10111 does not hold REAL_GET_TASKS; limiting output
+1006 stopWifiDisplayScanLocked record.mWifiDisplayScanRequested=false
+1007 stopWifiDisplayScanLocked mWifiDisplayScanRequestCount=0
+1008 Process com.tencent.mobileqq:qzone (pid 12236) has died
+1009 cleanUpApplicationRecord -- 12236
+1010 Scheduling restart of crashed service com.tencent.mobileqq/cooperation.qzone.remote.logic.QzoneWebPluginProxyService in 1000ms
+1011 cleanUpApplicationRecordLocked, pid: 12236, restart: false
+1012 cleanUpApplicationRecordLocked, reset pid: 12236, euid: 0
+1013 getTasks: caller 10111 does not hold REAL_GET_TASKS; limiting output
+1014 isMusicActive...
+1015 HBM brightnessIn =38
+1016 HBM brightnessOut =38
+1017 Animating brightness: target=38, rate=200
+1018 HBM brightnessIn =38
+1019 HBM brightnessOut =38
+1020 Animating brightness: target=38, rate=200
+1021 HBM brightnessIn =38
+1022 HBM brightnessOut =38
+1023 Animating brightness: target=38, rate=200
+1024 new Process app=ProcessRecord{6eaaf00 0:com.tencent.mobileqq:qzone/u0a111}, name: com.tencent.mobileqq:qzone, euid: 0
+1025 Start proc 13003:com.tencent.mobileqq:qzone/u0a111 for service com.tencent.mobileqq/cooperation.qzone.remote.logic.QzoneWebPluginProxyService
+1026 ActivityManagerService,attachApplication,callingPid = 13003
+1027 getRunningAppProcesses: caller 10111 does not hold REAL_GET_TASKS; limiting output
+1028 getRunningAppProcesses: caller 10111 does not hold REAL_GET_TASKS; limiting output
+1029 HBM brightnessIn =38
+1030 HBM brightnessOut =38
+1031 Animating brightness: target=38, rate=200
+1032 getRunningAppProcesses: caller 10111 does not hold REAL_GET_TASKS; limiting output
+1033 HBM brightnessIn =38
+1034 HBM brightnessOut =38
+1035 Animating brightness: target=38, rate=200
+1036 getRunningAppProcesses: caller 10113 does not hold REAL_GET_TASKS; limiting output
+1037 getRunningAppProcesses: caller 10111 does not hold REAL_GET_TASKS; limiting output
+1038 getRunningAppProcesses: caller 10111 does not hold REAL_GET_TASKS; limiting output
+1039 getRunningAppProcesses: caller 10111 does not hold REAL_GET_TASKS; limiting output
+1040 getRunningAppProcesses: caller 10111 does not hold REAL_GET_TASKS; limiting output
+1041 getRunningAppProcesses: caller 10111 does not hold REAL_GET_TASKS; limiting output
+1042 getRunningAppProcesses: caller 10111 does not hold REAL_GET_TASKS; limiting output
+1043 getRunningAppProcesses: caller 10111 does not hold REAL_GET_TASKS; limiting output
+1044 getRunningAppProcesses: caller 10111 does not hold REAL_GET_TASKS; limiting output
+1045 getRunningAppProcesses: caller 10111 does not hold REAL_GET_TASKS; limiting output
+1046 getRunningAppProcesses: caller 10111 does not hold REAL_GET_TASKS; limiting output
+1047 getRunningAppProcesses: caller 10111 does not hold REAL_GET_TASKS; limiting output
+1048 getRunningAppProcesses: caller 10113 does not hold REAL_GET_TASKS; limiting output
+1049 getRunningAppProcesses: caller 10113 does not hold REAL_GET_TASKS; limiting output
+1050 HBM brightnessIn =38
+1051 HBM brightnessOut =38
+1052 Animating brightness: target=38, rate=200
+1053 getTasks: caller 10111 does not hold REAL_GET_TASKS; limiting output
+1054 getTasks: caller 10111 does not hold REAL_GET_TASKS; limiting output
+1055 getTasks: caller 10111 does not hold REAL_GET_TASKS; limiting output
+1056 getRunningAppProcesses: caller 10111 does not hold REAL_GET_TASKS; limiting output
+1057 userActivityNoUpdateLocked: eventTime=261949797, event=2, flags=0x0, uid=1000
+1058 ready=true,policy=3,wakefulness=1,wksummary=0x0,uasummary=0x1,bootcompleted=true,boostinprogress=false,waitmodeenable=false,mode=false,manual=38,auto=-1,adj=0.0userId=0
+1059 suspendAutohide
+1060 interceptKeyTq keycode=4 interactive=true keyguardActive=false policyFlags=2b000002 down true canceled false
+1061 interceptKeyBeforeQueueing: key 4 , result : 1
+1062 userActivityNoUpdateLocked: eventTime=261949805, event=1, flags=0x0, uid=1000
+1063 ready=true,policy=3,wakefulness=1,wksummary=0x0,uasummary=0x1,bootcompleted=true,boostinprogress=false,waitmodeenable=false,mode=false,manual=38,auto=-1,adj=0.0userId=0
+1064 Destroying surface Surface(name=PopupWindow:317e46) called by com.android.server.wm.WindowStateAnimator.destroySurface:2060 com.android.server.wm.WindowStateAnimator.destroySurfaceLocked:913 com.android.server.wm.WindowState.removeLocked:1554 com.android.server.wm.WindowManagerService.removeWindowInnerLocked:2739 com.android.server.wm.WindowManagerService.removeWindowInnerLocked:2702 com.android.server.wm.WindowManagerService.removeWindowLocked:2691 com.android.server.wm.WindowManagerService.removeWindowLocked:2560 com.android.server.wm.WindowManagerService.removeWindow:2555
+1065 setLightsOn(true)
+1066 setSystemUiVisibility vis=0 mask=1 oldVal=40000500 newVal=40000500 diff=0 fullscreenStackVis=0 dockedStackVis=0, fullscreenStackBounds=Rect(0, 0 - 0, 0), dockedStackBounds=Rect(0, 0 - 0, 0)
+1067 resumeSuspendedAutohide
+1068 interceptKeyTq keycode=4 interactive=true keyguardActive=false policyFlags=2b000002 down false canceled false
+1069 interceptKeyBeforeQueueing: key 4 , result : 1
+1070 querySoundEffectsEnabled...
+1071 setLightsOn(true)
+1072 setSystemUiVisibility vis=0 mask=1 oldVal=40000500 newVal=40000500 diff=0 fullscreenStackVis=0 dockedStackVis=0, fullscreenStackBounds=Rect(0, 0 - 0, 0), dockedStackBounds=Rect(0, 0 - 0, 0)
+1073 setLightsOn(true)
+1074 setSystemUiVisibility vis=0 mask=1 oldVal=40000500 newVal=40000500 diff=0 fullscreenStackVis=0 dockedStackVis=0, fullscreenStackBounds=Rect(0, 0 - 0, 0), dockedStackBounds=Rect(0, 0 - 0, 0)
+1075 setLightsOn(true)
+1076 setSystemUiVisibility vis=0 mask=1 oldVal=40000500 newVal=40000500 diff=0 fullscreenStackVis=0 dockedStackVis=0, fullscreenStackBounds=Rect(0, 0 - 0, 0), dockedStackBounds=Rect(0, 0 - 0, 0)
+1077 setLightsOn(true)
+1078 setSystemUiVisibility vis=0 mask=1 oldVal=40000500 newVal=40000500 diff=0 fullscreenStackVis=0 dockedStackVis=0, fullscreenStackBounds=Rect(0, 0 - 0, 0), dockedStackBounds=Rect(0, 0 - 0, 0)
+1079 Destroying surface Surface(name=InputMethod) called by com.android.server.wm.WindowStateAnimator.destroySurface:2060 com.android.server.wm.WindowStateAnimator.destroySurfaceLocked:913 com.android.server.wm.WindowState.destroyOrSaveSurface:2201 com.android.server.wm.WindowSurfacePlacer.performSurfacePlacementInner:517 com.android.server.wm.WindowSurfacePlacer.performSurfacePlacementLoop:291 com.android.server.wm.WindowSurfacePlacer.performSurfacePlacement:233 com.android.server.wm.WindowManagerService$H.handleMessage:8670 android.os.Handler.dispatchMessage:105
+1080 suspendAutohide
+1081 interceptKeyTq keycode=4 interactive=true keyguardActive=false policyFlags=2b000002 down true canceled false
+1082 interceptKeyBeforeQueueing: key 4 , result : 1
+1083 setLightsOn(true)
+1084 setSystemUiVisibility vis=0 mask=1 oldVal=40000500 newVal=40000500 diff=0 fullscreenStackVis=0 dockedStackVis=0, fullscreenStackBounds=Rect(0, 0 - 0, 0), dockedStackBounds=Rect(0, 0 - 0, 0)
+1085 resumeSuspendedAutohide
+1086 interceptKeyTq keycode=4 interactive=true keyguardActive=false policyFlags=2b000002 down false canceled false
+1087 interceptKeyBeforeQueueing: key 4 , result : 1
+1088 querySoundEffectsEnabled...
+1089 isMusicActive...
+1090 userActivityNoUpdateLocked: eventTime=261950783, event=2, flags=0x0, uid=1000
+1091 ready=true,policy=3,wakefulness=1,wksummary=0x0,uasummary=0x1,bootcompleted=true,boostinprogress=false,waitmodeenable=false,mode=false,manual=38,auto=-1,adj=0.0userId=0
+1092 suspendAutohide
+1093 interceptKeyTq keycode=3 interactive=true keyguardActive=false policyFlags=2b000002 down true canceled false
+1094 interceptKeyBeforeQueueing: key 3 , result : 1
+1095 userActivityNoUpdateLocked: eventTime=261950787, event=1, flags=0x0, uid=1000
+1096 ready=true,policy=3,wakefulness=1,wksummary=0x0,uasummary=0x1,bootcompleted=true,boostinprogress=false,waitmodeenable=false,mode=false,manual=38,auto=-1,adj=0.0userId=0
+1097 resumeSuspendedAutohide
+1098 userActivityNoUpdateLocked: eventTime=261950887, event=0, flags=0x0, uid=1000
+1099 ready=true,policy=3,wakefulness=1,wksummary=0x0,uasummary=0x1,bootcompleted=true,boostinprogress=false,waitmodeenable=false,mode=false,manual=38,auto=-1,adj=0.0userId=0
+1100 interceptKeyTq keycode=3 interactive=true keyguardActive=false policyFlags=2b000002 down false canceled false
+1101 interceptKeyBeforeQueueing: key 3 , result : 1
+1102 querySoundEffectsEnabled...
+1103 userActivityNoUpdateLocked: eventTime=261950909, event=0, flags=0x0, uid=1000
+1104 ready=true,policy=3,wakefulness=1,wksummary=0x0,uasummary=0x1,bootcompleted=true,boostinprogress=false,waitmodeenable=false,mode=false,manual=38,auto=-1,adj=0.0userId=0
+1105 animateCollapsePanels:flags=0, force=false, delayed=false, mExpandedVisible=false
+1106 closeQs
+1107 cancelPeek: false
+1108 instantCollapse
+1109 cancelPeek: false
+1110 setLightsOn(true)
+1111 setSystemUiVisibility vis=0 mask=1 oldVal=40000500 newVal=40000500 diff=0 fullscreenStackVis=0 dockedStackVis=0, fullscreenStackBounds=Rect(0, 0 - 0, 0), dockedStackBounds=Rect(0, 0 - 0, 0)
+1112 acquire lock=189667585, flags=0x1, tag="*launch*", name=android, ws=WorkSource{10057}, uid=1000, pid=1702
+1113 ready=true,policy=3,wakefulness=1,wksummary=0x1,uasummary=0x1,bootcompleted=true,boostinprogress=false,waitmodeenable=false,mode=false,manual=38,auto=-1,adj=0.0userId=0
+1114 Acquiring suspend blocker "PowerManagerService.WakeLocks".
+1115 setLightsOn(true)
+1116 setSystemUiVisibility vis=0 mask=1 oldVal=40000500 newVal=40000500 diff=0 fullscreenStackVis=0 dockedStackVis=0, fullscreenStackBounds=Rect(0, 0 - 0, 0), dockedStackBounds=Rect(0, 0 - 0, 0)
+1117 setLightsOn(true)
+1118 setSystemUiVisibility vis=0 mask=1 oldVal=40000500 newVal=40000500 diff=0 fullscreenStackVis=0 dockedStackVis=0, fullscreenStackBounds=Rect(0, 0 - 0, 0), dockedStackBounds=Rect(0, 0 - 0, 0)
+1119 setLightsOn(true)
+1120 setSystemUiVisibility vis=0 mask=1 oldVal=40000500 newVal=40000500 diff=0 fullscreenStackVis=0 dockedStackVis=0, fullscreenStackBounds=Rect(0, 0 - 0, 0), dockedStackBounds=Rect(0, 0 - 0, 0)
+1121 HBM brightnessIn =38
+1122 HBM brightnessOut =38
+1123 Animating brightness: target=38, rate=200
+1124 Taking screenshot from Surface with crop:[Rect(0, 48 - 720, 1208)], width:[432], height:[696], minLayer:[21000], maxLayer:[21080], inRotation:[false], rot:[0]
+1125 The change in focus caused us to need to do a layout begin
+1126 The change in focus caused us to need to do a layout end
+1127 setSystemUiVisibility vis=708 mask=ffffffff oldVal=40000500 newVal=708 diff=40000208 fullscreenStackVis=0 dockedStackVis=0, fullscreenStackBounds=Rect(0, 0 - 720, 1280), dockedStackBounds=Rect(0, 0 - 0, 0)
+1128 cancelAutohide
+1129 notifyUiVisibilityChanged:vis=0x708, SystemUiVisibility=0x708
+1130 updateClipping isOverlap:false, getTopPadding=333.0, Translation=0.0
+1131 updateDimmedActivatedHideSensitive overlap:false
+1132 Skipping, withExcluded: false, tr.intent:Intent { flg=0x10804000 cmp=com.android.systemui/.recents.RecentsActivity bnds=[264,444][920,908] }
+1133 Skipping, withExcluded: false, tr.intent:Intent { act=android.intent.action.MAIN flg=0x10840000 cmp=com.android.incallui/.InCallActivity (has extras) }
+1134 Skipping, withExcluded: false, tr.intent:Intent { flg=0x18800000 cmp=com.tencent.mm/.plugin.base.stub.WXEntryActivity (has extras) }
+1135 Skipping, withExcluded: false, tr.intent:Intent { flg=0x10800000 cmp=com.tencent.qqmusic/.business.lockscreen.LockScreenActivity (has extras) }
+1136 Skipping, withExcluded: false, tr.intent:Intent { act=com.android.contacts.action.CHOOSE_SUB dat=tel:xxxxxxxxxxx flg=0x10808000 cmp=com.android.contacts/.ChooseSubActivity (has extras) }
+1137 Skipping, withExcluded: false, tr.intent:Intent { act=android.intent.action.VIEW dat=file:///storage/emulated/0/Tencent/QQfile_recv/b.apk typ=application/vnd.android.package-archive flg=0x10800000 cmp=com.android.packageinstaller/.PackageInstallerActivity (has extras) }
+1138 getRecentTasks: num=20,flags=62,totalTasks=46
+1139 getRecentTasks: topActivity=ComponentInfo{com.tencent.mobileqq/com.tencent.mobileqq.activity.SplashActivity}
+1140 Skipping, withExcluded: false, tr.intent:Intent { flg=0x10804000 cmp=com.android.systemui/.recents.RecentsActivity bnds=[264,444][920,908] }
+1141 Skipping, withExcluded: false, tr.intent:Intent { act=android.intent.action.MAIN flg=0x10840000 cmp=com.android.incallui/.InCallActivity (has extras) }
+1142 Skipping, withExcluded: false, tr.intent:Intent { flg=0x18800000 cmp=com.tencent.mm/.plugin.base.stub.WXEntryActivity (has extras) }
+1143 getRecentTasks: num=10,flags=62,totalTasks=46
+1144 getRecentTasks: topActivity=ComponentInfo{com.tencent.mobileqq/com.tencent.mobileqq.activity.SplashActivity}
+1145 setSystemUiVisibility vis=c0000700 mask=ffffffff oldVal=708 newVal=c0000700 diff=c0000008 fullscreenStackVis=0 dockedStackVis=0, fullscreenStackBounds=Rect(0, 0 - 720, 1280), dockedStackBounds=Rect(0, 0 - 0, 0)
+1146 cancelAutohide
+1147 notifyUiVisibilityChanged:vis=0xc0000700, SystemUiVisibility=0xc0000700
+1148 release:lock=189667585, flg=0x0, tag="*launch*", name=android", ws=WorkSource{10057}, uid=1000, pid=1702
+1149 ready=true,policy=3,wakefulness=1,wksummary=0x0,uasummary=0x1,bootcompleted=true,boostinprogress=false,waitmodeenable=false,mode=false,manual=38,auto=-1,adj=0.0userId=0
+1150 Releasing suspend blocker "PowerManagerService.WakeLocks".
+1151 shouldBlockLocation running ...
+1152 shouldBlockLocation  ret:false
+1153 getRunningAppProcesses: caller 10027 does not hold REAL_GET_TASKS; limiting output
+1154 getTasks: caller 10111 does not hold REAL_GET_TASKS; limiting output
+1155 ActivityManagerService,attachApplication,callingPid = 13094
+1156 getTasks: caller 10111 does not hold REAL_GET_TASKS; limiting output
+1157 shouldBlockLocation running ...
+1158 shouldBlockLocation  ret:false
+1159 Destroying surface Surface(name=com.tencent.mobileqq/com.tencent.mobileqq.activity.SplashActivity) called by com.android.server.wm.WindowStateAnimator.destroySurface:2060 com.android.server.wm.WindowStateAnimator.destroySurfaceLocked:913 com.android.server.wm.WindowState.destroyOrSaveSurface:2201 com.android.server.wm.AppWindowToken.destroySurfaces:374 com.android.server.wm.AppWindowToken.notifyAppStopped:400 com.android.server.wm.WindowManagerService.notifyAppStopped:4869 com.android.server.am.ActivityStack.activityStoppedLocked:1393 com.android.server.am.ActivityManagerService.activityStopped:7690
+1160 getRunningAppProcesses: caller 10111 does not hold REAL_GET_TASKS; limiting output
+1161 getRunningAppProcesses: caller 10027 does not hold REAL_GET_TASKS; limiting output
+1162 getRunningAppProcesses: caller 10027 does not hold REAL_GET_TASKS; limiting output
+1163 getRunningAppProcesses: caller 10027 does not hold REAL_GET_TASKS; limiting output
+1164 shouldBlockLocation running ...
+1165 shouldBlockLocation  ret:false
+1166 ready=true,policy=3,wakefulness=1,wksummary=0x1,uasummary=0x1,bootcompleted=true,boostinprogress=false,waitmodeenable=false,mode=false,manual=38,auto=-1,adj=0.0userId=0
+1167 Acquiring suspend blocker "PowerManagerService.WakeLocks".
+1168 ready=true,policy=3,wakefulness=1,wksummary=0x0,uasummary=0x1,bootcompleted=true,boostinprogress=false,waitmodeenable=false,mode=false,manual=38,auto=-1,adj=0.0userId=0
+1169 Releasing suspend blocker "PowerManagerService.WakeLocks".
+1170 ready=true,policy=3,wakefulness=1,wksummary=0x1,uasummary=0x1,bootcompleted=true,boostinprogress=false,waitmodeenable=false,mode=false,manual=38,auto=-1,adj=0.0userId=0
+1171 Acquiring suspend blocker "PowerManagerService.WakeLocks".
+1172 ready=true,policy=3,wakefulness=1,wksummary=0x0,uasummary=0x1,bootcompleted=true,boostinprogress=false,waitmodeenable=false,mode=false,manual=38,auto=-1,adj=0.0userId=0
+1173 Releasing suspend blocker "PowerManagerService.WakeLocks".
+1174 shouldBlockLocation running ...
+1175 shouldBlockLocation  ret:false
+1176 getRunningAppProcesses: caller 10027 does not hold REAL_GET_TASKS; limiting output
+1177 getRunningAppProcesses: caller 10027 does not hold REAL_GET_TASKS; limiting output
+1178 shouldBlockLocation running ...
+1179 shouldBlockLocation  ret:false
+1180 shouldBlockLocation running ...
+1181 shouldBlockLocation  ret:false
+1182 getRunningAppProcesses: caller 10027 does not hold REAL_GET_TASKS; limiting output
+1183 stopWifiDisplayScanLocked record.mWifiDisplayScanRequested=false
+1184 stopWifiDisplayScanLocked mWifiDisplayScanRequestCount=0
+1185 cleanUpApplicationRecord -- 13094
+1186 cleanUpApplicationRecordLocked, pid: 13094, restart: false
+1187 cleanUpApplicationRecordLocked, reset pid: 13094, euid: 0
+1188 shouldBlockLocation running ...
+1189 shouldBlockLocation  ret:false
+1190 HBM brightnessIn =38
+1191 HBM brightnessOut =38
+1192 Animating brightness: target=38, rate=200
+1193 HBM brightnessIn =38
+1194 HBM brightnessOut =38
+1195 Animating brightness: target=38, rate=200
+1196 HBM brightnessIn =38
+1197 HBM brightnessOut =38
+1198 Animating brightness: target=38, rate=200
+1199 shouldBlockLocation running ...
+1200 shouldBlockLocation  ret:false
+1201 HBM brightnessIn =38
+1202 HBM brightnessOut =38
+1203 Animating brightness: target=38, rate=200
+1204 HBM brightnessIn =38
+1205 HBM brightnessOut =38
+1206 Animating brightness: target=38, rate=200
+1207 HBM brightnessIn =38
+1208 HBM brightnessOut =38
+1209 Animating brightness: target=38, rate=200
+1210 getTasks: caller 10111 does not hold REAL_GET_TASKS; limiting output
+1211 HBM brightnessIn =38
+1212 HBM brightnessOut =38
+1213 Animating brightness: target=38, rate=200
+1214 HBM brightnessIn =38
+1215 HBM brightnessOut =38
+1216 Animating brightness: target=38, rate=200
+1217 HBM brightnessIn =38
+1218 HBM brightnessOut =38
+1219 Animating brightness: target=38, rate=200
+1220 HBM brightnessIn =38
+1221 HBM brightnessOut =38
+1222 Animating brightness: target=38, rate=200
+1223 getTasks: caller 10111 does not hold REAL_GET_TASKS; limiting output
+1224 cancelNotificationWithTag pid 28601,uid = 10111,tag = null,pkg =com.tencent.mobileqq,id =121
+1225 cancelNotification,index:-1
+1226 cancelNotificationWithTag pid 28601,uid = 10111,tag = null,pkg =com.tencent.mobileqq,id =119
+1227 cancelNotification,index:-1
+1228 enqueueNotificationInternal: pkg=com.tencent.mobileqq id=121 notification=Notification(pri=1 contentView=null vibrate=[100] sound=null tick defaults=0x0 flags=0x11 color=0x00000000 vis=PRIVATE)
+1229 enqueueNotificationInternal: n.getKey = 0|com.tencent.mobileqq|121|null|10111
+1230 getRingerMode...
+1231 updateLightsLocked,mInCall =false,mScreenOn = true,ledNotification == null?false
+1232 updateLightsLocked,turn off notificationLight
+1233 addNotification key=0|com.tencent.mobileqq|121|null|10111
+1234 mHeadsUpExistenceChangedRunnable
+1235 disable: < expand ICONS* alerts SYSTEM_INFO* back home recent clock navigationbar search quick_settings >
+1236 suspendAutohide
+1237 updateNotificationShade: total=0, active=0
+1238 removeNotificationChildren
+1239 updateNotificationShade: total=1, active=1
+1240 removeNotificationChildren
+1241 Marking notification as seen 0|com.tencent.mobileqq|121|null|10111
+1242 onNotificationExpansionChanged called
+1243 updateClipping isOverlap:false, getTopPadding=333.0, Translation=-429.0
+1244 updateDimmedActivatedHideSensitive overlap:false
+1245 updateClipping isOverlap:false, getTopPadding=333.0, Translation=-497.0
+1246 updateDimmedActivatedHideSensitive overlap:false
+1247 getRunningAppProcesses: caller 10091 does not hold REAL_GET_TASKS; limiting output
+1248 updateClipping isOverlap:false, getTopPadding=333.0, Translation=-497.0
+1249 updateDimmedActivatedHideSensitive overlap:false
+1250 logNotificationVisibilityChanges runInThread start
+1251 onNotificationVisibilityChanged called
+1252 logNotificationVisibilityChanges runInThread over
+1253 HBM brightnessIn =38
+1254 HBM brightnessOut =38
+1255 Animating brightness: target=38, rate=200
+1256 userActivityNoUpdateLocked: eventTime=261961476, event=2, flags=0x0, uid=1000
+1257 ready=true,policy=3,wakefulness=1,wksummary=0x0,uasummary=0x1,bootcompleted=true,boostinprogress=false,waitmodeenable=false,mode=false,manual=38,auto=-1,adj=0.0userId=0
+1258 playSoundEffect   effectType: 0
+1259 querySoundEffectsEnabled...
+1260 START u0 {act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10200000 cmp=com.example.android.notepad/.NotePadActivity bnds=[8,820][184,1011]} from uid 10057 on display 0
+1261 ActivityRecord info: ActivityInfo{f39182 com.example.android.notepad.NotePadActivity}, euid: 0
+1262 acquire lock=189667585, flags=0x1, tag="*launch*", name=android, ws=WorkSource{10020}, uid=1000, pid=1702
+1263 ready=true,policy=3,wakefulness=1,wksummary=0x1,uasummary=0x1,bootcompleted=true,boostinprogress=false,waitmodeenable=false,mode=false,manual=38,auto=-1,adj=0.0userId=0
+1264 Acquiring suspend blocker "PowerManagerService.WakeLocks".
+1265 rotationForOrientationLw(orient=-1, last=0); user=0 USER_ROTATION_LOCKED
+1266 Application requested orientation -1, got rotation 0 which has compatible metrics
+1267 The change in focus caused us to need to do a layout begin
+1268 The change in focus caused us to need to do a layout end
+1269 setSystemUiVisibility vis=80000608 mask=ffffffff oldVal=c0000700 newVal=80000608 diff=40000108 fullscreenStackVis=0 dockedStackVis=0, fullscreenStackBounds=Rect(0, 0 - 720, 1280), dockedStackBounds=Rect(0, 0 - 0, 0)
+1270 cancelAutohide
+1271 notifyUiVisibilityChanged:vis=0x80000608, SystemUiVisibility=0x80000608
+1272 Skipping, withExcluded: false, tr.intent:Intent { flg=0x10804000 cmp=com.android.systemui/.recents.RecentsActivity bnds=[264,444][920,908] }
+1273 Skipping, withExcluded: false, tr.intent:Intent { act=android.intent.action.MAIN flg=0x10840000 cmp=com.android.incallui/.InCallActivity (has extras) }
+1274 Skipping, withExcluded: false, tr.intent:Intent { flg=0x18800000 cmp=com.tencent.mm/.plugin.base.stub.WXEntryActivity (has extras) }
+1275 Skipping, withExcluded: false, tr.intent:Intent { flg=0x10800000 cmp=com.tencent.qqmusic/.business.lockscreen.LockScreenActivity (has extras) }
+1276 Skipping, withExcluded: false, tr.intent:Intent { act=com.android.contacts.action.CHOOSE_SUB dat=tel:xxxxxxxxxxx flg=0x10808000 cmp=com.android.contacts/.ChooseSubActivity (has extras) }
+1277 Skipping, withExcluded: false, tr.intent:Intent { act=android.intent.action.VIEW dat=file:///storage/emulated/0/Tencent/QQfile_recv/b.apk typ=application/vnd.android.package-archive flg=0x10800000 cmp=com.android.packageinstaller/.PackageInstallerActivity (has extras) }
+1278 getRecentTasks: num=20,flags=62,totalTasks=46
+1279 getRecentTasks: topActivity=ComponentInfo{com.example.android.notepad/com.example.android.notepad.NoteEditor}
+1280 Skipping, withExcluded: false, tr.intent:Intent { flg=0x10804000 cmp=com.android.systemui/.recents.RecentsActivity bnds=[264,444][920,908] }
+1281 Skipping, withExcluded: false, tr.intent:Intent { act=android.intent.action.MAIN flg=0x10840000 cmp=com.android.incallui/.InCallActivity (has extras) }
+1282 Skipping, withExcluded: false, tr.intent:Intent { flg=0x18800000 cmp=com.tencent.mm/.plugin.base.stub.WXEntryActivity (has extras) }
+1283 getRecentTasks: num=10,flags=62,totalTasks=46
+1284 getRecentTasks: topActivity=ComponentInfo{com.example.android.notepad/com.example.android.notepad.NoteEditor}
+1285 setSystemUiVisibility vis=40000600 mask=ffffffff oldVal=80000608 newVal=40000600 diff=c0000008 fullscreenStackVis=0 dockedStackVis=0, fullscreenStackBounds=Rect(0, 0 - 720, 1280), dockedStackBounds=Rect(0, 0 - 0, 0)
+1286 cancelAutohide
+1287 notifyUiVisibilityChanged:vis=0x40000600, SystemUiVisibility=0x40000600
+1288 release:lock=189667585, flg=0x0, tag="*launch*", name=android", ws=WorkSource{10020}, uid=1000, pid=1702
+1289 ready=true,policy=3,wakefulness=1,wksummary=0x0,uasummary=0x1,bootcompleted=true,boostinprogress=false,waitmodeenable=false,mode=false,manual=38,auto=-1,adj=0.0userId=0
+1290 Releasing suspend blocker "PowerManagerService.WakeLocks".
+1291 userActivityNoUpdateLocked: eventTime=261963848, event=2, flags=0x0, uid=1000
+1292 ready=true,policy=3,wakefulness=1,wksummary=0x0,uasummary=0x1,bootcompleted=true,boostinprogress=false,waitmodeenable=false,mode=false,manual=38,auto=-1,adj=0.0userId=0
+1293 updateNotificationShade: total=1, active=1
+1294 removeNotificationChildren
+1295 overlapAmount:164.0, previousNotificationEnd:0.0, newYTranslation:-164.0, location:4, i:0, getTopPadding:333.0, getLocationOnScreen():-497
+1296 state.clipTopAmount:148, i:0
+1297 updateClipping isOverlap:true, getTopPadding=333.0, Translation=-497.0
+1298 updateDimmedActivatedHideSensitive overlap:true
+1299 ACTIVITY check resid: com.example.android.notepad, size=0
+1300 mHeadsUpExistenceChangedRunnable
+1301 updateNotificationShade: total=1, active=1
+1302 removeNotificationChildren
+1303 overlapAmount:220.0, previousNotificationEnd:0.0, newYTranslation:-220.0, location:4, i:0, getTopPadding:333.0, getLocationOnScreen():-553
+1304 state.clipTopAmount:204, i:0
+1305 updateClipping isOverlap:true, getTopPadding=333.0, Translation=-553.0
+1306 updateDimmedActivatedHideSensitive overlap:true
+1307 makeExpandedInvisible: mExpandedVisible=true
+1308 closeQs
+1309 cancelPeek: false
+1310 instantCollapse
+1311 cancelPeek: false
+1312 closeQs
+1313 logNotificationVisibilityChanges runInThread start
+1314 onNotificationVisibilityChanged called
+1315 resumeSuspendedAutohide
+1316 disable: < expand icons* alerts system_info* back home recent clock navigationbar search quick_settings >
+1317 logNotificationVisibilityChanges runInThread over
+1318 updateClipping isOverlap:false, getTopPadding=333.0, Translation=-24.0
+1319 updateDimmedActivatedHideSensitive overlap:false
+1320 userActivityNoUpdateLocked: eventTime=261967011, event=2, flags=0x0, uid=1000
+1321 ready=true,policy=3,wakefulness=1,wksummary=0x0,uasummary=0x1,bootcompleted=true,boostinprogress=false,waitmodeenable=false,mode=false,manual=38,auto=-1,adj=0.0userId=0
+1322 Destroying surface Surface(name=PopupWindow:6ac503e) called by com.android.server.wm.WindowStateAnimator.destroySurface:2060 com.android.server.wm.WindowStateAnimator.destroySurfaceLocked:913 com.android.server.wm.WindowState.destroyOrSaveSurface:2201 com.android.server.wm.AppWindowToken.destroySurfaces:374 com.android.server.wm.WindowStateAnimator.finishExit:590 com.android.server.wm.WindowStateAnimator.stepAnimationLocked:516 com.android.server.wm.WindowAnimator.updateWindowsLocked:311 com.android.server.wm.WindowAnimator.animateLocked:738
+1323 getRunningAppProcesses: caller 10113 does not hold REAL_GET_TASKS; limiting output
+1324 userActivityNoUpdateLocked: eventTime=261968328, event=2, flags=0x0, uid=1000
+1325 ready=true,policy=3,wakefulness=1,wksummary=0x0,uasummary=0x1,bootcompleted=true,boostinprogress=false,waitmodeenable=false,mode=false,manual=38,auto=-1,adj=0.0userId=0
+1326 userActivityNoUpdateLocked: eventTime=261968928, event=2, flags=0x0, uid=1000
+1327 ready=true,policy=3,wakefulness=1,wksummary=0x0,uasummary=0x1,bootcompleted=true,boostinprogress=false,waitmodeenable=false,mode=false,manual=38,auto=-1,adj=0.0userId=0
+1328 userActivityNoUpdateLocked: eventTime=261969446, event=2, flags=0x0, uid=1000
+1329 ready=true,policy=3,wakefulness=1,wksummary=0x0,uasummary=0x1,bootcompleted=true,boostinprogress=false,waitmodeenable=false,mode=false,manual=38,auto=-1,adj=0.0userId=0
+1330 getRunningAppProcesses: caller 10113 does not hold REAL_GET_TASKS; limiting output
+1331 HBM brightnessIn =38
+1332 HBM brightnessOut =38
+1333 Animating brightness: target=38, rate=200
+1334 HBM brightnessIn =38
+1335 HBM brightnessOut =38
+1336 Animating brightness: target=38, rate=200
+1337 HBM brightnessIn =38
+1338 HBM brightnessOut =38
+1339 Animating brightness: target=38, rate=200
+1340 userActivityNoUpdateLocked: eventTime=261970966, event=2, flags=0x0, uid=1000
+1341 ready=true,policy=3,wakefulness=1,wksummary=0x0,uasummary=0x1,bootcompleted=true,boostinprogress=false,waitmodeenable=false,mode=false,manual=38,auto=-1,adj=0.0userId=0
+1342 playSoundEffect   effectType: 0
+1343 querySoundEffectsEnabled...
+1344 Destroying surface Surface(name=PopupWindow:317e46) called by com.android.server.wm.WindowStateAnimator.destroySurface:2060 com.android.server.wm.WindowStateAnimator.destroySurfaceLocked:913 com.android.server.wm.WindowState.removeLocked:1554 com.android.server.wm.WindowManagerService.removeWindowInnerLocked:2739 com.android.server.wm.WindowManagerService.removeWindowInnerLocked:2702 com.android.server.wm.WindowManagerService.removeWindowLocked:2691 com.android.server.wm.WindowManagerService.removeWindowLocked:2560 com.android.server.wm.WindowManagerService.removeWindow:2555
+1345 ActivityManagerService,attachApplication,callingPid = 13175
+1346 Destroying surface Surface(name=InputMethod) called by com.android.server.wm.WindowStateAnimator.destroySurface:2060 com.android.server.wm.WindowStateAnimator.destroySurfaceLocked:913 com.android.server.wm.WindowState.destroyOrSaveSurface:2201 com.android.server.wm.WindowSurfacePlacer.performSurfacePlacementInner:517 com.android.server.wm.WindowSurfacePlacer.performSurfacePlacementLoop:291 com.android.server.wm.WindowSurfacePlacer.performSurfacePlacement:233 com.android.server.wm.WindowManagerService$H.handleMessage:8670 android.os.Handler.dispatchMessage:105
+1347 ACTIVITY check resid: com.example.android.notepad, size=1
+1348 setSystemUiVisibility vis=40000000 mask=ffffffff oldVal=40000600 newVal=40000000 diff=600 fullscreenStackVis=0 dockedStackVis=0, fullscreenStackBounds=Rect(0, 0 - 720, 1280), dockedStackBounds=Rect(0, 0 - 0, 0)
+1349 notifyUiVisibilityChanged:vis=0x40000000, SystemUiVisibility=0x40000000
+1350 setSystemUiVisibility vis=40000600 mask=ffffffff oldVal=40000000 newVal=40000600 diff=600 fullscreenStackVis=0 dockedStackVis=0, fullscreenStackBounds=Rect(0, 0 - 720, 1280), dockedStackBounds=Rect(0, 0 - 0, 0)
+1351 notifyUiVisibilityChanged:vis=0x40000600, SystemUiVisibility=0x40000600
+1352 userActivityNoUpdateLocked: eventTime=261972153, event=2, flags=0x0, uid=1000
+1353 ready=true,policy=3,wakefulness=1,wksummary=0x0,uasummary=0x1,bootcompleted=true,boostinprogress=false,waitmodeenable=false,mode=false,manual=38,auto=-1,adj=0.0userId=0
+1354 suspendAutohide
+1355 interceptKeyTq keycode=3 interactive=true keyguardActive=false policyFlags=2b000002 down true canceled false
+1356 interceptKeyBeforeQueueing: key 3 , result : 1
+1357 userActivityNoUpdateLocked: eventTime=261972159, event=1, flags=0x0, uid=1000
+1358 ready=true,policy=3,wakefulness=1,wksummary=0x0,uasummary=0x1,bootcompleted=true,boostinprogress=false,waitmodeenable=false,mode=false,manual=38,auto=-1,adj=0.0userId=0
+1359 resumeSuspendedAutohide
+1360 userActivityNoUpdateLocked: eventTime=261972223, event=0, flags=0x0, uid=1000
+1361 ready=true,policy=3,wakefulness=1,wksummary=0x0,uasummary=0x1,bootcompleted=true,boostinprogress=false,waitmodeenable=false,mode=false,manual=38,auto=-1,adj=0.0userId=0
+1362 interceptKeyTq keycode=3 interactive=true keyguardActive=false policyFlags=2b000002 down false canceled false
+1363 interceptKeyBeforeQueueing: key 3 , result : 1
+1364 querySoundEffectsEnabled...
+1365 animateCollapsePanels:flags=0, force=false, delayed=false, mExpandedVisible=false
+1366 userActivityNoUpdateLocked: eventTime=261972262, event=0, flags=0x0, uid=1000
+1367 ready=true,policy=3,wakefulness=1,wksummary=0x0,uasummary=0x1,bootcompleted=true,boostinprogress=false,waitmodeenable=false,mode=false,manual=38,auto=-1,adj=0.0userId=0
+1368 closeQs
+1369 cancelPeek: false
+1370 instantCollapse
+1371 cancelPeek: false
+1372 acquire lock=189667585, flags=0x1, tag="*launch*", name=android, ws=WorkSource{10057}, uid=1000, pid=1702
+1373 ready=true,policy=3,wakefulness=1,wksummary=0x1,uasummary=0x1,bootcompleted=true,boostinprogress=false,waitmodeenable=false,mode=false,manual=38,auto=-1,adj=0.0userId=0
+1374 Acquiring suspend blocker "PowerManagerService.WakeLocks".
+1375 rotationForOrientationLw(orient=1, last=0); user=0 USER_ROTATION_LOCKED
+1376 Application requested orientation 1, got rotation 0 which has compatible metrics
+1377 Taking screenshot from Surface with crop:[Rect(0, 48 - 720, 1208)], width:[432], height:[696], minLayer:[21080], maxLayer:[21085], inRotation:[false], rot:[0]
+1378 The change in focus caused us to need to do a layout begin
+1379 The change in focus caused us to need to do a layout end
+1380 setSystemUiVisibility vis=708 mask=ffffffff oldVal=40000600 newVal=708 diff=40000108 fullscreenStackVis=0 dockedStackVis=0, fullscreenStackBounds=Rect(0, 0 - 720, 1280), dockedStackBounds=Rect(0, 0 - 0, 0)
+1381 cancelAutohide
+1382 notifyUiVisibilityChanged:vis=0x708, SystemUiVisibility=0x708
+1383 updateClipping isOverlap:false, getTopPadding=333.0, Translation=-24.0
+1384 updateDimmedActivatedHideSensitive overlap:false
+1385 Skipping, withExcluded: false, tr.intent:Intent { flg=0x10804000 cmp=com.android.systemui/.recents.RecentsActivity bnds=[264,444][920,908] }
+1386 Skipping, withExcluded: false, tr.intent:Intent { act=android.intent.action.MAIN flg=0x10840000 cmp=com.android.incallui/.InCallActivity (has extras) }
+1387 Skipping, withExcluded: false, tr.intent:Intent { flg=0x18800000 cmp=com.tencent.mm/.plugin.base.stub.WXEntryActivity (has extras) }
+1388 Skipping, withExcluded: false, tr.intent:Intent { flg=0x10800000 cmp=com.tencent.qqmusic/.business.lockscreen.LockScreenActivity (has extras) }
+1389 Skipping, withExcluded: false, tr.intent:Intent { act=com.android.contacts.action.CHOOSE_SUB dat=tel:xxxxxxxxxxx flg=0x10808000 cmp=com.android.contacts/.ChooseSubActivity (has extras) }
+1390 Skipping, withExcluded: false, tr.intent:Intent { act=android.intent.action.VIEW dat=file:///storage/emulated/0/Tencent/QQfile_recv/b.apk typ=application/vnd.android.package-archive flg=0x10800000 cmp=com.android.packageinstaller/.PackageInstallerActivity (has extras) }
+1391 getRecentTasks: num=20,flags=62,totalTasks=46
+1392 getRecentTasks: topActivity=ComponentInfo{com.example.android.notepad/com.example.android.notepad.NoteEditor}
+1393 Skipping, withExcluded: false, tr.intent:Intent { flg=0x10804000 cmp=com.android.systemui/.recents.RecentsActivity bnds=[264,444][920,908] }
+1394 Skipping, withExcluded: false, tr.intent:Intent { act=android.intent.action.MAIN flg=0x10840000 cmp=com.android.incallui/.InCallActivity (has extras) }
+1395 Skipping, withExcluded: false, tr.intent:Intent { flg=0x18800000 cmp=com.tencent.mm/.plugin.base.stub.WXEntryActivity (has extras) }
+1396 getRecentTasks: num=10,flags=62,totalTasks=46
+1397 getRecentTasks: topActivity=ComponentInfo{com.example.android.notepad/com.example.android.notepad.NoteEditor}
+1398 getTasks: caller 10020 does not hold REAL_GET_TASKS; limiting output
+1399 setSystemUiVisibility vis=c0000700 mask=ffffffff oldVal=708 newVal=c0000700 diff=c0000008 fullscreenStackVis=0 dockedStackVis=0, fullscreenStackBounds=Rect(0, 0 - 720, 1280), dockedStackBounds=Rect(0, 0 - 0, 0)
+1400 cancelAutohide
+1401 notifyUiVisibilityChanged:vis=0xc0000700, SystemUiVisibility=0xc0000700
+1402 getTasks: caller 10020 does not hold REAL_GET_TASKS; limiting output
+1403 release:lock=189667585, flg=0x0, tag="*launch*", name=android", ws=WorkSource{10057}, uid=1000, pid=1702
+1404 ready=true,policy=3,wakefulness=1,wksummary=0x0,uasummary=0x1,bootcompleted=true,boostinprogress=false,waitmodeenable=false,mode=false,manual=38,auto=-1,adj=0.0userId=0
+1405 Releasing suspend blocker "PowerManagerService.WakeLocks".
+1406 Destroying surface Surface(name=com.example.android.notepad/com.example.android.notepad.NoteEditor) called by com.android.server.wm.WindowStateAnimator.destroySurface:2060 com.android.server.wm.WindowStateAnimator.destroySurfaceLocked:913 com.android.server.wm.WindowState.destroyOrSaveSurface:2201 com.android.server.wm.AppWindowToken.destroySurfaces:374 com.android.server.wm.AppWindowToken.notifyAppStopped:400 com.android.server.wm.WindowManagerService.notifyAppStopped:4869 com.android.server.am.ActivityStack.activityStoppedLocked:1393 com.android.server.am.ActivityManagerService.activityStopped:7690
+1407 Destroying surface Surface(name=com.example.android.notepad/com.example.android.notepad.NoteEditor) called by com.android.server.wm.WindowStateAnimator.destroySurface:2060 com.android.server.wm.WindowStateAnimator.destroySurfaceLocked:913 com.android.server.wm.WindowState.destroyOrSaveSurface:2201 com.android.server.wm.AppWindowToken.destroySurfaces:374 com.android.server.wm.AppWindowToken.notifyAppStopped:400 com.android.server.wm.WindowManagerService.notifyAppStopped:4869 com.android.server.am.ActivityStack.activityStoppedLocked:1393 com.android.server.am.ActivityManagerService.activityStopped:7690
+1408 getTasks: caller 10020 does not hold REAL_GET_TASKS; limiting output
+1409 getTasks: caller 10020 does not hold REAL_GET_TASKS; limiting output
+1410 getRingerMode...
+1411 userActivityNoUpdateLocked: eventTime=261973289, event=2, flags=0x0, uid=1000
+1412 suspendAutohide
+1413 ready=true,policy=3,wakefulness=1,wksummary=0x0,uasummary=0x1,bootcompleted=true,boostinprogress=false,waitmodeenable=false,mode=false,manual=38,auto=-1,adj=0.0userId=0
+1414 interceptKeyTq keycode=3 interactive=true keyguardActive=false policyFlags=2b000002 down true canceled false
+1415 interceptKeyBeforeQueueing: key 3 , result : 1
+1416 userActivityNoUpdateLocked: eventTime=261973293, event=1, flags=0x0, uid=1000
+1417 ready=true,policy=3,wakefulness=1,wksummary=0x0,uasummary=0x1,bootcompleted=true,boostinprogress=false,waitmodeenable=false,mode=false,manual=38,auto=-1,adj=0.0userId=0
+1418 resumeSuspendedAutohide
+1419 userActivityNoUpdateLocked: eventTime=261973328, event=0, flags=0x0, uid=1000
+1420 ready=true,policy=3,wakefulness=1,wksummary=0x0,uasummary=0x1,bootcompleted=true,boostinprogress=false,waitmodeenable=false,mode=false,manual=38,auto=-1,adj=0.0userId=0
+1421 interceptKeyTq keycode=3 interactive=true keyguardActive=false policyFlags=2b000002 down false canceled false
+1422 interceptKeyBeforeQueueing: key 3 , result : 1
+1423 querySoundEffectsEnabled...
+1424 userActivityNoUpdateLocked: eventTime=261973352, event=0, flags=0x0, uid=1000
+1425 ready=true,policy=3,wakefulness=1,wksummary=0x0,uasummary=0x1,bootcompleted=true,boostinprogress=false,waitmodeenable=false,mode=false,manual=38,auto=-1,adj=0.0userId=0
+1426 animateCollapsePanels:flags=0, force=false, delayed=false, mExpandedVisible=false
+1427 closeQs
+1428 cancelPeek: false
+1429 instantCollapse
+1430 cancelPeek: false
+1431 userActivityNoUpdateLocked: eventTime=261973840, event=2, flags=0x0, uid=1000
+1432 ready=true,policy=3,wakefulness=1,wksummary=0x0,uasummary=0x1,bootcompleted=true,boostinprogress=false,waitmodeenable=false,mode=false,manual=38,auto=-1,adj=0.0userId=0
+1433 playSoundEffect   effectType: 0
+1434 querySoundEffectsEnabled...
+1435 START u0 {act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10200000 cmp=com.tencent.mobileqq/.activity.SplashActivity bnds=[360,820][536,1011]} from uid 10057 on display 0
+1436 ActivityRecord info: ActivityInfo{71e60ba com.tencent.mobileqq.activity.SplashActivity}, euid: 0
+1437 acquire lock=189667585, flags=0x1, tag="*launch*", name=android, ws=WorkSource{10111}, uid=1000, pid=1702
+1438 ready=true,policy=3,wakefulness=1,wksummary=0x1,uasummary=0x1,bootcompleted=true,boostinprogress=false,waitmodeenable=false,mode=false,manual=38,auto=-1,adj=0.0userId=0
+1439 Acquiring suspend blocker "PowerManagerService.WakeLocks".
+1440 The change in focus caused us to need to do a layout begin
+1441 The change in focus caused us to need to do a layout end
+1442 updateClipping isOverlap:false, getTopPadding=333.0, Translation=-24.0
+1443 updateDimmedActivatedHideSensitive overlap:false
+1444 setSystemUiVisibility vis=80000508 mask=ffffffff oldVal=c0000700 newVal=80000508 diff=40000208 fullscreenStackVis=0 dockedStackVis=0, fullscreenStackBounds=Rect(0, 0 - 720, 1280), dockedStackBounds=Rect(0, 0 - 0, 0)
+1445 cancelAutohide
+1446 notifyUiVisibilityChanged:vis=0x80000508, SystemUiVisibility=0x80000508
+1447 setLightsOn(true)
+1448 setSystemUiVisibility vis=0 mask=1 oldVal=80000508 newVal=80000508 diff=0 fullscreenStackVis=0 dockedStackVis=0, fullscreenStackBounds=Rect(0, 0 - 0, 0), dockedStackBounds=Rect(0, 0 - 0, 0)
+1449 Skipping, withExcluded: false, tr.intent:Intent { flg=0x10804000 cmp=com.android.systemui/.recents.RecentsActivity bnds=[264,444][920,908] }
+1450 Skipping, withExcluded: false, tr.intent:Intent { act=android.intent.action.MAIN flg=0x10840000 cmp=com.android.incallui/.InCallActivity (has extras) }
+1451 Skipping, withExcluded: false, tr.intent:Intent { flg=0x18800000 cmp=com.tencent.mm/.plugin.base.stub.WXEntryActivity (has extras) }
+1452 Skipping, withExcluded: false, tr.intent:Intent { flg=0x10800000 cmp=com.tencent.qqmusic/.business.lockscreen.LockScreenActivity (has extras) }
+1453 Skipping, withExcluded: false, tr.intent:Intent { act=com.android.contacts.action.CHOOSE_SUB dat=tel:xxxxxxxxxxx flg=0x10808000 cmp=com.android.contacts/.ChooseSubActivity (has extras) }
+1454 Skipping, withExcluded: false, tr.intent:Intent { act=android.intent.action.VIEW dat=file:///storage/emulated/0/Tencent/QQfile_recv/b.apk typ=application/vnd.android.package-archive flg=0x10800000 cmp=com.android.packageinstaller/.PackageInstallerActivity (has extras) }
+1455 getRecentTasks: num=20,flags=62,totalTasks=46
+1456 getRecentTasks: topActivity=ComponentInfo{com.tencent.mobileqq/com.tencent.mobileqq.activity.SplashActivity}
+1457 Skipping, withExcluded: false, tr.intent:Intent { flg=0x10804000 cmp=com.android.systemui/.recents.RecentsActivity bnds=[264,444][920,908] }
+1458 Skipping, withExcluded: false, tr.intent:Intent { act=android.intent.action.MAIN flg=0x10840000 cmp=com.android.incallui/.InCallActivity (has extras) }
+1459 Skipping, withExcluded: false, tr.intent:Intent { flg=0x18800000 cmp=com.tencent.mm/.plugin.base.stub.WXEntryActivity (has extras) }
+1460 getRecentTasks: num=10,flags=62,totalTasks=46
+1461 getRecentTasks: topActivity=ComponentInfo{com.tencent.mobileqq/com.tencent.mobileqq.activity.SplashActivity}
+1462 setLightsOn(true)
+1463 setSystemUiVisibility vis=0 mask=1 oldVal=80000508 newVal=80000508 diff=0 fullscreenStackVis=0 dockedStackVis=0, fullscreenStackBounds=Rect(0, 0 - 0, 0), dockedStackBounds=Rect(0, 0 - 0, 0)
+1464 cancelNotificationWithTag pid 28601,uid = 10111,tag = null,pkg =com.tencent.mobileqq,id =121
+1465 cancelNotification,index:0
+1466 cancelNotification,cancelNotificationLocked,callingUid = 10111,callingPid = 28601
+1467 cancelNotificationLocked called,tell the app,reason = 8
+1468 cancelNotificationLocked:0|com.tencent.mobileqq|121|null|10111
+1469 cancelNotificationWithTag pid 28601,uid = 10111,tag = null,pkg =com.tencent.mobileqq,id =119
+1470 cancelNotificationLocked,remove =com.tencent.mobileqq
+1471 cancelNotificationWithTag pid 28601,uid = 10111,tag = null,pkg =com.tencent.mobileqq,id =122
+1472 updateLightsLocked,mInCall =false,mScreenOn = true,ledNotification == null?true
+1473 updateLightsLocked,turn off notificationLight
+1474 cancelNotification,index:-1
+1475 cancelNotification,index:-1
+1476 setSystemUiVisibility vis=40000500 mask=ffffffff oldVal=80000508 newVal=40000500 diff=c0000008 fullscreenStackVis=0 dockedStackVis=0, fullscreenStackBounds=Rect(0, 0 - 720, 1280), dockedStackBounds=Rect(0, 0 - 0, 0)
+1477 cancelAutohide
+1478 notifyUiVisibilityChanged:vis=0x40000500, SystemUiVisibility=0x40000500
+1479 cancelNotificationWithTag pid 28601,uid = 10111,tag = null,pkg =com.tencent.mobileqq,id =123
+1480 cancelNotificationWithTag pid 28601,uid = 10111,tag = null,pkg =com.tencent.mobileqq,id =129
+1481 cancelNotification,index:-1
+1482 cancelNotification,index:-1
+1483 cancelNotificationWithTag pid 28601,uid = 10111,tag = null,pkg =com.tencent.mobileqq,id =135
+1484 cancelNotification,index:-1
+1485 cancelNotificationWithTag pid 28601,uid = 10111,tag = null,pkg =com.tencent.mobileqq,id =140
+1486 cancelNotification,index:-1
+1487 shouldBlockLocation running ...
+1488 setLightsOn(true)
+1489 setSystemUiVisibility vis=0 mask=1 oldVal=40000500 newVal=40000500 diff=0 fullscreenStackVis=0 dockedStackVis=0, fullscreenStackBounds=Rect(0, 0 - 0, 0), dockedStackBounds=Rect(0, 0 - 0, 0)
+1490 removeNotification:0|com.tencent.mobileqq|121|null|10111
+1491 updateNotificationShade: total=0, active=0
+1492 cancelNotificationWithTag pid 28601,uid = 10111,tag = null,pkg =com.tencent.mobileqq,id =144
+1493 cancelNotification,index:-1
+1494 removeNotificationChildren
+1495 animateCollapsePanels:flags=0, force=false, delayed=false, mExpandedVisible=false
+1496 closeQs
+1497 cancelPeek: false
+1498 instantCollapse
+1499 cancelPeek: false
+1500 release:lock=189667585, flg=0x0, tag="*launch*", name=android", ws=WorkSource{10111}, uid=1000, pid=1702
+1501 ready=true,policy=3,wakefulness=1,wksummary=0x0,uasummary=0x1,bootcompleted=true,boostinprogress=false,waitmodeenable=false,mode=false,manual=38,auto=-1,adj=0.0userId=0
+1502 Releasing suspend blocker "PowerManagerService.WakeLocks".
+1503 updateClipping isOverlap:false, getTopPadding=333.0, Translation=0.0
+1504 updateDimmedActivatedHideSensitive overlap:false
+1505 setLightsOn(true)
+1506 setSystemUiVisibility vis=0 mask=1 oldVal=40000500 newVal=40000500 diff=0 fullscreenStackVis=0 dockedStackVis=0, fullscreenStackBounds=Rect(0, 0 - 0, 0), dockedStackBounds=Rect(0, 0 - 0, 0)
+1507 setLightsOn(true)
+1508 setSystemUiVisibility vis=0 mask=1 oldVal=40000500 newVal=40000500 diff=0 fullscreenStackVis=0 dockedStackVis=0, fullscreenStackBounds=Rect(0, 0 - 0, 0), dockedStackBounds=Rect(0, 0 - 0, 0)
+1509 cancelNotificationWithTag pid 28601,uid = 10111,tag = null,pkg =com.tencent.mobileqq,id =193
+1510 cancelNotification,index:-1
+1511 shouldBlockLocation  ret:true
+1512 getAllCellInfo is blocked by permission manager . callingPackage = com.tencent.mobileqq
+1513 setLightsOn(true)
+1514 setSystemUiVisibility vis=0 mask=1 oldVal=40000500 newVal=40000500 diff=0 fullscreenStackVis=0 dockedStackVis=0, fullscreenStackBounds=Rect(0, 0 - 0, 0), dockedStackBounds=Rect(0, 0 - 0, 0)
+1515 setLightsOn(true)
+1516 setSystemUiVisibility vis=0 mask=1 oldVal=40000500 newVal=40000500 diff=0 fullscreenStackVis=0 dockedStackVis=0, fullscreenStackBounds=Rect(0, 0 - 0, 0), dockedStackBounds=Rect(0, 0 - 0, 0)
+1517 setLightsOn(true)
+1518 setSystemUiVisibility vis=0 mask=1 oldVal=40000500 newVal=40000500 diff=0 fullscreenStackVis=0 dockedStackVis=0, fullscreenStackBounds=Rect(0, 0 - 0, 0), dockedStackBounds=Rect(0, 0 - 0, 0)
+1519 getTasks: caller 10111 does not hold REAL_GET_TASKS; limiting output
+1520 getTasks: caller 10111 does not hold REAL_GET_TASKS; limiting output
+1521 isMusicActive...
+1522 userActivityNoUpdateLocked: eventTime=261975077, event=2, flags=0x0, uid=1000
+1523 ready=true,policy=3,wakefulness=1,wksummary=0x0,uasummary=0x1,bootcompleted=true,boostinprogress=false,waitmodeenable=false,mode=false,manual=38,auto=-1,adj=0.0userId=0
+1524 playSoundEffect   effectType: 0
+1525 querySoundEffectsEnabled...
+1526 setLightsOn(true)
+1527 setSystemUiVisibility vis=0 mask=1 oldVal=40000500 newVal=40000500 diff=0 fullscreenStackVis=0 dockedStackVis=0, fullscreenStackBounds=Rect(0, 0 - 0, 0), dockedStackBounds=Rect(0, 0 - 0, 0)
+1528 HBM brightnessIn =38
+1529 HBM brightnessOut =38
+1530 Animating brightness: target=38, rate=200
+1531 HBM brightnessIn =38
+1532 HBM brightnessOut =38
+1533 Animating brightness: target=38, rate=200
+1534 shouldBlockLocation running ...
+1535 shouldBlockLocation  ret:true
+1536 getAllCellInfo is blocked by permission manager . callingPackage = com.tencent.mobileqq
+1537 shouldBlockLocation running ...
+1538 shouldBlockLocation  ret:true
+1539 getCellLocation is blocked by permission manager uid:10111 pid:28601
+1540 getRunningAppProcesses: caller 10111 does not hold REAL_GET_TASKS; limiting output
+1541 HBM brightnessIn =38
+1542 HBM brightnessOut =38
+1543 Animating brightness: target=38, rate=200
+1544 userActivityNoUpdateLocked: eventTime=261976180, event=2, flags=0x0, uid=1000
+1545 ready=true,policy=3,wakefulness=1,wksummary=0x0,uasummary=0x1,bootcompleted=true,boostinprogress=false,waitmodeenable=false,mode=false,manual=38,auto=-1,adj=0.0userId=0
+1546 HBM brightnessIn =38
+1547 HBM brightnessOut =38
+1548 Animating brightness: target=38, rate=200
+1549 setLightsOn(true)
+1550 setSystemUiVisibility vis=0 mask=1 oldVal=40000500 newVal=40000500 diff=0 fullscreenStackVis=0 dockedStackVis=0, fullscreenStackBounds=Rect(0, 0 - 0, 0), dockedStackBounds=Rect(0, 0 - 0, 0)
+1551 setLightsOn(true)
+1552 setSystemUiVisibility vis=0 mask=1 oldVal=40000500 newVal=40000500 diff=0 fullscreenStackVis=0 dockedStackVis=0, fullscreenStackBounds=Rect(0, 0 - 0, 0), dockedStackBounds=Rect(0, 0 - 0, 0)
+1553 setLightsOn(true)
+1554 setSystemUiVisibility vis=0 mask=1 oldVal=40000500 newVal=40000500 diff=0 fullscreenStackVis=0 dockedStackVis=0, fullscreenStackBounds=Rect(0, 0 - 0, 0), dockedStackBounds=Rect(0, 0 - 0, 0)
+1555 setLightsOn(true)
+1556 setSystemUiVisibility vis=0 mask=1 oldVal=40000500 newVal=40000500 diff=0 fullscreenStackVis=0 dockedStackVis=0, fullscreenStackBounds=Rect(0, 0 - 0, 0), dockedStackBounds=Rect(0, 0 - 0, 0)
+1557 setLightsOn(true)
+1558 setSystemUiVisibility vis=0 mask=1 oldVal=40000500 newVal=40000500 diff=0 fullscreenStackVis=0 dockedStackVis=0, fullscreenStackBounds=Rect(0, 0 - 0, 0), dockedStackBounds=Rect(0, 0 - 0, 0)
+1559 setLightsOn(true)
+1560 setSystemUiVisibility vis=0 mask=1 oldVal=40000500 newVal=40000500 diff=0 fullscreenStackVis=0 dockedStackVis=0, fullscreenStackBounds=Rect(0, 0 - 0, 0), dockedStackBounds=Rect(0, 0 - 0, 0)
+1561 setLightsOn(true)
+1562 setSystemUiVisibility vis=0 mask=1 oldVal=40000500 newVal=40000500 diff=0 fullscreenStackVis=0 dockedStackVis=0, fullscreenStackBounds=Rect(0, 0 - 0, 0), dockedStackBounds=Rect(0, 0 - 0, 0)
+1563 setLightsOn(true)
+1564 setSystemUiVisibility vis=0 mask=1 oldVal=40000500 newVal=40000500 diff=0 fullscreenStackVis=0 dockedStackVis=0, fullscreenStackBounds=Rect(0, 0 - 0, 0), dockedStackBounds=Rect(0, 0 - 0, 0)
+1565 setLightsOn(true)
+1566 setSystemUiVisibility vis=0 mask=1 oldVal=40000500 newVal=40000500 diff=0 fullscreenStackVis=0 dockedStackVis=0, fullscreenStackBounds=Rect(0, 0 - 0, 0), dockedStackBounds=Rect(0, 0 - 0, 0)
+1567 setLightsOn(true)
+1568 setSystemUiVisibility vis=0 mask=1 oldVal=40000500 newVal=40000500 diff=0 fullscreenStackVis=0 dockedStackVis=0, fullscreenStackBounds=Rect(0, 0 - 0, 0), dockedStackBounds=Rect(0, 0 - 0, 0)
+1569 setLightsOn(true)
+1570 setSystemUiVisibility vis=0 mask=1 oldVal=40000500 newVal=40000500 diff=0 fullscreenStackVis=0 dockedStackVis=0, fullscreenStackBounds=Rect(0, 0 - 0, 0), dockedStackBounds=Rect(0, 0 - 0, 0)
+1571 setLightsOn(true)
+1572 setSystemUiVisibility vis=0 mask=1 oldVal=40000500 newVal=40000500 diff=0 fullscreenStackVis=0 dockedStackVis=0, fullscreenStackBounds=Rect(0, 0 - 0, 0), dockedStackBounds=Rect(0, 0 - 0, 0)
+1573 setLightsOn(true)
+1574 setSystemUiVisibility vis=0 mask=1 oldVal=40000500 newVal=40000500 diff=0 fullscreenStackVis=0 dockedStackVis=0, fullscreenStackBounds=Rect(0, 0 - 0, 0), dockedStackBounds=Rect(0, 0 - 0, 0)
+1575 setLightsOn(true)
+1576 setSystemUiVisibility vis=0 mask=1 oldVal=40000500 newVal=40000500 diff=0 fullscreenStackVis=0 dockedStackVis=0, fullscreenStackBounds=Rect(0, 0 - 0, 0), dockedStackBounds=Rect(0, 0 - 0, 0)
+1577 setLightsOn(true)
+1578 setSystemUiVisibility vis=0 mask=1 oldVal=40000500 newVal=40000500 diff=0 fullscreenStackVis=0 dockedStackVis=0, fullscreenStackBounds=Rect(0, 0 - 0, 0), dockedStackBounds=Rect(0, 0 - 0, 0)
+1579 setLightsOn(true)
+1580 setSystemUiVisibility vis=0 mask=1 oldVal=40000500 newVal=40000500 diff=0 fullscreenStackVis=0 dockedStackVis=0, fullscreenStackBounds=Rect(0, 0 - 0, 0), dockedStackBounds=Rect(0, 0 - 0, 0)
+1581 userActivityNoUpdateLocked: eventTime=261976915, event=2, flags=0x0, uid=1000
+1582 ready=true,policy=3,wakefulness=1,wksummary=0x0,uasummary=0x1,bootcompleted=true,boostinprogress=false,waitmodeenable=false,mode=false,manual=38,auto=-1,adj=0.0userId=0
+1583 setLightsOn(true)
+1584 setSystemUiVisibility vis=0 mask=1 oldVal=40000500 newVal=40000500 diff=0 fullscreenStackVis=0 dockedStackVis=0, fullscreenStackBounds=Rect(0, 0 - 0, 0), dockedStackBounds=Rect(0, 0 - 0, 0)
+1585 setLightsOn(true)
+1586 setSystemUiVisibility vis=0 mask=1 oldVal=40000500 newVal=40000500 diff=0 fullscreenStackVis=0 dockedStackVis=0, fullscreenStackBounds=Rect(0, 0 - 0, 0), dockedStackBounds=Rect(0, 0 - 0, 0)
+1587 setLightsOn(true)
+1588 setSystemUiVisibility vis=0 mask=1 oldVal=40000500 newVal=40000500 diff=0 fullscreenStackVis=0 dockedStackVis=0, fullscreenStackBounds=Rect(0, 0 - 0, 0), dockedStackBounds=Rect(0, 0 - 0, 0)
+1589 setLightsOn(true)
+1590 setSystemUiVisibility vis=0 mask=1 oldVal=40000500 newVal=40000500 diff=0 fullscreenStackVis=0 dockedStackVis=0, fullscreenStackBounds=Rect(0, 0 - 0, 0), dockedStackBounds=Rect(0, 0 - 0, 0)
+1591 setLightsOn(true)
+1592 setSystemUiVisibility vis=0 mask=1 oldVal=40000500 newVal=40000500 diff=0 fullscreenStackVis=0 dockedStackVis=0, fullscreenStackBounds=Rect(0, 0 - 0, 0), dockedStackBounds=Rect(0, 0 - 0, 0)
+1593 setLightsOn(true)
+1594 setSystemUiVisibility vis=0 mask=1 oldVal=40000500 newVal=40000500 diff=0 fullscreenStackVis=0 dockedStackVis=0, fullscreenStackBounds=Rect(0, 0 - 0, 0), dockedStackBounds=Rect(0, 0 - 0, 0)
+1595 shouldBlockLocation running ...
+1596 shouldBlockLocation  ret:true
+1597 getAllCellInfo is blocked by permission manager . callingPackage = com.tencent.mobileqq
+1598 userActivityNoUpdateLocked: eventTime=261977717, event=2, flags=0x0, uid=1000
+1599 ready=true,policy=3,wakefulness=1,wksummary=0x0,uasummary=0x1,bootcompleted=true,boostinprogress=false,waitmodeenable=false,mode=false,manual=38,auto=-1,adj=0.0userId=0
+1600 setLightsOn(true)
+1601 setSystemUiVisibility vis=0 mask=1 oldVal=40000500 newVal=40000500 diff=0 fullscreenStackVis=0 dockedStackVis=0, fullscreenStackBounds=Rect(0, 0 - 0, 0), dockedStackBounds=Rect(0, 0 - 0, 0)
+1602 userActivityNoUpdateLocked: eventTime=261978352, event=2, flags=0x0, uid=1000
+1603 ready=true,policy=3,wakefulness=1,wksummary=0x0,uasummary=0x1,bootcompleted=true,boostinprogress=false,waitmodeenable=false,mode=false,manual=38,auto=-1,adj=0.0userId=0
+1604 getRunningAppProcesses: caller 10113 does not hold REAL_GET_TASKS; limiting output
+1605 getRunningAppProcesses: caller 10113 does not hold REAL_GET_TASKS; limiting output
+1606 userActivityNoUpdateLocked: eventTime=261979355, event=2, flags=0x0, uid=1000
+1607 ready=true,policy=3,wakefulness=1,wksummary=0x0,uasummary=0x1,bootcompleted=true,boostinprogress=false,waitmodeenable=false,mode=false,manual=38,auto=-1,adj=0.0userId=0
+1608 setLightsOn(true)
+1609 setSystemUiVisibility vis=0 mask=1 oldVal=40000500 newVal=40000500 diff=0 fullscreenStackVis=0 dockedStackVis=0, fullscreenStackBounds=Rect(0, 0 - 0, 0), dockedStackBounds=Rect(0, 0 - 0, 0)
+1610 setLightsOn(true)
+1611 setSystemUiVisibility vis=0 mask=1 oldVal=40000500 newVal=40000500 diff=0 fullscreenStackVis=0 dockedStackVis=0, fullscreenStackBounds=Rect(0, 0 - 0, 0), dockedStackBounds=Rect(0, 0 - 0, 0)
+1612 setLightsOn(true)
+1613 setSystemUiVisibility vis=0 mask=1 oldVal=40000500 newVal=40000500 diff=0 fullscreenStackVis=0 dockedStackVis=0, fullscreenStackBounds=Rect(0, 0 - 0, 0), dockedStackBounds=Rect(0, 0 - 0, 0)
+1614 getRunningAppProcesses: caller 10111 does not hold REAL_GET_TASKS; limiting output
+1615 getTasks: caller 10111 does not hold REAL_GET_TASKS; limiting output
+1616 setLightsOn(true)
+1617 setSystemUiVisibility vis=0 mask=1 oldVal=40000500 newVal=40000500 diff=0 fullscreenStackVis=0 dockedStackVis=0, fullscreenStackBounds=Rect(0, 0 - 0, 0), dockedStackBounds=Rect(0, 0 - 0, 0)
+1618 userActivityNoUpdateLocked: eventTime=261980307, event=2, flags=0x0, uid=1000
+1619 ready=true,policy=3,wakefulness=1,wksummary=0x0,uasummary=0x1,bootcompleted=true,boostinprogress=false,waitmodeenable=false,mode=false,manual=38,auto=-1,adj=0.0userId=0
+1620 setLightsOn(true)
+1621 setSystemUiVisibility vis=0 mask=1 oldVal=40000500 newVal=40000500 diff=0 fullscreenStackVis=0 dockedStackVis=0, fullscreenStackBounds=Rect(0, 0 - 0, 0), dockedStackBounds=Rect(0, 0 - 0, 0)
+1622 setLightsOn(true)
+1623 setSystemUiVisibility vis=0 mask=1 oldVal=40000500 newVal=40000500 diff=0 fullscreenStackVis=0 dockedStackVis=0, fullscreenStackBounds=Rect(0, 0 - 0, 0), dockedStackBounds=Rect(0, 0 - 0, 0)
+1624 isMusicActive...
+1625 setLightsOn(true)
+1626 setSystemUiVisibility vis=0 mask=1 oldVal=40000500 newVal=40000500 diff=0 fullscreenStackVis=0 dockedStackVis=0, fullscreenStackBounds=Rect(0, 0 - 0, 0), dockedStackBounds=Rect(0, 0 - 0, 0)
+1627 setLightsOn(true)
+1628 setSystemUiVisibility vis=0 mask=1 oldVal=40000500 newVal=40000500 diff=0 fullscreenStackVis=0 dockedStackVis=0, fullscreenStackBounds=Rect(0, 0 - 0, 0), dockedStackBounds=Rect(0, 0 - 0, 0)
+1629 setLightsOn(true)
+1630 setSystemUiVisibility vis=0 mask=1 oldVal=40000500 newVal=40000500 diff=0 fullscreenStackVis=0 dockedStackVis=0, fullscreenStackBounds=Rect(0, 0 - 0, 0), dockedStackBounds=Rect(0, 0 - 0, 0)
+1631 setLightsOn(true)
+1632 setSystemUiVisibility vis=0 mask=1 oldVal=40000500 newVal=40000500 diff=0 fullscreenStackVis=0 dockedStackVis=0, fullscreenStackBounds=Rect(0, 0 - 0, 0), dockedStackBounds=Rect(0, 0 - 0, 0)
+1633 userActivityNoUpdateLocked: eventTime=261980925, event=2, flags=0x0, uid=1000
+1634 ready=true,policy=3,wakefulness=1,wksummary=0x0,uasummary=0x1,bootcompleted=true,boostinprogress=false,waitmodeenable=false,mode=false,manual=38,auto=-1,adj=0.0userId=0
+1635 setLightsOn(true)
+1636 setSystemUiVisibility vis=0 mask=1 oldVal=40000500 newVal=40000500 diff=0 fullscreenStackVis=0 dockedStackVis=0, fullscreenStackBounds=Rect(0, 0 - 0, 0), dockedStackBounds=Rect(0, 0 - 0, 0)
+1637 setLightsOn(true)
+1638 setSystemUiVisibility vis=0 mask=1 oldVal=40000500 newVal=40000500 diff=0 fullscreenStackVis=0 dockedStackVis=0, fullscreenStackBounds=Rect(0, 0 - 0, 0), dockedStackBounds=Rect(0, 0 - 0, 0)
+1639 userActivityNoUpdateLocked: eventTime=261981426, event=2, flags=0x0, uid=1000
+1640 ready=true,policy=3,wakefulness=1,wksummary=0x0,uasummary=0x1,bootcompleted=true,boostinprogress=false,waitmodeenable=false,mode=false,manual=38,auto=-1,adj=0.0userId=0
+1641 setLightsOn(true)
+1642 setSystemUiVisibility vis=0 mask=1 oldVal=40000500 newVal=40000500 diff=0 fullscreenStackVis=0 dockedStackVis=0, fullscreenStackBounds=Rect(0, 0 - 0, 0), dockedStackBounds=Rect(0, 0 - 0, 0)
+1643 userActivityNoUpdateLocked: eventTime=261982379, event=2, flags=0x0, uid=1000
+1644 ready=true,policy=3,wakefulness=1,wksummary=0x0,uasummary=0x1,bootcompleted=true,boostinprogress=false,waitmodeenable=false,mode=false,manual=38,auto=-1,adj=0.0userId=0
+1645 HBM brightnessIn =38
+1646 HBM brightnessOut =38
+1647 Animating brightness: target=38, rate=200
+1648 setLightsOn(true)
+1649 setSystemUiVisibility vis=0 mask=1 oldVal=40000500 newVal=40000500 diff=0 fullscreenStackVis=0 dockedStackVis=0, fullscreenStackBounds=Rect(0, 0 - 0, 0), dockedStackBounds=Rect(0, 0 - 0, 0)
+1650 setLightsOn(true)
+1651 setSystemUiVisibility vis=0 mask=1 oldVal=40000500 newVal=40000500 diff=0 fullscreenStackVis=0 dockedStackVis=0, fullscreenStackBounds=Rect(0, 0 - 0, 0), dockedStackBounds=Rect(0, 0 - 0, 0)
+1652 HBM brightnessIn =38
+1653 HBM brightnessOut =38
+1654 Animating brightness: target=38, rate=200
+1655 userActivityNoUpdateLocked: eventTime=261983047, event=2, flags=0x0, uid=1000
+1656 ready=true,policy=3,wakefulness=1,wksummary=0x0,uasummary=0x1,bootcompleted=true,boostinprogress=false,waitmodeenable=false,mode=false,manual=38,auto=-1,adj=0.0userId=0
+1657 setLightsOn(true)
+1658 setSystemUiVisibility vis=0 mask=1 oldVal=40000500 newVal=40000500 diff=0 fullscreenStackVis=0 dockedStackVis=0, fullscreenStackBounds=Rect(0, 0 - 0, 0), dockedStackBounds=Rect(0, 0 - 0, 0)
+1659 setLightsOn(true)
+1660 setSystemUiVisibility vis=0 mask=1 oldVal=40000500 newVal=40000500 diff=0 fullscreenStackVis=0 dockedStackVis=0, fullscreenStackBounds=Rect(0, 0 - 0, 0), dockedStackBounds=Rect(0, 0 - 0, 0)
+1661 HBM brightnessIn =38
+1662 HBM brightnessOut =38
+1663 Animating brightness: target=38, rate=200
+1664 setLightsOn(true)
+1665 setSystemUiVisibility vis=0 mask=1 oldVal=40000500 newVal=40000500 diff=0 fullscreenStackVis=0 dockedStackVis=0, fullscreenStackBounds=Rect(0, 0 - 0, 0), dockedStackBounds=Rect(0, 0 - 0, 0)
+1666 setLightsOn(true)
+1667 setSystemUiVisibility vis=0 mask=1 oldVal=40000500 newVal=40000500 diff=0 fullscreenStackVis=0 dockedStackVis=0, fullscreenStackBounds=Rect(0, 0 - 0, 0), dockedStackBounds=Rect(0, 0 - 0, 0)
+1668 HBM brightnessIn =38
+1669 HBM brightnessOut =38
+1670 Animating brightness: target=38, rate=200
+1671 userActivityNoUpdateLocked: eventTime=261983733, event=2, flags=0x0, uid=1000
+1672 ready=true,policy=3,wakefulness=1,wksummary=0x0,uasummary=0x1,bootcompleted=true,boostinprogress=false,waitmodeenable=false,mode=false,manual=38,auto=-1,adj=0.0userId=0
+1673 setLightsOn(true)
+1674 setSystemUiVisibility vis=0 mask=1 oldVal=40000500 newVal=40000500 diff=0 fullscreenStackVis=0 dockedStackVis=0, fullscreenStackBounds=Rect(0, 0 - 0, 0), dockedStackBounds=Rect(0, 0 - 0, 0)
+1675 HBM brightnessIn =38
+1676 HBM brightnessOut =38
+1677 Animating brightness: target=38, rate=200
+1678 HBM brightnessIn =38
+1679 HBM brightnessOut =38
+1680 Animating brightness: target=38, rate=200
+1681 HBM brightnessIn =38
+1682 HBM brightnessOut =38
+1683 Animating brightness: target=38, rate=200
+1684 userActivityNoUpdateLocked: eventTime=261984484, event=2, flags=0x0, uid=1000
+1685 ready=true,policy=3,wakefulness=1,wksummary=0x0,uasummary=0x1,bootcompleted=true,boostinprogress=false,waitmodeenable=false,mode=false,manual=38,auto=-1,adj=0.0userId=0
+1686 sending alarm Alarm{d764221 type 3 when 509262332 PendingIntent{1749923: PendingIntentRecord{9600e20 android broadcastIntent}}},repeatInterval = 0,listenerTag =time_tick
+1687 ready=true,policy=3,wakefulness=1,wksummary=0x1,uasummary=0x1,bootcompleted=true,boostinprogress=false,waitmodeenable=false,mode=false,manual=38,auto=-1,adj=0.0userId=0
+1688 Acquiring suspend blocker "PowerManagerService.WakeLocks".
+1689 Received TIME_TICK alarm; rescheduling
+1690 scheduleTimeTickEvent triggerAtTime = 509322332
+1691 updateClipping isOverlap:false, getTopPadding=333.0, Translation=0.0
+1692 updateDimmedActivatedHideSensitive overlap:false
+1693 updateClipping isOverlap:false, getTopPadding=333.0, Translation=0.0
+1694 updateDimmedActivatedHideSensitive overlap:false
+1695 received broadcast android.intent.action.TIME_TICK
+1696 handleTimeUpdate
+1697 HBM brightnessIn =38
+1698 HBM brightnessOut =38
+1699 Animating brightness: target=38, rate=200
+1700 playSoundEffect   effectType: 0
+1701 querySoundEffectsEnabled...
+1702 Destroying surface Surface(name=PopupWindow:9b04807) called by com.android.server.wm.WindowStateAnimator.destroySurface:2060 com.android.server.wm.WindowStateAnimator.destroySurfaceLocked:913 com.android.server.wm.WindowState.removeLocked:1554 com.android.server.wm.WindowManagerService.removeWindowInnerLocked:2739 com.android.server.wm.WindowManagerService.removeWindowInnerLocked:2702 com.android.server.wm.WindowManagerService.removeWindowLocked:2691 com.android.server.wm.WindowManagerService.removeWindowLocked:2560 com.android.server.wm.WindowManagerService.removeWindow:2555
+1703 isWiredHeadsetOn...
+1704 Destroying surface Surface(name=PopupWindow:317e46) called by com.android.server.wm.WindowStateAnimator.destroySurface:2060 com.android.server.wm.WindowStateAnimator.destroySurfaceLocked:913 com.android.server.wm.WindowState.removeLocked:1554 com.android.server.wm.WindowManagerService.removeWindowInnerLocked:2739 com.android.server.wm.WindowManagerService.removeWindowInnerLocked:2702 com.android.server.wm.WindowManagerService.removeWindowLocked:2691 com.android.server.wm.WindowManagerService.removeWindowLocked:2560 com.android.server.wm.WindowManagerService.removeWindow:2555
+1705 acquire lock=191063310, flags=0x1, tag="AudioMix", name=audioserver, ws=null, uid=1041, pid=0
+1706 ready=true,policy=3,wakefulness=1,wksummary=0x1,uasummary=0x1,bootcompleted=true,boostinprogress=false,waitmodeenable=false,mode=false,manual=38,auto=-1,adj=0.0userId=0
+1707 acquire lock=149977903, flags=0x1, tag="AudioMix", name=audioserver, ws=null, uid=1041, pid=0
+1708 ready=true,policy=3,wakefulness=1,wksummary=0x1,uasummary=0x1,bootcompleted=true,boostinprogress=false,waitmodeenable=false,mode=false,manual=38,auto=-1,adj=0.0userId=0
+1709 acquire lock=155645244, flags=0x1, tag="AudioMix", name=audioserver, ws=null, uid=1041, pid=0
+1710 ready=true,policy=3,wakefulness=1,wksummary=0x1,uasummary=0x1,bootcompleted=true,boostinprogress=false,waitmodeenable=false,mode=false,manual=38,auto=-1,adj=0.0userId=0
+1711 acquire lock=173466309, flags=0x1, tag="AudioMix", name=audioserver, ws=null, uid=1041, pid=0
+1712 ready=true,policy=3,wakefulness=1,wksummary=0x1,uasummary=0x1,bootcompleted=true,boostinprogress=false,waitmodeenable=false,mode=false,manual=38,auto=-1,adj=0.0userId=0
+1713 HBM brightnessIn =38
+1714 HBM brightnessOut =38
+1715 Animating brightness: target=38, rate=200
+1716 ready=true,policy=3,wakefulness=1,wksummary=0x1,uasummary=0x1,bootcompleted=true,boostinprogress=false,waitmodeenable=false,mode=false,manual=38,auto=-1,adj=0.0userId=0
+1717 setLightsOn(true)
+1718 setSystemUiVisibility vis=0 mask=1 oldVal=40000500 newVal=40000500 diff=0 fullscreenStackVis=0 dockedStackVis=0, fullscreenStackBounds=Rect(0, 0 - 0, 0), dockedStackBounds=Rect(0, 0 - 0, 0)
+1719 setDataSource(166, 0, 576460752303423487)
+1720 setLightsOn(true)
+1721 setSystemUiVisibility vis=0 mask=1 oldVal=40000500 newVal=40000500 diff=0 fullscreenStackVis=0 dockedStackVis=0, fullscreenStackBounds=Rect(0, 0 - 0, 0), dockedStackBounds=Rect(0, 0 - 0, 0)
+1722 setLightsOn(true)
+1723 setSystemUiVisibility vis=0 mask=1 oldVal=40000500 newVal=40000500 diff=0 fullscreenStackVis=0 dockedStackVis=0, fullscreenStackBounds=Rect(0, 0 - 0, 0), dockedStackBounds=Rect(0, 0 - 0, 0)
+1724 setLightsOn(true)
+1725 setSystemUiVisibility vis=0 mask=1 oldVal=40000500 newVal=40000500 diff=0 fullscreenStackVis=0 dockedStackVis=0, fullscreenStackBounds=Rect(0, 0 - 0, 0), dockedStackBounds=Rect(0, 0 - 0, 0)
+1726 getStreamVolume  treamType: 5
+1727 setLightsOn(true)
+1728 setSystemUiVisibility vis=0 mask=1 oldVal=40000500 newVal=40000500 diff=0 fullscreenStackVis=0 dockedStackVis=0, fullscreenStackBounds=Rect(0, 0 - 0, 0), dockedStackBounds=Rect(0, 0 - 0, 0)
+1729 setLightsOn(true)
+1730 setSystemUiVisibility vis=0 mask=1 oldVal=40000500 newVal=40000500 diff=0 fullscreenStackVis=0 dockedStackVis=0, fullscreenStackBounds=Rect(0, 0 - 0, 0), dockedStackBounds=Rect(0, 0 - 0, 0)
+1731 HBM brightnessIn =38
+1732 HBM brightnessOut =38
+1733 Animating brightness: target=38, rate=200
+1734 userActivityNoUpdateLocked: eventTime=261985554, event=2, flags=0x0, uid=1000
+1735 ready=true,policy=3,wakefulness=1,wksummary=0x1,uasummary=0x1,bootcompleted=true,boostinprogress=false,waitmodeenable=false,mode=false,manual=38,auto=-1,adj=0.0userId=0
+1736 HBM brightnessIn =38
+1737 HBM brightnessOut =38
+1738 Animating brightness: target=38, rate=200
+1739 Destroying surface Surface(name=PopupWindow:317e46) called by com.android.server.wm.WindowStateAnimator.destroySurface:2060 com.android.server.wm.WindowStateAnimator.destroySurfaceLocked:913 com.android.server.wm.WindowState.removeLocked:1554 com.android.server.wm.WindowManagerService.removeWindowInnerLocked:2739 com.android.server.wm.WindowManagerService.removeWindowInnerLocked:2702 com.android.server.wm.WindowManagerService.removeWindowLocked:2691 com.android.server.wm.WindowManagerService.removeWindowLocked:2560 com.android.server.wm.WindowManagerService.removeWindow:2555
+1740 setLightsOn(true)
+1741 setSystemUiVisibility vis=0 mask=1 oldVal=40000500 newVal=40000500 diff=0 fullscreenStackVis=0 dockedStackVis=0, fullscreenStackBounds=Rect(0, 0 - 0, 0), dockedStackBounds=Rect(0, 0 - 0, 0)
+1742 setLightsOn(true)
+1743 setSystemUiVisibility vis=0 mask=1 oldVal=40000500 newVal=40000500 diff=0 fullscreenStackVis=0 dockedStackVis=0, fullscreenStackBounds=Rect(0, 0 - 0, 0), dockedStackBounds=Rect(0, 0 - 0, 0)
+1744 setLightsOn(true)
+1745 setSystemUiVisibility vis=0 mask=1 oldVal=40000500 newVal=40000500 diff=0 fullscreenStackVis=0 dockedStackVis=0, fullscreenStackBounds=Rect(0, 0 - 0, 0), dockedStackBounds=Rect(0, 0 - 0, 0)
+1746 HBM brightnessIn =38
+1747 HBM brightnessOut =38
+1748 Animating brightness: target=38, rate=200
+1749 setLightsOn(true)
+1750 setSystemUiVisibility vis=0 mask=1 oldVal=40000500 newVal=40000500 diff=0 fullscreenStackVis=0 dockedStackVis=0, fullscreenStackBounds=Rect(0, 0 - 0, 0), dockedStackBounds=Rect(0, 0 - 0, 0)
+1751 Destroying surface Surface(name=InputMethod) called by com.android.server.wm.WindowStateAnimator.destroySurface:2060 com.android.server.wm.WindowStateAnimator.destroySurfaceLocked:913 com.android.server.wm.WindowState.destroyOrSaveSurface:2201 com.android.server.wm.WindowSurfacePlacer.performSurfacePlacementInner:517 com.android.server.wm.WindowSurfacePlacer.performSurfacePlacementLoop:291 com.android.server.wm.WindowSurfacePlacer.performSurfacePlacement:233 com.android.server.wm.WindowManagerService$H.handleMessage:8670 android.os.Handler.dispatchMessage:105
+1752 userActivityNoUpdateLocked: eventTime=261986105, event=2, flags=0x0, uid=1000
+1753 ready=true,policy=3,wakefulness=1,wksummary=0x1,uasummary=0x1,bootcompleted=true,boostinprogress=false,waitmodeenable=false,mode=false,manual=38,auto=-1,adj=0.0userId=0
+1754 playSoundEffect   effectType: 0
+1755 querySoundEffectsEnabled...
+1756 HBM brightnessIn =38
+1757 HBM brightnessOut =38
+1758 Animating brightness: target=38, rate=200
+1759 HBM brightnessIn =38
+1760 HBM brightnessOut =38
+1761 Animating brightness: target=38, rate=200
+1762 HBM brightnessIn =38
+1763 HBM brightnessOut =38
+1764 Animating brightness: target=38, rate=200
+1765 userActivityNoUpdateLocked: eventTime=261986874, event=2, flags=0x0, uid=1000
+1766 ready=true,policy=3,wakefulness=1,wksummary=0x1,uasummary=0x1,bootcompleted=true,boostinprogress=false,waitmodeenable=false,mode=false,manual=38,auto=-1,adj=0.0userId=0
+1767 HBM brightnessIn =38
+1768 HBM brightnessOut =38
+1769 Animating brightness: target=38, rate=200
+1770 userActivityNoUpdateLocked: eventTime=261987391, event=2, flags=0x0, uid=1000
+1771 ready=true,policy=3,wakefulness=1,wksummary=0x1,uasummary=0x1,bootcompleted=true,boostinprogress=false,waitmodeenable=false,mode=false,manual=38,auto=-1,adj=0.0userId=0
+1772 HBM brightnessIn =38
+1773 HBM brightnessOut =38
+1774 Animating brightness: target=38, rate=200
+1775 updateIsPoweredLocked: wasPowered=false, mIsPowered=false, oldPlugType=0, mPlugType=0, mBatteryLevel=23
+1776 received broadcast android.intent.action.BATTERY_CHANGED
+1777 ACTION_BATTERY_CHANGED AMP: 0; Volt: 0
+1778 updateChargingLocked: charging=false
+1779 onReceive, action:android.intent.action.BATTERY_CHANGED
+1780 ACTION_BATTERY_CHANGED pluggedType: 0
+1781 ApStaDisabledState what=155652
+1782 DefaultState what=155652
+1783 battery changed pluggedType: 0
+1784 RefreshBatteryInfo isBatteryLow: 23
+1785 ChargingSpeed  Wattage: -1 ST: 5000000 --> 7500000
+1786 handleBatteryUpdate
+1787 RefreshBatteryInfo isBatteryLow: 23
+1788 ready=true,policy=3,wakefulness=1,wksummary=0x1,uasummary=0x1,bootcompleted=true,boostinprogress=false,waitmodeenable=false,mode=false,manual=38,auto=-1,adj=0.0userId=0
+1789 ready=true,policy=3,wakefulness=1,wksummary=0x1,uasummary=0x1,bootcompleted=true,boostinprogress=false,waitmodeenable=false,mode=false,manual=38,auto=-1,adj=0.0userId=0
+1790 setLightsOn(true)
+1791 setSystemUiVisibility vis=0 mask=1 oldVal=40000500 newVal=40000500 diff=0 fullscreenStackVis=0 dockedStackVis=0, fullscreenStackBounds=Rect(0, 0 - 0, 0), dockedStackBounds=Rect(0, 0 - 0, 0)
+1792 HBM brightnessIn =38
+1793 HBM brightnessOut =38
+1794 Animating brightness: target=38, rate=200
+1795 release:lock=149977903, flg=0x0, tag="AudioMix", name=audioserver", ws=null, uid=1041, pid=0
+1796 ready=true,policy=3,wakefulness=1,wksummary=0x1,uasummary=0x1,bootcompleted=true,boostinprogress=false,waitmodeenable=false,mode=false,manual=38,auto=-1,adj=0.0userId=0
+1797 release:lock=155645244, flg=0x0, tag="AudioMix", name=audioserver", ws=null, uid=1041, pid=0
+1798 ready=true,policy=3,wakefulness=1,wksummary=0x1,uasummary=0x1,bootcompleted=true,boostinprogress=false,waitmodeenable=false,mode=false,manual=38,auto=-1,adj=0.0userId=0
+1799 release:lock=191063310, flg=0x0, tag="AudioMix", name=audioserver", ws=null, uid=1041, pid=0
+1800 ready=true,policy=3,wakefulness=1,wksummary=0x1,uasummary=0x1,bootcompleted=true,boostinprogress=false,waitmodeenable=false,mode=false,manual=38,auto=-1,adj=0.0userId=0
+1801 release:lock=173466309, flg=0x0, tag="AudioMix", name=audioserver", ws=null, uid=1041, pid=0
+1802 ready=true,policy=3,wakefulness=1,wksummary=0x0,uasummary=0x1,bootcompleted=true,boostinprogress=false,waitmodeenable=false,mode=false,manual=38,auto=-1,adj=0.0userId=0
+1803 Releasing suspend blocker "PowerManagerService.WakeLocks".
+1804 HBM brightnessIn =38
+1805 HBM brightnessOut =38
+1806 Animating brightness: target=38, rate=200
+1807 getRunningAppProcesses: caller 10091 does not hold REAL_GET_TASKS; limiting output
+1808 getRunningAppProcesses: caller 10091 does not hold REAL_GET_TASKS; limiting output
+1809 HBM brightnessIn =38
+1810 HBM brightnessOut =38
+1811 Animating brightness: target=38, rate=200
+1812 userActivityNoUpdateLocked: eventTime=261988728, event=2, flags=0x0, uid=1000
+1813 ready=true,policy=3,wakefulness=1,wksummary=0x0,uasummary=0x1,bootcompleted=true,boostinprogress=false,waitmodeenable=false,mode=false,manual=38,auto=-1,adj=0.0userId=0
+1814 suspendAutohide
+1815 interceptKeyTq keycode=3 interactive=true keyguardActive=false policyFlags=2b000002 down true canceled false
+1816 interceptKeyBeforeQueueing: key 3 , result : 1
+1817 userActivityNoUpdateLocked: eventTime=261988739, event=1, flags=0x0, uid=1000
+1818 ready=true,policy=3,wakefulness=1,wksummary=0x0,uasummary=0x1,bootcompleted=true,boostinprogress=false,waitmodeenable=false,mode=false,manual=38,auto=-1,adj=0.0userId=0
+1819 resumeSuspendedAutohide
+1820 userActivityNoUpdateLocked: eventTime=261988799, event=0, flags=0x0, uid=1000
+1821 ready=true,policy=3,wakefulness=1,wksummary=0x0,uasummary=0x1,bootcompleted=true,boostinprogress=false,waitmodeenable=false,mode=false,manual=38,auto=-1,adj=0.0userId=0
+1822 interceptKeyTq keycode=3 interactive=true keyguardActive=false policyFlags=2b000002 down false canceled false
+1823 interceptKeyBeforeQueueing: key 3 , result : 1
+1824 querySoundEffectsEnabled...
+1825 userActivityNoUpdateLocked: eventTime=261988822, event=0, flags=0x0, uid=1000
+1826 ready=true,policy=3,wakefulness=1,wksummary=0x0,uasummary=0x1,bootcompleted=true,boostinprogress=false,waitmodeenable=false,mode=false,manual=38,auto=-1,adj=0.0userId=0
+1827 animateCollapsePanels:flags=0, force=false, delayed=false, mExpandedVisible=false
+1828 closeQs
+1829 cancelPeek: false
+1830 instantCollapse
+1831 cancelPeek: false
+1832 setLightsOn(true)
+1833 setSystemUiVisibility vis=0 mask=1 oldVal=40000500 newVal=40000500 diff=0 fullscreenStackVis=0 dockedStackVis=0, fullscreenStackBounds=Rect(0, 0 - 0, 0), dockedStackBounds=Rect(0, 0 - 0, 0)
+1834 acquire lock=189667585, flags=0x1, tag="*launch*", name=android, ws=WorkSource{10057}, uid=1000, pid=1702
+1835 ready=true,policy=3,wakefulness=1,wksummary=0x1,uasummary=0x1,bootcompleted=true,boostinprogress=false,waitmodeenable=false,mode=false,manual=38,auto=-1,adj=0.0userId=0
+1836 Acquiring suspend blocker "PowerManagerService.WakeLocks".
+1837 setLightsOn(true)
+1838 setSystemUiVisibility vis=0 mask=1 oldVal=40000500 newVal=40000500 diff=0 fullscreenStackVis=0 dockedStackVis=0, fullscreenStackBounds=Rect(0, 0 - 0, 0), dockedStackBounds=Rect(0, 0 - 0, 0)
+1839 setLightsOn(true)
+1840 setSystemUiVisibility vis=0 mask=1 oldVal=40000500 newVal=40000500 diff=0 fullscreenStackVis=0 dockedStackVis=0, fullscreenStackBounds=Rect(0, 0 - 0, 0), dockedStackBounds=Rect(0, 0 - 0, 0)
+1841 getRunningAppProcesses: caller 10112 does not hold REAL_GET_TASKS; limiting output
+1842 setLightsOn(true)
+1843 setSystemUiVisibility vis=0 mask=1 oldVal=40000500 newVal=40000500 diff=0 fullscreenStackVis=0 dockedStackVis=0, fullscreenStackBounds=Rect(0, 0 - 0, 0), dockedStackBounds=Rect(0, 0 - 0, 0)
+1844 Taking screenshot from Surface with crop:[Rect(0, 48 - 720, 1208)], width:[432], height:[696], minLayer:[21000], maxLayer:[21080], inRotation:[false], rot:[0]
+1845 The change in focus caused us to need to do a layout begin
+1846 The change in focus caused us to need to do a layout end
+1847 setSystemUiVisibility vis=708 mask=ffffffff oldVal=40000500 newVal=708 diff=40000208 fullscreenStackVis=0 dockedStackVis=0, fullscreenStackBounds=Rect(0, 0 - 720, 1280), dockedStackBounds=Rect(0, 0 - 0, 0)
+1848 cancelAutohide
+1849 notifyUiVisibilityChanged:vis=0x708, SystemUiVisibility=0x708
+1850 updateClipping isOverlap:false, getTopPadding=333.0, Translation=0.0
+1851 updateDimmedActivatedHideSensitive overlap:false
+1852 Skipping, withExcluded: false, tr.intent:Intent { flg=0x10804000 cmp=com.android.systemui/.recents.RecentsActivity bnds=[264,444][920,908] }
+1853 Skipping, withExcluded: false, tr.intent:Intent { act=android.intent.action.MAIN flg=0x10840000 cmp=com.android.incallui/.InCallActivity (has extras) }
+1854 Skipping, withExcluded: false, tr.intent:Intent { flg=0x18800000 cmp=com.tencent.mm/.plugin.base.stub.WXEntryActivity (has extras) }
+1855 Skipping, withExcluded: false, tr.intent:Intent { flg=0x10800000 cmp=com.tencent.qqmusic/.business.lockscreen.LockScreenActivity (has extras) }
+1856 Skipping, withExcluded: false, tr.intent:Intent { act=com.android.contacts.action.CHOOSE_SUB dat=tel:xxxxxxxxxxx flg=0x10808000 cmp=com.android.contacts/.ChooseSubActivity (has extras) }
+1857 Skipping, withExcluded: false, tr.intent:Intent { act=android.intent.action.VIEW dat=file:///storage/emulated/0/Tencent/QQfile_recv/b.apk typ=application/vnd.android.package-archive flg=0x10800000 cmp=com.android.packageinstaller/.PackageInstallerActivity (has extras) }
+1858 getRecentTasks: num=20,flags=62,totalTasks=46
+1859 getRecentTasks: topActivity=ComponentInfo{com.tencent.mobileqq/com.tencent.mobileqq.activity.SplashActivity}
+1860 Skipping, withExcluded: false, tr.intent:Intent { flg=0x10804000 cmp=com.android.systemui/.recents.RecentsActivity bnds=[264,444][920,908] }
+1861 Skipping, withExcluded: false, tr.intent:Intent { act=android.intent.action.MAIN flg=0x10840000 cmp=com.android.incallui/.InCallActivity (has extras) }
+1862 Skipping, withExcluded: false, tr.intent:Intent { flg=0x18800000 cmp=com.tencent.mm/.plugin.base.stub.WXEntryActivity (has extras) }
+1863 getRecentTasks: num=10,flags=62,totalTasks=46
+1864 getRecentTasks: topActivity=ComponentInfo{com.tencent.mobileqq/com.tencent.mobileqq.activity.SplashActivity}
+1865 setSystemUiVisibility vis=c0000700 mask=ffffffff oldVal=708 newVal=c0000700 diff=c0000008 fullscreenStackVis=0 dockedStackVis=0, fullscreenStackBounds=Rect(0, 0 - 720, 1280), dockedStackBounds=Rect(0, 0 - 0, 0)
+1866 cancelAutohide
+1867 notifyUiVisibilityChanged:vis=0xc0000700, SystemUiVisibility=0xc0000700
+1868 getRingerMode...
+1869 release:lock=189667585, flg=0x0, tag="*launch*", name=android", ws=WorkSource{10057}, uid=1000, pid=1702
+1870 ready=true,policy=3,wakefulness=1,wksummary=0x0,uasummary=0x1,bootcompleted=true,boostinprogress=false,waitmodeenable=false,mode=false,manual=38,auto=-1,adj=0.0userId=0
+1871 Releasing suspend blocker "PowerManagerService.WakeLocks".
+1872 enqueueNotificationInternal: pkg=com.tencent.mm id=4097 notification=Notification(pri=1 contentView=null vibrate=[] sound=null tick defaults=0x0 flags=0x101 color=0x00000000 category=msg vis=PRIVATE)
+1873 enqueueNotificationInternal: n.getKey = 0|com.tencent.mm|4097|null|10112
+1874 updateLightsLocked,mInCall =false,mScreenOn = true,ledNotification == null?false
+1875 updateLightsLocked,turn off notificationLight
+1876 addNotification key=0|com.tencent.mm|4097|null|10112
+1877 mHeadsUpExistenceChangedRunnable
+1878 disable: < expand ICONS* alerts SYSTEM_INFO* back home recent clock navigationbar search quick_settings >
+1879 suspendAutohide
+1880 updateNotificationShade: total=0, active=0
+1881 removeNotificationChildren
+1882 updateNotificationShade: total=1, active=1
+1883 removeNotificationChildren
+1884 Marking notification as seen 0|com.tencent.mm|4097|null|10112
+1885 getTasks: caller 10111 does not hold REAL_GET_TASKS; limiting output
+1886 getTasks: caller 10111 does not hold REAL_GET_TASKS; limiting output
+1887 onNotificationExpansionChanged called
+1888 Destroying surface Surface(name=com.tencent.mobileqq/com.tencent.mobileqq.activity.SplashActivity) called by com.android.server.wm.WindowStateAnimator.destroySurface:2060 com.android.server.wm.WindowStateAnimator.destroySurfaceLocked:913 com.android.server.wm.WindowState.destroyOrSaveSurface:2201 com.android.server.wm.AppWindowToken.destroySurfaces:374 com.android.server.wm.AppWindowToken.notifyAppStopped:400 com.android.server.wm.WindowManagerService.notifyAppStopped:4869 com.android.server.am.ActivityStack.activityStoppedLocked:1393 com.android.server.am.ActivityManagerService.activityStopped:7690
+1889 updateClipping isOverlap:false, getTopPadding=333.0, Translation=-429.0
+1890 updateDimmedActivatedHideSensitive overlap:false
+1891 getRunningAppProcesses: caller 10111 does not hold REAL_GET_TASKS; limiting output
+1892 updateClipping isOverlap:false, getTopPadding=333.0, Translation=-497.0
+1893 updateDimmedActivatedHideSensitive overlap:false
+1894 getTasks: caller 10111 does not hold REAL_GET_TASKS; limiting output
+1895 getTasks: caller 10111 does not hold REAL_GET_TASKS; limiting output
+1896 getTasks: caller 10111 does not hold REAL_GET_TASKS; limiting output
+1897 getTasks: caller 10111 does not hold REAL_GET_TASKS; limiting output
+1898 getTasks: caller 10111 does not hold REAL_GET_TASKS; limiting output
+1899 getRunningAppProcesses: caller 10113 does not hold REAL_GET_TASKS; limiting output
+1900 sending alarm Alarm{2741459 type 3 when 509267844 PendingIntent{f75f81e: PendingIntentRecord{e204f60 com.android.phone broadcastIntent}}},repeatInterval = 0,listenerTag =null
+1901 ready=true,policy=3,wakefulness=1,wksummary=0x1,uasummary=0x1,bootcompleted=true,boostinprogress=false,waitmodeenable=false,mode=false,manual=38,auto=-1,adj=0.0userId=0
+1902 Acquiring suspend blocker "PowerManagerService.WakeLocks".
+1903 ready=true,policy=3,wakefulness=1,wksummary=0x0,uasummary=0x1,bootcompleted=true,boostinprogress=false,waitmodeenable=false,mode=false,manual=38,auto=-1,adj=0.0userId=0
+1904 Releasing suspend blocker "PowerManagerService.WakeLocks".
+1905 ready=true,policy=3,wakefulness=1,wksummary=0x1,uasummary=0x1,bootcompleted=true,boostinprogress=false,waitmodeenable=false,mode=false,manual=38,auto=-1,adj=0.0userId=0
+1906 Acquiring suspend blocker "PowerManagerService.WakeLocks".
+1907 updateClipping isOverlap:false, getTopPadding=333.0, Translation=-497.0
+1908 updateDimmedActivatedHideSensitive overlap:false
+1909 logNotificationVisibilityChanges runInThread start
+1910 onNotificationVisibilityChanged called
+1911 logNotificationVisibilityChanges runInThread over
+1912 ready=true,policy=3,wakefulness=1,wksummary=0x0,uasummary=0x1,bootcompleted=true,boostinprogress=false,waitmodeenable=false,mode=false,manual=38,auto=-1,adj=0.0userId=0
+1913 Releasing suspend blocker "PowerManagerService.WakeLocks".
+1914 userActivityNoUpdateLocked: eventTime=261991304, event=2, flags=0x0, uid=1000
+1915 ready=true,policy=3,wakefulness=1,wksummary=0x0,uasummary=0x1,bootcompleted=true,boostinprogress=false,waitmodeenable=false,mode=false,manual=38,auto=-1,adj=0.0userId=0
+1916 onInterceptTouchEvent MotionEvent { action=ACTION_DOWN, actionButton=0, id[0]=0, x[0]=622.0, y[0]=86.0, toolType[0]=TOOL_TYPE_FINGER, buttonState=0, metaState=0, flags=0x0, edgeFlags=0x0, pointerCount=1, historySize=0, eventTime=261991304, downTime=261991304, deviceId=3, source=0x1002 }, mBlockTouches=false
+1917 updateClipping isOverlap:false, getTopPadding=333.0, Translation=-497.0
+1918 updateDimmedActivatedHideSensitive overlap:false
+1919 onInterceptTouchEvent MotionEvent { action=ACTION_UP, actionButton=0, id[0]=0, x[0]=622.0, y[0]=86.0, toolType[0]=TOOL_TYPE_FINGER, buttonState=0, metaState=0, flags=0x0, edgeFlags=0x0, pointerCount=1, historySize=0, eventTime=261991368, downTime=261991304, deviceId=3, source=0x1002 }, mBlockTouches=false
+1920 HBM brightnessIn =38
+1921 HBM brightnessOut =38
+1922 Animating brightness: target=38, rate=200
+1923 playSoundEffect   effectType: 0
+1924 querySoundEffectsEnabled...
+1925 updateNotificationShade: total=1, active=1
+1926 removeNotificationChildren
+1927 animateCollapsePanels:flags=2, force=true, delayed=true, mExpandedVisible=true
+1928 closeQs
+1929 cancelPeek: false
+1930 instantCollapse
+1931 cancelPeek: false
+1932 updateNotificationShade: total=1, active=1
+1933 removeNotificationChildren
+1934 logNotificationVisibilityChanges runInThread start
+1935 onNotificationVisibilityChanged called
+1936 logNotificationVisibilityChanges runInThread over
+1937 START u0 {flg=0x24000000 cmp=com.tencent.mm/.ui.LauncherUI (has extras)} from uid 10112 on display 0
+1938 ActivityRecord info: ActivityInfo{80c2e70 com.tencent.mm.ui.LauncherUI}, euid: 0
+1939 overlapAmount:220.0, previousNotificationEnd:0.0, newYTranslation:-220.0, location:4, i:0, getTopPadding:333.0, getLocationOnScreen():-553
+1940 state.clipTopAmount:204, i:0
+1941 updateClipping isOverlap:true, getTopPadding=333.0, Translation=-553.0
+1942 updateDimmedActivatedHideSensitive overlap:true
+1943 makeExpandedInvisible: mExpandedVisible=true
+1944 closeQs
+1945 cancelPeek: false
+1946 instantCollapse
+1947 cancelPeek: false
+1948 updateNotificationShade: total=1, active=1
+1949 removeNotificationChildren
+1950 closeQs
+1951 startActivity called from non-Activity context; forcing Intent.FLAG_ACTIVITY_NEW_TASK for: Intent { flg=0x24000000 cmp=com.tencent.mm/.ui.LauncherUI (has extras) }
+1952 resumeSuspendedAutohide
+1953 disable: < expand icons* alerts system_info* back home recent clock navigationbar search quick_settings >
+1954 overlapAmount:220.0, previousNotificationEnd:0.0, newYTranslation:-220.0, location:4, i:0, getTopPadding:333.0, getLocationOnScreen():-553
+1955 state.clipTopAmount:204, i:0
+1956 updateClipping isOverlap:true, getTopPadding=333.0, Translation=-553.0
+1957 updateDimmedActivatedHideSensitive overlap:true
+1958 makeExpandedInvisible: mExpandedVisible=false
+1959 acquire lock=189667585, flags=0x1, tag="*launch*", name=android, ws=WorkSource{10112}, uid=1000, pid=1702
+1960 ready=true,policy=3,wakefulness=1,wksummary=0x1,uasummary=0x1,bootcompleted=true,boostinprogress=false,waitmodeenable=false,mode=false,manual=38,auto=-1,adj=0.0userId=0
+1961 Acquiring suspend blocker "PowerManagerService.WakeLocks".
+1962 onNotificationClick called
+1963 cancelNotification,index:0
+1964 applyOptionsLocked: Unknown animationType=0
+1965 getRunningAppProcesses: caller 10113 does not hold REAL_GET_TASKS; limiting output
+1966 Skipping, withExcluded: false, tr.intent:Intent { flg=0x10804000 cmp=com.android.systemui/.recents.RecentsActivity bnds=[264,444][920,908] }
+1967 Skipping, withExcluded: false, tr.intent:Intent { act=android.intent.action.MAIN flg=0x10840000 cmp=com.android.incallui/.InCallActivity (has extras) }
+1968 Skipping, withExcluded: false, tr.intent:Intent { flg=0x18800000 cmp=com.tencent.mm/.plugin.base.stub.WXEntryActivity (has extras) }
+1969 Skipping, withExcluded: false, tr.intent:Intent { flg=0x10800000 cmp=com.tencent.qqmusic/.business.lockscreen.LockScreenActivity (has extras) }
+1970 Skipping, withExcluded: false, tr.intent:Intent { act=com.android.contacts.action.CHOOSE_SUB dat=tel:xxxxxxxxxxx flg=0x10808000 cmp=com.android.contacts/.ChooseSubActivity (has extras) }
+1971 Skipping, withExcluded: false, tr.intent:Intent { act=android.intent.action.VIEW dat=file:///storage/emulated/0/Tencent/QQfile_recv/b.apk typ=application/vnd.android.package-archive flg=0x10800000 cmp=com.android.packageinstaller/.PackageInstallerActivity (has extras) }
+1972 getRecentTasks: num=20,flags=62,totalTasks=46
+1973 getRecentTasks: topActivity=ComponentInfo{com.tencent.mm/com.tencent.mm.ui.LauncherUI}
+1974 Skipping, withExcluded: false, tr.intent:Intent { flg=0x10804000 cmp=com.android.systemui/.recents.RecentsActivity bnds=[264,444][920,908] }
+1975 Skipping, withExcluded: false, tr.intent:Intent { act=android.intent.action.MAIN flg=0x10840000 cmp=com.android.incallui/.InCallActivity (has extras) }
+1976 Skipping, withExcluded: false, tr.intent:Intent { flg=0x18800000 cmp=com.tencent.mm/.plugin.base.stub.WXEntryActivity (has extras) }
+1977 getRecentTasks: num=10,flags=62,totalTasks=46
+1978 getRecentTasks: topActivity=ComponentInfo{com.tencent.mm/com.tencent.mm.ui.LauncherUI}
+1979 mHeadsUpExistenceChangedRunnable
+1980 updateClipping isOverlap:false, getTopPadding=333.0, Translation=-24.0
+1981 updateDimmedActivatedHideSensitive overlap:false
+1982 HBM brightnessIn =38
+1983 HBM brightnessOut =38
+1984 Animating brightness: target=38, rate=200
+1985 HBM brightnessIn =38
+1986 HBM brightnessOut =38
+1987 Animating brightness: target=38, rate=200
+1988 HBM brightnessIn =38
+1989 HBM brightnessOut =38
+1990 Animating brightness: target=38, rate=200
+1991 HBM brightnessIn =38
+1992 HBM brightnessOut =38
+1993 Animating brightness: target=38, rate=200
+1994 HBM brightnessIn =38
+1995 HBM brightnessOut =38
+1996 Animating brightness: target=38, rate=200
+1997 HBM brightnessIn =38
+1998 HBM brightnessOut =38
+1999 Animating brightness: target=38, rate=200

@@ -1,0 +1,498 @@
+EventId,EventTemplate
+E1,"<*> ""GET /v2/<*>/servers/detail HTTP/<*>"" status: <*> len: <*> time: <*>"
+E2,[instance: b9000564-fe1a-409b-b8cc-1e88b294cd1d] VM Started (Lifecycle Event)
+E3,[instance: b9000564-fe1a-409b-b8cc-1e88b294cd1d] VM Paused (Lifecycle Event)
+E4,[instance: b9000564-fe1a-409b-b8cc-1e88b294cd1d] During sync_power_state the instance has a pending task (spawning). Skip.
+E5,image 0673dd71-34c5-4fbb-86c4-40623fbe45b4 at (/var/lib/nova/instances/_base/<*>): checking
+E6,"image 0673dd71-34c5-4fbb-86c4-40623fbe45b4 at (/var/lib/nova/instances/_base/<*>): in use: on this node <*> local, <*> on other nodes sharing this instance storage"
+E7,Active base files: /var/lib/nova/instances/_base/<*>
+E8,Creating event network-vif-plugged:e3871ffd-5cd5-<*>-bddd-3529f7b59515 for instance b9000564-fe1a-409b-b8cc-1e88b294cd1d
+E9,"<*> ""POST /v2/<*>/os-server-external-events HTTP/<*>"" status: <*> len: <*> time: <*>"
+E10,[instance: b9000564-fe1a-409b-b8cc-1e88b294cd1d] VM Resumed (Lifecycle Event)
+E11,[instance: b9000564-fe1a-409b-b8cc-1e88b294cd1d] Instance spawned successfully.
+E12,[instance: b9000564-fe1a-409b-b8cc-1e88b294cd1d] Took <*> seconds to spawn the instance on the hypervisor.
+E13,[instance: b9000564-fe1a-409b-b8cc-1e88b294cd1d] Took <*> seconds to build instance.
+E14,Auditing locally available compute resources for node cp-<*>.slowvm1.tcloud-pg0.utah.cloudlab.us
+E15,"Total usable vcpus: <*>, total allocated vcpus: <*>"
+E16,Final resource view: name=cp-<*>.slowvm1.tcloud-pg0.utah.cloudlab.us phys_ram=64172MB used_ram=2560MB phys_disk=15GB used_disk=20GB total_vcpus=<*> used_vcpus=<*> pci_stats=[]
+E17,Compute_service record updated for cp-<*>.slowvm1.tcloud-pg0.utah.cloudlab.us:cp-<*>.slowvm1.tcloud-pg0.utah.cloudlab.us
+E18,"<*>,<*> ""GET /openstack/<*>-<*>-<*>/meta_data.json HTTP/<*>"" status: <*> len: <*> time: <*>"
+E19,"<*>,<*> ""GET /openstack/<*>-<*>-<*> HTTP/<*>"" status: <*> len: <*> time: <*>"
+E20,"<*> ""DELETE /v2/<*>/servers/b9000564-fe1a-409b-b8cc-1e88b294cd1d HTTP/<*>"" status: <*> len: <*> time: <*>"
+E21,[instance: b9000564-fe1a-409b-b8cc-1e88b294cd1d] Terminating instance
+E22,[instance: b9000564-fe1a-409b-b8cc-1e88b294cd1d] Instance destroyed successfully.
+E23,[instance: b9000564-fe1a-409b-b8cc-1e88b294cd1d] Deleting instance files /var/lib/nova/instances/b9000564-fe1a-409b-b8cc-1e88b294cd1d_del
+E24,[instance: b9000564-fe1a-409b-b8cc-1e88b294cd1d] Deletion of /var/lib/nova/instances/b9000564-fe1a-409b-b8cc-1e88b294cd1d_del complete
+E25,[instance: b9000564-fe1a-409b-b8cc-1e88b294cd1d] Took <*> seconds to destroy the instance on the hypervisor.
+E26,[instance: b9000564-fe1a-409b-b8cc-1e88b294cd1d] Took <*> seconds to deallocate network for instance.
+E27,Unknown base file: /var/lib/nova/instances/_base/<*>
+E28,Removable base files: /var/lib/nova/instances/_base/<*>
+E29,Removing base or swap file: /var/lib/nova/instances/_base/<*>
+E30,HTTP exception thrown: No instances found for any event
+E31,"<*> ""POST /v2/<*>/servers HTTP/<*>"" status: <*> len: <*> time: <*>"
+E32,"[instance: 96abccce-8d1f-4e07-b6d1-4b2ab87e23b4] Attempting claim: memory <*> MB, disk <*> GB, vcpus <*> CPU"
+E33,"[instance: 96abccce-8d1f-4e07-b6d1-4b2ab87e23b4] Total memory: <*> MB, used: <*> MB"
+E34,"[instance: 96abccce-8d1f-4e07-b6d1-4b2ab87e23b4] memory limit: <*> MB, free: <*> MB"
+E35,"[instance: 96abccce-8d1f-4e07-b6d1-4b2ab87e23b4] Total disk: <*> GB, used: <*> GB"
+E36,"[instance: 96abccce-8d1f-4e07-b6d1-4b2ab87e23b4] disk limit not specified, defaulting to unlimited"
+E37,"[instance: 96abccce-8d1f-4e07-b6d1-4b2ab87e23b4] Total vcpu: <*> VCPU, used: <*> VCPU"
+E38,"[instance: 96abccce-8d1f-4e07-b6d1-4b2ab87e23b4] vcpu limit not specified, defaulting to unlimited"
+E39,[instance: 96abccce-8d1f-4e07-b6d1-4b2ab87e23b4] Claim successful
+E40,"<*> ""GET /v2/<*>/servers/96abccce-8d1f-4e07-b6d1-4b2ab87e23b4 HTTP/<*>"" status: <*> len: <*> time: <*>"
+E41,[instance: 96abccce-8d1f-4e07-b6d1-4b2ab87e23b4] Creating image
+E42,[instance: b9000564-fe1a-409b-b8cc-1e88b294cd1d] VM Stopped (Lifecycle Event)
+E43,[instance: 96abccce-8d1f-4e07-b6d1-4b2ab87e23b4] VM Started (Lifecycle Event)
+E44,[instance: 96abccce-8d1f-4e07-b6d1-4b2ab87e23b4] VM Paused (Lifecycle Event)
+E45,[instance: 96abccce-8d1f-4e07-b6d1-4b2ab87e23b4] During sync_power_state the instance has a pending task (spawning). Skip.
+E46,Creating event network-vif-plugged:a208479c-c0e3-<*>-a5a0-d75e8afd0252 for instance 96abccce-8d1f-4e07-b6d1-4b2ab87e23b4
+E47,[instance: 96abccce-8d1f-4e07-b6d1-4b2ab87e23b4] VM Resumed (Lifecycle Event)
+E48,[instance: 96abccce-8d1f-4e07-b6d1-4b2ab87e23b4] Instance spawned successfully.
+E49,[instance: <*>] Took <*> seconds to spawn the instance on the hypervisor.
+E50,[instance: <*>] Took <*> seconds to build instance.
+E51,Successfully synced instances from host 'cp-<*>.slowvm1.tcloud-pg0.utah.cloudlab.us'.
+E52,"<*>,<*> ""GET /latest/meta-data/ HTTP/<*>"" status: <*> len: <*> time: <*>"
+E53,"<*>,<*> ""GET /latest/meta-data/block-device-mapping/ HTTP/<*>"" status: <*> len: <*> time: <*>"
+E54,"<*>,<*> ""GET /latest/meta-data/block-device-mapping/ami HTTP/<*>"" status: <*> len: <*> time: <*>"
+E55,"<*>,<*> ""GET /latest/meta-data/block-device-mapping/root HTTP/<*>"" status: <*> len: <*> time: <*>"
+E56,"<*> ""DELETE /v2/<*>/servers/96abccce-8d1f-4e07-b6d1-4b2ab87e23b4 HTTP/<*>"" status: <*> len: <*> time: <*>"
+E57,[instance: 96abccce-8d1f-4e07-b6d1-4b2ab87e23b4] Terminating instance
+E58,"<*>,<*> ""GET /latest/meta-data/placement/ HTTP/<*>"" status: <*> len: <*> time: <*>"
+E59,Running instance usage audit for host cp-<*>.slowvm1.tcloud-pg0.utah.cloudlab.us from <*>-<*>-<*> <*> to <*>-<*>-<*> <*>. <*> instances.
+E60,[instance: 96abccce-8d1f-4e07-b6d1-4b2ab87e23b4] Instance destroyed successfully.
+E61,[instance: 96abccce-8d1f-4e07-b6d1-4b2ab87e23b4] Deleting instance files /var/lib/nova/instances/96abccce-8d1f-4e07-b6d1-4b2ab87e23b4_del
+E62,[instance: 96abccce-8d1f-4e07-b6d1-4b2ab87e23b4] Deletion of /var/lib/nova/instances/96abccce-8d1f-4e07-b6d1-4b2ab87e23b4_del complete
+E63,[instance: 96abccce-8d1f-4e07-b6d1-4b2ab87e23b4] Took <*> seconds to destroy the instance on the hypervisor.
+E64,[instance: <*>] Took <*> seconds to deallocate network for instance.
+E65,"[instance: b562ef10-ba2d-48ae-bf4a-18666cba4a51] Attempting claim: memory <*> MB, disk <*> GB, vcpus <*> CPU"
+E66,"[instance: b562ef10-ba2d-48ae-bf4a-18666cba4a51] Total memory: <*> MB, used: <*> MB"
+E67,"[instance: b562ef10-ba2d-48ae-bf4a-18666cba4a51] memory limit: <*> MB, free: <*> MB"
+E68,"[instance: b562ef10-ba2d-48ae-bf4a-18666cba4a51] Total disk: <*> GB, used: <*> GB"
+E69,"[instance: b562ef10-ba2d-48ae-bf4a-18666cba4a51] disk limit not specified, defaulting to unlimited"
+E70,"[instance: b562ef10-ba2d-48ae-bf4a-18666cba4a51] Total vcpu: <*> VCPU, used: <*> VCPU"
+E71,"[instance: b562ef10-ba2d-48ae-bf4a-18666cba4a51] vcpu limit not specified, defaulting to unlimited"
+E72,[instance: b562ef10-ba2d-48ae-bf4a-18666cba4a51] Claim successful
+E73,"<*> ""GET /v2/<*>/servers/b562ef10-ba2d-48ae-bf4a-18666cba4a51 HTTP/<*>"" status: <*> len: <*> time: <*>"
+E74,[instance: b562ef10-ba2d-48ae-bf4a-18666cba4a51] Creating image
+E75,[instance: 96abccce-8d1f-4e07-b6d1-4b2ab87e23b4] VM Stopped (Lifecycle Event)
+E76,[instance: b562ef10-ba2d-48ae-bf4a-18666cba4a51] VM Started (Lifecycle Event)
+E77,[instance: b562ef10-ba2d-48ae-bf4a-18666cba4a51] VM Paused (Lifecycle Event)
+E78,[instance: b562ef10-ba2d-48ae-bf4a-18666cba4a51] During sync_power_state the instance has a pending task (spawning). Skip.
+E79,Creating event network-vif-plugged:d1ce4c5a-<*>-41c3-8a5a-39f9e6defcb8 for instance b562ef10-ba2d-48ae-bf4a-18666cba4a51
+E80,[instance: b562ef10-ba2d-48ae-bf4a-18666cba4a51] VM Resumed (Lifecycle Event)
+E81,[instance: b562ef10-ba2d-48ae-bf4a-18666cba4a51] Instance spawned successfully.
+E82,"<*> ""DELETE /v2/<*>/servers/b562ef10-ba2d-48ae-bf4a-18666cba4a51 HTTP/<*>"" status: <*> len: <*> time: <*>"
+E83,[instance: b562ef10-ba2d-48ae-bf4a-18666cba4a51] Terminating instance
+E84,[instance: b562ef10-ba2d-48ae-bf4a-18666cba4a51] Instance destroyed successfully.
+E85,[instance: b562ef10-ba2d-48ae-bf4a-18666cba4a51] Deleting instance files /var/lib/nova/instances/b562ef10-ba2d-48ae-bf4a-18666cba4a51_del
+E86,[instance: b562ef10-ba2d-48ae-bf4a-18666cba4a51] Deletion of /var/lib/nova/instances/b562ef10-ba2d-48ae-bf4a-18666cba4a51_del complete
+E87,[instance: b562ef10-ba2d-48ae-bf4a-18666cba4a51] Took <*> seconds to destroy the instance on the hypervisor.
+E88,Base or swap file too young to remove: /var/lib/nova/instances/_base/<*>
+E89,"[instance: 78dc1847-<*>-49cc-933e-9239b12c9dcf] Attempting claim: memory <*> MB, disk <*> GB, vcpus <*> CPU"
+E90,"[instance: 78dc1847-<*>-49cc-933e-9239b12c9dcf] Total memory: <*> MB, used: <*> MB"
+E91,"[instance: 78dc1847-<*>-49cc-933e-9239b12c9dcf] memory limit: <*> MB, free: <*> MB"
+E92,"[instance: 78dc1847-<*>-49cc-933e-9239b12c9dcf] Total disk: <*> GB, used: <*> GB"
+E93,"[instance: 78dc1847-<*>-49cc-933e-9239b12c9dcf] disk limit not specified, defaulting to unlimited"
+E94,"[instance: 78dc1847-<*>-49cc-933e-9239b12c9dcf] Total vcpu: <*> VCPU, used: <*> VCPU"
+E95,"[instance: 78dc1847-<*>-49cc-933e-9239b12c9dcf] vcpu limit not specified, defaulting to unlimited"
+E96,[instance: 78dc1847-<*>-49cc-933e-9239b12c9dcf] Claim successful
+E97,"<*> ""GET /v2/<*>/servers/78dc1847-<*>-49cc-933e-9239b12c9dcf HTTP/<*>"" status: <*> len: <*> time: <*>"
+E98,[instance: 78dc1847-<*>-49cc-933e-9239b12c9dcf] Creating image
+E99,[instance: b562ef10-ba2d-48ae-bf4a-18666cba4a51] VM Stopped (Lifecycle Event)
+E100,[instance: 78dc1847-<*>-49cc-933e-9239b12c9dcf] VM Started (Lifecycle Event)
+E101,[instance: 78dc1847-<*>-49cc-933e-9239b12c9dcf] VM Paused (Lifecycle Event)
+E102,[instance: 78dc1847-<*>-49cc-933e-9239b12c9dcf] During sync_power_state the instance has a pending task (spawning). Skip.
+E103,Creating event network-vif-plugged:b26c4935-<*>-4e96-9ba1-ec6985d42d5d for instance 78dc1847-<*>-49cc-933e-9239b12c9dcf
+E104,[instance: 78dc1847-<*>-49cc-933e-9239b12c9dcf] VM Resumed (Lifecycle Event)
+E105,[instance: 78dc1847-<*>-49cc-933e-9239b12c9dcf] Instance spawned successfully.
+E106,"<*> ""DELETE /v2/<*>/servers/78dc1847-<*>-49cc-933e-9239b12c9dcf HTTP/<*>"" status: <*> len: <*> time: <*>"
+E107,[instance: 78dc1847-<*>-49cc-933e-9239b12c9dcf] Terminating instance
+E108,[instance: 78dc1847-<*>-49cc-933e-9239b12c9dcf] Instance destroyed successfully.
+E109,[instance: 78dc1847-<*>-49cc-933e-9239b12c9dcf] Deleting instance files /var/lib/nova/instances/78dc1847-<*>-49cc-933e-9239b12c9dcf_del
+E110,[instance: 78dc1847-<*>-49cc-933e-9239b12c9dcf] Deletion of /var/lib/nova/instances/78dc1847-<*>-49cc-933e-9239b12c9dcf_del complete
+E111,[instance: 78dc1847-<*>-49cc-933e-9239b12c9dcf] Took <*> seconds to destroy the instance on the hypervisor.
+E112,"[instance: <*>-049b-41f6-<*>-05fc479b6a7c] Attempting claim: memory <*> MB, disk <*> GB, vcpus <*> CPU"
+E113,"[instance: <*>-049b-41f6-<*>-05fc479b6a7c] Total memory: <*> MB, used: <*> MB"
+E114,"[instance: <*>-049b-41f6-<*>-05fc479b6a7c] memory limit: <*> MB, free: <*> MB"
+E115,"[instance: <*>-049b-41f6-<*>-05fc479b6a7c] Total disk: <*> GB, used: <*> GB"
+E116,"[instance: <*>-049b-41f6-<*>-05fc479b6a7c] disk limit not specified, defaulting to unlimited"
+E117,"[instance: <*>] Total vcpu: <*> VCPU, used: <*> VCPU"
+E118,"[instance: <*>-049b-41f6-<*>-05fc479b6a7c] vcpu limit not specified, defaulting to unlimited"
+E119,[instance: <*>-049b-41f6-<*>-05fc479b6a7c] Claim successful
+E120,"<*> ""GET /v2/<*>/servers/<*>-049b-41f6-<*>-05fc479b6a7c HTTP/<*>"" status: <*> len: <*> time: <*>"
+E121,[instance: <*>-049b-41f6-<*>-05fc479b6a7c] Creating image
+E122,[instance: 78dc1847-<*>-49cc-933e-9239b12c9dcf] VM Stopped (Lifecycle Event)
+E123,[instance: <*>-049b-41f6-<*>-05fc479b6a7c] VM Started (Lifecycle Event)
+E124,[instance: <*>-049b-41f6-<*>-05fc479b6a7c] VM Paused (Lifecycle Event)
+E125,[instance: <*>-049b-41f6-<*>-05fc479b6a7c] During sync_power_state the instance has a pending task (spawning). Skip.
+E126,Creating event network-vif-plugged:1cf11429-<*>-4f6c-823c-91ba6e0f6675 for instance <*>-049b-41f6-<*>-05fc479b6a7c
+E127,[instance: <*>-049b-41f6-<*>-05fc479b6a7c] VM Resumed (Lifecycle Event)
+E128,[instance: <*>-049b-41f6-<*>-05fc479b6a7c] Instance spawned successfully.
+E129,"<*> ""DELETE /v2/<*>/servers/<*>-049b-41f6-<*>-05fc479b6a7c HTTP/<*>"" status: <*> len: <*> time: <*>"
+E130,[instance: <*>-049b-41f6-<*>-05fc479b6a7c] Terminating instance
+E131,`[instance: <*>-049b-41f6-<*>-05fc479b6a7c] Instance destroyed successfully.`
+E132,[instance: <*>-049b-41f6-<*>-05fc479b6a7c] Deleting instance files /var/lib/nova/instances/<*>-049b-41f6-<*>-05fc479b6a7c_del
+E133,[instance: <*>-049b-41f6-<*>-05fc479b6a7c] Deletion of /var/lib/nova/instances/<*>-049b-41f6-<*>-05fc479b6a7c_del complete
+E134,[instance: <*>] Took <*> seconds to destroy the instance on the hypervisor.
+E135,Final resource view: name=cp-<*>.slowvm1.tcloud-pg0.utah.cloudlab.us phys_ram=64172MB used_ram=512MB phys_disk=15GB used_disk=0GB total_vcpus=<*> used_vcpus=<*> pci_stats=[]
+E136,"[instance: 7e7cc42f-3cb9-4d91-804c-f5a32d54f1c5] Attempting claim: memory <*> MB, disk <*> GB, vcpus <*> CPU"
+E137,"[instance: 7e7cc42f-3cb9-4d91-804c-f5a32d54f1c5] Total memory: <*> MB, used: <*> MB"
+E138,"[instance: 7e7cc42f-3cb9-4d91-804c-f5a32d54f1c5] memory limit: <*> MB, free: <*> MB"
+E139,"[instance: 7e7cc42f-3cb9-4d91-804c-f5a32d54f1c5] Total disk: <*> GB, used: <*> GB"
+E140,"[instance: 7e7cc42f-3cb9-4d91-804c-f5a32d54f1c5] disk limit not specified, defaulting to unlimited"
+E141,"[instance: 7e7cc42f-3cb9-4d91-804c-f5a32d54f1c5] vcpu limit not specified, defaulting to unlimited"
+E142,[instance: 7e7cc42f-3cb9-4d91-804c-f5a32d54f1c5] Claim successful
+E143,"<*> ""GET /v2/<*>/servers/7e7cc42f-3cb9-4d91-804c-f5a32d54f1c5 HTTP/<*>"" status: <*> len: <*> time: <*>"
+E144,[instance: 7e7cc42f-3cb9-4d91-804c-f5a32d54f1c5] Creating image
+E145,[instance: <*>-049b-41f6-<*>-05fc479b6a7c] VM Stopped (Lifecycle Event)
+E146,[instance: 7e7cc42f-3cb9-4d91-804c-f5a32d54f1c5] VM Started (Lifecycle Event)
+E147,[instance: 7e7cc42f-3cb9-4d91-804c-f5a32d54f1c5] VM Paused (Lifecycle Event)
+E148,[instance: 7e7cc42f-3cb9-4d91-804c-f5a32d54f1c5] During sync_power_state the instance has a pending task (spawning). Skip.
+E149,Creating event network-vif-plugged:<*>-baff-45ad-9e35-a3055c898234 for instance 7e7cc42f-3cb9-4d91-804c-f5a32d54f1c5
+E150,[instance: 7e7cc42f-3cb9-4d91-804c-f5a32d54f1c5] VM Resumed (Lifecycle Event)
+E151,[instance: 7e7cc42f-3cb9-4d91-804c-f5a32d54f1c5] Instance spawned successfully.
+E152,"<*> ""DELETE /v2/<*>/servers/7e7cc42f-3cb9-4d91-804c-f5a32d54f1c5 HTTP/<*>"" status: <*> len: <*> time: <*>"
+E153,[instance: 7e7cc42f-3cb9-4d91-804c-f5a32d54f1c5] Terminating instance
+E154,[instance: 7e7cc42f-3cb9-4d91-804c-f5a32d54f1c5] Instance destroyed successfully.
+E155,[instance: 7e7cc42f-3cb9-4d91-804c-f5a32d54f1c5] Deleting instance files /var/lib/nova/instances/7e7cc42f-3cb9-4d91-804c-f5a32d54f1c5_del
+E156,[instance: 7e7cc42f-3cb9-4d91-804c-f5a32d54f1c5] Deletion of /var/lib/nova/instances/7e7cc42f-3cb9-4d91-804c-f5a32d54f1c5_del complete
+E157,"[instance: af5f7392-f7d4-<*>-b647-c98924c64aa1] Attempting claim: memory <*> MB, disk <*> GB, vcpus <*> CPU"
+E158,"[instance: af5f7392-f7d4-<*>-b647-c98924c64aa1] Total memory: <*> MB, used: <*> MB"
+E159,"[instance: af5f7392-f7d4-<*>-b647-c98924c64aa1] memory limit: <*> MB, free: <*> MB"
+E160,"[instance: af5f7392-f7d4-<*>-b647-c98924c64aa1] Total disk: <*> GB, used: <*> GB"
+E161,"[instance: af5f7392-f7d4-<*>-b647-c98924c64aa1] disk limit not specified, defaulting to unlimited"
+E162,"[instance: af5f7392-f7d4-<*>-b647-c98924c64aa1] vcpu limit not specified, defaulting to unlimited"
+E163,[instance: af5f7392-f7d4-<*>-b647-c98924c64aa1] Claim successful
+E164,"<*> ""GET /v2/<*>/servers/af5f7392-f7d4-<*>-b647-c98924c64aa1 HTTP/<*>"" status: <*> len: <*> time: <*>"
+E165,[instance: af5f7392-f7d4-<*>-b647-c98924c64aa1] Creating image
+E166,[instance: 7e7cc42f-3cb9-4d91-804c-f5a32d54f1c5] VM Stopped (Lifecycle Event)
+E167,[instance: af5f7392-f7d4-<*>-b647-c98924c64aa1] VM Started (Lifecycle Event)
+E168,[instance: af5f7392-f7d4-<*>-b647-c98924c64aa1] VM Paused (Lifecycle Event)
+E169,[instance: af5f7392-f7d4-<*>-b647-c98924c64aa1] During sync_power_state the instance has a pending task (spawning). Skip.
+E170,Creating event network-vif-plugged:7bdba89d-dd80-489c-ab06-11d494c5c478 for instance af5f7392-f7d4-<*>-b647-c98924c64aa1
+E171,[instance: af5f7392-f7d4-<*>-b647-c98924c64aa1] VM Resumed (Lifecycle Event)
+E172,[instance: af5f7392-f7d4-<*>-b647-c98924c64aa1] Instance spawned successfully.
+E173,"<*> ""DELETE /v2/<*>/servers/af5f7392-f7d4-<*>-b647-c98924c64aa1 HTTP/<*>"" status: <*> len: <*> time: <*>"
+E174,[instance: af5f7392-f7d4-<*>-b647-c98924c64aa1] Terminating instance
+E175,[instance: af5f7392-f7d4-<*>-b647-c98924c64aa1] Instance destroyed successfully.
+E176,[instance: af5f7392-f7d4-<*>-b647-c98924c64aa1] Deleting instance files /var/lib/nova/instances/af5f7392-f7d4-<*>-b647-c98924c64aa1_del
+E177,[instance: af5f7392-f7d4-<*>-b647-c98924c64aa1] Deletion of /var/lib/nova/instances/af5f7392-f7d4-<*>-b647-c98924c64aa1_del complete
+E178,"[instance: ae3a1b5d-eec1-45bb-b76a-c59d83b1471f] Attempting claim: memory <*> MB, disk <*> GB, vcpus <*> CPU"
+E179,"[instance: ae3a1b5d-eec1-45bb-b76a-c59d83b1471f] Total memory: <*> MB, used: <*> MB"
+E180,"[instance: ae3a1b5d-eec1-45bb-b76a-c59d83b1471f] memory limit: <*> MB, free: <*> MB"
+E181,"[instance: ae3a1b5d-eec1-45bb-b76a-c59d83b1471f] Total disk: <*> GB, used: <*> GB"
+E182,"[instance: ae3a1b5d-eec1-45bb-b76a-c59d83b1471f] disk limit not specified, defaulting to unlimited"
+E183,"[instance: ae3a1b5d-eec1-45bb-b76a-c59d83b1471f] vcpu limit not specified, defaulting to unlimited"
+E184,[instance: ae3a1b5d-eec1-45bb-b76a-c59d83b1471f] Claim successful
+E185,"<*> ""GET /v2/<*>/servers/ae3a1b5d-eec1-45bb-b76a-c59d83b1471f HTTP/<*>"" status: <*> len: <*> time: <*>"
+E186,[instance: ae3a1b5d-eec1-45bb-b76a-c59d83b1471f] Creating image
+E187,[instance: af5f7392-f7d4-<*>-b647-c98924c64aa1] VM Stopped (Lifecycle Event)
+E188,[instance: ae3a1b5d-eec1-45bb-b76a-c59d83b1471f] VM Started (Lifecycle Event)
+E189,[instance: ae3a1b5d-eec1-45bb-b76a-c59d83b1471f] VM Paused (Lifecycle Event)
+E190,[instance: ae3a1b5d-eec1-45bb-b76a-c59d83b1471f] During sync_power_state the instance has a pending task (spawning). Skip.
+E191,"<*> ""GET /v2/<*>/servers/detail?all_tenants=True&changes-since=<*>-<*>-16T05%3A54%3A58.<*>%2B00%3A00 HTTP/<*>"" status: <*> len: <*> time: <*>"
+E192,The instance sync for host 'cp-<*>.slowvm1.tcloud-pg0.utah.cloudlab.us' did not match. Re-created its InstanceList.
+E193,Creating event network-vif-plugged:98dbd0a6-013e-4cd9-<*>-fa32e5d6dd32 for instance ae3a1b5d-eec1-45bb-b76a-c59d83b1471f
+E194,[instance: ae3a1b5d-eec1-45bb-b76a-c59d83b1471f] VM Resumed (Lifecycle Event)
+E195,[instance: ae3a1b5d-eec1-45bb-b76a-c59d83b1471f] Instance spawned successfully.
+E196,"<*> ""DELETE /v2/<*>/servers/ae3a1b5d-eec1-45bb-b76a-c59d83b1471f HTTP/<*>"" status: <*> len: <*> time: <*>"
+E197,[instance: ae3a1b5d-eec1-45bb-b76a-c59d83b1471f] Terminating instance
+E198,[instance: ae3a1b5d-eec1-45bb-b76a-c59d83b1471f] Instance destroyed successfully.
+E199,[instance: ae3a1b5d-eec1-45bb-b76a-c59d83b1471f] Deleting instance files /var/lib/nova/instances/ae3a1b5d-eec1-45bb-b76a-c59d83b1471f_del
+E200,[instance: ae3a1b5d-eec1-45bb-b76a-c59d83b1471f] Deletion of /var/lib/nova/instances/ae3a1b5d-eec1-45bb-b76a-c59d83b1471f_del complete
+E201,"<*> ""GET /v2/<*>/servers/detail?all_tenants=True&changes-since=<*>-<*>-16T05%3A55%3A11.<*>%2B00%3A00&host=cp-<*>.slowvm1.tcloud-pg0.utah.cloudlab.us HTTP/<*>"" status: <*> len: <*> time: <*>"
+E202,"<*> ""GET /v2/<*>/flavors/<*> HTTP/<*>"" status: <*> len: <*> time: <*>"
+E203,"<*> ""GET /v2/<*>/images/0673dd71-34c5-4fbb-86c4-40623fbe45b4 HTTP/<*>"" status: <*> len: <*> time: <*>"
+E204,"[instance: <*>-2f87-4da7-b7ee-4d20cc66e846] Attempting claim: memory <*> MB, disk <*> GB, vcpus <*> CPU"
+E205,"[instance: <*>-2f87-4da7-b7ee-4d20cc66e846] Total memory: <*> MB, used: <*> MB"
+E206,"[instance: <*>-2f87-4da7-b7ee-4d20cc66e846] memory limit: <*> MB, free: <*> MB"
+E207,"[instance: <*>-2f87-4da7-b7ee-4d20cc66e846] Total disk: <*> GB, used: <*> GB"
+E208,"[instance: <*>-2f87-4da7-b7ee-4d20cc66e846] disk limit not specified, defaulting to unlimited"
+E209,"[instance: <*>-2f87-4da7-b7ee-4d20cc66e846] vcpu limit not specified, defaulting to unlimited"
+E210,[instance: <*>-2f87-4da7-b7ee-4d20cc66e846] Claim successful
+E211,"<*> ""GET /v2/<*>/servers/<*>-2f87-4da7-b7ee-4d20cc66e846 HTTP/<*>"" status: <*> len: <*> time: <*>"
+E212,[instance: <*>-2f87-4da7-b7ee-4d20cc66e846] Creating image
+E213,[instance: ae3a1b5d-eec1-45bb-b76a-c59d83b1471f] VM Stopped (Lifecycle Event)
+E214,[instance: <*>-2f87-4da7-b7ee-4d20cc66e846] VM Started (Lifecycle Event)
+E215,[instance: <*>-2f87-4da7-b7ee-4d20cc66e846] VM Paused (Lifecycle Event)
+E216,[instance: <*>-2f87-4da7-b7ee-4d20cc66e846] During sync_power_state the instance has a pending task (spawning). Skip.
+E217,Creating event network-vif-plugged:60df1c66-a513-<*>-aeed-095809a52794 for instance <*>-2f87-4da7-b7ee-4d20cc66e846
+E218,[instance: <*>-2f87-4da7-b7ee-4d20cc66e846] VM Resumed (Lifecycle Event)
+E219,[instance: <*>-2f87-4da7-b7ee-4d20cc66e846] Instance spawned successfully.
+E220,"<*> ""DELETE /v2/<*>/servers/<*>-2f87-4da7-b7ee-4d20cc66e846 HTTP/<*>"" status: <*> len: <*> time: <*>"
+E221,[instance: <*>-2f87-4da7-b7ee-4d20cc66e846] Terminating instance
+E222,[instance: <*>-2f87-4da7-b7ee-4d20cc66e846] Instance destroyed successfully.
+E223,[instance: <*>-2f87-4da7-b7ee-4d20cc66e846] Deleting instance files /var/lib/nova/instances/<*>-2f87-4da7-b7ee-4d20cc66e846_del
+E224,[instance: <*>-2f87-4da7-b7ee-4d20cc66e846] Deletion of /var/lib/nova/instances/<*>-2f87-4da7-b7ee-4d20cc66e846_del complete
+E225,"[instance: fecdd5a9-3ca0-4c82-<*>-63b7774f738e] Attempting claim: memory <*> MB, disk <*> GB, vcpus <*> CPU"
+E226,"[instance: fecdd5a9-3ca0-4c82-<*>-63b7774f738e] Total memory: <*> MB, used: <*> MB"
+E227,"[instance: fecdd5a9-3ca0-4c82-<*>-63b7774f738e] memory limit: <*> MB, free: <*> MB"
+E228,"[instance: fecdd5a9-3ca0-4c82-<*>-63b7774f738e] Total disk: <*> GB, used: <*> GB"
+E229,"[instance: fecdd5a9-3ca0-4c82-<*>-63b7774f738e] disk limit not specified, defaulting to unlimited"
+E230,"[instance: fecdd5a9-3ca0-4c82-<*>-63b7774f738e] vcpu limit not specified, defaulting to unlimited"
+E231,[instance: fecdd5a9-3ca0-4c82-<*>-63b7774f738e] Claim successful
+E232,"<*> ""GET /v2/<*>/servers/fecdd5a9-3ca0-4c82-<*>-63b7774f738e HTTP/<*>"" status: <*> len: <*> time: <*>"
+E233,[instance: fecdd5a9-3ca0-4c82-<*>-63b7774f738e] Creating image
+E234,[instance: <*>-2f87-4da7-b7ee-4d20cc66e846] VM Stopped (Lifecycle Event)
+E235,[instance: fecdd5a9-3ca0-4c82-<*>-63b7774f738e] VM Started (Lifecycle Event)
+E236,[instance: fecdd5a9-3ca0-4c82-<*>-63b7774f738e] VM Paused (Lifecycle Event)
+E237,[instance: fecdd5a9-3ca0-4c82-<*>-63b7774f738e] During sync_power_state the instance has a pending task (spawning). Skip.
+E238,Creating event network-vif-plugged:8b683414-<*>-<*>-aa05-980752c9b9b3 for instance fecdd5a9-3ca0-4c82-<*>-63b7774f738e
+E239,[instance: fecdd5a9-3ca0-4c82-<*>-63b7774f738e] VM Resumed (Lifecycle Event)
+E240,[instance: fecdd5a9-3ca0-4c82-<*>-63b7774f738e] Instance spawned successfully.
+E241,"<*> ""DELETE /v2/<*>/servers/fecdd5a9-3ca0-4c82-<*>-63b7774f738e HTTP/<*>"" status: <*> len: <*> time: <*>"
+E242,[instance: fecdd5a9-3ca0-4c82-<*>-63b7774f738e] Terminating instance
+E243,[instance: fecdd5a9-3ca0-4c82-<*>-63b7774f738e] Instance destroyed successfully.
+E244,[instance: fecdd5a9-3ca0-4c82-<*>-63b7774f738e] Deleting instance files /var/lib/nova/instances/fecdd5a9-3ca0-4c82-<*>-63b7774f738e_del
+E245,[instance: fecdd5a9-3ca0-4c82-<*>-63b7774f738e] Deletion of /var/lib/nova/instances/fecdd5a9-3ca0-4c82-<*>-63b7774f738e_del complete
+E246,"[instance: 63a0d960-70b6-44c6-b606-491478a5cadf] Attempting claim: memory <*> MB, disk <*> GB, vcpus <*> CPU"
+E247,"[instance: 63a0d960-70b6-44c6-b606-491478a5cadf] Total memory: <*> MB, used: <*> MB"
+E248,"[instance: 63a0d960-70b6-44c6-b606-491478a5cadf] memory limit: <*> MB, free: <*> MB"
+E249,"[instance: 63a0d960-70b6-44c6-b606-491478a5cadf] Total disk: <*> GB, used: <*> GB"
+E250,"[instance: 63a0d960-70b6-44c6-b606-491478a5cadf] disk limit not specified, defaulting to unlimited"
+E251,"[instance: 63a0d960-70b6-44c6-b606-491478a5cadf] vcpu limit not specified, defaulting to unlimited"
+E252,[instance: 63a0d960-70b6-44c6-b606-491478a5cadf] Claim successful
+E253,"<*> ""GET /v2/<*>/servers/63a0d960-70b6-44c6-b606-491478a5cadf HTTP/<*>"" status: <*> len: <*> time: <*>"
+E254,[instance: 63a0d960-70b6-44c6-b606-491478a5cadf] Creating image
+E255,[instance: fecdd5a9-3ca0-4c82-<*>-63b7774f738e] VM Stopped (Lifecycle Event)
+E256,[instance: 63a0d960-70b6-44c6-b606-491478a5cadf] VM Started (Lifecycle Event)
+E257,[instance: 63a0d960-70b6-44c6-b606-491478a5cadf] VM Paused (Lifecycle Event)
+E258,[instance: 63a0d960-70b6-44c6-b606-491478a5cadf] During sync_power_state the instance has a pending task (spawning). Skip.
+E259,Creating event network-vif-plugged:e1bf6353-ae58-4e46-b2d1-65a69b992bed for instance 63a0d960-70b6-44c6-b606-491478a5cadf
+E260,[instance: 63a0d960-70b6-44c6-b606-491478a5cadf] VM Resumed (Lifecycle Event)
+E261,[instance: 63a0d960-70b6-44c6-b606-491478a5cadf] Instance spawned successfully.
+E262,"<*>,<*> ""GET /latest/meta-data/placement/availability-zone HTTP/<*>"" status: <*> len: <*> time: <*>"
+E263,"<*>,<*> ""GET /latest/meta-data/local-ipv4 HTTP/<*>"" status: <*> len: <*> time: <*>"
+E264,"<*>,<*> ""GET /latest/meta-data/reservation-id HTTP/<*>"" status: <*> len: <*> time: <*>"
+E265,"<*>,<*> ""GET /latest/meta-data/local-hostname HTTP/<*>"" status: <*> len: <*> time: <*>"
+E266,"<*>,<*> ""GET /latest/meta-data/security-groups HTTP/<*>"" status: <*> len: <*> time: <*>"
+E267,"<*>,<*> ""GET /latest/meta-data/ami-launch-index HTTP/<*>"" status: <*> len: <*> time: <*>"
+E268,"<*> ""DELETE /v2/<*>/servers/63a0d960-70b6-44c6-b606-491478a5cadf HTTP/<*>"" status: <*> len: <*> time: <*>"
+E269,"<*>,<*> ""GET /latest/meta-data/public-hostname HTTP/<*>"" status: <*> len: <*> time: <*>"
+E270,[instance: 63a0d960-70b6-44c6-b606-491478a5cadf] Terminating instance
+E271,"<*>,<*> ""GET /latest/meta-data/hostname HTTP/<*>"" status: <*> len: <*> time: <*>"
+E272,[instance: 63a0d960-70b6-44c6-b606-491478a5cadf] Instance destroyed successfully.
+E273,"<*>,<*> ""GET /latest/meta-data/ami-id HTTP/<*>"" status: <*> len: <*> time: <*>"
+E274,[instance: 63a0d960-70b6-44c6-b606-491478a5cadf] Deleting instance files /var/lib/nova/instances/63a0d960-70b6-44c6-b606-491478a5cadf_del
+E275,[instance: 63a0d960-70b6-44c6-b606-491478a5cadf] Deletion of /var/lib/nova/instances/63a0d960-70b6-44c6-b606-491478a5cadf_del complete
+E276,"[instance: d54b44eb-2d1a-4aa2-ba6b-074d35f8f12c] Attempting claim: memory <*> MB, disk <*> GB, vcpus <*> CPU"
+E277,"[instance: d54b44eb-2d1a-4aa2-ba6b-074d35f8f12c] Total memory: <*> MB, used: <*> MB"
+E278,"[instance: d54b44eb-2d1a-4aa2-ba6b-074d35f8f12c] memory limit: <*> MB, free: <*> MB"
+E279,"[instance: d54b44eb-2d1a-4aa2-ba6b-074d35f8f12c] Total disk: <*> GB, used: <*> GB"
+E280,"[instance: d54b44eb-2d1a-4aa2-ba6b-074d35f8f12c] disk limit not specified, defaulting to unlimited"
+E281,"[instance: d54b44eb-2d1a-4aa2-ba6b-074d35f8f12c] vcpu limit not specified, defaulting to unlimited"
+E282,[instance: d54b44eb-2d1a-4aa2-ba6b-074d35f8f12c] Claim successful
+E283,"<*> ""GET /v2/<*>/servers/d54b44eb-2d1a-4aa2-ba6b-074d35f8f12c HTTP/<*>"" status: <*> len: <*> time: <*>"
+E284,[instance: d54b44eb-2d1a-4aa2-ba6b-074d35f8f12c] Creating image
+E285,[instance: 63a0d960-70b6-44c6-b606-491478a5cadf] VM Stopped (Lifecycle Event)
+E286,[instance: d54b44eb-2d1a-4aa2-ba6b-074d35f8f12c] VM Started (Lifecycle Event)
+E287,[instance: d54b44eb-2d1a-4aa2-ba6b-074d35f8f12c] VM Paused (Lifecycle Event)
+E288,[instance: d54b44eb-2d1a-4aa2-ba6b-074d35f8f12c] During sync_power_state the instance has a pending task (spawning). Skip.
+E289,Creating event network-vif-plugged:f53e6f35-05f7-<*>-9abf-6df58d3e69b8 for instance d54b44eb-2d1a-4aa2-ba6b-074d35f8f12c
+E290,[instance: d54b44eb-2d1a-4aa2-ba6b-074d35f8f12c] VM Resumed (Lifecycle Event)
+E291,[instance: d54b44eb-2d1a-4aa2-ba6b-074d35f8f12c] Instance spawned successfully.
+E292,"<*> ""DELETE /v2/<*>/servers/d54b44eb-2d1a-4aa2-ba6b-074d35f8f12c HTTP/<*>"" status: <*> len: <*> time: <*>"
+E293,[instance: d54b44eb-2d1a-4aa2-ba6b-074d35f8f12c] Terminating instance
+E294,[instance: d54b44eb-2d1a-4aa2-ba6b-074d35f8f12c] Instance destroyed successfully.
+E295,[instance: d54b44eb-2d1a-4aa2-ba6b-074d35f8f12c] Deleting instance files /var/lib/nova/instances/d54b44eb-2d1a-4aa2-ba6b-074d35f8f12c_del
+E296,[instance: d54b44eb-2d1a-4aa2-ba6b-074d35f8f12c] Deletion of /var/lib/nova/instances/d54b44eb-2d1a-4aa2-ba6b-074d35f8f12c_del complete
+E297,"[instance: 17288ea8-cbf4-4f0e-94fe-853fd2735f29] Attempting claim: memory <*> MB, disk <*> GB, vcpus <*> CPU"
+E298,"[instance: 17288ea8-cbf4-4f0e-94fe-853fd2735f29] Total memory: <*> MB, used: <*> MB"
+E299,"[instance: 17288ea8-cbf4-4f0e-94fe-853fd2735f29] memory limit: <*> MB, free: <*> MB"
+E300,"[instance: 17288ea8-cbf4-4f0e-94fe-853fd2735f29] Total disk: <*> GB, used: <*> GB"
+E301,"[instance: 17288ea8-cbf4-4f0e-94fe-853fd2735f29] disk limit not specified, defaulting to unlimited"
+E302,"[instance: 17288ea8-cbf4-4f0e-94fe-853fd2735f29] vcpu limit not specified, defaulting to unlimited"
+E303,[instance: 17288ea8-cbf4-4f0e-94fe-853fd2735f29] Claim successful
+E304,"<*> ""GET /v2/<*>/servers/17288ea8-cbf4-4f0e-94fe-853fd2735f29 HTTP/<*>"" status: <*> len: <*> time: <*>"
+E305,[instance: 17288ea8-cbf4-4f0e-94fe-853fd2735f29] Creating image
+E306,[instance: d54b44eb-2d1a-4aa2-ba6b-074d35f8f12c] VM Stopped (Lifecycle Event)
+E307,[instance: 17288ea8-cbf4-4f0e-94fe-853fd2735f29] VM Started (Lifecycle Event)
+E308,[instance: 17288ea8-cbf4-4f0e-94fe-853fd2735f29] VM Paused (Lifecycle Event)
+E309,[instance: 17288ea8-cbf4-4f0e-94fe-853fd2735f29] During sync_power_state the instance has a pending task (spawning). Skip.
+E310,Creating event network-vif-plugged:899a49ed-<*>-<*>-949e-f59ac7acc66d for instance 17288ea8-cbf4-4f0e-94fe-853fd2735f29
+E311,[instance: 17288ea8-cbf4-4f0e-94fe-853fd2735f29] VM Resumed (Lifecycle Event)
+E312,[instance: 17288ea8-cbf4-4f0e-94fe-853fd2735f29] Instance spawned successfully.
+E313,"<*> ""DELETE /v2/<*>/servers/17288ea8-cbf4-4f0e-94fe-853fd2735f29 HTTP/<*>"" status: <*> len: <*> time: <*>"
+E314,[instance: 17288ea8-cbf4-4f0e-94fe-853fd2735f29] Terminating instance
+E315,[instance: 17288ea8-cbf4-4f0e-94fe-853fd2735f29] Instance destroyed successfully.
+E316,[instance: 17288ea8-cbf4-4f0e-94fe-853fd2735f29] Deleting instance files /var/lib/nova/instances/17288ea8-cbf4-4f0e-94fe-853fd2735f29_del
+E317,[instance: 17288ea8-cbf4-4f0e-94fe-853fd2735f29] Deletion of /var/lib/nova/instances/17288ea8-cbf4-4f0e-94fe-853fd2735f29_del complete
+E318,"[instance: 70c1714b-c11b-4c88-b300-239afe1f5ff8] Attempting claim: memory <*> MB, disk <*> GB, vcpus <*> CPU"
+E319,"[instance: 70c1714b-c11b-4c88-b300-239afe1f5ff8] Total memory: <*> MB, used: <*> MB"
+E320,"[instance: 70c1714b-c11b-4c88-b300-239afe1f5ff8] memory limit: <*> MB, free: <*> MB"
+E321,"[instance: 70c1714b-c11b-4c88-b300-239afe1f5ff8] Total disk: <*> GB, used: <*> GB"
+E322,"[instance: 70c1714b-c11b-4c88-b300-239afe1f5ff8] disk limit not specified, defaulting to unlimited"
+E323,"[instance: 70c1714b-c11b-4c88-b300-239afe1f5ff8] vcpu limit not specified, defaulting to unlimited"
+E324,[instance: 70c1714b-c11b-4c88-b300-239afe1f5ff8] Claim successful
+E325,"<*> ""GET /v2/<*>/servers/70c1714b-c11b-4c88-b300-239afe1f5ff8 HTTP/<*>"" status: <*> len: <*> time: <*>"
+E326,[instance: <*>] Creating image
+E327,[instance: 17288ea8-cbf4-4f0e-94fe-853fd2735f29] VM Stopped (Lifecycle Event)
+E328,[instance: 70c1714b-c11b-4c88-b300-239afe1f5ff8] VM Started (Lifecycle Event)
+E329,[instance: 70c1714b-c11b-4c88-b300-239afe1f5ff8] VM Paused (Lifecycle Event)
+E330,[instance: 70c1714b-c11b-4c88-b300-239afe1f5ff8] During sync_power_state the instance has a pending task (spawning). Skip.
+E331,Creating event network-vif-plugged:1bb8c7a3-effa-<*>-8cf7-2b9a55011df9 for instance 70c1714b-c11b-4c88-b300-239afe1f5ff8
+E332,[instance: 70c1714b-c11b-4c88-b300-239afe1f5ff8] VM Resumed (Lifecycle Event)
+E333,[instance: 70c1714b-c11b-4c88-b300-239afe1f5ff8] Instance spawned successfully.
+E334,"<*> ""DELETE /v2/<*>/servers/70c1714b-c11b-4c88-b300-239afe1f5ff8 HTTP/<*>"" status: <*> len: <*> time: <*>"
+E335,[instance: 70c1714b-c11b-4c88-b300-239afe1f5ff8] Terminating instance
+E336,[instance: 70c1714b-c11b-4c88-b300-239afe1f5ff8] Instance destroyed successfully.
+E337,[instance: 70c1714b-c11b-4c88-b300-239afe1f5ff8] Deleting instance files /var/lib/nova/instances/70c1714b-c11b-4c88-b300-239afe1f5ff8_del
+E338,[instance: 70c1714b-c11b-4c88-b300-239afe1f5ff8] Deletion of /var/lib/nova/instances/70c1714b-c11b-4c88-b300-239afe1f5ff8_del complete
+E339,"[instance: bf8c824d-f099-<*>-a41e-e3da7578262e] Attempting claim: memory <*> MB, disk <*> GB, vcpus <*> CPU"
+E340,"[instance: bf8c824d-f099-<*>-a41e-e3da7578262e] Total memory: <*> MB, used: <*> MB"
+E341,"[instance: bf8c824d-f099-<*>-a41e-e3da7578262e] memory limit: <*> MB, free: <*> MB"
+E342,"[instance: bf8c824d-f099-<*>-a41e-e3da7578262e] Total disk: <*> GB, used: <*> GB"
+E343,"[instance: bf8c824d-f099-<*>-a41e-e3da7578262e] disk limit not specified, defaulting to unlimited"
+E344,"[instance: bf8c824d-f099-<*>-a41e-e3da7578262e] vcpu limit not specified, defaulting to unlimited"
+E345,[instance: bf8c824d-f099-<*>-a41e-e3da7578262e] Claim successful
+E346,"<*> ""GET /v2/<*>/servers/bf8c824d-f099-<*>-a41e-e3da7578262e HTTP/<*>"" status: <*> len: <*> time: <*>"
+E347,[instance: 70c1714b-c11b-4c88-b300-239afe1f5ff8] VM Stopped (Lifecycle Event)
+E348,"While synchronizing instance power states, found <*> instances in the database and <*> instances on the hypervisor."
+E349,[instance: bf8c824d-f099-<*>-a41e-e3da7578262e] VM Started (Lifecycle Event)
+E350,[instance: bf8c824d-f099-<*>-a41e-e3da7578262e] VM Paused (Lifecycle Event)
+E351,[instance: bf8c824d-f099-<*>-a41e-e3da7578262e] During sync_power_state the instance has a pending task (spawning). Skip.
+E352,Creating event network-vif-plugged:5c0b217a-68a9-46d1-<*>-23c5688aa673 for instance bf8c824d-f099-<*>-a41e-e3da7578262e
+E353,[instance: bf8c824d-f099-<*>-a41e-e3da7578262e] VM Resumed (Lifecycle Event)
+E354,[instance: bf8c824d-f099-<*>-a41e-e3da7578262e] Instance spawned successfully.
+E355,"<*> ""DELETE /v2/<*>/servers/bf8c824d-f099-<*>-a41e-e3da7578262e HTTP/<*>"" status: <*> len: <*> time: <*>"
+E356,[instance: bf8c824d-f099-<*>-a41e-e3da7578262e] Terminating instance
+E357,[instance: bf8c824d-f099-<*>-a41e-e3da7578262e] Instance destroyed successfully.
+E358,[instance: bf8c824d-f099-<*>-a41e-e3da7578262e] Deleting instance files /var/lib/nova/instances/bf8c824d-f099-<*>-a41e-e3da7578262e_del
+E359,[instance: bf8c824d-f099-<*>-a41e-e3da7578262e] Deletion of /var/lib/nova/instances/bf8c824d-f099-<*>-a41e-e3da7578262e_del complete
+E360,"[instance: be793e89-2cc3-4f99-<*>-9c6a624a84bc] Attempting claim: memory <*> MB, disk <*> GB, vcpus <*> CPU"
+E361,"[instance: be793e89-2cc3-4f99-<*>-9c6a624a84bc] Total memory: <*> MB, used: <*> MB"
+E362,"[instance: be793e89-2cc3-4f99-<*>-9c6a624a84bc] memory limit: <*> MB, free: <*> MB"
+E363,"[instance: be793e89-2cc3-4f99-<*>-9c6a624a84bc] Total disk: <*> GB, used: <*> GB"
+E364,"[instance: be793e89-2cc3-4f99-<*>-9c6a624a84bc] disk limit not specified, defaulting to unlimited"
+E365,"[instance: be793e89-2cc3-4f99-<*>-9c6a624a84bc] vcpu limit not specified, defaulting to unlimited"
+E366,[instance: be793e89-2cc3-4f99-<*>-9c6a624a84bc] Claim successful
+E367,"<*> ""GET /v2/<*>/servers/be793e89-2cc3-4f99-<*>-9c6a624a84bc HTTP/<*>"" status: <*> len: <*> time: <*>"
+E368,[instance: bf8c824d-f099-<*>-a41e-e3da7578262e] VM Stopped (Lifecycle Event)
+E369,[instance: be793e89-2cc3-4f99-<*>-9c6a624a84bc] VM Started (Lifecycle Event)
+E370,[instance: be793e89-2cc3-4f99-<*>-9c6a624a84bc] VM Paused (Lifecycle Event)
+E371,[instance: be793e89-2cc3-4f99-<*>-9c6a624a84bc] During sync_power_state the instance has a pending task (spawning). Skip.
+E372,Creating event network-vif-plugged:418c107f-95d6-<*>-ae6b-90bca57d9a71 for instance be793e89-2cc3-4f99-<*>-9c6a624a84bc
+E373,[instance: be793e89-2cc3-4f99-<*>-9c6a624a84bc] VM Resumed (Lifecycle Event)
+E374,[instance: be793e89-2cc3-4f99-<*>-9c6a624a84bc] Instance spawned successfully.
+E375,"<*> ""DELETE /v2/<*>/servers/be793e89-2cc3-4f99-<*>-9c6a624a84bc HTTP/<*>"" status: <*> len: <*> time: <*>"
+E376,[instance: be793e89-2cc3-4f99-<*>-9c6a624a84bc] Terminating instance
+E377,[instance: be793e89-2cc3-4f99-<*>-9c6a624a84bc] Instance destroyed successfully.
+E378,[instance: be793e89-2cc3-4f99-<*>-9c6a624a84bc] Deleting instance files /var/lib/nova/instances/be793e89-2cc3-4f99-<*>-9c6a624a84bc_del
+E379,[instance: be793e89-2cc3-4f99-<*>-9c6a624a84bc] Deletion of /var/lib/nova/instances/be793e89-2cc3-4f99-<*>-9c6a624a84bc_del complete
+E380,"[instance: a015cf14-84bb-<*>-a48d-7c4824ac7a9d] Attempting claim: memory <*> MB, disk <*> GB, vcpus <*> CPU"
+E381,"[instance: a015cf14-84bb-<*>-a48d-7c4824ac7a9d] Total memory: <*> MB, used: <*> MB"
+E382,"[instance: a015cf14-84bb-<*>-a48d-7c4824ac7a9d] memory limit: <*> MB, free: <*> MB"
+E383,"[instance: a015cf14-84bb-<*>-a48d-7c4824ac7a9d] Total disk: <*> GB, used: <*> GB"
+E384,"[instance: a015cf14-84bb-<*>-a48d-7c4824ac7a9d] disk limit not specified, defaulting to unlimited"
+E385,"[instance: a015cf14-84bb-<*>-a48d-7c4824ac7a9d] vcpu limit not specified, defaulting to unlimited"
+E386,[instance: a015cf14-84bb-<*>-a48d-7c4824ac7a9d] Claim successful
+E387,"<*> ""GET /v2/<*>/servers/a015cf14-84bb-<*>-a48d-7c4824ac7a9d HTTP/<*>"" status: <*> len: <*> time: <*>"
+E388,[instance: be793e89-2cc3-4f99-<*>-9c6a624a84bc] VM Stopped (Lifecycle Event)
+E389,[instance: a015cf14-84bb-<*>-a48d-7c4824ac7a9d] VM Started (Lifecycle Event)
+E390,[instance: a015cf14-84bb-<*>-a48d-7c4824ac7a9d] VM Paused (Lifecycle Event)
+E391,[instance: a015cf14-84bb-<*>-a48d-7c4824ac7a9d] During sync_power_state the instance has a pending task (spawning). Skip.
+E392,Creating event network-vif-plugged:72791ba0-33ef-44f2-9d88-d7c8f313cb46 for instance a015cf14-84bb-<*>-a48d-7c4824ac7a9d
+E393,[instance: a015cf14-84bb-<*>-a48d-7c4824ac7a9d] VM Resumed (Lifecycle Event)
+E394,[instance: a015cf14-84bb-<*>-a48d-7c4824ac7a9d] Instance spawned successfully.
+E395,"<*> ""DELETE /v2/<*>/servers/a015cf14-84bb-<*>-a48d-7c4824ac7a9d HTTP/<*>"" status: <*> len: <*> time: <*>"
+E396,[instance: a015cf14-84bb-<*>-a48d-7c4824ac7a9d] Terminating instance
+E397,[instance: a015cf14-84bb-<*>-a48d-7c4824ac7a9d] Instance destroyed successfully.
+E398,[instance: a015cf14-84bb-<*>-a48d-7c4824ac7a9d] Deleting instance files /var/lib/nova/instances/a015cf14-84bb-<*>-a48d-7c4824ac7a9d_del
+E399,[instance: a015cf14-84bb-<*>-a48d-7c4824ac7a9d] Deletion of /var/lib/nova/instances/a015cf14-84bb-<*>-a48d-7c4824ac7a9d_del complete
+E400,"[instance: d96a117b-<*>-<*>-bdcc-63b917273d1d] Attempting claim: memory <*> MB, disk <*> GB, vcpus <*> CPU"
+E401,"[instance: d96a117b-<*>-<*>-bdcc-63b917273d1d] Total memory: <*> MB, used: <*> MB"
+E402,"[instance: d96a117b-<*>-<*>-bdcc-63b917273d1d] memory limit: <*> MB, free: <*> MB"
+E403,"[instance: d96a117b-<*>-<*>-bdcc-63b917273d1d] Total disk: <*> GB, used: <*> GB"
+E404,"[instance: d96a117b-<*>-<*>-bdcc-63b917273d1d] disk limit not specified, defaulting to unlimited"
+E405,"[instance: d96a117b-<*>-<*>-bdcc-63b917273d1d] vcpu limit not specified, defaulting to unlimited"
+E406,[instance: d96a117b-<*>-<*>-bdcc-63b917273d1d] Claim successful
+E407,"<*> ""GET /v2/<*>/servers/d96a117b-<*>-<*>-bdcc-63b917273d1d HTTP/<*>"" status: <*> len: <*> time: <*>"
+E408,[instance: a015cf14-84bb-<*>-a48d-7c4824ac7a9d] VM Stopped (Lifecycle Event)
+E409,[instance: d96a117b-<*>-<*>-bdcc-63b917273d1d] VM Started (Lifecycle Event)
+E410,[instance: d96a117b-<*>-<*>-bdcc-63b917273d1d] VM Paused (Lifecycle Event)
+E411,[instance: d96a117b-<*>-<*>-bdcc-63b917273d1d] During sync_power_state the instance has a pending task (spawning). Skip.
+E412,Creating event network-vif-plugged:a444c98d-73cb-4ef8-b9c8-dbc1c4a7bd5c for instance d96a117b-<*>-<*>-bdcc-63b917273d1d
+E413,[instance: d96a117b-<*>-<*>-bdcc-63b917273d1d] VM Resumed (Lifecycle Event)
+E414,[instance: d96a117b-<*>-<*>-bdcc-63b917273d1d] Instance spawned successfully.
+E415,"<*> ""DELETE /v2/<*>/servers/d96a117b-<*>-<*>-bdcc-63b917273d1d HTTP/<*>"" status: <*> len: <*> time: <*>"
+E416,[instance: d96a117b-<*>-<*>-bdcc-63b917273d1d] Terminating instance
+E417,[instance: d96a117b-<*>-<*>-bdcc-63b917273d1d] Instance destroyed successfully.
+E418,[instance: d96a117b-<*>-<*>-bdcc-63b917273d1d] Deleting instance files /var/lib/nova/instances/d96a117b-<*>-<*>-bdcc-63b917273d1d_del
+E419,[instance: d96a117b-<*>-<*>-bdcc-63b917273d1d] Deletion of /var/lib/nova/instances/d96a117b-<*>-<*>-bdcc-63b917273d1d_del complete
+E420,"[instance: d6b7bd36-<*>-<*>-<*>-fffdd89ea40e] Attempting claim: memory <*> MB, disk <*> GB, vcpus <*> CPU"
+E421,"[instance: d6b7bd36-<*>-<*>-<*>-fffdd89ea40e] Total memory: <*> MB, used: <*> MB"
+E422,"[instance: d6b7bd36-<*>-<*>-<*>-fffdd89ea40e] memory limit: <*> MB, free: <*> MB"
+E423,"[instance: d6b7bd36-<*>-<*>-<*>-fffdd89ea40e] Total disk: <*> GB, used: <*> GB"
+E424,"[instance: d6b7bd36-<*>-<*>-<*>-fffdd89ea40e] disk limit not specified, defaulting to unlimited"
+E425,"[instance: d6b7bd36-<*>-<*>-<*>-fffdd89ea40e] vcpu limit not specified, defaulting to unlimited"
+E426,[instance: d6b7bd36-<*>-<*>-<*>-fffdd89ea40e] Claim successful
+E427,"<*> ""GET /v2/<*>/servers/d6b7bd36-<*>-<*>-<*>-fffdd89ea40e HTTP/<*>"" status: <*> len: <*> time: <*>"
+E428,[instance: d96a117b-<*>-<*>-bdcc-63b917273d1d] VM Stopped (Lifecycle Event)
+E429,[instance: d6b7bd36-<*>-<*>-<*>-fffdd89ea40e] VM Started (Lifecycle Event)
+E430,[instance: d6b7bd36-<*>-<*>-<*>-fffdd89ea40e] VM Paused (Lifecycle Event)
+E431,[instance: d6b7bd36-<*>-<*>-<*>-fffdd89ea40e] During sync_power_state the instance has a pending task (spawning). Skip.
+E432,Creating event network-vif-plugged:0b72aca0-102e-<*>-8ff3-2902d8353ff0 for instance d6b7bd36-<*>-<*>-<*>-fffdd89ea40e
+E433,[instance: d6b7bd36-<*>-<*>-<*>-fffdd89ea40e] VM Resumed (Lifecycle Event)
+E434,[instance: d6b7bd36-<*>-<*>-<*>-fffdd89ea40e] Instance spawned successfully.
+E435,"<*> ""DELETE /v2/<*>/servers/d6b7bd36-<*>-<*>-<*>-fffdd89ea40e HTTP/<*>"" status: <*> len: <*> time: <*>"
+E436,[instance: d6b7bd36-<*>-<*>-<*>-fffdd89ea40e] Terminating instance
+E437,[instance: d6b7bd36-<*>-<*>-<*>-fffdd89ea40e] Instance destroyed successfully.
+E438,[instance: d6b7bd36-<*>-<*>-<*>-fffdd89ea40e] Deleting instance files /var/lib/nova/instances/d6b7bd36-<*>-<*>-<*>-fffdd89ea40e_del
+E439,[instance: d6b7bd36-<*>-<*>-<*>-fffdd89ea40e] Deletion of /var/lib/nova/instances/d6b7bd36-<*>-<*>-<*>-fffdd89ea40e_del complete
+E440,"[instance: 127e769a-4fe6-<*>-93b1-513ac51e0452] Attempting claim: memory <*> MB, disk <*> GB, vcpus <*> CPU"
+E441,"[instance: 127e769a-4fe6-<*>-93b1-513ac51e0452] Total memory: <*> MB, used: <*> MB"
+E442,"[instance: 127e769a-4fe6-<*>-93b1-513ac51e0452] memory limit: <*> MB, free: <*> MB"
+E443,"[instance: 127e769a-4fe6-<*>-93b1-513ac51e0452] Total disk: <*> GB, used: <*> GB"
+E444,"[instance: 127e769a-4fe6-<*>-93b1-513ac51e0452] disk limit not specified, defaulting to unlimited"
+E445,"[instance: 127e769a-4fe6-<*>-93b1-513ac51e0452] vcpu limit not specified, defaulting to unlimited"
+E446,[instance: 127e769a-4fe6-<*>-93b1-513ac51e0452] Claim successful
+E447,"<*> ""GET /v2/<*>/servers/127e769a-4fe6-<*>-93b1-513ac51e0452 HTTP/<*>"" status: <*> len: <*> time: <*>"
+E448,[instance: d6b7bd36-<*>-<*>-<*>-fffdd89ea40e] VM Stopped (Lifecycle Event)
+E449,[instance: 127e769a-4fe6-<*>-93b1-513ac51e0452] VM Started (Lifecycle Event)
+E450,[instance: 127e769a-4fe6-<*>-93b1-513ac51e0452] VM Paused (Lifecycle Event)
+E451,[instance: 127e769a-4fe6-<*>-93b1-513ac51e0452] During sync_power_state the instance has a pending task (spawning). Skip.
+E452,Creating event network-vif-plugged:b25f912d-d8bd-<*>-b55f-8e244fe36c7c for instance 127e769a-4fe6-<*>-93b1-513ac51e0452
+E453,[instance: 127e769a-4fe6-<*>-93b1-513ac51e0452] VM Resumed (Lifecycle Event)
+E454,[instance: 127e769a-4fe6-<*>-93b1-513ac51e0452] Instance spawned successfully.
+E455,"<*> ""DELETE /v2/<*>/servers/127e769a-4fe6-<*>-93b1-513ac51e0452 HTTP/<*>"" status: <*> len: <*> time: <*>"
+E456,[instance: 127e769a-4fe6-<*>-93b1-513ac51e0452] Terminating instance
+E457,[instance: 127e769a-4fe6-<*>-93b1-513ac51e0452] Instance destroyed successfully.
+E458,[instance: 127e769a-4fe6-<*>-93b1-513ac51e0452] Deleting instance files /var/lib/nova/instances/127e769a-4fe6-<*>-93b1-513ac51e0452_del
+E459,[instance: 127e769a-4fe6-<*>-93b1-513ac51e0452] Deletion of /var/lib/nova/instances/127e769a-4fe6-<*>-93b1-513ac51e0452_del complete
+E460,"[instance: c62f4f25-982c-4ea2-b5e4-93000edfcfbf] Attempting claim: memory <*> MB, disk <*> GB, vcpus <*> CPU"
+E461,"[instance: c62f4f25-982c-4ea2-b5e4-93000edfcfbf] Total memory: <*> MB, used: <*> MB"
+E462,"[instance: c62f4f25-982c-4ea2-b5e4-93000edfcfbf] memory limit: <*> MB, free: <*> MB"
+E463,"[instance: c62f4f25-982c-4ea2-b5e4-93000edfcfbf] Total disk: <*> GB, used: <*> GB"
+E464,"[instance: c62f4f25-982c-4ea2-b5e4-93000edfcfbf] disk limit not specified, defaulting to unlimited"
+E465,"[instance: c62f4f25-982c-4ea2-b5e4-93000edfcfbf] vcpu limit not specified, defaulting to unlimited"
+E466,[instance: c62f4f25-982c-4ea2-b5e4-93000edfcfbf] Claim successful
+E467,"<*> ""GET /v2/<*>/servers/c62f4f25-982c-4ea2-b5e4-93000edfcfbf HTTP/<*>"" status: <*> len: <*> time: <*>"
+E468,[instance: 127e769a-4fe6-<*>-93b1-513ac51e0452] VM Stopped (Lifecycle Event)
+E469,[instance: c62f4f25-982c-4ea2-b5e4-93000edfcfbf] VM Started (Lifecycle Event)
+E470,[instance: c62f4f25-982c-4ea2-b5e4-93000edfcfbf] VM Paused (Lifecycle Event)
+E471,[instance: c62f4f25-982c-4ea2-b5e4-93000edfcfbf] During sync_power_state the instance has a pending task (spawning). Skip.
+E472,Creating event network-vif-plugged:b73a8d80-ce9e-49ff-bb0d-a1b8571f5e26 for instance c62f4f25-982c-4ea2-b5e4-93000edfcfbf
+E473,[instance: c62f4f25-982c-4ea2-b5e4-93000edfcfbf] VM Resumed (Lifecycle Event)
+E474,[instance: c62f4f25-982c-4ea2-b5e4-93000edfcfbf] Instance spawned successfully.
+E475,"<*> ""DELETE /v2/<*>/servers/c62f4f25-982c-4ea2-b5e4-93000edfcfbf HTTP/<*>"" status: <*> len: <*> time: <*>"
+E476,[instance: c62f4f25-982c-4ea2-b5e4-93000edfcfbf] Terminating instance
+E477,[instance: c62f4f25-982c-4ea2-b5e4-93000edfcfbf] Instance destroyed successfully.
+E478,[instance: c62f4f25-982c-4ea2-b5e4-93000edfcfbf] Deleting instance files /var/lib/nova/instances/c62f4f25-982c-4ea2-b5e4-93000edfcfbf_del
+E479,[instance: c62f4f25-982c-4ea2-b5e4-93000edfcfbf] Deletion of /var/lib/nova/instances/c62f4f25-982c-4ea2-b5e4-93000edfcfbf_del complete
+E480,"[instance: faf974ea-cba5-4e1b-93f4-3a3bc606006f] Attempting claim: memory <*> MB, disk <*> GB, vcpus <*> CPU"
+E481,"[instance: faf974ea-cba5-4e1b-93f4-3a3bc606006f] Total memory: <*> MB, used: <*> MB"
+E482,"[instance: faf974ea-cba5-4e1b-93f4-3a3bc606006f] memory limit: <*> MB, free: <*> MB"
+E483,"[instance: faf974ea-cba5-4e1b-93f4-3a3bc606006f] Total disk: <*> GB, used: <*> GB"
+E484,"[instance: faf974ea-cba5-4e1b-93f4-3a3bc606006f] disk limit not specified, defaulting to unlimited"
+E485,"[instance: faf974ea-cba5-4e1b-93f4-3a3bc606006f] vcpu limit not specified, defaulting to unlimited"
+E486,[instance: faf974ea-cba5-4e1b-93f4-3a3bc606006f] Claim successful
+E487,"<*> ""GET /v2/<*>/servers/faf974ea-cba5-4e1b-93f4-3a3bc606006f HTTP/<*>"" status: <*> len: <*> time: <*>"
+E488,[instance: c62f4f25-982c-4ea2-b5e4-93000edfcfbf] VM Stopped (Lifecycle Event)
+E489,[instance: faf974ea-cba5-4e1b-93f4-3a3bc606006f] VM Started (Lifecycle Event)
+E490,[instance: faf974ea-cba5-4e1b-93f4-3a3bc606006f] VM Paused (Lifecycle Event)
+E491,[instance: faf974ea-cba5-4e1b-93f4-3a3bc606006f] During sync_power_state the instance has a pending task (spawning). Skip.
+E492,Creating event network-vif-plugged:1771f0af-aae8-4b03-97c9-a7bc9c5e4bb7 for instance faf974ea-cba5-4e1b-93f4-3a3bc606006f
+E493,[instance: faf974ea-cba5-4e1b-93f4-3a3bc606006f] VM Resumed (Lifecycle Event)
+E494,[instance: faf974ea-cba5-4e1b-93f4-3a3bc606006f] Instance spawned successfully.
+E495,"<*> ""DELETE /v2/<*>/servers/faf974ea-cba5-4e1b-93f4-3a3bc606006f HTTP/<*>"" status: <*> len: <*> time: <*>"
+E496,[instance: faf974ea-cba5-4e1b-93f4-3a3bc606006f] Terminating instance
+E497,[instance: faf974ea-cba5-4e1b-93f4-3a3bc606006f] Instance destroyed successfully.

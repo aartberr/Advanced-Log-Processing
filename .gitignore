@@ -1,0 +1,14 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment
+venv/
+.env
+
+# Large dataset files excluded from GitHub
+/LILAC_main/full_dataset/BGL/BGL_full.log
+/LILAC_main/full_dataset/BGL/BGL_full.log_structured.csv
+/LILAC_main/full_dataset/OpenSSH/OpenSSH_full.log_structured.csv

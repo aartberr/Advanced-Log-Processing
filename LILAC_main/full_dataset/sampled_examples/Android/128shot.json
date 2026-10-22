@@ -1,0 +1,128 @@
+{"query": "cancelNotification,index:-1", "answer": "cancelNotification,index:{variables}"}
+{"query": "cancelNotification,index:0", "answer": "cancelNotification,index:{variables}"}
+{"query": "Acquiring suspend blocker \"PowerManagerService.WakeLocks\".", "answer": "Acquiring suspend blocker \"PowerManagerService.WakeLocks\"."}
+{"query": "Acquiring suspend blocker \"PowerManagerService.WakeLocks\".", "answer": "Acquiring suspend blocker \"PowerManagerService.WakeLocks\"."}
+{"query": "startAnimation begin", "answer": "startAnimation begin"}
+{"query": "startAnimation begin", "answer": "startAnimation begin"}
+{"query": "visible is system.charge.show", "answer": "visible is {variables}"}
+{"query": "visible is system.charge.show", "answer": "visible is {variables}"}
+{"query": "shouldBlockLocation  ret:false", "answer": "shouldBlockLocation  ret:false"}
+{"query": "shouldBlockLocation  ret:false", "answer": "shouldBlockLocation  ret:false"}
+{"query": "updateLightsLocked,mInCall =false,mScreenOn = true,ledNotification == null?true", "answer": "updateLightsLocked,mInCall =false,mScreenOn = true,ledNotification == null?true"}
+{"query": "updateLightsLocked,mInCall =false,mScreenOn = true,ledNotification == null?true", "answer": "updateLightsLocked,mInCall =false,mScreenOn = true,ledNotification == null?true"}
+{"query": "updateDimmedActivatedHideSensitive overlap:true", "answer": "updateDimmedActivatedHideSensitive overlap:true"}
+{"query": "updateDimmedActivatedHideSensitive overlap:true", "answer": "updateDimmedActivatedHideSensitive overlap:true"}
+{"query": "isSimPinSecure mSimDatas is null or empty", "answer": "isSimPinSecure mSimDatas is null or empty"}
+{"query": "isSimPinSecure mSimDatas is null or empty", "answer": "isSimPinSecure mSimDatas is null or empty"}
+{"query": "Animating brightness: target=38, rate=200", "answer": "Animating brightness: target={variables}, rate={variables}"}
+{"query": "Animating brightness: target=38, rate=200", "answer": "Animating brightness: target={variables}, rate={variables}"}
+{"query": "updateNotificationShade: total=0, active=0", "answer": "updateNotificationShade: total={variables}, active={variables}"}
+{"query": "updateNotificationShade: total=0, active=0", "answer": "updateNotificationShade: total={variables}, active={variables}"}
+{"query": "cancelNotificationLocked,remove =com.tencent.mobileqq", "answer": "cancelNotificationLocked,remove ={variables}"}
+{"query": "cancelNotificationLocked,remove =com.tencent.mobileqq", "answer": "cancelNotificationLocked,remove ={variables}"}
+{"query": "The change in focus caused us to need to do a layout begin", "answer": "The change in focus caused us to need to do a layout begin"}
+{"query": "The change in focus caused us to need to do a layout end", "answer": "The change in focus caused us to need to do a layout end"}
+{"query": "Destroying surface Surface(name=com.tencent.qt.qtl/com.tencent.qt.qtl.activity.info.NewsDetailXmlActivity) called by com.android.server.wm.WindowStateAnimator.destroySurface:2060 com.android.server.wm.WindowStateAnimator.destroySurfaceLocked:913 com.android.server.wm.WindowState.removeLocked:1554 com.android.server.wm.WindowManagerService.removeWindowInnerLocked:2739 com.android.server.wm.WindowManagerService.removeWindowInnerLocked:2702 com.android.server.wm.WindowManagerService.removeWindowLocked:2691 com.android.server.wm.WindowManagerService.removeWindowLocked:2560 com.android.server.wm.WindowManagerService.removeWindow:2555", "answer": "Destroying surface Surface(name={variables}) called by {variables}"}
+{"query": "Destroying surface Surface(name=SurfaceView - com.tencent.qt.qtl/com.tencent.video.player.activity.PlayerActivity) called by com.android.server.wm.WindowStateAnimator.destroyDeferredSurfaceLocked:942 com.android.server.wm.WindowManagerService.performDeferredDestroyWindow:3407 com.android.server.wm.Session.performDeferredDestroy:225 android.view.IWindowSession$Stub.onTransact:398 com.android.server.wm.Session.onTransact:136 android.os.Binder.execTransact:565 <bottom of call stack> <bottom of call stack>", "answer": "Destroying surface Surface(name={variables}) called by {variables}"}
+{"query": "removeNotification:0|com.tencent.mobileqq|121|null|10111", "answer": "removeNotification:{variables}|{variables}|{variables}|null|{variables}"}
+{"query": "removeNotification:0|com.tencent.mobileqq|121|null|10111", "answer": "removeNotification:{variables}|{variables}|{variables}|null|{variables}"}
+{"query": "onNotificationClick called", "answer": "onNotificationClick called"}
+{"query": "onNotificationClick called", "answer": "onNotificationClick called"}
+{"query": "updateClipping isOverlap:true, getTopPadding=333.0, Translation=-546.0", "answer": "updateClipping isOverlap:true, getTopPadding={variables}.{variables}, Translation={variables}.{variables}"}
+{"query": "updateClipping isOverlap:true, getTopPadding=333.0, Translation=-452.0", "answer": "updateClipping isOverlap:true, getTopPadding={variables}.{variables}, Translation={variables}.{variables}"}
+{"query": "cancelPeek: false", "answer": "cancelPeek: false"}
+{"query": "cancelPeek: false", "answer": "cancelPeek: false"}
+{"query": "Sending non-protected broadcast com.android.systemui.statusbar.visible.change from system 2227:com.android.systemui/u0a37 pkg com.android.systemui", "answer": "Sending non-protected broadcast {variables} from system {variables}:{variables} pkg {variables}"}
+{"query": "Sending non-protected broadcast com.android.systemui.statusbar.visible.change from system 2227:com.android.systemui/u0a37 pkg com.android.systemui", "answer": "Sending non-protected broadcast {variables} from system {variables}:{variables} pkg {variables}"}
+{"query": "visible is system.call.count gt 0", "answer": "visible is {variables} gt {variables}"}
+{"query": "visible is system.call.count gt 0", "answer": "visible is {variables} gt {variables}"}
+{"query": "HBM brightnessOut =38", "answer": "HBM brightnessOut ={variables}"}
+{"query": "HBM brightnessOut =38", "answer": "HBM brightnessOut ={variables}"}
+{"query": "updateDimmedActivatedHideSensitive overlap:false", "answer": "updateDimmedActivatedHideSensitive overlap:false"}
+{"query": "updateDimmedActivatedHideSensitive overlap:false", "answer": "updateDimmedActivatedHideSensitive overlap:false"}
+{"query": "getRecentTasks: num=20,flags=62,totalTasks=46", "answer": "getRecentTasks: num={variables},flags={variables},totalTasks={variables}"}
+{"query": "getRecentTasks: num=20,flags=62,totalTasks=46", "answer": "getRecentTasks: num={variables},flags={variables},totalTasks={variables}"}
+{"query": "flingToHeight: vel=0.0, expand=false, target=0.0, collapseSpeedUpFactor=1.0, expandBecauseOfFalsing=false", "answer": "flingToHeight: vel={variables}.{variables}, expand=false, target={variables}.{variables}, collapseSpeedUpFactor={variables}.{variables}, expandBecauseOfFalsing=false"}
+{"query": "flingToHeight: vel=0.0, expand=false, target=0.0, collapseSpeedUpFactor=1.0, expandBecauseOfFalsing=false", "answer": "flingToHeight: vel={variables}.{variables}, expand=false, target={variables}.{variables}, collapseSpeedUpFactor={variables}.{variables}, expandBecauseOfFalsing=false"}
+{"query": "overlapAmount:5.0, previousNotificationEnd:0.0, newYTranslation:-5.0, location:4, i:0, getTopPadding:333.0, getLocationOnScreen():-338", "answer": "overlapAmount:{variables}.{variables}, previousNotificationEnd:{variables}.{variables}, newYTranslation:{variables}.{variables}, location:{variables}, i:{variables}, getTopPadding:{variables}.{variables}, getLocationOnScreen():{variables}"}
+{"query": "overlapAmount:95.0, previousNotificationEnd:0.0, newYTranslation:-95.0, location:4, i:0, getTopPadding:333.0, getLocationOnScreen():-428", "answer": "overlapAmount:{variables}.{variables}, previousNotificationEnd:{variables}.{variables}, newYTranslation:{variables}.{variables}, location:{variables}, i:{variables}, getTopPadding:{variables}.{variables}, getLocationOnScreen():{variables}"}
+{"query": "orientation change is complete, call stopFreezingDisplayLocked", "answer": "orientation change is complete, call stopFreezingDisplayLocked"}
+{"query": "orientation change is complete, call stopFreezingDisplayLocked", "answer": "orientation change is complete, call stopFreezingDisplayLocked"}
+{"query": "getRunningAppProcesses: caller 10091 does not hold REAL_GET_TASKS; limiting output", "answer": "getRunningAppProcesses: caller {variables} does not hold REAL_GET_TASKS; limiting output"}
+{"query": "getRunningAppProcesses: caller 10113 does not hold REAL_GET_TASKS; limiting output", "answer": "getRunningAppProcesses: caller {variables} does not hold REAL_GET_TASKS; limiting output"}
+{"query": "ActivityRecord info: ActivityInfo{d1c8e63 com.tencent.mobileqq.activity.SplashActivity}, euid: 0", "answer": "ActivityRecord info: ActivityInfo{{variables} {variables}}, euid: {variables}"}
+{"query": "ActivityRecord info: ActivityInfo{d1c8e63 com.tencent.mobileqq.activity.SplashActivity}, euid: 0", "answer": "ActivityRecord info: ActivityInfo{{variables} {variables}}, euid: {variables}"}
+{"query": "setWiredDeviceConnectionState  type: -2147483632  state: 0", "answer": "setWiredDeviceConnectionState  type: {variables}  state: {variables}"}
+{"query": "setWiredDeviceConnectionState  type: 4  state: 0", "answer": "setWiredDeviceConnectionState  type: {variables}  state: {variables}"}
+{"query": "Taking screenshot from Surface with crop:[Rect(0, 48 - 720, 1208)], width:[432], height:[696], minLayer:[21085], maxLayer:[21085], inRotation:[false], rot:[0]", "answer": "Taking screenshot from Surface with crop:[Rect({variables}, {variables} - {variables}, {variables})], width:[{variables}], height:[{variables}], minLayer:[{variables}], maxLayer:[{variables}], inRotation:[false], rot:[{variables}]"}
+{"query": "Taking screenshot from Surface with crop:[Rect(0, 48 - 720, 1208)], width:[432], height:[696], minLayer:[21085], maxLayer:[21085], inRotation:[false], rot:[0]", "answer": "Taking screenshot from Surface with crop:[Rect({variables}, {variables} - {variables}, {variables})], width:[{variables}], height:[{variables}], minLayer:[{variables}], maxLayer:[{variables}], inRotation:[false], rot:[{variables}]"}
+{"query": "getNeighboringCellInfo calling app is com.amap.android.ams", "answer": "getNeighboringCellInfo calling app is {variables}"}
+{"query": "getNeighboringCellInfo calling app is com.amap.android.ams", "answer": "getNeighboringCellInfo calling app is {variables}"}
+{"query": "animateCollapsePanels:flags=2, force=true, delayed=true, mExpandedVisible=true", "answer": "animateCollapsePanels:flags={variables}, force=true, delayed=true, mExpandedVisible=true"}
+{"query": "animateCollapsePanels:flags=2, force=true, delayed=true, mExpandedVisible=true", "answer": "animateCollapsePanels:flags={variables}, force=true, delayed=true, mExpandedVisible=true"}
+{"query": "interceptKeyTq keycode=4 interactive=true keyguardActive=false policyFlags=2b000002 down false canceled false", "answer": "interceptKeyTq keycode={variables} interactive=true keyguardActive=false policyFlags={variables} down false canceled false"}
+{"query": "interceptKeyTq keycode=4 interactive=true keyguardActive=false policyFlags=2b000002 down true canceled false", "answer": "interceptKeyTq keycode={variables} interactive=true keyguardActive=false policyFlags={variables} down true canceled false"}
+{"query": "ready=true,policy=3,wakefulness=1,wksummary=0x1,uasummary=0x1,bootcompleted=true,boostinprogress=false,waitmodeenable=false,mode=false,manual=38,auto=-1,adj=0.0userId=0", "answer": "ready=true,policy={variables},wakefulness={variables},wksummary={variables},uasummary={variables},bootcompleted=true,boostinprogress=false,waitmodeenable=false,mode=false,manual={variables},auto={variables},adj={variables}.0userId={variables}"}
+{"query": "ready=true,policy=3,wakefulness=1,wksummary=0x23,uasummary=0x1,bootcompleted=true,boostinprogress=false,waitmodeenable=false,mode=false,manual=38,auto=-1,adj=0.0userId=0", "answer": "ready=true,policy={variables},wakefulness={variables},wksummary={variables},uasummary={variables},bootcompleted=true,boostinprogress=false,waitmodeenable=false,mode=false,manual={variables},auto={variables},adj={variables}.0userId={variables}"}
+{"query": "cancelNotificationWithTag pid 28601,uid = 10111,tag = null,pkg =com.tencent.mobileqq,id =193", "answer": "cancelNotificationWithTag pid {variables},uid = {variables},tag = null,pkg ={variables},id ={variables}"}
+{"query": "release:lock=189667585, flg=0x0, tag=\"*launch*\", name=android\", ws=WorkSource{10111}, uid=1000, pid=1702", "answer": "release:lock={variables}, flg={variables}, tag=\"{variables}\", name={variables}, ws={variables}, uid={variables}, pid={variables}"}
+{"query": "logNotificationVisibilityChanges runInThread start", "answer": "logNotificationVisibilityChanges runInThread start"}
+{"query": "logNotificationVisibilityChanges runInThread start", "answer": "logNotificationVisibilityChanges runInThread start"}
+{"query": "updateLightsLocked,turn off notificationLight", "answer": "updateLightsLocked,turn off notificationLight"}
+{"query": "updateLightsLocked,turn off notificationLight", "answer": "updateLightsLocked,turn off notificationLight"}
+{"query": "logNotificationVisibilityChanges runInThread over", "answer": "logNotificationVisibilityChanges runInThread over"}
+{"query": "logNotificationVisibilityChanges runInThread over", "answer": "logNotificationVisibilityChanges runInThread over"}
+{"query": "registerCallback not in UI.", "answer": "registerCallback not in UI."}
+{"query": "registerCallback not in UI.", "answer": "registerCallback not in UI."}
+{"query": "state.clipTopAmount:103, i:0", "answer": "state.clipTopAmount:{variables}, i:{variables}"}
+{"query": "state.clipTopAmount:-1, i:0", "answer": "state.clipTopAmount:{variables}, i:{variables}"}
+{"query": "getLastAudibleStreamVolume  treamType: 0", "answer": "getLastAudibleStreamVolume  treamType: {variables}"}
+{"query": "getLastAudibleStreamVolume  treamType: 0", "answer": "getLastAudibleStreamVolume  treamType: {variables}"}
+{"query": "visible is system.message.count gt 0", "answer": "visible is {variables} gt {variables}"}
+{"query": "visible is system.message.count gt 0", "answer": "visible is {variables} gt {variables}"}
+{"query": "playSoundEffect   effectType: 0", "answer": "playSoundEffect   effectType: {variables}"}
+{"query": "playSoundEffect   effectType: 0", "answer": "playSoundEffect   effectType: {variables}"}
+{"query": "ActivityManagerService,attachApplication,callingPid = 12787", "answer": "ActivityManagerService,attachApplication,callingPid = {variables}"}
+{"query": "ActivityManagerService,attachApplication,callingPid = 12787", "answer": "ActivityManagerService,attachApplication,callingPid = {variables}"}
+{"query": "shouldBlockLocation running ...", "answer": "shouldBlockLocation running ..."}
+{"query": "shouldBlockLocation running ...", "answer": "shouldBlockLocation running ..."}
+{"query": "userActivityNoUpdateLocked: eventTime=261843648, event=0, flags=0x1, uid=1000", "answer": "userActivityNoUpdateLocked: eventTime={variables}, event={variables}, flags={variables}, uid={variables}"}
+{"query": "interceptKeyBeforeQueueing: key 4 , result : 1", "answer": "interceptKeyBeforeQueueing: key {variables} , result : {variables}"}
+{"query": "rotationForOrientationLw(orient=1, last=0); user=0 USER_ROTATION_LOCKED", "answer": "rotationForOrientationLw(orient={variables}, last={variables}); user={variables} USER_ROTATION_LOCKED"}
+{"query": "android.util.AndroidRuntimeException: Must execute in UI", "answer": "{variables}: Must execute in UI"}
+{"query": "disable: < expand ICONS* alerts SYSTEM_INFO* back home recent clock navigationbar search quick_settings >", "answer": "disable: < expand ICONS* alerts SYSTEM_INFO* back home recent clock navigationbar search quick_settings >"}
+{"query": "Skipping, withExcluded: false, tr.intent:Intent { flg=0x18800000 cmp=com.tencent.mm/.plugin.base.stub.WXEntryActivity (has extras) }", "answer": "Skipping, withExcluded: false, tr.intent:Intent { flg={variables} cmp={variables} (has extras) }"}
+{"query": "*** unregister callback for null", "answer": "*** unregister callback for null"}
+{"query": "onTrackingStopped: true", "answer": "onTrackingStopped: true"}
+{"query": "setLightsOn(true)", "answer": "setLightsOn(true)"}
+{"query": "java.lang.ClassCastException: android.os.BinderProxy cannot be cast to com.android.server.am.ActivityRecord$Token", "answer": "{variables}: {variables} cannot be cast to {variables}$Token"}
+{"query": "START u0 {act=com.tencent.mobileqq.action.MAINACTIVITY flg=0x14000000 cmp=com.tencent.mobileqq/.activity.SplashActivity (has extras)} from uid 10111 on display 0", "answer": "START u0 {act={variables} flg={variables} cmp={variables} (has extras)} from uid {variables} on display {variables}"}
+{"query": "Application requested orientation 1, got rotation 0 which has compatible metrics", "answer": "Application requested orientation {variables}, got rotation {variables} which has compatible metrics"}
+{"query": "cancelNotificationLocked:0|com.tencent.mobileqq|121|null|10111", "answer": "cancelNotificationLocked:{variables}|{variables}|{variables}|null|{variables}"}
+{"query": "Bad activity token: android.os.BinderProxy@2bd79ce", "answer": "Bad activity token: {variables}@{variables}"}
+{"query": "Skipping AppWindowToken{9f4ef63 token=Token{a64f992 ActivityRecord{de9231d u0 com.tencent.qt.qtl/.activity.info.NewsDetailXmlActivity t761}}} -- going to hide", "answer": "Skipping AppWindowToken{{variables} token=Token{{variables} ActivityRecord{{variables} u0 {variables}}}} -- going to hide"}
+{"query": "onTouchEvent::1, x=296.0, y=327.0", "answer": "onTouchEvent::{variables}, x={variables}.{variables}, y={variables}.{variables}"}
+{"query": "startAnimation end", "answer": "startAnimation end"}
+{"query": "onNotificationVisibilityChanged called", "answer": "onNotificationVisibilityChanged called"}
+{"query": "Start dump, calling from : pid=12782, uid=1000", "answer": "Start dump, calling from : pid={variables}, uid={variables}"}
+{"query": "cancelNotificationLocked called,tell the app,reason = 1", "answer": "cancelNotificationLocked called,tell the app,reason = {variables}"}
+{"query": "visible is system.ownerinfo.show", "answer": "visible is {variables}"}
+{"query": "animateCollapsePanels:flags=0, force=false, delayed=false, mExpandedVisible=true", "answer": "animateCollapsePanels:flags={variables}, force=false, delayed=false, mExpandedVisible=true"}
+{"query": "*** unregister callback for com.android.systemui.statusbar.policy.KeyguardMonitor@712d093", "answer": "*** unregister callback for {variables}@{variables}"}
+{"query": "makeExpandedInvisible: mExpandedVisible=true", "answer": "makeExpandedInvisible: mExpandedVisible=true"}
+{"query": "HBM brightnessIn =38", "answer": "HBM brightnessIn ={variables}"}
+{"query": "visible is system.time.showampm", "answer": "visible is {variables}"}
+{"query": "[PhoneIntfMgr] getDataEnabled: subId=1 phoneId=1", "answer": "[PhoneIntfMgr] getDataEnabled: subId={variables} phoneId={variables}"}
+{"query": "mVisiblity.getValue is false", "answer": "mVisiblity.getValue is false"}
+{"query": "onInterceptTouchEvent MotionEvent { action=ACTION_UP, actionButton=0, id[0]=0, x[0]=317.0, y[0]=419.0, toolType[0]=TOOL_TYPE_FINGER, buttonState=0, metaState=0, flags=0x0, edgeFlags=0x0, pointerCount=1, historySize=0, eventTime=261851713, downTime=261851646, deviceId=3, source=0x1002 }, mBlockTouches=false", "answer": "onInterceptTouchEvent MotionEvent { action=ACTION_UP, actionButton={variables}, id[{variables}]={variables}, x[{variables}]={variables}.{variables}, y[{variables}]={variables}.{variables}, toolType[{variables}]=TOOL_TYPE_FINGER, buttonState={variables}, metaState={variables}, flags={variables}, edgeFlags={variables}, pointerCount={variables}, historySize={variables}, eventTime={variables}, downTime={variables}, deviceId={variables}, source={variables} }, mBlockTouches=false"}
+{"query": "getRecentTasks: topActivity=ComponentInfo{com.tencent.mobileqq/com.tencent.mobileqq.activity.SplashActivity}", "answer": "getRecentTasks: topActivity=ComponentInfo{{variables}{variables}.{variables}}"}
+{"query": "cancelNotification,cancelNotificationLocked,callingUid = 10037,callingPid = 2227", "answer": "cancelNotification,cancelNotificationLocked,callingUid = {variables},callingPid = {variables}"}
+{"query": "notifyUiVisibilityChanged:vis=0x40000500, SystemUiVisibility=0x40000500", "answer": "notifyUiVisibilityChanged:vis={variables}, SystemUiVisibility={variables}"}
+{"query": "[PhoneIntfMgr] getDataEnabled: subId=1 retVal=true", "answer": "[PhoneIntfMgr] getDataEnabled: subId={variables} retVal=true"}
+{"query": "printFreezingDisplayLogsopening app wtoken = AppWindowToken{9f4ef63 token=Token{a64f992 ActivityRecord{de9231d u0 com.tencent.qt.qtl/.activity.info.NewsDetailXmlActivity t761}}}, allDrawn= false, startingDisplayed =  false, startingMoved =  false, isRelaunching =  false", "answer": "printFreezingDisplayLogsopening app wtoken = AppWindowToken{{variables} token=Token{{variables} ActivityRecord{{variables} u0 {variables}/.{variables} t761}}}, allDrawn= false, startingDisplayed =  false, startingMoved =  false, isRelaunching =  false"}
+{"query": "remove(PendingIntent{19abed0: PendingIntentRecord{a485420 com.tencent.qt.qtl broadcastIntent}}) changed bounds; rebatching", "answer": "remove(PendingIntent{{variables}: PendingIntentRecord{{variables} {variables} broadcastIntent}}) changed bounds; rebatching"}
+{"query": "setSystemUiVisibility vis=40000500 mask=ffffffff oldVal=40000600 newVal=40000500 diff=300 fullscreenStackVis=0 dockedStackVis=0, fullscreenStackBounds=Rect(0, 0 - 720, 1280), dockedStackBounds=Rect(0, 0 - 0, 0)", "answer": "setSystemUiVisibility vis={variables} mask={variables} oldVal={variables} newVal={variables} diff={variables} fullscreenStackVis={variables} dockedStackVis={variables}, fullscreenStackBounds=Rect({variables}, {variables} - {variables}, {variables}), dockedStackBounds=Rect({variables}, {variables} - {variables}, {variables})"}
+{"query": "flingToHeight: vel=2849.079, expand=true, target=553.0, collapseSpeedUpFactor=1.0, expandBecauseOfFalsing=false", "answer": "flingToHeight: vel={variables}.{variables}, expand=true, target={variables}.{variables}, collapseSpeedUpFactor={variables}.{variables}, expandBecauseOfFalsing=false"}
+{"query": "updateClipping isOverlap:false, getTopPadding=333.0, Translation=-72.0", "answer": "updateClipping isOverlap:false, getTopPadding={variables}.{variables}, Translation={variables}.{variables}"}
+{"query": "applyOptionsLocked: Unknown animationType=0", "answer": "applyOptionsLocked: Unknown animationType={variables}"}
+{"query": "Screen frozen for +1s0ms due to Window{ca98d5 u0 com.tencent.qt.qtl/com.tencent.qt.qtl.activity.info.NewsDetailXmlActivity}", "answer": "Screen frozen for {variables} due to Window{{variables} u0 {variables}.{variables}}"}

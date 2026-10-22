@@ -1,0 +1,8 @@
+{"query": "startAnimation begin", "answer": "startAnimation begin"}
+{"query": "[PhoneIntfMgr] getDataEnabled: subId=1 retVal=true", "answer": "[PhoneIntfMgr] getDataEnabled: subId={variables} retVal=true"}
+{"query": "rotationForOrientationLw(orient=1, last=0); user=0 USER_ROTATION_LOCKED", "answer": "rotationForOrientationLw(orient={variables}, last={variables}); user={variables} USER_ROTATION_LOCKED"}
+{"query": "ready=true,policy=3,wakefulness=1,wksummary=0x1,uasummary=0x1,bootcompleted=true,boostinprogress=false,waitmodeenable=false,mode=false,manual=38,auto=-1,adj=0.0userId=0", "answer": "ready=true,policy={variables},wakefulness={variables},wksummary={variables},uasummary={variables},bootcompleted=true,boostinprogress=false,waitmodeenable=false,mode=false,manual={variables},auto={variables},adj={variables}.0userId={variables}"}
+{"query": "flingToHeight: vel=0.0, expand=false, target=0.0, collapseSpeedUpFactor=1.0, expandBecauseOfFalsing=false", "answer": "flingToHeight: vel={variables}.{variables}, expand=false, target={variables}.{variables}, collapseSpeedUpFactor={variables}.{variables}, expandBecauseOfFalsing=false"}
+{"query": "Skipping AppWindowToken{df0798e token=Token{78af589 ActivityRecord{3b04890 u0 com.tencent.qt.qtl/com.tencent.video.player.activity.PlayerActivity t761}}} -- going to hide", "answer": "Skipping AppWindowToken{{variables} token=Token{{variables} ActivityRecord{{variables} u0 {variables}}}} -- going to hide"}
+{"query": "cancelNotificationLocked,remove =com.tencent.mobileqq", "answer": "cancelNotificationLocked,remove ={variables}"}
+{"query": "updateLightsLocked,turn off notificationLight", "answer": "updateLightsLocked,turn off notificationLight"}

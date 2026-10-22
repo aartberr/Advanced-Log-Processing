@@ -1,0 +1,121 @@
+EventId,EventTemplate
+E1,Component State Change: Component \042SCSI-WWID:<*>-08b4-<*>-00c6-<*>-<*>-003d-<*> is in the unavailable state (HWID=<*>)
+E2,Component State Change: Component <*> is in the unavailable state (HWID=<*>)
+E3,clusterAddMember (command <*>)
+E4,risBoot (command <*>)
+E5,bootGenvmunix (command <*>)
+E6,boot (command <*>)
+E7,wait (command <*>)
+E8,halt (command <*>)
+E9,Command has completed successfully
+E10,Targeting domains:node-D3 and nodes:node-[<*>-<*>] child of command <*>
+E11,Targeting domains:node-D4 and nodes:node-[<*>-<*>] child of command <*>
+E12,Targeting domains:node-D7 and nodes:node-[<*> <*> <*>]
+E13,Targeting domains:node-D0 and nodes:node-[<*>-<*>] child of command <*>
+E14,Targeting domains:node-D0 and nodes:node-<*>
+E15,Targeting domains:node-D[<*> <*>] and nodes:node-[<*> <*>]
+E16,Targeting domains:node-D2 and nodes:node-[<*>-<*>] child of command <*>
+E17,Targeting domains:node-D2 and nodes:node-<*>
+E18,psu failure\ ambient=<*>
+E19,Temperature (41C) exceeds warning threshold
+E20,ClusterFileSystem: There is no server for ServerFileSystem domain storage234
+E21,ClusterFileSystem: There is no server for ServerFileSystem domain storage1412
+E22,ClusterFileSystem: There is no server for ServerFileSystem domain storage1024
+E23,ClusterFileSystem: There is no server for ServerFileSystem domain storage1534
+E24,ClusterFileSystem: There is no server for ServerFileSystem domain storage1231
+E25,ClusterFileSystem: There is no server for ServerFileSystem domain storage934
+E26,ClusterFileSystem: There is no server for ServerFileSystem domain storage131
+E27,ClusterFileSystem: There is no server for ServerFileSystem domain storage1144
+E28,ClusterFileSystem: There is no server for ServerFileSystem domain storage444
+E29,ClusterFileSystem: There is no server for ServerFileSystem domain storage141
+E30,ClusterFileSystem: There is no server for ServerFileSystem domain storage1622
+E31,ClusterFileSystem: There is no server for ServerFileSystem domain storage1612
+E32,ClusterFileSystem: There is no server for ServerFileSystem domain storage1542
+E33,ClusterFileSystem: There is no server for ServerFileSystem domain storage1644
+E34,ClusterFileSystem: There is no server for ServerFileSystem domain storage242
+E35,ClusterFileSystem: There is no server for ServerFileSystem domain storage1031
+E36,ClusterFileSystem: There is no server for ServerFileSystem domain storage1331
+E37,ClusterFileSystem: There is no server for ServerFileSystem domain storage742
+E38,ClusterFileSystem: There is no server for ServerFileSystem domain storage221
+E39,ClusterFileSystem: There is no server for ServerFileSystem domain storage622
+E40,ClusterFileSystem: There is no server for ServerFileSystem domain storage112
+E41,ClusterFileSystem: There is no server for ServerFileSystem domain storage1432
+E42,ClusterFileSystem: There is no server for ServerFileSystem domain storage142
+E43,ClusterFileSystem: There is no server for ServerFileSystem domain storage1311
+E44,ClusterFileSystem: There is no server for ServerFileSystem domain storage411
+E45,ClusterFileSystem: There is no server for ServerFileSystem domain storage132
+E46,ClusterFileSystem: There is no server for ServerFileSystem domain storage832
+E47,ClusterFileSystem: There is no server for ServerFileSystem domain storage531
+E48,ClusterFileSystem: There is no server for ServerFileSystem domain storage321
+E49,NIFF: node node-<*> detected a failed network connection on network <*> via interface alt0
+E50,ServerFileSystem: An ServerFileSystem domain panic has occurred on storage442
+E51,Fan speeds ( <*> )
+E52,Command has been aborted
+E53,power/control problem
+E54,Link error
+E55,Link in reset
+E56,Link ok
+E57,Link error on broadcast tree Interconnect-0T00:<*>
+E58,Link error on broadcast tree Interconnect-1T00:<*>
+E59,ServerFileSystem: ServerFileSystem domain root14_local is full
+E60,ServerFileSystem: ServerFileSystem domain root10_local is full
+E61,ServerFileSystem: ServerFileSystem domain root22_local is full
+E62,ServerFileSystem: ServerFileSystem domain root13_local is full
+E63,ServerFileSystem: ServerFileSystem domain root26_tmp is full
+E64,ServerFileSystem: ServerFileSystem domain root7_local is full
+E65,ServerFileSystem: ServerFileSystem domain root1_local is full
+E66,ServerFileSystem: ServerFileSystem domain root3_local is full
+E67,ServerFileSystem: ServerFileSystem domain root25_local is full
+E68,ServerFileSystem: ServerFileSystem domain root26_local is full
+E69,ClusterFileSystem: ServerFileSystem domain cluster_root_backup is no longer served by node node-<*>
+E70,ClusterFileSystem: ServerFileSystem domain root_domain is no longer served by node node-<*>
+E71,ClusterFileSystem: ServerFileSystem domain root3_domain is no longer served by node node-<*>
+E72,ClusterFileSystem: ServerFileSystem domain root9_domain is no longer served by node node-<*>
+E73,ClusterFileSystem: ServerFileSystem domain root10_domain is no longer served by node node-<*>
+E74,ClusterFileSystem: ServerFileSystem domain root28_domain is no longer served by node node-<*>
+E75,ClusterFileSystem: ServerFileSystem domain root30_domain is no longer served by node node-<*>
+E76,ClusterFileSystem: ServerFileSystem domain root26_domain is no longer served by node node-<*>
+E77,ClusterFileSystem: ServerFileSystem domain root29_local is no longer served by node node-<*>
+E78,ClusterFileSystem: ServerFileSystem domain root12_domain is no longer served by node node-<*>
+E79,ClusterFileSystem: ServerFileSystem domain root5_domain is no longer served by node node-<*>
+E80,ClusterFileSystem: ServerFileSystem domain root5_tmp is no longer served by node node-<*>
+E81,ClusterFileSystem: ServerFileSystem domain storage1422 is no longer served by node node-<*>
+E82,ClusterFileSystem: ServerFileSystem domain storage343 is no longer served by node node-<*>
+E83,ClusterFileSystem: ServerFileSystem domain root19_domain is no longer served by node node-<*>
+E84,ClusterFileSystem: ServerFileSystem domain root14_local is no longer served by node node-<*>
+E85,ClusterFileSystem: ServerFileSystem domain root6_domain is no longer served by node node-<*>
+E86,ClusterFileSystem: ServerFileSystem domain storage534 is no longer served by node node-<*>
+E87,ClusterFileSystem: ServerFileSystem domain root12_tmp is no longer served by node node-<*>
+E88,ClusterFileSystem: ServerFileSystem domain root23_local is no longer served by node node-<*>
+E89,ClusterFileSystem: ServerFileSystem domain root14_tmp is no longer served by node node-<*>
+E90,ClusterFileSystem: ServerFileSystem domain storage211 is no longer served by node node-<*>
+E91,ClusterFileSystem: ServerFileSystem domain root8_domain is no longer served by node node-<*>
+E92,ClusterFileSystem: ServerFileSystem domain root25_local is no longer served by node node-<*>
+E93,ClusterFileSystem: ServerFileSystem domain cluster_usr_backup is no longer served by node node-<*>
+E94,ClusterFileSystem: ServerFileSystem domain root24_local is no longer served by node node-<*>
+E95,ClusterFileSystem: ServerFileSystem domain root18_tmp is no longer served by node node-<*>
+E96,ClusterFileSystem: ServerFileSystem domain root17_domain is no longer served by node node-<*>
+E97,ClusterFileSystem: ServerFileSystem domain sc_cluster_backup is no longer served by node node-<*>
+E98,ClusterFileSystem: ServerFileSystem domain cluster_var_backup is no longer served by node node-<*>
+E99,ClusterFileSystem: ServerFileSystem domain root1_tmp_backup is no longer served by node node-<*>
+E100,ClusterFileSystem: ServerFileSystem domain root1_domain_backup is no longer served by node node-<*>
+E101,running
+E102,blocked
+E103,not responding
+E104,configured out
+E105,inconsistent nodesets node-<*> <*> <ok> node-<*> <*> <ok> node-<*> <*> <ok> node-<*> <*> <ok>
+E106,active
+E107,starting
+E108,closing
+E109,normal
+E110,warning
+E111,ambient=<*>
+E112,critical
+E113,Linkerror event interval expired
+E114,risBoot (command <*>) Error: Timed out while waiting for SRM prompt: <ABORT code completed>
+E115,boot (command <*>) Error: HALT asserted\ cannot continue
+E116,Failed subcommands <*>
+E117,link errors remain current
+E118,NIFF: node node-<*> has detected an available network connection on network <*> via interface ee0
+E119,NIFF: node node-<*> has detected an available network connection on network <*> via interface alt0
+E120,NIFF: node node-<*> has detected an available network connection on network <*> via interface scip0

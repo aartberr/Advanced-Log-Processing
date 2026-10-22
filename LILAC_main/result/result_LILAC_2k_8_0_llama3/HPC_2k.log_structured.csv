@@ -1,0 +1,2001 @@
+LineId,EventId,Content,EventTemplate
+1,E1,Component State Change: Component \042SCSI-WWID:01000010:6005-08b4-0001-00c6-0006-3000-003d-0000\042 is in the unavailable state (HWID=1973),Component State Change: Component \042SCSI-WWID:<*>-08b4-<*>-00c6-<*>-<*>-003d-<*> is in the unavailable state (HWID=<*>)
+2,E2,Component State Change: Component \042alt0\042 is in the unavailable state (HWID=3180),Component State Change: Component <*> is in the unavailable state (HWID=<*>)
+3,E2,Component State Change: Component \042alt0\042 is in the unavailable state (HWID=5089),Component State Change: Component <*> is in the unavailable state (HWID=<*>)
+4,E2,Component State Change: Component \042alt0\042 is in the unavailable state (HWID=4088),Component State Change: Component <*> is in the unavailable state (HWID=<*>)
+5,E2,Component State Change: Component \042alt0\042 is in the unavailable state (HWID=2538),Component State Change: Component <*> is in the unavailable state (HWID=<*>)
+6,E2,Component State Change: Component \042alt0\042 is in the unavailable state (HWID=2480),Component State Change: Component <*> is in the unavailable state (HWID=<*>)
+7,E2,Component State Change: Component \042alt0\042 is in the unavailable state (HWID=3713),Component State Change: Component <*> is in the unavailable state (HWID=<*>)
+8,E2,Component State Change: Component \042alt0\042 is in the unavailable state (HWID=3891),Component State Change: Component <*> is in the unavailable state (HWID=<*>)
+9,E2,Component State Change: Component \042alt0\042 is in the unavailable state (HWID=2478),Component State Change: Component <*> is in the unavailable state (HWID=<*>)
+10,E2,Component State Change: Component \042alt0\042 is in the unavailable state (HWID=2969),Component State Change: Component <*> is in the unavailable state (HWID=<*>)
+11,E2,Component State Change: Component \042alt0\042 is in the unavailable state (HWID=4159),Component State Change: Component <*> is in the unavailable state (HWID=<*>)
+12,E2,Component State Change: Component \042alt0\042 is in the unavailable state (HWID=2608),Component State Change: Component <*> is in the unavailable state (HWID=<*>)
+13,E3,clusterAddMember  (command 1902),clusterAddMember (command <*>)
+14,E3,clusterAddMember  (command 1900),clusterAddMember (command <*>)
+15,E4,risBoot  (command 1903),risBoot (command <*>)
+16,E5,bootGenvmunix  (command 1903),bootGenvmunix (command <*>)
+17,E6,boot  (command 1911),boot (command <*>)
+18,E6,boot  (command 1910),boot (command <*>)
+19,E6,boot  (command 1978),boot (command <*>)
+20,E6,boot  (command 1967),boot (command <*>)
+21,E7,wait  (command 1975),wait (command <*>)
+22,E6,boot  (command 1999),boot (command <*>)
+23,E8,halt  (command 1982),halt (command <*>)
+24,E6,boot  (command 1981),boot (command <*>)
+25,E6,boot  (command 1973),boot (command <*>)
+26,E7,wait  (command 1973),wait (command <*>)
+27,E7,wait  (command 2057),wait (command <*>)
+28,E6,boot  (command 2152),boot (command <*>)
+29,E7,wait  (command 2154),wait (command <*>)
+30,E6,boot  (command 2141),boot (command <*>)
+31,E6,boot  (command 2110),boot (command <*>)
+32,E6,boot  (command 2160),boot (command <*>)
+33,E8,halt  (command 2221),halt (command <*>)
+34,E7,wait  (command 2217),wait (command <*>)
+35,E7,wait  (command 2217),wait (command <*>)
+36,E7,wait  (command 2201),wait (command <*>)
+37,E7,wait  (command 2199),wait (command <*>)
+38,E6,boot  (command 2183),boot (command <*>)
+39,E7,wait  (command 2189),wait (command <*>)
+40,E7,wait  (command 2302),wait (command <*>)
+41,E7,wait  (command 2270),wait (command <*>)
+42,E7,wait  (command 2257),wait (command <*>)
+43,E6,boot  (command 2257),boot (command <*>)
+44,E6,boot  (command 2316),boot (command <*>)
+45,E6,boot  (command 2316),boot (command <*>)
+46,E7,wait  (command 2322),wait (command <*>)
+47,E7,wait  (command 2354),wait (command <*>)
+48,E7,wait  (command 2347),wait (command <*>)
+49,E6,boot  (command 2368),boot (command <*>)
+50,E6,boot  (command 2392),boot (command <*>)
+51,E6,boot  (command 2406),boot (command <*>)
+52,E6,boot  (command 2417),boot (command <*>)
+53,E6,boot  (command 2423),boot (command <*>)
+54,E7,wait  (command 2424),wait (command <*>)
+55,E7,wait  (command 2449),wait (command <*>)
+56,E6,boot  (command 2464),boot (command <*>)
+57,E7,wait  (command 2468),wait (command <*>)
+58,E6,boot  (command 2520),boot (command <*>)
+59,E7,wait  (command 2517),wait (command <*>)
+60,E6,boot  (command 2517),boot (command <*>)
+61,E7,wait  (command 2511),wait (command <*>)
+62,E7,wait  (command 2513),wait (command <*>)
+63,E6,boot  (command 2514),boot (command <*>)
+64,E7,wait  (command 2484),wait (command <*>)
+65,E6,boot  (command 2625),boot (command <*>)
+66,E7,wait  (command 2607),wait (command <*>)
+67,E6,boot  (command 2616),boot (command <*>)
+68,E6,boot  (command 2619),boot (command <*>)
+69,E6,boot  (command 2616),boot (command <*>)
+70,E6,boot  (command 2616),boot (command <*>)
+71,E6,boot  (command 2602),boot (command <*>)
+72,E7,wait  (command 2582),wait (command <*>)
+73,E6,boot  (command 2584),boot (command <*>)
+74,E7,wait  (command 2549),wait (command <*>)
+75,E6,boot  (command 2550),boot (command <*>)
+76,E6,boot  (command 2548),boot (command <*>)
+77,E6,boot  (command 2538),boot (command <*>)
+78,E7,wait  (command 2683),wait (command <*>)
+79,E6,boot  (command 2686),boot (command <*>)
+80,E7,wait  (command 2682),wait (command <*>)
+81,E7,wait  (command 2763),wait (command <*>)
+82,E7,wait  (command 2800),wait (command <*>)
+83,E6,boot  (command 2790),boot (command <*>)
+84,E7,wait  (command 2817),wait (command <*>)
+85,E7,wait  (command 2823),wait (command <*>)
+86,E7,wait  (command 2817),wait (command <*>)
+87,E7,wait  (command 2900),wait (command <*>)
+88,E7,wait  (command 2885),wait (command <*>)
+89,E7,wait  (command 2909),wait (command <*>)
+90,E6,boot  (command 2960),boot (command <*>)
+91,E7,wait  (command 2963),wait (command <*>)
+92,E6,boot  (command 2999),boot (command <*>)
+93,E8,halt  (command 2992),halt (command <*>)
+94,E7,wait  (command 3087),wait (command <*>)
+95,E7,wait  (command 3079),wait (command <*>)
+96,E7,wait  (command 3078),wait (command <*>)
+97,E7,wait  (command 3141),wait (command <*>)
+98,E6,boot  (command 3138),boot (command <*>)
+99,E6,boot  (command 3169),boot (command <*>)
+100,E6,boot  (command 3169),boot (command <*>)
+101,E6,boot  (command 3194),boot (command <*>)
+102,E6,boot  (command 3320),boot (command <*>)
+103,E6,boot  (command 3318),boot (command <*>)
+104,E6,boot  (command 3317),boot (command <*>)
+105,E7,wait  (command 3319),wait (command <*>)
+106,E7,wait  (command 3334),wait (command <*>)
+107,E6,boot  (command 3334),boot (command <*>)
+108,E7,wait  (command 3412),wait (command <*>)
+109,E6,boot  (command 3413),boot (command <*>)
+110,E6,boot  (command 3473),boot (command <*>)
+111,E7,wait  (command 3523),wait (command <*>)
+112,E7,wait  (command 3525),wait (command <*>)
+113,E7,wait  (command 3519),wait (command <*>)
+114,E6,boot  (command 3519),boot (command <*>)
+115,E6,boot  (command 3512),boot (command <*>)
+116,E6,boot  (command 3579),boot (command <*>)
+117,E6,boot  (command 3572),boot (command <*>)
+118,E6,boot  (command 3580),boot (command <*>)
+119,E7,wait  (command 3612),wait (command <*>)
+120,E6,boot  (command 3615),boot (command <*>)
+121,E7,wait  (command 3609),wait (command <*>)
+122,E6,boot  (command 3624),boot (command <*>)
+123,E7,wait  (command 3649),wait (command <*>)
+124,E6,boot  (command 3639),boot (command <*>)
+125,E7,wait  (command 3690),wait (command <*>)
+126,E6,boot  (command 3696),boot (command <*>)
+127,E7,wait  (command 3698),wait (command <*>)
+128,E7,wait  (command 3709),wait (command <*>)
+129,E7,wait  (command 3837),wait (command <*>)
+130,E7,wait  (command 3847),wait (command <*>)
+131,E6,boot  (command 3951),boot (command <*>)
+132,E6,boot  (command 3928),boot (command <*>)
+133,E6,boot  (command 3939),boot (command <*>)
+134,E6,boot  (command 3964),boot (command <*>)
+135,E7,wait  (command 3973),wait (command <*>)
+136,E7,wait  (command 3981),wait (command <*>)
+137,E7,wait  (command 3981),wait (command <*>)
+138,E6,boot  (command 4024),boot (command <*>)
+139,E7,wait  (command 4061),wait (command <*>)
+140,E7,wait  (command 4110),wait (command <*>)
+141,E6,boot  (command 4118),boot (command <*>)
+142,E7,wait  (command 4116),wait (command <*>)
+143,E7,wait  (command 4117),wait (command <*>)
+144,E6,boot  (command 4109),boot (command <*>)
+145,E7,wait  (command 4145),wait (command <*>)
+146,E6,boot  (command 4176),boot (command <*>)
+147,E6,boot  (command 4170),boot (command <*>)
+148,E7,wait  (command 4176),wait (command <*>)
+149,E7,wait  (command 4176),wait (command <*>)
+150,E5,bootGenvmunix  (command 4185),bootGenvmunix (command <*>)
+151,E6,boot  (command 4223),boot (command <*>)
+152,E7,wait  (command 4221),wait (command <*>)
+153,E7,wait  (command 4219),wait (command <*>)
+154,E9,Command has completed successfully,Command has completed successfully
+155,E9,Command has completed successfully,Command has completed successfully
+156,E9,Command has completed successfully,Command has completed successfully
+157,E9,Command has completed successfully,Command has completed successfully
+158,E9,Command has completed successfully,Command has completed successfully
+159,E9,Command has completed successfully,Command has completed successfully
+160,E9,Command has completed successfully,Command has completed successfully
+161,E9,Command has completed successfully,Command has completed successfully
+162,E9,Command has completed successfully,Command has completed successfully
+163,E9,Command has completed successfully,Command has completed successfully
+164,E10,Targeting domains:node-D3 and nodes:node-[104-127] child of command 1963,Targeting domains:node-D3 and nodes:node-[<*>-<*>] child of command <*>
+165,E11,Targeting domains:node-D4 and nodes:node-[136-159] child of command 1964,Targeting domains:node-D4 and nodes:node-[<*>-<*>] child of command <*>
+166,E12,Targeting domains:node-D7 and nodes:node-[224\ 228\ 232],Targeting domains:node-D7 and nodes:node-[<*> <*> <*>]
+167,E11,Targeting domains:node-D4 and nodes:node-[128-135] child of command 2401,Targeting domains:node-D4 and nodes:node-[<*>-<*>] child of command <*>
+168,E13,Targeting domains:node-D0 and nodes:node-[8-31] child of command 2489,Targeting domains:node-D0 and nodes:node-[<*>-<*>] child of command <*>
+169,E14,Targeting domains:node-D0 and nodes:node-0,Targeting domains:node-D0 and nodes:node-<*>
+170,E15,Targeting domains:node-D[0\ 5] and nodes:node-[27\ 191],Targeting domains:node-D[<*> <*>] and nodes:node-[<*> <*>]
+171,E16,Targeting domains:node-D2 and nodes:node-[64-95] child of command 3488,Targeting domains:node-D2 and nodes:node-[<*>-<*>] child of command <*>
+172,E17,Targeting domains:node-D2 and nodes:node-84,Targeting domains:node-D2 and nodes:node-<*>
+173,E18,psu failure\ ambient=28,psu failure\ ambient=<*>
+174,E18,psu failure\ ambient=28,psu failure\ ambient=<*>
+175,E18,psu failure\ ambient=28,psu failure\ ambient=<*>
+176,E18,psu failure\ ambient=28,psu failure\ ambient=<*>
+177,E18,psu failure\ ambient=31,psu failure\ ambient=<*>
+178,E19,Temperature (41C) exceeds warning threshold,Temperature (41C) exceeds warning threshold
+179,E19,Temperature (41C) exceeds warning threshold,Temperature (41C) exceeds warning threshold
+180,E20,ClusterFileSystem: There is no server for ServerFileSystem domain storage234,ClusterFileSystem: There is no server for ServerFileSystem domain storage234
+181,E21,ClusterFileSystem: There is no server for ServerFileSystem domain storage1412,ClusterFileSystem: There is no server for ServerFileSystem domain storage1412
+182,E22,ClusterFileSystem: There is no server for ServerFileSystem domain storage1024,ClusterFileSystem: There is no server for ServerFileSystem domain storage1024
+183,E23,ClusterFileSystem: There is no server for ServerFileSystem domain storage1534,ClusterFileSystem: There is no server for ServerFileSystem domain storage1534
+184,E24,ClusterFileSystem: There is no server for ServerFileSystem domain storage1231,ClusterFileSystem: There is no server for ServerFileSystem domain storage1231
+185,E25,ClusterFileSystem: There is no server for ServerFileSystem domain storage934,ClusterFileSystem: There is no server for ServerFileSystem domain storage934
+186,E26,ClusterFileSystem: There is no server for ServerFileSystem domain storage131,ClusterFileSystem: There is no server for ServerFileSystem domain storage131
+187,E27,ClusterFileSystem: There is no server for ServerFileSystem domain storage1144,ClusterFileSystem: There is no server for ServerFileSystem domain storage1144
+188,E28,ClusterFileSystem: There is no server for ServerFileSystem domain storage444,ClusterFileSystem: There is no server for ServerFileSystem domain storage444
+189,E29,ClusterFileSystem: There is no server for ServerFileSystem domain storage141,ClusterFileSystem: There is no server for ServerFileSystem domain storage141
+190,E30,ClusterFileSystem: There is no server for ServerFileSystem domain storage1622,ClusterFileSystem: There is no server for ServerFileSystem domain storage1622
+191,E31,ClusterFileSystem: There is no server for ServerFileSystem domain storage1612,ClusterFileSystem: There is no server for ServerFileSystem domain storage1612
+192,E30,ClusterFileSystem: There is no server for ServerFileSystem domain storage1622,ClusterFileSystem: There is no server for ServerFileSystem domain storage1622
+193,E32,ClusterFileSystem: There is no server for ServerFileSystem domain storage1542,ClusterFileSystem: There is no server for ServerFileSystem domain storage1542
+194,E33,ClusterFileSystem: There is no server for ServerFileSystem domain storage1644,ClusterFileSystem: There is no server for ServerFileSystem domain storage1644
+195,E34,ClusterFileSystem: There is no server for ServerFileSystem domain storage242,ClusterFileSystem: There is no server for ServerFileSystem domain storage242
+196,E35,ClusterFileSystem: There is no server for ServerFileSystem domain storage1031,ClusterFileSystem: There is no server for ServerFileSystem domain storage1031
+197,E36,ClusterFileSystem: There is no server for ServerFileSystem domain storage1331,ClusterFileSystem: There is no server for ServerFileSystem domain storage1331
+198,E37,ClusterFileSystem: There is no server for ServerFileSystem domain storage742,ClusterFileSystem: There is no server for ServerFileSystem domain storage742
+199,E38,ClusterFileSystem: There is no server for ServerFileSystem domain storage221,ClusterFileSystem: There is no server for ServerFileSystem domain storage221
+200,E39,ClusterFileSystem: There is no server for ServerFileSystem domain storage622,ClusterFileSystem: There is no server for ServerFileSystem domain storage622
+201,E40,ClusterFileSystem: There is no server for ServerFileSystem domain storage112,ClusterFileSystem: There is no server for ServerFileSystem domain storage112
+202,E41,ClusterFileSystem: There is no server for ServerFileSystem domain storage1432,ClusterFileSystem: There is no server for ServerFileSystem domain storage1432
+203,E42,ClusterFileSystem: There is no server for ServerFileSystem domain storage142,ClusterFileSystem: There is no server for ServerFileSystem domain storage142
+204,E37,ClusterFileSystem: There is no server for ServerFileSystem domain storage742,ClusterFileSystem: There is no server for ServerFileSystem domain storage742
+205,E24,ClusterFileSystem: There is no server for ServerFileSystem domain storage1231,ClusterFileSystem: There is no server for ServerFileSystem domain storage1231
+206,E43,ClusterFileSystem: There is no server for ServerFileSystem domain storage1311,ClusterFileSystem: There is no server for ServerFileSystem domain storage1311
+207,E44,ClusterFileSystem: There is no server for ServerFileSystem domain storage411,ClusterFileSystem: There is no server for ServerFileSystem domain storage411
+208,E45,ClusterFileSystem: There is no server for ServerFileSystem domain storage132,ClusterFileSystem: There is no server for ServerFileSystem domain storage132
+209,E46,ClusterFileSystem: There is no server for ServerFileSystem domain storage832,ClusterFileSystem: There is no server for ServerFileSystem domain storage832
+210,E47,ClusterFileSystem: There is no server for ServerFileSystem domain storage531,ClusterFileSystem: There is no server for ServerFileSystem domain storage531
+211,E48,ClusterFileSystem: There is no server for ServerFileSystem domain storage321,ClusterFileSystem: There is no server for ServerFileSystem domain storage321
+212,E49,NIFF: node node-69 detected a failed network connection on network 5.5.224.0 via interface alt0,NIFF: node node-<*> detected a failed network connection on network <*> via interface alt0
+213,E49,NIFF: node node-162 detected a failed network connection on network 5.5.224.0 via interface alt0,NIFF: node node-<*> detected a failed network connection on network <*> via interface alt0
+214,E50,ServerFileSystem: An ServerFileSystem domain panic has occurred on storage442,ServerFileSystem: An ServerFileSystem domain panic has occurred on storage442
+215,E51,Fan speeds ( 3552 3534 3375 **** 3515 3479 ),Fan speeds ( <*> )
+216,E51,Fan speeds ( 3552 3534 3375 **** 3515 3479 ),Fan speeds ( <*> )
+217,E51,Fan speeds ( 3552 3534 3375 **** 3515 3479 ),Fan speeds ( <*> )
+218,E51,Fan speeds ( 3552 3534 3375 **** 3515 3479 ),Fan speeds ( <*> )
+219,E51,Fan speeds ( 3552 3534 3375 4245 3515 3479 ),Fan speeds ( <*> )
+220,E51,Fan speeds ( 3552 3534 3375 **** 3515 3479 ),Fan speeds ( <*> )
+221,E51,Fan speeds ( 3552 3534 3375 11637 3515 3479 ),Fan speeds ( <*> )
+222,E51,Fan speeds ( 3552 3534 3375 **** 3515 3479 ),Fan speeds ( <*> )
+223,E51,Fan speeds ( 3552 3534 3375 **** 3515 3479 ),Fan speeds ( <*> )
+224,E51,Fan speeds ( 3552 3534 3375 4245 3515 3479 ),Fan speeds ( <*> )
+225,E51,Fan speeds ( 3552 3534 3375 **** 3515 3479 ),Fan speeds ( <*> )
+226,E51,Fan speeds ( 3552 3534 3375 **** 3515 3479 ),Fan speeds ( <*> )
+227,E51,Fan speeds ( 3552 3534 3375 **** 3515 3479 ),Fan speeds ( <*> )
+228,E51,Fan speeds ( 3552 3534 3375 4470 3515 3479 ),Fan speeds ( <*> )
+229,E51,Fan speeds ( 3552 3534 3375 **** 3515 3479 ),Fan speeds ( <*> )
+230,E51,Fan speeds ( 3552 3534 3375 **** 3515 3479 ),Fan speeds ( <*> )
+231,E51,Fan speeds ( 3552 3534 3375 **** 3515 3479 ),Fan speeds ( <*> )
+232,E51,Fan speeds ( 3552 3534 3375 **** 3515 3479 ),Fan speeds ( <*> )
+233,E51,Fan speeds ( 3552 3534 3375 **** 3515 3479 ),Fan speeds ( <*> )
+234,E51,Fan speeds ( 3552 3534 3375 **** 3515 3479 ),Fan speeds ( <*> )
+235,E51,Fan speeds ( 3552 3534 3375 **** 3515 3479 ),Fan speeds ( <*> )
+236,E51,Fan speeds ( 3552 3534 3375 **** 3515 3479 ),Fan speeds ( <*> )
+237,E51,Fan speeds ( 3552 3534 3375 **** 3515 3479 ),Fan speeds ( <*> )
+238,E51,Fan speeds ( 3552 3534 3375 **** 3515 3479 ),Fan speeds ( <*> )
+239,E51,Fan speeds ( 3552 3534 3375 **** 3515 3479 ),Fan speeds ( <*> )
+240,E51,Fan speeds ( 3552 3534 3375 **** 3515 3479 ),Fan speeds ( <*> )
+241,E51,Fan speeds ( 3552 3534 3375 **** 3515 3479 ),Fan speeds ( <*> )
+242,E51,Fan speeds ( 3552 3534 3375 **** 3515 3479 ),Fan speeds ( <*> )
+243,E51,Fan speeds ( 3552 3534 3375 **** 3515 3479 ),Fan speeds ( <*> )
+244,E51,Fan speeds ( 3552 3534 3375 **** 3515 3479 ),Fan speeds ( <*> )
+245,E51,Fan speeds ( 3552 3534 3375 **** 3515 3479 ),Fan speeds ( <*> )
+246,E51,Fan speeds ( 3552 3534 3375 **** 3515 3479 ),Fan speeds ( <*> )
+247,E51,Fan speeds ( 3552 3534 3375 **** 3515 3479 ),Fan speeds ( <*> )
+248,E51,Fan speeds ( 3552 3534 3375 **** 3515 3479 ),Fan speeds ( <*> )
+249,E51,Fan speeds ( 3552 3534 3375 **** 3515 3479 ),Fan speeds ( <*> )
+250,E51,Fan speeds ( 3552 3534 3375 **** 3515 3479 ),Fan speeds ( <*> )
+251,E51,Fan speeds ( 3552 3534 3375 **** 3515 3479 ),Fan speeds ( <*> )
+252,E51,Fan speeds ( 3552 3534 3375 **** 3515 3479 ),Fan speeds ( <*> )
+253,E51,Fan speeds ( 3552 3534 3375 4166 3515 3479 ),Fan speeds ( <*> )
+254,E51,Fan speeds ( 3552 3534 3375 **** 3515 3479 ),Fan speeds ( <*> )
+255,E51,Fan speeds ( 3552 3534 3375 **** 3515 3479 ),Fan speeds ( <*> )
+256,E51,Fan speeds ( 3552 3534 3375 **** 3515 3479 ),Fan speeds ( <*> )
+257,E51,Fan speeds ( 3552 3534 3375 **** 3515 3479 ),Fan speeds ( <*> )
+258,E51,Fan speeds ( 3552 3534 3375 **** 3515 3479 ),Fan speeds ( <*> )
+259,E51,Fan speeds ( 3552 3534 3375 **** 3515 3479 ),Fan speeds ( <*> )
+260,E51,Fan speeds ( 3552 3534 3375 **** 3515 3479 ),Fan speeds ( <*> )
+261,E51,Fan speeds ( 3552 3534 3375 **** 3515 3479 ),Fan speeds ( <*> )
+262,E51,Fan speeds ( 3552 3534 3375 **** 3515 3479 ),Fan speeds ( <*> )
+263,E51,Fan speeds ( 3552 3534 3375 **** 3515 3479 ),Fan speeds ( <*> )
+264,E51,Fan speeds ( 3552 3534 3375 **** 3515 3479 ),Fan speeds ( <*> )
+265,E51,Fan speeds ( 3552 3534 3375 **** 3515 3479 ),Fan speeds ( <*> )
+266,E51,Fan speeds ( 3552 3534 3375 **** 3515 3479 ),Fan speeds ( <*> )
+267,E51,Fan speeds ( 3552 3534 3375 4530 3515 3479 ),Fan speeds ( <*> )
+268,E51,Fan speeds ( 3552 3534 3375 **** 3515 3479 ),Fan speeds ( <*> )
+269,E51,Fan speeds ( 3552 3534 3375 **** 3515 3479 ),Fan speeds ( <*> )
+270,E51,Fan speeds ( 3552 3534 3375 **** 3515 3479 ),Fan speeds ( <*> )
+271,E51,Fan speeds ( 3552 3534 3375 **** 3515 3479 ),Fan speeds ( <*> )
+272,E51,Fan speeds ( 3552 3534 3375 4192 3515 3479 ),Fan speeds ( <*> )
+273,E51,Fan speeds ( 3552 3534 3375 **** 3515 3479 ),Fan speeds ( <*> )
+274,E51,Fan speeds ( 3552 3534 3391 **** 3515 3479 ),Fan speeds ( <*> )
+275,E51,Fan speeds ( 3552 3534 3391 **** 3515 3479 ),Fan speeds ( <*> )
+276,E51,Fan speeds ( 3552 3534 3391 **** 3515 3479 ),Fan speeds ( <*> )
+277,E51,Fan speeds ( 3552 3534 3391 **** 3515 3479 ),Fan speeds ( <*> )
+278,E51,Fan speeds ( 3552 3534 3391 **** 3515 3479 ),Fan speeds ( <*> )
+279,E51,Fan speeds ( 3552 3534 3391 **** 3515 3479 ),Fan speeds ( <*> )
+280,E51,Fan speeds ( 3552 3534 3391 **** 3515 3479 ),Fan speeds ( <*> )
+281,E51,Fan speeds ( 3552 3534 3391 **** 3515 3479 ),Fan speeds ( <*> )
+282,E51,Fan speeds ( 3552 3534 3391 **** 3515 3479 ),Fan speeds ( <*> )
+283,E51,Fan speeds ( 3552 3534 3391 **** 3515 3479 ),Fan speeds ( <*> )
+284,E51,Fan speeds ( 3552 3534 3391 **** 3515 3479 ),Fan speeds ( <*> )
+285,E51,Fan speeds ( 3552 3534 3391 **** 3515 3479 ),Fan speeds ( <*> )
+286,E51,Fan speeds ( 3552 3534 3391 4299 3515 3479 ),Fan speeds ( <*> )
+287,E51,Fan speeds ( 3552 3534 3391 **** 3515 3479 ),Fan speeds ( <*> )
+288,E51,Fan speeds ( 3552 3534 3391 **** 3515 3479 ),Fan speeds ( <*> )
+289,E51,Fan speeds ( 3552 3534 3391 **** 3515 3479 ),Fan speeds ( <*> )
+290,E51,Fan speeds ( 3552 3552 3391 **** 3515 3497 ),Fan speeds ( <*> )
+291,E51,Fan speeds ( 3552 3552 3391 **** 3515 3497 ),Fan speeds ( <*> )
+292,E51,Fan speeds ( 3534 3534 3375 **** 3497 3479 ),Fan speeds ( <*> )
+293,E51,Fan speeds ( 3534 3534 3375 **** 3497 3479 ),Fan speeds ( <*> )
+294,E51,Fan speeds ( 3534 3534 3375 4272 3497 3479 ),Fan speeds ( <*> )
+295,E51,Fan speeds ( 3534 3534 3375 4470 3497 3479 ),Fan speeds ( <*> )
+296,E51,Fan speeds ( 3534 3534 3375 **** 3497 3479 ),Fan speeds ( <*> )
+297,E51,Fan speeds ( 3534 3534 3375 **** 3497 3479 ),Fan speeds ( <*> )
+298,E51,Fan speeds ( 3534 3534 3375 **** 3497 3479 ),Fan speeds ( <*> )
+299,E51,Fan speeds ( 3534 3534 3375 **** 3497 3479 ),Fan speeds ( <*> )
+300,E51,Fan speeds ( 3534 3534 3375 **** 3497 3479 ),Fan speeds ( <*> )
+301,E51,Fan speeds ( 3534 3534 3375 4115 3497 3479 ),Fan speeds ( <*> )
+302,E51,Fan speeds ( 3534 3534 3375 **** 3497 3479 ),Fan speeds ( <*> )
+303,E51,Fan speeds ( 3534 3534 3375 **** 3497 3479 ),Fan speeds ( <*> )
+304,E51,Fan speeds ( 3534 3534 3375 **** 3497 3479 ),Fan speeds ( <*> )
+305,E52,Command has been aborted,Command has been aborted
+306,E53,power/control problem,power/control problem
+307,E54,Link error,Link error
+308,E54,Link error,Link error
+309,E54,Link error,Link error
+310,E54,Link error,Link error
+311,E55,Link in reset,Link in reset
+312,E54,Link error,Link error
+313,E54,Link error,Link error
+314,E54,Link error,Link error
+315,E54,Link error,Link error
+316,E54,Link error,Link error
+317,E55,Link in reset,Link in reset
+318,E56,Link ok,Link ok
+319,E57,Link error on broadcast tree Interconnect-0T00:00:2:1,Link error on broadcast tree Interconnect-0T00:<*>
+320,E58,Link error on broadcast tree Interconnect-1T00:00:3:6,Link error on broadcast tree Interconnect-1T00:<*>
+321,E58,Link error on broadcast tree Interconnect-1T00:00:2:0,Link error on broadcast tree Interconnect-1T00:<*>
+322,E58,Link error on broadcast tree Interconnect-1T00:00:2:0,Link error on broadcast tree Interconnect-1T00:<*>
+323,E59,ServerFileSystem: ServerFileSystem domain root14_local is full,ServerFileSystem: ServerFileSystem domain root14_local is full
+324,E60,ServerFileSystem: ServerFileSystem domain root10_local is full,ServerFileSystem: ServerFileSystem domain root10_local is full
+325,E61,ServerFileSystem: ServerFileSystem domain root22_local is full,ServerFileSystem: ServerFileSystem domain root22_local is full
+326,E62,ServerFileSystem: ServerFileSystem domain root13_local is full,ServerFileSystem: ServerFileSystem domain root13_local is full
+327,E63,ServerFileSystem: ServerFileSystem domain root26_tmp is full,ServerFileSystem: ServerFileSystem domain root26_tmp is full
+328,E64,ServerFileSystem: ServerFileSystem domain root7_local is full,ServerFileSystem: ServerFileSystem domain root7_local is full
+329,E65,ServerFileSystem: ServerFileSystem domain root1_local is full,ServerFileSystem: ServerFileSystem domain root1_local is full
+330,E61,ServerFileSystem: ServerFileSystem domain root22_local is full,ServerFileSystem: ServerFileSystem domain root22_local is full
+331,E66,ServerFileSystem: ServerFileSystem domain root3_local is full,ServerFileSystem: ServerFileSystem domain root3_local is full
+332,E67,ServerFileSystem: ServerFileSystem domain root25_local is full,ServerFileSystem: ServerFileSystem domain root25_local is full
+333,E68,ServerFileSystem: ServerFileSystem domain root26_local is full,ServerFileSystem: ServerFileSystem domain root26_local is full
+334,E61,ServerFileSystem: ServerFileSystem domain root22_local is full,ServerFileSystem: ServerFileSystem domain root22_local is full
+335,E69,ClusterFileSystem: ServerFileSystem domain cluster_root_backup is no longer served by node node-96,ClusterFileSystem: ServerFileSystem domain cluster_root_backup is no longer served by node node-<*>
+336,E70,ClusterFileSystem: ServerFileSystem domain root_domain is no longer served by node node-160,ClusterFileSystem: ServerFileSystem domain root_domain is no longer served by node node-<*>
+337,E71,ClusterFileSystem: ServerFileSystem domain root3_domain is no longer served by node node-128,ClusterFileSystem: ServerFileSystem domain root3_domain is no longer served by node node-<*>
+338,E72,ClusterFileSystem: ServerFileSystem domain root9_domain is no longer served by node node-224,ClusterFileSystem: ServerFileSystem domain root9_domain is no longer served by node node-<*>
+339,E73,ClusterFileSystem: ServerFileSystem domain root10_domain is no longer served by node node-224,ClusterFileSystem: ServerFileSystem domain root10_domain is no longer served by node node-<*>
+340,E74,ClusterFileSystem: ServerFileSystem domain root28_domain is no longer served by node node-96,ClusterFileSystem: ServerFileSystem domain root28_domain is no longer served by node node-<*>
+341,E75,ClusterFileSystem: ServerFileSystem domain root30_domain is no longer served by node node-0,ClusterFileSystem: ServerFileSystem domain root30_domain is no longer served by node node-<*>
+342,E76,ClusterFileSystem: ServerFileSystem domain root26_domain is no longer served by node node-57,ClusterFileSystem: ServerFileSystem domain root26_domain is no longer served by node node-<*>
+343,E77,ClusterFileSystem: ServerFileSystem domain root29_local is no longer served by node node-28,ClusterFileSystem: ServerFileSystem domain root29_local is no longer served by node node-<*>
+344,E78,ClusterFileSystem: ServerFileSystem domain root12_domain is no longer served by node node-11,ClusterFileSystem: ServerFileSystem domain root12_domain is no longer served by node node-<*>
+345,E79,ClusterFileSystem: ServerFileSystem domain root5_domain is no longer served by node node-196,ClusterFileSystem: ServerFileSystem domain root5_domain is no longer served by node node-<*>
+346,E74,ClusterFileSystem: ServerFileSystem domain root28_domain is no longer served by node node-187,ClusterFileSystem: ServerFileSystem domain root28_domain is no longer served by node node-<*>
+347,E80,ClusterFileSystem: ServerFileSystem domain root5_tmp is no longer served by node node-228,ClusterFileSystem: ServerFileSystem domain root5_tmp is no longer served by node node-<*>
+348,E81,ClusterFileSystem: ServerFileSystem domain storage1422 is no longer served by node node-245,ClusterFileSystem: ServerFileSystem domain storage1422 is no longer served by node node-<*>
+349,E82,ClusterFileSystem: ServerFileSystem domain storage343 is no longer served by node node-11,ClusterFileSystem: ServerFileSystem domain storage343 is no longer served by node node-<*>
+350,E83,ClusterFileSystem: ServerFileSystem domain root19_domain is no longer served by node node-114,ClusterFileSystem: ServerFileSystem domain root19_domain is no longer served by node node-<*>
+351,E84,ClusterFileSystem: ServerFileSystem domain root14_local is no longer served by node node-77,ClusterFileSystem: ServerFileSystem domain root14_local is no longer served by node node-<*>
+352,E85,ClusterFileSystem: ServerFileSystem domain root6_domain is no longer served by node node-37,ClusterFileSystem: ServerFileSystem domain root6_domain is no longer served by node node-<*>
+353,E86,ClusterFileSystem: ServerFileSystem domain storage534 is no longer served by node node-18,ClusterFileSystem: ServerFileSystem domain storage534 is no longer served by node node-<*>
+354,E87,ClusterFileSystem: ServerFileSystem domain root12_tmp is no longer served by node node-11,ClusterFileSystem: ServerFileSystem domain root12_tmp is no longer served by node node-<*>
+355,E88,ClusterFileSystem: ServerFileSystem domain root23_local is no longer served by node node-182,ClusterFileSystem: ServerFileSystem domain root23_local is no longer served by node node-<*>
+356,E89,ClusterFileSystem: ServerFileSystem domain root14_tmp is no longer served by node node-45,ClusterFileSystem: ServerFileSystem domain root14_tmp is no longer served by node node-<*>
+357,E90,ClusterFileSystem: ServerFileSystem domain storage211 is no longer served by node node-4,ClusterFileSystem: ServerFileSystem domain storage211 is no longer served by node node-<*>
+358,E91,ClusterFileSystem: ServerFileSystem domain root8_domain is no longer served by node node-167,ClusterFileSystem: ServerFileSystem domain root8_domain is no longer served by node node-<*>
+359,E92,ClusterFileSystem: ServerFileSystem domain root25_local is no longer served by node node-216,ClusterFileSystem: ServerFileSystem domain root25_local is no longer served by node node-<*>
+360,E93,ClusterFileSystem: ServerFileSystem domain cluster_usr_backup is no longer served by node node-160,ClusterFileSystem: ServerFileSystem domain cluster_usr_backup is no longer served by node node-<*>
+361,E70,ClusterFileSystem: ServerFileSystem domain root_domain is no longer served by node node-128,ClusterFileSystem: ServerFileSystem domain root_domain is no longer served by node node-<*>
+362,E94,ClusterFileSystem: ServerFileSystem domain root24_local is no longer served by node node-247,ClusterFileSystem: ServerFileSystem domain root24_local is no longer served by node node-<*>
+363,E95,ClusterFileSystem: ServerFileSystem domain root18_tmp is no longer served by node node-241,ClusterFileSystem: ServerFileSystem domain root18_tmp is no longer served by node node-<*>
+364,E96,ClusterFileSystem: ServerFileSystem domain root17_domain is no longer served by node node-240,ClusterFileSystem: ServerFileSystem domain root17_domain is no longer served by node node-<*>
+365,E97,ClusterFileSystem: ServerFileSystem domain sc_cluster_backup is no longer served by node node-0,ClusterFileSystem: ServerFileSystem domain sc_cluster_backup is no longer served by node node-<*>
+366,E93,ClusterFileSystem: ServerFileSystem domain cluster_usr_backup is no longer served by node node-192,ClusterFileSystem: ServerFileSystem domain cluster_usr_backup is no longer served by node node-<*>
+367,E98,ClusterFileSystem: ServerFileSystem domain cluster_var_backup is no longer served by node node-224,ClusterFileSystem: ServerFileSystem domain cluster_var_backup is no longer served by node node-<*>
+368,E99,ClusterFileSystem: ServerFileSystem domain root1_tmp_backup is no longer served by node node-96,ClusterFileSystem: ServerFileSystem domain root1_tmp_backup is no longer served by node node-<*>
+369,E100,ClusterFileSystem: ServerFileSystem domain root1_domain_backup is no longer served by node node-96,ClusterFileSystem: ServerFileSystem domain root1_domain_backup is no longer served by node node-<*>
+370,E74,ClusterFileSystem: ServerFileSystem domain root28_domain is no longer served by node node-219,ClusterFileSystem: ServerFileSystem domain root28_domain is no longer served by node node-<*>
+371,E101,running,running
+372,E101,running,running
+373,E101,running,running
+374,E101,running,running
+375,E101,running,running
+376,E101,running,running
+377,E101,running,running
+378,E102,blocked,blocked
+379,E102,blocked,blocked
+380,E101,running,running
+381,E101,running,running
+382,E103,not responding,not responding
+383,E103,not responding,not responding
+384,E104,configured out,configured out
+385,E101,running,running
+386,E101,running,running
+387,E101,running,running
+388,E103,not responding,not responding
+389,E103,not responding,not responding
+390,E101,running,running
+391,E103,not responding,not responding
+392,E103,not responding,not responding
+393,E104,configured out,configured out
+394,E103,not responding,not responding
+395,E101,running,running
+396,E101,running,running
+397,E101,running,running
+398,E101,running,running
+399,E103,not responding,not responding
+400,E103,not responding,not responding
+401,E103,not responding,not responding
+402,E105,inconsistent nodesets node-160 0x0001edfe <ok> node-161 0x1001fdfe <ok> node-162 0x1001fdfe <ok> node-163 0x1001fdfe <ok>,inconsistent nodesets node-<*> <*> <ok> node-<*> <*> <ok> node-<*> <*> <ok> node-<*> <*> <ok>
+403,E101,running,running
+404,E101,running,running
+405,E101,running,running
+406,E101,running,running
+407,E101,running,running
+408,E101,running,running
+409,E101,running,running
+410,E104,configured out,configured out
+411,E101,running,running
+412,E106,active,active
+413,E104,configured out,configured out
+414,E101,running,running
+415,E101,running,running
+416,E104,configured out,configured out
+417,E104,configured out,configured out
+418,E104,configured out,configured out
+419,E101,running,running
+420,E104,configured out,configured out
+421,E103,not responding,not responding
+422,E101,running,running
+423,E101,running,running
+424,E104,configured out,configured out
+425,E103,not responding,not responding
+426,E101,running,running
+427,E104,configured out,configured out
+428,E103,not responding,not responding
+429,E105,inconsistent nodesets node-32 0x00000002 <ok> node-34 0x000001fe <ok> node-33 0x000001fe <ok> node-35 0x000001fe <ok>,inconsistent nodesets node-<*> <*> <ok> node-<*> <*> <ok> node-<*> <*> <ok> node-<*> <*> <ok>
+430,E104,configured out,configured out
+431,E103,not responding,not responding
+432,E101,running,running
+433,E104,configured out,configured out
+434,E104,configured out,configured out
+435,E104,configured out,configured out
+436,E103,not responding,not responding
+437,E104,configured out,configured out
+438,E104,configured out,configured out
+439,E101,running,running
+440,E101,running,running
+441,E101,running,running
+442,E104,configured out,configured out
+443,E104,configured out,configured out
+444,E103,not responding,not responding
+445,E103,not responding,not responding
+446,E104,configured out,configured out
+447,E101,running,running
+448,E104,configured out,configured out
+449,E104,configured out,configured out
+450,E101,running,running
+451,E103,not responding,not responding
+452,E106,active,active
+453,E101,running,running
+454,E101,running,running
+455,E104,configured out,configured out
+456,E101,running,running
+457,E104,configured out,configured out
+458,E101,running,running
+459,E101,running,running
+460,E102,blocked,blocked
+461,E103,not responding,not responding
+462,E103,not responding,not responding
+463,E101,running,running
+464,E103,not responding,not responding
+465,E103,not responding,not responding
+466,E103,not responding,not responding
+467,E101,running,running
+468,E101,running,running
+469,E101,running,running
+470,E103,not responding,not responding
+471,E101,running,running
+472,E101,running,running
+473,E104,configured out,configured out
+474,E104,configured out,configured out
+475,E101,running,running
+476,E101,running,running
+477,E103,not responding,not responding
+478,E101,running,running
+479,E101,running,running
+480,E103,not responding,not responding
+481,E104,configured out,configured out
+482,E104,configured out,configured out
+483,E104,configured out,configured out
+484,E104,configured out,configured out
+485,E104,configured out,configured out
+486,E103,not responding,not responding
+487,E103,not responding,not responding
+488,E103,not responding,not responding
+489,E101,running,running
+490,E101,running,running
+491,E104,configured out,configured out
+492,E104,configured out,configured out
+493,E104,configured out,configured out
+494,E104,configured out,configured out
+495,E101,running,running
+496,E101,running,running
+497,E104,configured out,configured out
+498,E101,running,running
+499,E103,not responding,not responding
+500,E103,not responding,not responding
+501,E103,not responding,not responding
+502,E101,running,running
+503,E101,running,running
+504,E104,configured out,configured out
+505,E103,not responding,not responding
+506,E101,running,running
+507,E103,not responding,not responding
+508,E101,running,running
+509,E104,configured out,configured out
+510,E101,running,running
+511,E101,running,running
+512,E103,not responding,not responding
+513,E103,not responding,not responding
+514,E104,configured out,configured out
+515,E104,configured out,configured out
+516,E101,running,running
+517,E101,running,running
+518,E101,running,running
+519,E104,configured out,configured out
+520,E101,running,running
+521,E101,running,running
+522,E104,configured out,configured out
+523,E104,configured out,configured out
+524,E104,configured out,configured out
+525,E101,running,running
+526,E101,running,running
+527,E101,running,running
+528,E102,blocked,blocked
+529,E102,blocked,blocked
+530,E103,not responding,not responding
+531,E101,running,running
+532,E101,running,running
+533,E104,configured out,configured out
+534,E101,running,running
+535,E101,running,running
+536,E101,running,running
+537,E101,running,running
+538,E101,running,running
+539,E104,configured out,configured out
+540,E104,configured out,configured out
+541,E103,not-responding,not responding
+542,E101,running,running
+543,E101,running,running
+544,E106,active,active
+545,E101,running,running
+546,E101,running,running
+547,E101,running,running
+548,E101,running,running
+549,E101,running,running
+550,E101,running,running
+551,E103,not responding,not responding
+552,E104,configured out,configured out
+553,E104,configured out,configured out
+554,E103,not responding,not responding
+555,E101,running,running
+556,E101,running,running
+557,E104,configured out,configured out
+558,E104,configured out,configured out
+559,E101,running,running
+560,E101,running,running
+561,E101,running,running
+562,E104,configured out,configured out
+563,E105,inconsistent nodesets node-1 0x000001fc <ok> node-2 0x000001fc <ok> node-7 0x000001fc <ok> node-4 0x000001fc <ok> node-6 0x000001fc <ok> node-5 0x000001fc <ok> node-3 0x000001fc <ok> node-14 0x0003fdfc <ok> node-13 0x0003fdfc <ok> node-12 0x0003fdfc <ok> node-10 0x0003fdfc <ok> node-16 0x0003fdfc <ok> node-15 0x0003fdfc <ok>,inconsistent nodesets node-<*> <*> <ok> node-<*> <*> <ok> node-<*> <*> <ok> node-<*> <*> <ok>
+564,E104,configured out,configured out
+565,E102,blocked,blocked
+566,E104,configured out,configured out
+567,E101,running,running
+568,E101,running,running
+569,E101,running,running
+570,E104,configured out,configured out
+571,E103,not responding,not responding
+572,E104,configured out,configured out
+573,E103,not responding,not responding
+574,E101,running,running
+575,E106,active,active
+576,E103,not responding,not responding
+577,E104,configured out,configured out
+578,E104,configured out,configured out
+579,E101,running,running
+580,E101,running,running
+581,E104,configured out,configured out
+582,E103,not responding,not responding
+583,E101,running,running
+584,E104,configured out,configured out
+585,E102,blocked,blocked
+586,E101,running,running
+587,E104,configured out,configured out
+588,E103,not responding,not responding
+589,E104,configured out,configured out
+590,E104,configured out,configured out
+591,E104,configured out,configured out
+592,E104,configured out,configured out
+593,E101,running,running
+594,E104,configured out,configured out
+595,E104,configured out,configured out
+596,E101,running,running
+597,E101,running,running
+598,E101,running,running
+599,E101,running,running
+600,E101,running,running
+601,E104,configured out,configured out
+602,E104,configured out,configured out
+603,E101,running,running
+604,E102,blocked,blocked
+605,E104,configured out,configured out
+606,E101,running,running
+607,E101,running,running
+608,E101,running,running
+609,E101,running,running
+610,E102,blocked,blocked
+611,E104,configured out,configured out
+612,E101,running,running
+613,E103,not responding,not responding
+614,E101,running,running
+615,E101,running,running
+616,E101,running,running
+617,E101,running,running
+618,E104,configured out,configured out
+619,E104,configured out,configured out
+620,E103,not responding,not responding
+621,E101,running,running
+622,E101,running,running
+623,E101,running,running
+624,E103,not responding,not responding
+625,E101,running,running
+626,E101,running,running
+627,E103,not responding,not responding
+628,E107,starting,starting
+629,E104,configured out,configured out
+630,E104,configured out,configured out
+631,E104,configured out,configured out
+632,E104,configured out,configured out
+633,E101,running,running
+634,E104,configured out,configured out
+635,E103,not responding,not responding
+636,E103,not responding,not responding
+637,E104,configured out,configured out
+638,E101,running,running
+639,E101,running,running
+640,E104,configured out,configured out
+641,E103,not responding,not responding
+642,E101,running,running
+643,E104,configured out,configured out
+644,E101,running,running
+645,E104,configured out,configured out
+646,E102,blocked,blocked
+647,E101,running,running
+648,E101,running,running
+649,E101,running,running
+650,E101,running,running
+651,E102,blocked,blocked
+652,E101,running,running
+653,E101,running,running
+654,E101,running,running
+655,E104,configured out,configured out
+656,E108,closing,closing
+657,E101,running,running
+658,E101,running,running
+659,E101,running,running
+660,E101,running,running
+661,E101,running,running
+662,E101,running,running
+663,E101,running,running
+664,E101,running,running
+665,E101,running,running
+666,E101,running,running
+667,E101,running,running
+668,E104,configured out,configured out
+669,E103,not responding,not responding
+670,E103,not responding,not responding
+671,E102,blocked,blocked
+672,E101,running,running
+673,E103,not responding,not responding
+674,E101,running,running
+675,E106,active,active
+676,E103,not responding,not responding
+677,E104,configured out,configured out
+678,E103,not responding,not responding
+679,E101,running,running
+680,E101,running,running
+681,E102,blocked,blocked
+682,E101,running,running
+683,E103,not responding,not responding
+684,E103,not responding,not responding
+685,E101,running,running
+686,E101,running,running
+687,E102,blocked,blocked
+688,E103,not responding,not responding
+689,E104,configured out,configured out
+690,E104,configured out,configured out
+691,E101,running,running
+692,E101,running,running
+693,E101,running,running
+694,E104,configured out,configured out
+695,E104,configured out,configured out
+696,E104,configured out,configured out
+697,E101,running,running
+698,E101,running,running
+699,E101,running,running
+700,E105,inconsistent nodesets node-31 0x1fffffffe <ok> node-0 0xfffffffe <ok> node-1 0xfffffffe <ok> node-2 0xfffffffe <ok> node-30 0xfffffffe <ok>,inconsistent nodesets node-<*> <*> <ok> node-<*> <*> <ok> node-<*> <*> <ok> node-<*> <*> <ok>
+701,E104,configured out,configured out
+702,E101,running,running
+703,E102,blocked,blocked
+704,E101,running,running
+705,E103,not responding,not responding
+706,E104,configured out,configured out
+707,E101,running,running
+708,E101,running,running
+709,E101,running,running
+710,E101,running,running
+711,E109,normal,normal
+712,E109,normal,normal
+713,E110,warning,warning
+714,E109,normal,normal
+715,E109,normal,normal
+716,E110,warning,warning
+717,E111,ambient=30,ambient=<*>
+718,E109,normal,normal
+719,E111,ambient=30,ambient=<*>
+720,E109,normal,normal
+721,E109,normal,normal
+722,E112,critical,critical
+723,E109,normal,normal
+724,E109,normal,normal
+725,E112,critical,critical
+726,E109,normal,normal
+727,E111,ambient=31,ambient=<*>
+728,E109,normal,normal
+729,E109,normal,normal
+730,E111,ambient=30,ambient=<*>
+731,E111,ambient=29,ambient=<*>
+732,E109,normal,normal
+733,E111,ambient=26,ambient=<*>
+734,E111,ambient=30,ambient=<*>
+735,E110,warning,warning
+736,E112,critical,critical
+737,E109,normal,normal
+738,E111,ambient=32,ambient=<*>
+739,E111,ambient=29,ambient=<*>
+740,E109,normal,normal
+741,E111,ambient=33,ambient=<*>
+742,E111,ambient=28,ambient=<*>
+743,E111,ambient=31,ambient=<*>
+744,E111,ambient=33,ambient=<*>
+745,E109,normal,normal
+746,E110,warning,warning
+747,E110,warning,warning
+748,E110,warning,warning
+749,E111,ambient=31,ambient=<*>
+750,E110,warning,warning
+751,E109,normal,normal
+752,E111,ambient=30,ambient=<*>
+753,E111,ambient=30,ambient=<*>
+754,E109,normal,normal
+755,E111,ambient=31,ambient=<*>
+756,E110,warning,warning
+757,E110,warning,warning
+758,E109,normal,normal
+759,E110,warning,warning
+760,E109,normal,normal
+761,E111,ambient=31,ambient=<*>
+762,E110,warning,warning
+763,E111,ambient=26,ambient=<*>
+764,E111,ambient=31,ambient=<*>
+765,E109,normal,normal
+766,E110,warning,warning
+767,E109,normal,normal
+768,E111,ambient=29,ambient=<*>
+769,E110,warning,warning
+770,E110,warning,warning
+771,E110,warning,warning
+772,E111,ambient=27,ambient=<*>
+773,E111,ambient=30,ambient=<*>
+774,E111,ambient=26,ambient=<*>
+775,E110,warning,warning
+776,E110,warning,warning
+777,E109,normal,normal
+778,E110,warning,warning
+779,E109,normal,normal
+780,E109,normal,normal
+781,E109,normal,normal
+782,E109,normal,normal
+783,E110,warning,warning
+784,E110,warning,warning
+785,E109,normal,normal
+786,E110,warning,warning
+787,E109,normal,normal
+788,E109,normal,normal
+789,E109,normal,normal
+790,E111,ambient=34,ambient=<*>
+791,E110,warning,warning
+792,E110,warning,warning
+793,E109,normal,normal
+794,E110,warning,warning
+795,E109,normal,normal
+796,E110,warning,warning
+797,E111,ambient=31,ambient=<*>
+798,E109,normal,normal
+799,E110,warning,warning
+800,E110,warning,warning
+801,E110,warning,warning
+802,E111,ambient=32,ambient=<*>
+803,E109,normal,normal
+804,E111,ambient=33,ambient=<*>
+805,E110,warning,warning
+806,E110,warning,warning
+807,E110,warning,warning
+808,E110,warning,warning
+809,E111,ambient=35,ambient=<*>
+810,E111,ambient=31,ambient=<*>
+811,E111,ambient=31,ambient=<*>
+812,E111,ambient=31,ambient=<*>
+813,E111,ambient=30,ambient=<*>
+814,E111,ambient=31,ambient=<*>
+815,E111,ambient=29,ambient=<*>
+816,E110,warning,warning
+817,E109,normal,normal
+818,E111,ambient=26,ambient=<*>
+819,E109,normal,normal
+820,E110,warning,warning
+821,E109,normal,normal
+822,E111,ambient=33,ambient=<*>
+823,E109,normal,normal
+824,E111,ambient=31,ambient=<*>
+825,E110,warning,warning
+826,E112,critical,critical
+827,E111,ambient=34,ambient=<*>
+828,E111,ambient=35,ambient=<*>
+829,E111,ambient=30,ambient=<*>
+830,E110,warning,warning
+831,E111,ambient=35,ambient=<*>
+832,E111,ambient=33,ambient=<*>
+833,E111,ambient=33,ambient=<*>
+834,E109,normal,normal
+835,E111,ambient=30,ambient=<*>
+836,E111,ambient=28,ambient=<*>
+837,E111,ambient=27,ambient=<*>
+838,E110,warning,warning
+839,E110,warning,warning
+840,E109,normal,normal
+841,E109,normal,normal
+842,E110,warning,warning
+843,E111,ambient=32,ambient=<*>
+844,E111,ambient=31,ambient=<*>
+845,E111,ambient=35,ambient=<*>
+846,E111,ambient=32,ambient=<*>
+847,E111,ambient=28,ambient=<*>
+848,E110,warning,warning
+849,E111,ambient=30,ambient=<*>
+850,E109,normal,normal
+851,E110,warning,warning
+852,E109,normal,normal
+853,E109,normal,normal
+854,E109,normal,normal
+855,E109,normal,normal
+856,E111,ambient=31,ambient=<*>
+857,E109,normal,normal
+858,E111,ambient=31,ambient=<*>
+859,E110,warning,warning
+860,E109,normal,normal
+861,E110,warning,warning
+862,E110,warning,warning
+863,E110,warning,warning
+864,E110,warning,warning
+865,E111,ambient=29,ambient=<*>
+866,E110,warning,warning
+867,E109,normal,normal
+868,E110,warning,warning
+869,E110,warning,warning
+870,E109,normal,normal
+871,E109,normal,normal
+872,E110,warning,warning
+873,E109,normal,normal
+874,E110,warning,warning
+875,E109,normal,normal
+876,E109,normal,normal
+877,E109,normal,normal
+878,E110,warning,warning
+879,E110,warning,warning
+880,E109,normal,normal
+881,E109,normal,normal
+882,E110,warning,warning
+883,E110,warning,warning
+884,E110,warning,warning
+885,E110,warning,warning
+886,E111,ambient=29,ambient=<*>
+887,E109,normal,normal
+888,E109,normal,normal
+889,E111,ambient=30,ambient=<*>
+890,E111,ambient=30,ambient=<*>
+891,E111,ambient=33,ambient=<*>
+892,E111,ambient=32,ambient=<*>
+893,E109,normal,normal
+894,E111,ambient=27,ambient=<*>
+895,E110,warning,warning
+896,E109,normal,normal
+897,E109,normal,normal
+898,E111,ambient=32,ambient=<*>
+899,E109,normal,normal
+900,E110,warning,warning
+901,E111,ambient=33,ambient=<*>
+902,E110,warning,warning
+903,E109,normal,normal
+904,E109,normal,normal
+905,E109,normal,normal
+906,E110,warning,warning
+907,E111,ambient=29,ambient=<*>
+908,E110,warning,warning
+909,E110,warning,warning
+910,E109,normal,normal
+911,E110,warning,warning
+912,E111,ambient=32,ambient=<*>
+913,E111,ambient=29,ambient=<*>
+914,E109,normal,normal
+915,E111,ambient=36,ambient=<*>
+916,E111,ambient=29,ambient=<*>
+917,E111,ambient=30,ambient=<*>
+918,E110,warning,warning
+919,E111,ambient=29,ambient=<*>
+920,E109,normal,normal
+921,E111,ambient=32,ambient=<*>
+922,E111,ambient=30,ambient=<*>
+923,E111,ambient=32,ambient=<*>
+924,E111,ambient=30,ambient=<*>
+925,E111,ambient=33,ambient=<*>
+926,E111,ambient=31,ambient=<*>
+927,E109,normal,normal
+928,E111,ambient=33,ambient=<*>
+929,E109,normal,normal
+930,E111,ambient=33,ambient=<*>
+931,E111,ambient=31,ambient=<*>
+932,E111,ambient=33,ambient=<*>
+933,E112,critical,critical
+934,E109,normal,normal
+935,E111,ambient=27,ambient=<*>
+936,E109,normal,normal
+937,E111,ambient=33,ambient=<*>
+938,E109,normal,normal
+939,E111,ambient=33,ambient=<*>
+940,E109,normal,normal
+941,E110,warning,warning
+942,E109,normal,normal
+943,E110,warning,warning
+944,E109,normal,normal
+945,E111,ambient=29,ambient=<*>
+946,E111,ambient=33,ambient=<*>
+947,E111,ambient=36,ambient=<*>
+948,E111,ambient=30,ambient=<*>
+949,E109,normal,normal
+950,E110,warning,warning
+951,E110,warning,warning
+952,E111,ambient=28,ambient=<*>
+953,E111,ambient=26,ambient=<*>
+954,E110,warning,warning
+955,E109,normal,normal
+956,E111,ambient=29,ambient=<*>
+957,E109,normal,normal
+958,E111,ambient=25,ambient=<*>
+959,E111,ambient=29,ambient=<*>
+960,E110,warning,warning
+961,E110,warning,warning
+962,E110,warning,warning
+963,E110,warning,warning
+964,E110,warning,warning
+965,E109,normal,normal
+966,E110,warning,warning
+967,E111,ambient=34,ambient=<*>
+968,E111,ambient=28,ambient=<*>
+969,E111,ambient=27,ambient=<*>
+970,E109,normal,normal
+971,E110,warning,warning
+972,E109,normal,normal
+973,E110,warning,warning
+974,E110,warning,warning
+975,E109,normal,normal
+976,E110,warning,warning
+977,E109,normal,normal
+978,E110,warning,warning
+979,E110,warning,warning
+980,E109,normal,normal
+981,E110,warning,warning
+982,E109,normal,normal
+983,E111,ambient=27,ambient=<*>
+984,E109,normal,normal
+985,E111,ambient=33,ambient=<*>
+986,E111,ambient=27,ambient=<*>
+987,E110,warning,warning
+988,E111,ambient=30,ambient=<*>
+989,E111,ambient=33,ambient=<*>
+990,E111,ambient=27,ambient=<*>
+991,E109,normal,normal
+992,E111,ambient=27,ambient=<*>
+993,E109,normal,normal
+994,E109,normal,normal
+995,E110,warning,warning
+996,E110,warning,warning
+997,E109,normal,normal
+998,E109,normal,normal
+999,E109,normal,normal
+1000,E110,warning,warning
+1001,E110,warning,warning
+1002,E110,warning,warning
+1003,E110,warning,warning
+1004,E109,normal,normal
+1005,E110,warning,warning
+1006,E109,normal,normal
+1007,E110,warning,warning
+1008,E111,ambient=27,ambient=<*>
+1009,E109,normal,normal
+1010,E109,normal,normal
+1011,E110,warning,warning
+1012,E109,normal,normal
+1013,E109,normal,normal
+1014,E110,warning,warning
+1015,E110,warning,warning
+1016,E110,warning,warning
+1017,E110,warning,warning
+1018,E109,normal,normal
+1019,E109,normal,normal
+1020,E109,normal,normal
+1021,E109,normal,normal
+1022,E111,ambient=26,ambient=<*>
+1023,E109,normal,normal
+1024,E109,normal,normal
+1025,E109,normal,normal
+1026,E109,normal,normal
+1027,E109,normal,normal
+1028,E110,warning,warning
+1029,E112,critical,critical
+1030,E110,warning,warning
+1031,E110,warning,warning
+1032,E110,warning,warning
+1033,E110,warning,warning
+1034,E111,ambient=29,ambient=<*>
+1035,E110,warning,warning
+1036,E109,normal,normal
+1037,E111,ambient=28,ambient=<*>
+1038,E109,normal,normal
+1039,E109,normal,normal
+1040,E109,normal,normal
+1041,E110,warning,warning
+1042,E109,normal,normal
+1043,E111,ambient=28,ambient=<*>
+1044,E110,warning,warning
+1045,E109,normal,normal
+1046,E110,warning,warning
+1047,E109,normal,normal
+1048,E109,normal,normal
+1049,E111,ambient=26,ambient=<*>
+1050,E109,normal,normal
+1051,E109,normal,normal
+1052,E110,warning,warning
+1053,E110,warning,warning
+1054,E110,warning,warning
+1055,E110,warning,warning
+1056,E109,normal,normal
+1057,E110,warning,warning
+1058,E111,ambient=35,ambient=<*>
+1059,E111,ambient=33,ambient=<*>
+1060,E111,ambient=32,ambient=<*>
+1061,E111,ambient=31,ambient=<*>
+1062,E111,ambient=31,ambient=<*>
+1063,E112,critical,critical
+1064,E110,warning,warning
+1065,E110,warning,warning
+1066,E109,normal,normal
+1067,E110,warning,warning
+1068,E110,warning,warning
+1069,E110,warning,warning
+1070,E111,ambient=27,ambient=<*>
+1071,E109,normal,normal
+1072,E111,ambient=33,ambient=<*>
+1073,E109,normal,normal
+1074,E109,normal,normal
+1075,E109,normal,normal
+1076,E110,warning,warning
+1077,E111,ambient=32,ambient=<*>
+1078,E110,warning,warning
+1079,E111,ambient=30,ambient=<*>
+1080,E109,normal,normal
+1081,E110,warning,warning
+1082,E110,warning,warning
+1083,E110,warning,warning
+1084,E109,normal,normal
+1085,E112,critical,critical
+1086,E110,warning,warning
+1087,E110,warning,warning
+1088,E110,warning,warning
+1089,E112,critical,critical
+1090,E111,ambient=34,ambient=<*>
+1091,E110,warning,warning
+1092,E111,ambient=27,ambient=<*>
+1093,E109,normal,normal
+1094,E110,warning,warning
+1095,E111,ambient=23,ambient=<*>
+1096,E109,normal,normal
+1097,E110,warning,warning
+1098,E109,normal,normal
+1099,E111,ambient=29,ambient=<*>
+1100,E109,normal,normal
+1101,E111,ambient=28,ambient=<*>
+1102,E111,ambient=26,ambient=<*>
+1103,E109,normal,normal
+1104,E111,ambient=28,ambient=<*>
+1105,E111,ambient=25,ambient=<*>
+1106,E111,ambient=24,ambient=<*>
+1107,E110,warning,warning
+1108,E111,ambient=34,ambient=<*>
+1109,E111,ambient=31,ambient=<*>
+1110,E112,critical,critical
+1111,E109,normal,normal
+1112,E111,ambient=28,ambient=<*>
+1113,E111,ambient=30,ambient=<*>
+1114,E111,ambient=33,ambient=<*>
+1115,E111,ambient=31,ambient=<*>
+1116,E111,ambient=31,ambient=<*>
+1117,E111,ambient=33,ambient=<*>
+1118,E111,ambient=32,ambient=<*>
+1119,E111,ambient=27,ambient=<*>
+1120,E111,ambient=29,ambient=<*>
+1121,E110,warning,warning
+1122,E112,critical,critical
+1123,E109,normal,normal
+1124,E110,warning,warning
+1125,E109,normal,normal
+1126,E110,warning,warning
+1127,E109,normal,normal
+1128,E109,normal,normal
+1129,E109,normal,normal
+1130,E109,normal,normal
+1131,E110,warning,warning
+1132,E109,normal,normal
+1133,E109,normal,normal
+1134,E109,normal,normal
+1135,E109,normal,normal
+1136,E110,warning,warning
+1137,E109,normal,normal
+1138,E109,normal,normal
+1139,E109,normal,normal
+1140,E110,warning,warning
+1141,E109,normal,normal
+1142,E110,warning,warning
+1143,E112,critical,critical
+1144,E109,normal,normal
+1145,E110,warning,warning
+1146,E110,warning,warning
+1147,E110,warning,warning
+1148,E112,critical,critical
+1149,E110,warning,warning
+1150,E109,normal,normal
+1151,E110,warning,warning
+1152,E111,ambient=25,ambient=<*>
+1153,E110,warning,warning
+1154,E110,warning,warning
+1155,E110,warning,warning
+1156,E111,ambient=28,ambient=<*>
+1157,E111,ambient=33,ambient=<*>
+1158,E111,ambient=33,ambient=<*>
+1159,E111,ambient=36,ambient=<*>
+1160,E111,ambient=36,ambient=<*>
+1161,E111,ambient=28,ambient=<*>
+1162,E110,warning,warning
+1163,E112,critical,critical
+1164,E111,ambient=35,ambient=<*>
+1165,E109,normal,normal
+1166,E110,warning,warning
+1167,E111,ambient=29,ambient=<*>
+1168,E110,warning,warning
+1169,E110,warning,warning
+1170,E110,warning,warning
+1171,E110,warning,warning
+1172,E109,normal,normal
+1173,E111,ambient=25,ambient=<*>
+1174,E109,normal,normal
+1175,E109,normal,normal
+1176,E111,ambient=34,ambient=<*>
+1177,E111,ambient=35,ambient=<*>
+1178,E111,ambient=36,ambient=<*>
+1179,E111,ambient=35,ambient=<*>
+1180,E110,warning,warning
+1181,E110,warning,warning
+1182,E110,warning,warning
+1183,E110,warning,warning
+1184,E109,normal,normal
+1185,E110,warning,warning
+1186,E111,ambient=27,ambient=<*>
+1187,E110,warning,warning
+1188,E111,ambient=29,ambient=<*>
+1189,E111,ambient=26,ambient=<*>
+1190,E111,ambient=26,ambient=<*>
+1191,E111,ambient=30,ambient=<*>
+1192,E110,warning,warning
+1193,E109,normal,normal
+1194,E110,warning,warning
+1195,E109,normal,normal
+1196,E109,normal,normal
+1197,E110,warning,warning
+1198,E110,warning,warning
+1199,E110,warning,warning
+1200,E110,warning,warning
+1201,E109,normal,normal
+1202,E110,warning,warning
+1203,E110,warning,warning
+1204,E109,normal,normal
+1205,E109,normal,normal
+1206,E111,ambient=24,ambient=<*>
+1207,E109,normal,normal
+1208,E111,ambient=30,ambient=<*>
+1209,E111,ambient=31,ambient=<*>
+1210,E111,ambient=33,ambient=<*>
+1211,E111,ambient=31,ambient=<*>
+1212,E109,normal,normal
+1213,E110,warning,warning
+1214,E109,normal,normal
+1215,E110,warning,warning
+1216,E110,warning,warning
+1217,E110,warning,warning
+1218,E111,ambient=27,ambient=<*>
+1219,E109,normal,normal
+1220,E111,ambient=29,ambient=<*>
+1221,E111,ambient=31,ambient=<*>
+1222,E109,normal,normal
+1223,E110,warning,warning
+1224,E110,warning,warning
+1225,E110,warning,warning
+1226,E111,ambient=30,ambient=<*>
+1227,E111,ambient=32,ambient=<*>
+1228,E110,warning,warning
+1229,E111,ambient=29,ambient=<*>
+1230,E109,normal,normal
+1231,E111,ambient=24,ambient=<*>
+1232,E111,ambient=30,ambient=<*>
+1233,E110,warning,warning
+1234,E111,ambient=28,ambient=<*>
+1235,E111,ambient=34,ambient=<*>
+1236,E111,ambient=25,ambient=<*>
+1237,E111,ambient=26,ambient=<*>
+1238,E111,ambient=25,ambient=<*>
+1239,E111,ambient=25,ambient=<*>
+1240,E111,ambient=25,ambient=<*>
+1241,E111,ambient=27,ambient=<*>
+1242,E111,ambient=30,ambient=<*>
+1243,E110,warning,warning
+1244,E111,ambient=31,ambient=<*>
+1245,E111,ambient=29,ambient=<*>
+1246,E110,warning,warning
+1247,E110,warning,warning
+1248,E111,ambient=28,ambient=<*>
+1249,E111,ambient=28,ambient=<*>
+1250,E109,normal,normal
+1251,E109,normal,normal
+1252,E111,ambient=25,ambient=<*>
+1253,E111,ambient=30,ambient=<*>
+1254,E111,ambient=30,ambient=<*>
+1255,E111,ambient=26,ambient=<*>
+1256,E110,warning,warning
+1257,E111,ambient=25,ambient=<*>
+1258,E110,warning,warning
+1259,E111,ambient=29,ambient=<*>
+1260,E109,normal,normal
+1261,E111,ambient=29,ambient=<*>
+1262,E111,ambient=27,ambient=<*>
+1263,E110,warning,warning
+1264,E111,ambient=26,ambient=<*>
+1265,E109,normal,normal
+1266,E109,normal,normal
+1267,E110,warning,warning
+1268,E111,ambient=25,ambient=<*>
+1269,E110,warning,warning
+1270,E109,normal,normal
+1271,E111,ambient=28,ambient=<*>
+1272,E111,ambient=29,ambient=<*>
+1273,E111,ambient=28,ambient=<*>
+1274,E109,normal,normal
+1275,E111,ambient=30,ambient=<*>
+1276,E111,ambient=30,ambient=<*>
+1277,E111,ambient=27,ambient=<*>
+1278,E109,normal,normal
+1279,E111,ambient=28,ambient=<*>
+1280,E110,warning,warning
+1281,E109,normal,normal
+1282,E111,ambient=30,ambient=<*>
+1283,E109,normal,normal
+1284,E109,normal,normal
+1285,E111,ambient=30,ambient=<*>
+1286,E111,ambient=27,ambient=<*>
+1287,E110,warning,warning
+1288,E111,ambient=26,ambient=<*>
+1289,E111,ambient=27,ambient=<*>
+1290,E111,ambient=24,ambient=<*>
+1291,E109,normal,normal
+1292,E111,ambient=26,ambient=<*>
+1293,E111,ambient=31,ambient=<*>
+1294,E110,warning,warning
+1295,E110,warning,warning
+1296,E111,ambient=29,ambient=<*>
+1297,E111,ambient=29,ambient=<*>
+1298,E110,warning,warning
+1299,E111,ambient=27,ambient=<*>
+1300,E109,normal,normal
+1301,E111,ambient=33,ambient=<*>
+1302,E111,ambient=30,ambient=<*>
+1303,E111,ambient=29,ambient=<*>
+1304,E111,ambient=33,ambient=<*>
+1305,E109,normal,normal
+1306,E111,ambient=29,ambient=<*>
+1307,E110,warning,warning
+1308,E111,ambient=30,ambient=<*>
+1309,E111,ambient=29,ambient=<*>
+1310,E111,ambient=28,ambient=<*>
+1311,E111,ambient=32,ambient=<*>
+1312,E110,warning,warning
+1313,E111,ambient=28,ambient=<*>
+1314,E111,ambient=28,ambient=<*>
+1315,E110,warning,warning
+1316,E109,normal,normal
+1317,E109,normal,normal
+1318,E110,warning,warning
+1319,E111,ambient=29,ambient=<*>
+1320,E111,ambient=30,ambient=<*>
+1321,E111,ambient=31,ambient=<*>
+1322,E111,ambient=31,ambient=<*>
+1323,E111,ambient=34,ambient=<*>
+1324,E110,warning,warning
+1325,E111,ambient=36,ambient=<*>
+1326,E111,ambient=33,ambient=<*>
+1327,E111,ambient=25,ambient=<*>
+1328,E111,ambient=36,ambient=<*>
+1329,E111,ambient=33,ambient=<*>
+1330,E111,ambient=25,ambient=<*>
+1331,E109,normal,normal
+1332,E109,normal,normal
+1333,E109,normal,normal
+1334,E110,warning,warning
+1335,E111,ambient=30,ambient=<*>
+1336,E109,normal,normal
+1337,E109,normal,normal
+1338,E111,ambient=33,ambient=<*>
+1339,E111,ambient=37,ambient=<*>
+1340,E110,warning,warning
+1341,E111,ambient=27,ambient=<*>
+1342,E111,ambient=30,ambient=<*>
+1343,E111,ambient=35,ambient=<*>
+1344,E111,ambient=27,ambient=<*>
+1345,E111,ambient=29,ambient=<*>
+1346,E110,warning,warning
+1347,E109,normal,normal
+1348,E111,ambient=28,ambient=<*>
+1349,E109,normal,normal
+1350,E111,ambient=28,ambient=<*>
+1351,E111,ambient=27,ambient=<*>
+1352,E111,ambient=26,ambient=<*>
+1353,E111,ambient=25,ambient=<*>
+1354,E111,ambient=30,ambient=<*>
+1355,E111,ambient=35,ambient=<*>
+1356,E111,ambient=32,ambient=<*>
+1357,E111,ambient=29,ambient=<*>
+1358,E111,ambient=35,ambient=<*>
+1359,E112,critical,critical
+1360,E111,ambient=27,ambient=<*>
+1361,E111,ambient=29,ambient=<*>
+1362,E111,ambient=28,ambient=<*>
+1363,E111,ambient=28,ambient=<*>
+1364,E111,ambient=25,ambient=<*>
+1365,E111,ambient=25,ambient=<*>
+1366,E111,ambient=27,ambient=<*>
+1367,E111,ambient=30,ambient=<*>
+1368,E111,ambient=28,ambient=<*>
+1369,E112,critical,critical
+1370,E111,ambient=25,ambient=<*>
+1371,E109,normal,normal
+1372,E111,ambient=27,ambient=<*>
+1373,E109,normal,normal
+1374,E111,ambient=25,ambient=<*>
+1375,E111,ambient=28,ambient=<*>
+1376,E111,ambient=33,ambient=<*>
+1377,E111,ambient=36,ambient=<*>
+1378,E111,ambient=30,ambient=<*>
+1379,E111,ambient=36,ambient=<*>
+1380,E111,ambient=33,ambient=<*>
+1381,E109,normal,normal
+1382,E111,ambient=31,ambient=<*>
+1383,E109,normal,normal
+1384,E111,ambient=27,ambient=<*>
+1385,E111,ambient=26,ambient=<*>
+1386,E110,warning,warning
+1387,E112,critical,critical
+1388,E109,normal,normal
+1389,E109,normal,normal
+1390,E111,ambient=33,ambient=<*>
+1391,E110,warning,warning
+1392,E109,normal,normal
+1393,E111,ambient=36,ambient=<*>
+1394,E111,ambient=33,ambient=<*>
+1395,E109,normal,normal
+1396,E111,ambient=26,ambient=<*>
+1397,E111,ambient=25,ambient=<*>
+1398,E111,ambient=27,ambient=<*>
+1399,E111,ambient=31,ambient=<*>
+1400,E111,ambient=25,ambient=<*>
+1401,E111,ambient=28,ambient=<*>
+1402,E110,warning,warning
+1403,E109,normal,normal
+1404,E111,ambient=32,ambient=<*>
+1405,E111,ambient=33,ambient=<*>
+1406,E111,ambient=28,ambient=<*>
+1407,E111,ambient=31,ambient=<*>
+1408,E112,critical,critical
+1409,E109,normal,normal
+1410,E111,ambient=30,ambient=<*>
+1411,E111,ambient=29,ambient=<*>
+1412,E111,ambient=30,ambient=<*>
+1413,E109,normal,normal
+1414,E109,normal,normal
+1415,E109,normal,normal
+1416,E110,warning,warning
+1417,E110,warning,warning
+1418,E111,ambient=27,ambient=<*>
+1419,E109,normal,normal
+1420,E112,critical,critical
+1421,E110,warning,warning
+1422,E110,warning,warning
+1423,E109,normal,normal
+1424,E110,warning,warning
+1425,E109,normal,normal
+1426,E110,warning,warning
+1427,E111,ambient=28,ambient=<*>
+1428,E111,ambient=26,ambient=<*>
+1429,E111,ambient=34,ambient=<*>
+1430,E110,warning,warning
+1431,E110,warning,warning
+1432,E112,critical,critical
+1433,E110,warning,warning
+1434,E56,Link ok,Link ok
+1435,E56,Link ok,Link ok
+1436,E56,Link ok,Link ok
+1437,E56,Link ok,Link ok
+1438,E54,Link error,Link error
+1439,E54,Link error,Link error
+1440,E55,Link in reset,Link in reset
+1441,E56,Link ok,Link ok
+1442,E56,Link ok,Link ok
+1443,E55,Link in reset,Link in reset
+1444,E56,Link ok,Link ok
+1445,E54,Link error,Link error
+1446,E56,Link ok,Link ok
+1447,E56,Link ok,Link ok
+1448,E56,Link ok,Link ok
+1449,E54,Link error,Link error
+1450,E55,Link in reset,Link in reset
+1451,E56,Link ok,Link ok
+1452,E56,Link ok,Link ok
+1453,E55,Link in reset,Link in reset
+1454,E55,Link in reset,Link in reset
+1455,E55,Link in reset,Link in reset
+1456,E55,Link in reset,Link in reset
+1457,E113,Linkerror event interval expired,Linkerror event interval expired
+1458,E113,Linkerror event interval expired,Linkerror event interval expired
+1459,E114,risBoot (command 1903) Error: Timed out while waiting for SRM prompt: <ABORT code completed>,risBoot (command <*>) Error: Timed out while waiting for SRM prompt: <ABORT code completed>
+1460,E113,Linkerror event interval expired,Linkerror event interval expired
+1461,E113,Linkerror event interval expired,Linkerror event interval expired
+1462,E113,Linkerror event interval expired,Linkerror event interval expired
+1463,E113,Linkerror event interval expired,Linkerror event interval expired
+1464,E113,Linkerror event interval expired,Linkerror event interval expired
+1465,E113,Linkerror event interval expired,Linkerror event interval expired
+1466,E113,Linkerror event interval expired,Linkerror event interval expired
+1467,E113,Linkerror event interval expired,Linkerror event interval expired
+1468,E113,Linkerror event interval expired,Linkerror event interval expired
+1469,E113,Linkerror event interval expired,Linkerror event interval expired
+1470,E113,Linkerror event interval expired,Linkerror event interval expired
+1471,E113,Linkerror event interval expired,Linkerror event interval expired
+1472,E113,Linkerror event interval expired,Linkerror event interval expired
+1473,E113,Linkerror event interval expired,Linkerror event interval expired
+1474,E113,Linkerror event interval expired,Linkerror event interval expired
+1475,E113,Linkerror event interval expired,Linkerror event interval expired
+1476,E113,Linkerror event interval expired,Linkerror event interval expired
+1477,E113,Linkerror event interval expired,Linkerror event interval expired
+1478,E113,Linkerror event interval expired,Linkerror event interval expired
+1479,E113,Linkerror event interval expired,Linkerror event interval expired
+1480,E113,Linkerror event interval expired,Linkerror event interval expired
+1481,E113,Linkerror event interval expired,Linkerror event interval expired
+1482,E113,Linkerror event interval expired,Linkerror event interval expired
+1483,E113,Linkerror event interval expired,Linkerror event interval expired
+1484,E113,Linkerror event interval expired,Linkerror event interval expired
+1485,E113,Linkerror event interval expired,Linkerror event interval expired
+1486,E113,Linkerror event interval expired,Linkerror event interval expired
+1487,E113,Linkerror event interval expired,Linkerror event interval expired
+1488,E113,Linkerror event interval expired,Linkerror event interval expired
+1489,E113,Linkerror event interval expired,Linkerror event interval expired
+1490,E113,Linkerror event interval expired,Linkerror event interval expired
+1491,E113,Linkerror event interval expired,Linkerror event interval expired
+1492,E113,Linkerror event interval expired,Linkerror event interval expired
+1493,E113,Linkerror event interval expired,Linkerror event interval expired
+1494,E113,Linkerror event interval expired,Linkerror event interval expired
+1495,E113,Linkerror event interval expired,Linkerror event interval expired
+1496,E113,Linkerror event interval expired,Linkerror event interval expired
+1497,E113,Linkerror event interval expired,Linkerror event interval expired
+1498,E113,Linkerror event interval expired,Linkerror event interval expired
+1499,E113,Linkerror event interval expired,Linkerror event interval expired
+1500,E113,Linkerror event interval expired,Linkerror event interval expired
+1501,E113,Linkerror event interval expired,Linkerror event interval expired
+1502,E113,Linkerror event interval expired,Linkerror event interval expired
+1503,E113,Linkerror event interval expired,Linkerror event interval expired
+1504,E113,Linkerror event interval expired,Linkerror event interval expired
+1505,E113,Linkerror event interval expired,Linkerror event interval expired
+1506,E113,Linkerror event interval expired,Linkerror event interval expired
+1507,E113,Linkerror event interval expired,Linkerror event interval expired
+1508,E113,Linkerror event interval expired,Linkerror event interval expired
+1509,E113,Linkerror event interval expired,Linkerror event interval expired
+1510,E113,Linkerror event interval expired,Linkerror event interval expired
+1511,E113,Linkerror event interval expired,Linkerror event interval expired
+1512,E113,Linkerror event interval expired,Linkerror event interval expired
+1513,E113,Linkerror event interval expired,Linkerror event interval expired
+1514,E113,Linkerror event interval expired,Linkerror event interval expired
+1515,E113,Linkerror event interval expired,Linkerror event interval expired
+1516,E113,Linkerror event interval expired,Linkerror event interval expired
+1517,E113,Linkerror event interval expired,Linkerror event interval expired
+1518,E113,Linkerror event interval expired,Linkerror event interval expired
+1519,E113,Linkerror event interval expired,Linkerror event interval expired
+1520,E113,Linkerror event interval expired,Linkerror event interval expired
+1521,E113,Linkerror event interval expired,Linkerror event interval expired
+1522,E113,Linkerror event interval expired,Linkerror event interval expired
+1523,E113,Linkerror event interval expired,Linkerror event interval expired
+1524,E113,Linkerror event interval expired,Linkerror event interval expired
+1525,E113,Linkerror event interval expired,Linkerror event interval expired
+1526,E113,Linkerror event interval expired,Linkerror event interval expired
+1527,E113,Linkerror event interval expired,Linkerror event interval expired
+1528,E113,Linkerror event interval expired,Linkerror event interval expired
+1529,E113,Linkerror event interval expired,Linkerror event interval expired
+1530,E113,Linkerror event interval expired,Linkerror event interval expired
+1531,E113,Linkerror event interval expired,Linkerror event interval expired
+1532,E113,Linkerror event interval expired,Linkerror event interval expired
+1533,E113,Linkerror event interval expired,Linkerror event interval expired
+1534,E113,Linkerror event interval expired,Linkerror event interval expired
+1535,E113,Linkerror event interval expired,Linkerror event interval expired
+1536,E113,Linkerror event interval expired,Linkerror event interval expired
+1537,E113,Linkerror event interval expired,Linkerror event interval expired
+1538,E113,Linkerror event interval expired,Linkerror event interval expired
+1539,E113,Linkerror event interval expired,Linkerror event interval expired
+1540,E113,Linkerror event interval expired,Linkerror event interval expired
+1541,E113,Linkerror event interval expired,Linkerror event interval expired
+1542,E115,boot (command 2092) Error: HALT asserted\  cannot continue,boot (command <*>) Error: HALT asserted\ cannot continue
+1543,E113,Linkerror event interval expired,Linkerror event interval expired
+1544,E113,Linkerror event interval expired,Linkerror event interval expired
+1545,E113,Linkerror event interval expired,Linkerror event interval expired
+1546,E113,Linkerror event interval expired,Linkerror event interval expired
+1547,E113,Linkerror event interval expired,Linkerror event interval expired
+1548,E113,Linkerror event interval expired,Linkerror event interval expired
+1549,E113,Linkerror event interval expired,Linkerror event interval expired
+1550,E113,Linkerror event interval expired,Linkerror event interval expired
+1551,E113,Linkerror event interval expired,Linkerror event interval expired
+1552,E113,Linkerror event interval expired,Linkerror event interval expired
+1553,E113,Linkerror event interval expired,Linkerror event interval expired
+1554,E113,Linkerror event interval expired,Linkerror event interval expired
+1555,E113,Linkerror event interval expired,Linkerror event interval expired
+1556,E113,Linkerror event interval expired,Linkerror event interval expired
+1557,E113,Linkerror event interval expired,Linkerror event interval expired
+1558,E113,Linkerror event interval expired,Linkerror event interval expired
+1559,E113,Linkerror event interval expired,Linkerror event interval expired
+1560,E113,Linkerror event interval expired,Linkerror event interval expired
+1561,E113,Linkerror event interval expired,Linkerror event interval expired
+1562,E113,Linkerror event interval expired,Linkerror event interval expired
+1563,E113,Linkerror event interval expired,Linkerror event interval expired
+1564,E113,Linkerror event interval expired,Linkerror event interval expired
+1565,E113,Linkerror event interval expired,Linkerror event interval expired
+1566,E113,Linkerror event interval expired,Linkerror event interval expired
+1567,E113,Linkerror event interval expired,Linkerror event interval expired
+1568,E113,Linkerror event interval expired,Linkerror event interval expired
+1569,E113,Linkerror event interval expired,Linkerror event interval expired
+1570,E113,Linkerror event interval expired,Linkerror event interval expired
+1571,E113,Linkerror event interval expired,Linkerror event interval expired
+1572,E113,Linkerror event interval expired,Linkerror event interval expired
+1573,E113,Linkerror event interval expired,Linkerror event interval expired
+1574,E113,Linkerror event interval expired,Linkerror event interval expired
+1575,E113,Linkerror event interval expired,Linkerror event interval expired
+1576,E113,Linkerror event interval expired,Linkerror event interval expired
+1577,E113,Linkerror event interval expired,Linkerror event interval expired
+1578,E113,Linkerror event interval expired,Linkerror event interval expired
+1579,E113,Linkerror event interval expired,Linkerror event interval expired
+1580,E113,Linkerror event interval expired,Linkerror event interval expired
+1581,E113,Linkerror event interval expired,Linkerror event interval expired
+1582,E113,Linkerror event interval expired,Linkerror event interval expired
+1583,E113,Linkerror event interval expired,Linkerror event interval expired
+1584,E113,Linkerror event interval expired,Linkerror event interval expired
+1585,E113,Linkerror event interval expired,Linkerror event interval expired
+1586,E113,Linkerror event interval expired,Linkerror event interval expired
+1587,E113,Linkerror event interval expired,Linkerror event interval expired
+1588,E113,Linkerror event interval expired,Linkerror event interval expired
+1589,E113,Linkerror event interval expired,Linkerror event interval expired
+1590,E113,Linkerror event interval expired,Linkerror event interval expired
+1591,E113,Linkerror event interval expired,Linkerror event interval expired
+1592,E113,Linkerror event interval expired,Linkerror event interval expired
+1593,E113,Linkerror event interval expired,Linkerror event interval expired
+1594,E113,Linkerror event interval expired,Linkerror event interval expired
+1595,E113,Linkerror event interval expired,Linkerror event interval expired
+1596,E113,Linkerror event interval expired,Linkerror event interval expired
+1597,E113,Linkerror event interval expired,Linkerror event interval expired
+1598,E113,Linkerror event interval expired,Linkerror event interval expired
+1599,E113,Linkerror event interval expired,Linkerror event interval expired
+1600,E113,Linkerror event interval expired,Linkerror event interval expired
+1601,E113,Linkerror event interval expired,Linkerror event interval expired
+1602,E113,Linkerror event interval expired,Linkerror event interval expired
+1603,E113,Linkerror event interval expired,Linkerror event interval expired
+1604,E113,Linkerror event interval expired,Linkerror event interval expired
+1605,E113,Linkerror event interval expired,Linkerror event interval expired
+1606,E113,Linkerror event interval expired,Linkerror event interval expired
+1607,E113,Linkerror event interval expired,Linkerror event interval expired
+1608,E113,Linkerror event interval expired,Linkerror event interval expired
+1609,E113,Linkerror event interval expired,Linkerror event interval expired
+1610,E113,Linkerror event interval expired,Linkerror event interval expired
+1611,E113,Linkerror event interval expired,Linkerror event interval expired
+1612,E113,Linkerror event interval expired,Linkerror event interval expired
+1613,E113,Linkerror event interval expired,Linkerror event interval expired
+1614,E113,Linkerror event interval expired,Linkerror event interval expired
+1615,E113,Linkerror event interval expired,Linkerror event interval expired
+1616,E113,Linkerror event interval expired,Linkerror event interval expired
+1617,E113,Linkerror event interval expired,Linkerror event interval expired
+1618,E113,Linkerror event interval expired,Linkerror event interval expired
+1619,E113,Linkerror event interval expired,Linkerror event interval expired
+1620,E113,Linkerror event interval expired,Linkerror event interval expired
+1621,E113,Linkerror event interval expired,Linkerror event interval expired
+1622,E113,Linkerror event interval expired,Linkerror event interval expired
+1623,E113,Linkerror event interval expired,Linkerror event interval expired
+1624,E113,Linkerror event interval expired,Linkerror event interval expired
+1625,E113,Linkerror event interval expired,Linkerror event interval expired
+1626,E113,Linkerror event interval expired,Linkerror event interval expired
+1627,E113,Linkerror event interval expired,Linkerror event interval expired
+1628,E113,Linkerror event interval expired,Linkerror event interval expired
+1629,E113,Linkerror event interval expired,Linkerror event interval expired
+1630,E113,Linkerror event interval expired,Linkerror event interval expired
+1631,E113,Linkerror event interval expired,Linkerror event interval expired
+1632,E113,Linkerror event interval expired,Linkerror event interval expired
+1633,E113,Linkerror event interval expired,Linkerror event interval expired
+1634,E113,Linkerror event interval expired,Linkerror event interval expired
+1635,E113,Linkerror event interval expired,Linkerror event interval expired
+1636,E113,Linkerror event interval expired,Linkerror event interval expired
+1637,E113,Linkerror event interval expired,Linkerror event interval expired
+1638,E113,Linkerror event interval expired,Linkerror event interval expired
+1639,E113,Linkerror event interval expired,Linkerror event interval expired
+1640,E113,Linkerror event interval expired,Linkerror event interval expired
+1641,E113,Linkerror event interval expired,Linkerror event interval expired
+1642,E113,Linkerror event interval expired,Linkerror event interval expired
+1643,E113,Linkerror event interval expired,Linkerror event interval expired
+1644,E113,Linkerror event interval expired,Linkerror event interval expired
+1645,E113,Linkerror event interval expired,Linkerror event interval expired
+1646,E113,Linkerror event interval expired,Linkerror event interval expired
+1647,E113,Linkerror event interval expired,Linkerror event interval expired
+1648,E113,Linkerror event interval expired,Linkerror event interval expired
+1649,E113,Linkerror event interval expired,Linkerror event interval expired
+1650,E113,Linkerror event interval expired,Linkerror event interval expired
+1651,E113,Linkerror event interval expired,Linkerror event interval expired
+1652,E113,Linkerror event interval expired,Linkerror event interval expired
+1653,E113,Linkerror event interval expired,Linkerror event interval expired
+1654,E113,Linkerror event interval expired,Linkerror event interval expired
+1655,E113,Linkerror event interval expired,Linkerror event interval expired
+1656,E113,Linkerror event interval expired,Linkerror event interval expired
+1657,E113,Linkerror event interval expired,Linkerror event interval expired
+1658,E113,Linkerror event interval expired,Linkerror event interval expired
+1659,E113,Linkerror event interval expired,Linkerror event interval expired
+1660,E113,Linkerror event interval expired,Linkerror event interval expired
+1661,E113,Linkerror event interval expired,Linkerror event interval expired
+1662,E113,Linkerror event interval expired,Linkerror event interval expired
+1663,E113,Linkerror event interval expired,Linkerror event interval expired
+1664,E113,Linkerror event interval expired,Linkerror event interval expired
+1665,E113,Linkerror event interval expired,Linkerror event interval expired
+1666,E113,Linkerror event interval expired,Linkerror event interval expired
+1667,E113,Linkerror event interval expired,Linkerror event interval expired
+1668,E113,Linkerror event interval expired,Linkerror event interval expired
+1669,E113,Linkerror event interval expired,Linkerror event interval expired
+1670,E113,Linkerror event interval expired,Linkerror event interval expired
+1671,E113,Linkerror event interval expired,Linkerror event interval expired
+1672,E113,Linkerror event interval expired,Linkerror event interval expired
+1673,E113,Linkerror event interval expired,Linkerror event interval expired
+1674,E113,Linkerror event interval expired,Linkerror event interval expired
+1675,E113,Linkerror event interval expired,Linkerror event interval expired
+1676,E113,Linkerror event interval expired,Linkerror event interval expired
+1677,E113,Linkerror event interval expired,Linkerror event interval expired
+1678,E113,Linkerror event interval expired,Linkerror event interval expired
+1679,E113,Linkerror event interval expired,Linkerror event interval expired
+1680,E113,Linkerror event interval expired,Linkerror event interval expired
+1681,E113,Linkerror event interval expired,Linkerror event interval expired
+1682,E113,Linkerror event interval expired,Linkerror event interval expired
+1683,E113,Linkerror event interval expired,Linkerror event interval expired
+1684,E113,Linkerror event interval expired,Linkerror event interval expired
+1685,E113,Linkerror event interval expired,Linkerror event interval expired
+1686,E113,Linkerror event interval expired,Linkerror event interval expired
+1687,E113,Linkerror event interval expired,Linkerror event interval expired
+1688,E113,Linkerror event interval expired,Linkerror event interval expired
+1689,E113,Linkerror event interval expired,Linkerror event interval expired
+1690,E113,Linkerror event interval expired,Linkerror event interval expired
+1691,E113,Linkerror event interval expired,Linkerror event interval expired
+1692,E113,Linkerror event interval expired,Linkerror event interval expired
+1693,E113,Linkerror event interval expired,Linkerror event interval expired
+1694,E113,Linkerror event interval expired,Linkerror event interval expired
+1695,E113,Linkerror event interval expired,Linkerror event interval expired
+1696,E113,Linkerror event interval expired,Linkerror event interval expired
+1697,E113,Linkerror event interval expired,Linkerror event interval expired
+1698,E113,Linkerror event interval expired,Linkerror event interval expired
+1699,E113,Linkerror event interval expired,Linkerror event interval expired
+1700,E113,Linkerror event interval expired,Linkerror event interval expired
+1701,E113,Linkerror event interval expired,Linkerror event interval expired
+1702,E113,Linkerror event interval expired,Linkerror event interval expired
+1703,E113,Linkerror event interval expired,Linkerror event interval expired
+1704,E113,Linkerror event interval expired,Linkerror event interval expired
+1705,E113,Linkerror event interval expired,Linkerror event interval expired
+1706,E113,Linkerror event interval expired,Linkerror event interval expired
+1707,E113,Linkerror event interval expired,Linkerror event interval expired
+1708,E113,Linkerror event interval expired,Linkerror event interval expired
+1709,E113,Linkerror event interval expired,Linkerror event interval expired
+1710,E113,Linkerror event interval expired,Linkerror event interval expired
+1711,E113,Linkerror event interval expired,Linkerror event interval expired
+1712,E113,Linkerror event interval expired,Linkerror event interval expired
+1713,E113,Linkerror event interval expired,Linkerror event interval expired
+1714,E113,Linkerror event interval expired,Linkerror event interval expired
+1715,E113,Linkerror event interval expired,Linkerror event interval expired
+1716,E113,Linkerror event interval expired,Linkerror event interval expired
+1717,E113,Linkerror event interval expired,Linkerror event interval expired
+1718,E113,Linkerror event interval expired,Linkerror event interval expired
+1719,E113,Linkerror event interval expired,Linkerror event interval expired
+1720,E113,Linkerror event interval expired,Linkerror event interval expired
+1721,E113,Linkerror event interval expired,Linkerror event interval expired
+1722,E113,Linkerror event interval expired,Linkerror event interval expired
+1723,E113,Linkerror event interval expired,Linkerror event interval expired
+1724,E113,Linkerror event interval expired,Linkerror event interval expired
+1725,E113,Linkerror event interval expired,Linkerror event interval expired
+1726,E113,Linkerror event interval expired,Linkerror event interval expired
+1727,E113,Linkerror event interval expired,Linkerror event interval expired
+1728,E113,Linkerror event interval expired,Linkerror event interval expired
+1729,E113,Linkerror event interval expired,Linkerror event interval expired
+1730,E113,Linkerror event interval expired,Linkerror event interval expired
+1731,E113,Linkerror event interval expired,Linkerror event interval expired
+1732,E113,Linkerror event interval expired,Linkerror event interval expired
+1733,E113,Linkerror event interval expired,Linkerror event interval expired
+1734,E113,Linkerror event interval expired,Linkerror event interval expired
+1735,E113,Linkerror event interval expired,Linkerror event interval expired
+1736,E113,Linkerror event interval expired,Linkerror event interval expired
+1737,E113,Linkerror event interval expired,Linkerror event interval expired
+1738,E113,Linkerror event interval expired,Linkerror event interval expired
+1739,E113,Linkerror event interval expired,Linkerror event interval expired
+1740,E113,Linkerror event interval expired,Linkerror event interval expired
+1741,E113,Linkerror event interval expired,Linkerror event interval expired
+1742,E113,Linkerror event interval expired,Linkerror event interval expired
+1743,E113,Linkerror event interval expired,Linkerror event interval expired
+1744,E113,Linkerror event interval expired,Linkerror event interval expired
+1745,E113,Linkerror event interval expired,Linkerror event interval expired
+1746,E113,Linkerror event interval expired,Linkerror event interval expired
+1747,E113,Linkerror event interval expired,Linkerror event interval expired
+1748,E113,Linkerror event interval expired,Linkerror event interval expired
+1749,E113,Linkerror event interval expired,Linkerror event interval expired
+1750,E113,Linkerror event interval expired,Linkerror event interval expired
+1751,E113,Linkerror event interval expired,Linkerror event interval expired
+1752,E113,Linkerror event interval expired,Linkerror event interval expired
+1753,E113,Linkerror event interval expired,Linkerror event interval expired
+1754,E113,Linkerror event interval expired,Linkerror event interval expired
+1755,E113,Linkerror event interval expired,Linkerror event interval expired
+1756,E113,Linkerror event interval expired,Linkerror event interval expired
+1757,E113,Linkerror event interval expired,Linkerror event interval expired
+1758,E113,Linkerror event interval expired,Linkerror event interval expired
+1759,E113,Linkerror event interval expired,Linkerror event interval expired
+1760,E113,Linkerror event interval expired,Linkerror event interval expired
+1761,E113,Linkerror event interval expired,Linkerror event interval expired
+1762,E113,Linkerror event interval expired,Linkerror event interval expired
+1763,E113,Linkerror event interval expired,Linkerror event interval expired
+1764,E113,Linkerror event interval expired,Linkerror event interval expired
+1765,E113,Linkerror event interval expired,Linkerror event interval expired
+1766,E113,Linkerror event interval expired,Linkerror event interval expired
+1767,E113,Linkerror event interval expired,Linkerror event interval expired
+1768,E113,Linkerror event interval expired,Linkerror event interval expired
+1769,E113,Linkerror event interval expired,Linkerror event interval expired
+1770,E113,Linkerror event interval expired,Linkerror event interval expired
+1771,E113,Linkerror event interval expired,Linkerror event interval expired
+1772,E113,Linkerror event interval expired,Linkerror event interval expired
+1773,E113,Linkerror event interval expired,Linkerror event interval expired
+1774,E113,Linkerror event interval expired,Linkerror event interval expired
+1775,E113,Linkerror event interval expired,Linkerror event interval expired
+1776,E113,Linkerror event interval expired,Linkerror event interval expired
+1777,E113,Linkerror event interval expired,Linkerror event interval expired
+1778,E113,Linkerror event interval expired,Linkerror event interval expired
+1779,E113,Linkerror event interval expired,Linkerror event interval expired
+1780,E113,Linkerror event interval expired,Linkerror event interval expired
+1781,E113,Linkerror event interval expired,Linkerror event interval expired
+1782,E113,Linkerror event interval expired,Linkerror event interval expired
+1783,E113,Linkerror event interval expired,Linkerror event interval expired
+1784,E113,Linkerror event interval expired,Linkerror event interval expired
+1785,E113,Linkerror event interval expired,Linkerror event interval expired
+1786,E113,Linkerror event interval expired,Linkerror event interval expired
+1787,E113,Linkerror event interval expired,Linkerror event interval expired
+1788,E113,Linkerror event interval expired,Linkerror event interval expired
+1789,E113,Linkerror event interval expired,Linkerror event interval expired
+1790,E113,Linkerror event interval expired,Linkerror event interval expired
+1791,E113,Linkerror event interval expired,Linkerror event interval expired
+1792,E113,Linkerror event interval expired,Linkerror event interval expired
+1793,E113,Linkerror event interval expired,Linkerror event interval expired
+1794,E113,Linkerror event interval expired,Linkerror event interval expired
+1795,E113,Linkerror event interval expired,Linkerror event interval expired
+1796,E113,Linkerror event interval expired,Linkerror event interval expired
+1797,E113,Linkerror event interval expired,Linkerror event interval expired
+1798,E113,Linkerror event interval expired,Linkerror event interval expired
+1799,E113,Linkerror event interval expired,Linkerror event interval expired
+1800,E113,Linkerror event interval expired,Linkerror event interval expired
+1801,E113,Linkerror event interval expired,Linkerror event interval expired
+1802,E113,Linkerror event interval expired,Linkerror event interval expired
+1803,E113,Linkerror event interval expired,Linkerror event interval expired
+1804,E113,Linkerror event interval expired,Linkerror event interval expired
+1805,E113,Linkerror event interval expired,Linkerror event interval expired
+1806,E113,Linkerror event interval expired,Linkerror event interval expired
+1807,E113,Linkerror event interval expired,Linkerror event interval expired
+1808,E113,Linkerror event interval expired,Linkerror event interval expired
+1809,E113,Linkerror event interval expired,Linkerror event interval expired
+1810,E113,Linkerror event interval expired,Linkerror event interval expired
+1811,E113,Linkerror event interval expired,Linkerror event interval expired
+1812,E113,Linkerror event interval expired,Linkerror event interval expired
+1813,E113,Linkerror event interval expired,Linkerror event interval expired
+1814,E113,Linkerror event interval expired,Linkerror event interval expired
+1815,E113,Linkerror event interval expired,Linkerror event interval expired
+1816,E113,Linkerror event interval expired,Linkerror event interval expired
+1817,E113,Linkerror event interval expired,Linkerror event interval expired
+1818,E113,Linkerror event interval expired,Linkerror event interval expired
+1819,E113,Linkerror event interval expired,Linkerror event interval expired
+1820,E113,Linkerror event interval expired,Linkerror event interval expired
+1821,E113,Linkerror event interval expired,Linkerror event interval expired
+1822,E113,Linkerror event interval expired,Linkerror event interval expired
+1823,E113,Linkerror event interval expired,Linkerror event interval expired
+1824,E113,Linkerror event interval expired,Linkerror event interval expired
+1825,E113,Linkerror event interval expired,Linkerror event interval expired
+1826,E113,Linkerror event interval expired,Linkerror event interval expired
+1827,E113,Linkerror event interval expired,Linkerror event interval expired
+1828,E113,Linkerror event interval expired,Linkerror event interval expired
+1829,E113,Linkerror event interval expired,Linkerror event interval expired
+1830,E113,Linkerror event interval expired,Linkerror event interval expired
+1831,E113,Linkerror event interval expired,Linkerror event interval expired
+1832,E113,Linkerror event interval expired,Linkerror event interval expired
+1833,E113,Linkerror event interval expired,Linkerror event interval expired
+1834,E113,Linkerror event interval expired,Linkerror event interval expired
+1835,E113,Linkerror event interval expired,Linkerror event interval expired
+1836,E113,Linkerror event interval expired,Linkerror event interval expired
+1837,E113,Linkerror event interval expired,Linkerror event interval expired
+1838,E113,Linkerror event interval expired,Linkerror event interval expired
+1839,E113,Linkerror event interval expired,Linkerror event interval expired
+1840,E113,Linkerror event interval expired,Linkerror event interval expired
+1841,E116,Failed subcommands 3406,Failed subcommands <*>
+1842,E113,Linkerror event interval expired,Linkerror event interval expired
+1843,E113,Linkerror event interval expired,Linkerror event interval expired
+1844,E113,Linkerror event interval expired,Linkerror event interval expired
+1845,E113,Linkerror event interval expired,Linkerror event interval expired
+1846,E113,Linkerror event interval expired,Linkerror event interval expired
+1847,E113,Linkerror event interval expired,Linkerror event interval expired
+1848,E113,Linkerror event interval expired,Linkerror event interval expired
+1849,E113,Linkerror event interval expired,Linkerror event interval expired
+1850,E113,Linkerror event interval expired,Linkerror event interval expired
+1851,E113,Linkerror event interval expired,Linkerror event interval expired
+1852,E113,Linkerror event interval expired,Linkerror event interval expired
+1853,E113,Linkerror event interval expired,Linkerror event interval expired
+1854,E117,link errors remain current,link errors remain current
+1855,E117,link errors remain current,link errors remain current
+1856,E117,link errors remain current,link errors remain current
+1857,E117,link errors remain current,link errors remain current
+1858,E117,link errors remain current,link errors remain current
+1859,E117,link errors remain current,link errors remain current
+1860,E117,link errors remain current,link errors remain current
+1861,E117,link errors remain current,link errors remain current
+1862,E117,link errors remain current,link errors remain current
+1863,E117,link errors remain current,link errors remain current
+1864,E117,link errors remain current,link errors remain current
+1865,E117,link errors remain current,link errors remain current
+1866,E117,link errors remain current,link errors remain current
+1867,E117,link errors remain current,link errors remain current
+1868,E117,link errors remain current,link errors remain current
+1869,E117,link errors remain current,link errors remain current
+1870,E117,link errors remain current,link errors remain current
+1871,E117,link errors remain current,link errors remain current
+1872,E117,link errors remain current,link errors remain current
+1873,E117,link errors remain current,link errors remain current
+1874,E117,link errors remain current,link errors remain current
+1875,E117,link errors remain current,link errors remain current
+1876,E117,link errors remain current,link errors remain current
+1877,E117,link errors remain current,link errors remain current
+1878,E117,link errors remain current,link errors remain current
+1879,E117,link errors remain current,link errors remain current
+1880,E117,link errors remain current,link errors remain current
+1881,E117,link errors remain current,link errors remain current
+1882,E117,link errors remain current,link errors remain current
+1883,E117,link errors remain current,link errors remain current
+1884,E117,link errors remain current,link errors remain current
+1885,E117,link errors remain current,link errors remain current
+1886,E117,link errors remain current,link errors remain current
+1887,E117,link errors remain current,link errors remain current
+1888,E117,link errors remain current,link errors remain current
+1889,E117,link errors remain current,link errors remain current
+1890,E117,link errors remain current,link errors remain current
+1891,E117,link errors remain current,link errors remain current
+1892,E117,link errors remain current,link errors remain current
+1893,E117,link errors remain current,link errors remain current
+1894,E117,link errors remain current,link errors remain current
+1895,E117,link errors remain current,link errors remain current
+1896,E117,link errors remain current,link errors remain current
+1897,E117,link errors remain current,link errors remain current
+1898,E117,link errors remain current,link errors remain current
+1899,E117,link errors remain current,link errors remain current
+1900,E117,link errors remain current,link errors remain current
+1901,E117,link errors remain current,link errors remain current
+1902,E117,link errors remain current,link errors remain current
+1903,E117,link errors remain current,link errors remain current
+1904,E117,link errors remain current,link errors remain current
+1905,E117,link errors remain current,link errors remain current
+1906,E117,link errors remain current,link errors remain current
+1907,E117,link errors remain current,link errors remain current
+1908,E117,link errors remain current,link errors remain current
+1909,E117,link errors remain current,link errors remain current
+1910,E118,NIFF: node node-129 has detected an available network connection on network 10.128.0.0 via interface ee0,NIFF: node node-<*> has detected an available network connection on network <*> via interface ee0
+1911,E119,NIFF: node node-148 has detected an available network connection on network 5.5.226.0 via interface alt0,NIFF: node node-<*> has detected an available network connection on network <*> via interface alt0
+1912,E118,NIFF: node node-24 has detected an available network connection on network 10.128.0.0 via interface ee0,NIFF: node node-<*> has detected an available network connection on network <*> via interface ee0
+1913,E118,NIFF: node node-232 has detected an available network connection on network 10.128.0.0 via interface ee0,NIFF: node node-<*> has detected an available network connection on network <*> via interface ee0
+1914,E118,NIFF: node node-17 has detected an available network connection on network 10.128.0.0 via interface ee0,NIFF: node node-<*> has detected an available network connection on network <*> via interface ee0
+1915,E118,NIFF: node node-241 has detected an available network connection on network 10.128.0.0 via interface ee0,NIFF: node node-<*> has detected an available network connection on network <*> via interface ee0
+1916,E119,NIFF: node node-26 has detected an available network connection on network 5.5.226.0 via interface alt0,NIFF: node node-<*> has detected an available network connection on network <*> via interface alt0
+1917,E119,NIFF: node node-120 has detected an available network connection on network 5.5.226.0 via interface alt0,NIFF: node node-<*> has detected an available network connection on network <*> via interface alt0
+1918,E119,NIFF: node node-142 has detected an available network connection on network 0.0.0.0 via interface alt0,NIFF: node node-<*> has detected an available network connection on network <*> via interface alt0
+1919,E119,NIFF: node node-73 has detected an available network connection on network 5.5.226.0 via interface alt0,NIFF: node node-<*> has detected an available network connection on network <*> via interface alt0
+1920,E119,NIFF: node node-252 has detected an available network connection on network 5.5.226.0 via interface alt0,NIFF: node node-<*> has detected an available network connection on network <*> via interface alt0
+1921,E118,NIFF: node node-173 has detected an available network connection on network 10.128.0.0 via interface ee0,NIFF: node node-<*> has detected an available network connection on network <*> via interface ee0
+1922,E118,NIFF: node node-189 has detected an available network connection on network 10.128.0.0 via interface ee0,NIFF: node node-<*> has detected an available network connection on network <*> via interface ee0
+1923,E119,NIFF: node node-163 has detected an available network connection on network 0.0.0.0 via interface alt0,NIFF: node node-<*> has detected an available network connection on network <*> via interface alt0
+1924,E119,NIFF: node node-186 has detected an available network connection on network 5.5.226.0 via interface alt0,NIFF: node node-<*> has detected an available network connection on network <*> via interface alt0
+1925,E118,NIFF: node node-205 has detected an available network connection on network 10.128.0.0 via interface ee0,NIFF: node node-<*> has detected an available network connection on network <*> via interface ee0
+1926,E118,NIFF: node node-155 has detected an available network connection on network 10.128.0.0 via interface ee0,NIFF: node node-<*> has detected an available network connection on network <*> via interface ee0
+1927,E119,NIFF: node node-176 has detected an available network connection on network 5.5.226.0 via interface alt0,NIFF: node node-<*> has detected an available network connection on network <*> via interface alt0
+1928,E118,NIFF: node node-75 has detected an available network connection on network 10.128.0.0 via interface ee0,NIFF: node node-<*> has detected an available network connection on network <*> via interface ee0
+1929,E118,NIFF: node node-9 has detected an available network connection on network 10.128.0.0 via interface ee0,NIFF: node node-<*> has detected an available network connection on network <*> via interface ee0
+1930,E119,NIFF: node node-237 has detected an available network connection on network 5.5.226.0 via interface alt0,NIFF: node node-<*> has detected an available network connection on network <*> via interface alt0
+1931,E118,NIFF: node node-208 has detected an available network connection on network 10.128.0.0 via interface ee0,NIFF: node node-<*> has detected an available network connection on network <*> via interface ee0
+1932,E119,NIFF: node node-157 has detected an available network connection on network 5.5.226.0 via interface alt0,NIFF: node node-<*> has detected an available network connection on network <*> via interface alt0
+1933,E118,NIFF: node node-139 has detected an available network connection on network 10.128.0.0 via interface ee0,NIFF: node node-<*> has detected an available network connection on network <*> via interface ee0
+1934,E118,NIFF: node node-84 has detected an available network connection on network 10.128.0.0 via interface ee0,NIFF: node node-<*> has detected an available network connection on network <*> via interface ee0
+1935,E118,NIFF: node node-217 has detected an available network connection on network 10.128.0.0 via interface ee0,NIFF: node node-<*> has detected an available network connection on network <*> via interface ee0
+1936,E119,NIFF: node node-214 has detected an available network connection on network 5.5.226.0 via interface alt0,NIFF: node node-<*> has detected an available network connection on network <*> via interface alt0
+1937,E118,NIFF: node node-202 has detected an available network connection on network 10.128.0.0 via interface ee0,NIFF: node node-<*> has detected an available network connection on network <*> via interface ee0
+1938,E118,NIFF: node node-254 has detected an available network connection on network 10.128.0.0 via interface ee0,NIFF: node node-<*> has detected an available network connection on network <*> via interface ee0
+1939,E118,NIFF: node node-234 has detected an available network connection on network 10.128.0.0 via interface ee0,NIFF: node node-<*> has detected an available network connection on network <*> via interface ee0
+1940,E118,NIFF: node node-244 has detected an available network connection on network 10.128.0.0 via interface ee0,NIFF: node node-<*> has detected an available network connection on network <*> via interface ee0
+1941,E118,NIFF: node node-30 has detected an available network connection on network 10.128.0.0 via interface ee0,NIFF: node node-<*> has detected an available network connection on network <*> via interface ee0
+1942,E120,NIFF: node node-130 has detected an available network connection on network 10.96.0.0 via interface scip0,NIFF: node node-<*> has detected an available network connection on network <*> via interface scip0
+1943,E119,NIFF: node node-45 has detected an available network connection on network 5.5.224.0 via interface alt0,NIFF: node node-<*> has detected an available network connection on network <*> via interface alt0
+1944,E118,NIFF: node node-44 has detected an available network connection on network 10.128.0.0 via interface ee0,NIFF: node node-<*> has detected an available network connection on network <*> via interface ee0
+1945,E119,NIFF: node node-151 has detected an available network connection on network 5.5.224.0 via interface alt0,NIFF: node node-<*> has detected an available network connection on network <*> via interface alt0
+1946,E118,NIFF: node node-255 has detected an available network connection on network 10.128.0.0 via interface ee0,NIFF: node node-<*> has detected an available network connection on network <*> via interface ee0
+1947,E118,NIFF: node node-188 has detected an available network connection on network 10.128.0.0 via interface ee0,NIFF: node node-<*> has detected an available network connection on network <*> via interface ee0
+1948,E119,NIFF: node node-29 has detected an available network connection on network 0.0.0.0 via interface alt0,NIFF: node node-<*> has detected an available network connection on network <*> via interface alt0
+1949,E119,NIFF: node node-87 has detected an available network connection on network 5.5.224.0 via interface alt0,NIFF: node node-<*> has detected an available network connection on network <*> via interface alt0
+1950,E119,NIFF: node node-203 has detected an available network connection on network 5.5.224.0 via interface alt0,NIFF: node node-<*> has detected an available network connection on network <*> via interface alt0
+1951,E118,NIFF: node node-72 has detected an available network connection on network 10.128.0.0 via interface ee0,NIFF: node node-<*> has detected an available network connection on network <*> via interface ee0
+1952,E119,NIFF: node node-113 has detected an available network connection on network 5.5.224.0 via interface alt0,NIFF: node node-<*> has detected an available network connection on network <*> via interface alt0
+1953,E118,NIFF: node node-152 has detected an available network connection on network 10.128.0.0 via interface ee0,NIFF: node node-<*> has detected an available network connection on network <*> via interface ee0
+1954,E119,NIFF: node node-104 has detected an available network connection on network 5.5.224.0 via interface alt0,NIFF: node node-<*> has detected an available network connection on network <*> via interface alt0
+1955,E118,NIFF: node node-142 has detected an available network connection on network 10.128.0.0 via interface ee0,NIFF: node node-<*> has detected an available network connection on network <*> via interface ee0
+1956,E119,NIFF: node node-193 has detected an available network connection on network 5.5.224.0 via interface alt0,NIFF: node node-<*> has detected an available network connection on network <*> via interface alt0
+1957,E119,NIFF: node node-139 has detected an available network connection on network 5.5.224.0 via interface alt0,NIFF: node node-<*> has detected an available network connection on network <*> via interface alt0
+1958,E119,NIFF: node node-143 has detected an available network connection on network 5.5.224.0 via interface alt0,NIFF: node node-<*> has detected an available network connection on network <*> via interface alt0
+1959,E118,NIFF: node node-45 has detected an available network connection on network 10.128.0.0 via interface ee0,NIFF: node node-<*> has detected an available network connection on network <*> via interface ee0
+1960,E119,NIFF: node node-106 has detected an available network connection on network 0.0.0.0 via interface alt0,NIFF: node node-<*> has detected an available network connection on network <*> via interface alt0
+1961,E119,NIFF: node node-7 has detected an available network connection on network 5.5.224.0 via interface alt0,NIFF: node node-<*> has detected an available network connection on network <*> via interface alt0
+1962,E118,NIFF: node node-233 has detected an available network connection on network 10.128.0.0 via interface ee0,NIFF: node node-<*> has detected an available network connection on network <*> via interface ee0
+1963,E118,NIFF: node node-23 has detected an available network connection on network 10.128.0.0 via interface ee0,NIFF: node node-<*> has detected an available network connection on network <*> via interface ee0
+1964,E118,NIFF: node node-190 has detected an available network connection on network 10.128.0.0 via interface ee0,NIFF: node node-<*> has detected an available network connection on network <*> via interface ee0
+1965,E118,NIFF: node node-84 has detected an available network connection on network 10.128.0.0 via interface ee0,NIFF: node node-<*> has detected an available network connection on network <*> via interface ee0
+1966,E118,NIFF: node node-19 has detected an available network connection on network 10.128.0.0 via interface ee0,NIFF: node node-<*> has detected an available network connection on network <*> via interface ee0
+1967,E118,NIFF: node node-253 has detected an available network connection on network 10.128.0.0 via interface ee0,NIFF: node node-<*> has detected an available network connection on network <*> via interface ee0
+1968,E118,NIFF: node node-29 has detected an available network connection on network 10.128.0.0 via interface ee0,NIFF: node node-<*> has detected an available network connection on network <*> via interface ee0
+1969,E119,NIFF: node node-240 has detected an available network connection on network 5.5.224.0 via interface alt0,NIFF: node node-<*> has detected an available network connection on network <*> via interface alt0
+1970,E118,NIFF: node node-86 has detected an available network connection on network 10.128.0.0 via interface ee0,NIFF: node node-<*> has detected an available network connection on network <*> via interface ee0
+1971,E119,NIFF: node node-204 has detected an available network connection on network 5.5.224.0 via interface alt0,NIFF: node node-<*> has detected an available network connection on network <*> via interface alt0
+1972,E119,NIFF: node node-46 has detected an available network connection on network 5.5.224.0 via interface alt0,NIFF: node node-<*> has detected an available network connection on network <*> via interface alt0
+1973,E119,NIFF: node node-150 has detected an available network connection on network 5.5.224.0 via interface alt0,NIFF: node node-<*> has detected an available network connection on network <*> via interface alt0
+1974,E118,NIFF: node node-42 has detected an available network connection on network 10.128.0.0 via interface ee0,NIFF: node node-<*> has detected an available network connection on network <*> via interface ee0
+1975,E119,NIFF: node node-91 has detected an available network connection on network 5.5.224.0 via interface alt0,NIFF: node node-<*> has detected an available network connection on network <*> via interface alt0
+1976,E118,NIFF: node node-26 has detected an available network connection on network 10.128.0.0 via interface ee0,NIFF: node node-<*> has detected an available network connection on network <*> via interface ee0
+1977,E119,NIFF: node node-44 has detected an available network connection on network 5.5.224.0 via interface alt0,NIFF: node node-<*> has detected an available network connection on network <*> via interface alt0
+1978,E119,NIFF: node node-244 has detected an available network connection on network 5.5.224.0 via interface alt0,NIFF: node node-<*> has detected an available network connection on network <*> via interface alt0
+1979,E118,NIFF: node node-182 has detected an available network connection on network 10.128.0.0 via interface ee0,NIFF: node node-<*> has detected an available network connection on network <*> via interface ee0
+1980,E120,NIFF: node node-144 has detected an available network connection on network 10.96.0.0 via interface scip0,NIFF: node node-<*> has detected an available network connection on network <*> via interface scip0
+1981,E119,NIFF: node node-17 has detected an available network connection on network 0.0.0.0 via interface alt0,NIFF: node node-<*> has detected an available network connection on network <*> via interface alt0
+1982,E118,NIFF: node node-69 has detected an available network connection on network 10.128.0.0 via interface ee0,NIFF: node node-<*> has detected an available network connection on network <*> via interface ee0
+1983,E119,NIFF: node node-202 has detected an available network connection on network 5.5.224.0 via interface alt0,NIFF: node node-<*> has detected an available network connection on network <*> via interface alt0
+1984,E119,NIFF: node node-205 has detected an available network connection on network 5.5.224.0 via interface alt0,NIFF: node node-<*> has detected an available network connection on network <*> via interface alt0
+1985,E119,NIFF: node node-44 has detected an available network connection on network 5.5.224.0 via interface alt0,NIFF: node node-<*> has detected an available network connection on network <*> via interface alt0
+1986,E118,NIFF: node node-183 has detected an available network connection on network 10.128.0.0 via interface ee0,NIFF: node node-<*> has detected an available network connection on network <*> via interface ee0
+1987,E118,NIFF: node node-212 has detected an available network connection on network 10.128.0.0 via interface ee0,NIFF: node node-<*> has detected an available network connection on network <*> via interface ee0
+1988,E119,NIFF: node node-187 has detected an available network connection on network 5.5.224.0 via interface alt0,NIFF: node node-<*> has detected an available network connection on network <*> via interface alt0
+1989,E119,NIFF: node node-221 has detected an available network connection on network 5.5.224.0 via interface alt0,NIFF: node node-<*> has detected an available network connection on network <*> via interface alt0
+1990,E119,NIFF: node node-189 has detected an available network connection on network 5.5.224.0 via interface alt0,NIFF: node node-<*> has detected an available network connection on network <*> via interface alt0
+1991,E119,NIFF: node node-218 has detected an available network connection on network 5.5.224.0 via interface alt0,NIFF: node node-<*> has detected an available network connection on network <*> via interface alt0
+1992,E119,NIFF: node node-94 has detected an available network connection on network 5.5.224.0 via interface alt0,NIFF: node node-<*> has detected an available network connection on network <*> via interface alt0
+1993,E118,NIFF: node node-248 has detected an available network connection on network 10.128.0.0 via interface ee0,NIFF: node node-<*> has detected an available network connection on network <*> via interface ee0
+1994,E118,NIFF: node node-176 has detected an available network connection on network 10.128.0.0 via interface ee0,NIFF: node node-<*> has detected an available network connection on network <*> via interface ee0
+1995,E119,NIFF: node node-77 has detected an available network connection on network 5.5.224.0 via interface alt0,NIFF: node node-<*> has detected an available network connection on network <*> via interface alt0
+1996,E118,NIFF: node node-176 has detected an available network connection on network 10.128.0.0 via interface ee0,NIFF: node node-<*> has detected an available network connection on network <*> via interface ee0
+1997,E119,NIFF: node node-178 has detected an available network connection on network 0.0.0.0 via interface alt0,NIFF: node node-<*> has detected an available network connection on network <*> via interface alt0
+1998,E119,NIFF: node node-161 has detected an available network connection on network 0.0.0.0 via interface alt0,NIFF: node node-<*> has detected an available network connection on network <*> via interface alt0
+1999,E119,NIFF: node node-73 has detected an available network connection on network 0.0.0.0 via interface alt0,NIFF: node node-<*> has detected an available network connection on network <*> via interface alt0
+2000,E118,NIFF: node node-171 has detected an available network connection on network 10.128.0.0 via interface ee0,NIFF: node node-<*> has detected an available network connection on network <*> via interface ee0

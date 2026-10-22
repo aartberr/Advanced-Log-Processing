@@ -1,0 +1,93 @@
+EventId,EventTemplate
+E1,PacketResponder <*> for block <*> terminating
+E2,BLOCK* NameSystem.addStoredBlock: blockMap updated: <*> is added to <*> size <*>
+E3,Received block <*> of size <*> from /<*>
+E4,Receiving block <*> src: /<*> dest: /<*>
+E5,BLOCK* NameSystem.allocateBlock: /user/root/rand/_temporary/_task_<*>_<*>_m_<*>_<*>/part-<*>. blk_-<*>
+E6,Verification succeeded for blk_-<*>
+E7,Deleting block <*> file /mnt/hadoop/dfs/data/current/subdir5/blk_<*>
+E8,<*> Served block blk_-<*> to /<*>
+E9,<*>:Got exception while serving blk_-<*> to /<*>:
+E10,BLOCK* NameSystem.allocateBlock: /user/root/sortrand/_temporary/_task_<*>_<*>_r_<*>_<*>/part-<*>. blk_-<*>
+E11,BLOCK* NameSystem.allocateBlock: /user/root/randtxt/_temporary/_task_<*>_<*>_m_<*>_<*>/part-<*>. <*>
+E12,BLOCK* NameSystem.delete: <*> is added to invalidSet of <*>
+E13,Deleting block <*> file /mnt/hadoop/dfs/data/current/subdir51/blk_<*>
+E14,Deleting block blk_-<*> file /mnt/hadoop/dfs/data/current/subdir18/blk_-<*>
+E15,Deleting block blk_-<*> file /mnt/hadoop/dfs/data/current/subdir27/blk_-<*>
+E16,Deleting block blk_-<*> file /mnt/hadoop/dfs/data/current/subdir29/blk_-<*>
+E17,Deleting block blk_-<*> file /mnt/hadoop/dfs/data/current/subdir9/blk_-<*>
+E18,Deleting block <*> file /mnt/hadoop/dfs/data/current/subdir32/blk_<*>
+E19,Deleting block blk_-<*> file /mnt/hadoop/dfs/data/current/subdir41/blk_-<*>
+E20,Deleting block blk_-<*> file /mnt/hadoop/dfs/data/current/subdir11/blk_-<*>
+E21,Deleting block blk_-<*> file /mnt/hadoop/dfs/data/current/subdir1/blk_-<*>
+E22,Deleting block blk_-<*> file /mnt/hadoop/dfs/data/current/subdir25/blk_-<*>
+E23,Deleting block blk_-<*> file /mnt/hadoop/dfs/data/current/subdir42/blk_-<*>
+E24,Deleting block blk_-<*> file /mnt/hadoop/dfs/data/current/subdir26/blk_-<*>
+E25,Deleting block blk_-<*> file /mnt/hadoop/dfs/data/current/subdir33/blk_-<*>
+E26,Deleting block blk_-<*> file /mnt/hadoop/dfs/data/current/subdir60/blk_-<*>
+E27,Deleting block blk_-<*> file /mnt/hadoop/dfs/data/current/subdir20/blk_-<*>
+E28,Deleting block blk_-<*> file /mnt/hadoop/dfs/data/current/subdir34/blk_-<*>
+E29,Deleting block blk_-<*> file /mnt/hadoop/dfs/data/current/subdir6/blk_-<*>
+E30,Deleting block blk_-<*> file /mnt/hadoop/dfs/data/current/blk_-<*>
+E31,Deleting block blk_-<*> file /mnt/hadoop/dfs/data/current/subdir39/blk_-<*>
+E32,Deleting block blk_-<*> file /mnt/hadoop/dfs/data/current/subdir57/blk_-<*>
+E33,Deleting block blk_-<*> file /mnt/hadoop/dfs/data/current/subdir38/blk_-<*>
+E34,Deleting block blk_-<*> file /mnt/hadoop/dfs/data/current/subdir0/blk_-<*>
+E35,Deleting block <*> file /mnt/hadoop/dfs/data/current/subdir48/blk_<*>
+E36,Deleting block blk_-<*> file /mnt/hadoop/dfs/data/current/subdir23/blk_-<*>
+E37,Deleting block blk_-<*> file /mnt/hadoop/dfs/data/current/subdir13/blk_-<*>
+E38,Deleting block blk_-<*> file /mnt/hadoop/dfs/data/current/subdir30/blk_-<*>
+E39,Deleting block blk_-<*> file /mnt/hadoop/dfs/data/current/subdir47/blk_-<*>
+E40,Deleting block blk_-<*> file /mnt/hadoop/dfs/data/current/subdir21/blk_-<*>
+E41,Deleting block <*> file /mnt/hadoop/dfs/data/current/subdir4/blk_<*>
+E42,Deleting block blk_-<*> file /mnt/hadoop/dfs/data/current/subdir53/blk_-<*>
+E43,Deleting block blk_-<*> file /mnt/hadoop/dfs/data/current/subdir37/blk_-<*>
+E44,Deleting block blk_-<*> file /mnt/hadoop/dfs/data/current/subdir40/blk_-<*>
+E45,Deleting block <*> file /mnt/hadoop/dfs/data/current/subdir50/blk_<*>
+E46,Deleting block blk_-<*> file /mnt/hadoop/dfs/data/current/subdir16/blk_-<*>
+E47,Deleting block <*> file /mnt/hadoop/dfs/data/current/subdir15/blk_<*>
+E48,Deleting block <*> file /mnt/hadoop/dfs/data/current/subdir24/blk_<*>
+E49,Deleting block <*> file /mnt/hadoop/dfs/data/current/subdir12/blk_<*>
+E50,Deleting block <*> file /mnt/hadoop/dfs/data/current/subdir7/blk_<*>
+E51,Deleting block <*> file /mnt/hadoop/dfs/data/current/subdir45/blk_<*>
+E52,Deleting block <*> file /mnt/hadoop/dfs/data/current/subdir59/blk_<*>
+E53,Deleting block <*> file /mnt/hadoop/dfs/data/current/subdir14/blk_<*>
+E54,Deleting block <*> file /mnt/hadoop/dfs/data/current/subdir28/blk_<*>
+E55,Deleting block <*> file /mnt/hadoop/dfs/data/current/subdir46/blk_<*>
+E56,Deleting block blk_-<*> file /mnt/hadoop/dfs/data/current/subdir56/blk_-<*>
+E57,Deleting block blk_-<*> file /mnt/hadoop/dfs/data/current/subdir55/blk_-<*>
+E58,BLOCK* NameSystem.allocateBlock: /user/root/randtxt2/_temporary/_task_<*>_<*>_m_<*>_<*>/part-<*>. <*>
+E59,BLOCK* NameSystem.allocateBlock: /user/root/sortrand2/_temporary/_task_<*>_<*>_r_<*>_<*>/part-<*>. <*>
+E60,Deleting block blk_-<*> file /mnt/hadoop/dfs/data/current/subdir2/blk_-<*>
+E61,Deleting block blk_-<*> file /mnt/hadoop/dfs/data/current/subdir8/blk_-<*>
+E62,Deleting block blk_-<*> file /mnt/hadoop/dfs/data/current/subdir22/blk_-<*>
+E63,Deleting block <*> file /mnt/hadoop/dfs/data/current/subdir61/blk_<*>
+E64,Deleting block blk_-<*> file /mnt/hadoop/dfs/data/current/subdir35/blk_-<*>
+E65,Deleting block blk_-<*> file /mnt/hadoop/dfs/data/current/subdir31/blk_-<*>
+E66,Deleting block <*> file /mnt/hadoop/dfs/data/current/subdir52/blk_<*>
+E67,Deleting block blk_-<*> file /mnt/hadoop/dfs/data/current/subdir10/blk_-<*>
+E68,Deleting block <*> file /mnt/hadoop/dfs/data/current/subdir19/blk_<*>
+E69,Deleting block <*> file /mnt/hadoop/dfs/data/current/subdir54/blk_<*>
+E70,Deleting block <*> file /mnt/hadoop/dfs/data/current/subdir63/blk_<*>
+E71,<*> Starting thread to transfer block <*> to <*>
+E72,BLOCK* ask <*> to delete blk_-<*>
+E73,BLOCK* NameSystem.allocateBlock: /user/root/rand3/_temporary/_task_<*>_<*>_m_<*>_<*>/part-<*>. blk_-<*>
+E74,Deleting block blk_-<*> file /mnt/hadoop/dfs/data/current/subdir36/blk_-<*>
+E75,BLOCK* NameSystem.allocateBlock: /user/root/randtxt3/_temporary/_task_<*>_<*>_m_<*>_<*>/part-<*>. <*>
+E76,Deleting block <*> file /mnt/hadoop/dfs/data/current/subdir62/blk_<*>
+E77,BLOCK* NameSystem.allocateBlock: /user/root/rand4/_temporary/_task_<*>_<*>_m_<*>_<*>/part-<*>. <*>
+E78,BLOCK* NameSystem.allocateBlock: /user/root/randtxt4/_temporary/_task_<*>_<*>_m_<*>_<*>/part-<*>. <*>
+E79,Deleting block blk_-<*> file /mnt/hadoop/dfs/data/current/subdir49/blk_-<*>
+E80,Deleting block blk_-<*> file /mnt/hadoop/dfs/data/current/subdir58/blk_-<*>
+E81,Deleting block <*> file /mnt/hadoop/dfs/data/current/subdir44/blk_<*>
+E82,BLOCK* NameSystem.allocateBlock: /user/root/rand5/_temporary/_task_<*>_<*>_m_<*>_<*>/part-<*>. <*>
+E83,Received block blk_-<*> src: /<*> dest: /<*> of size <*>
+E84,BLOCK* NameSystem.allocateBlock: /user/root/randtxt5/_temporary/_task_<*>_<*>_m_<*>_<*>/part-<*>. <*>
+E85,Deleting block <*> file /mnt/hadoop/dfs/data/current/subdir3/blk_<*>
+E86,Deleting block <*> file /mnt/hadoop/dfs/data/current/subdir17/blk_<*>
+E87,BLOCK* NameSystem.allocateBlock: /user/root/rand6/_temporary/_task_<*>_<*>_m_<*>_<*>/part-<*>. <*>
+E88,Deleting block <*> file /mnt/hadoop/dfs/data/current/subdir43/blk_<*>
+E89,BLOCK* ask <*> to replicate blk_-<*> to datanode(s) <*>
+E90,BLOCK* NameSystem.allocateBlock: /user/root/rand7/_temporary/_task_<*>_<*>_m_<*>_<*>/part-<*>. blk_-<*>
+E91,BLOCK* NameSystem.allocateBlock: /user/root/rand8/_temporary/_task_<*>_<*>_m_<*>_<*>/part-<*>. blk_-<*>
+E92,BLOCK* NameSystem.allocateBlock: /user/root/randtxt9/_temporary/_task_<*>_<*>_m_<*>_<*>/part-<*>. blk_-<*>

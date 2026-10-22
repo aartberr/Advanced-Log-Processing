@@ -1,0 +1,2 @@
+Dataset,parse_time,identified_templates,ground_templates,GA,PA,FGA,PTA,RTA,FTA
+Android,5.81,207,166,0.827,0.786,0.783,0.473,0.590,0.525

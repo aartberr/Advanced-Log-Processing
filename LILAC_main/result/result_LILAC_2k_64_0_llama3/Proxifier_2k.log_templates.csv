@@ -1,0 +1,144 @@
+EventId,EventTemplate
+E1,proxy.cse.cuhk.edu.hk:<*> open through proxy proxy.cse.cuhk.edu.hk:<*> HTTPS
+E2,"proxy.cse.cuhk.edu.hk:<*> close, <*> bytes sent, <*> bytes received, lifetime <*>"
+E3,"proxy.cse.cuhk.edu.hk:<*> close, <*> bytes sent, <*> bytes (<*> KB) received, lifetime <*> sec"
+E4,"proxy.cse.cuhk.edu.hk:<*> close, <*> bytes (<*> KB) sent, <*> bytes (<*> KB) received, lifetime <*>"
+E5,"proxy.cse.cuhk.edu.hk:<*> close, <*> bytes (<*> KB) sent, <*> bytes received, lifetime <*> sec"
+E6,"proxy.cse.cuhk.edu.hk:<*> close, <*> bytes sent, <*> bytes (<*> KB) received, lifetime <*>"
+E7,"proxy.cse.cuhk.edu.hk:<*> close, <*> bytes (<*> KB) sent, <*> bytes received, lifetime <*>"
+E8,<*> open through proxy socks.cse.cuhk.edu.hk:<*> SOCKS5
+E9,"proxy.cse.cuhk.edu.hk:<*> close, <*> bytes (<*> KB) sent, <*> bytes (<*> MB) received, lifetime <*>"
+E10,"get.sogou.com:<*> close, <*> bytes sent, <*> bytes received, lifetime <*> sec"
+E11,"tcpconn.tencent.com:<*> close, <*> bytes sent, <*> bytes received, lifetime <*> sec"
+E12,tcpconn6.tencent.com:<*> error : A connection request was canceled before the completion.
+E13,tcpconn4.tencent.com:<*> error : Could not connect through proxy proxy.cse.cuhk.edu.hk:<*> - Proxy closed the connection unexpectedly.
+E14,"<*> close, <*> bytes (<*> KB) sent, <*> bytes (<*> KB) received, lifetime <*>"
+E15,<*> open through proxy proxy.cse.cuhk.edu.hk:<*> HTTPS
+E16,"tcpconn3.tencent.com:<*> close, <*> bytes sent, <*> bytes received, lifetime <*> sec"
+E17,"tcpconn6.tencent.com:<*> close, <*> bytes sent, <*> bytes received, lifetime <*> sec"
+E18,"cgi.qqweb.qq.com:<*> close, <*> bytes sent, <*> bytes received, lifetime <*> sec"
+E19,"qqmail.tencent.com:<*> close, <*> bytes sent, <*> bytes (<*> KB) received, lifetime <*>"
+E20,"showxml.qq.com:<*> close, <*> bytes sent, <*> bytes (<*> KB) received, lifetime <*> sec"
+E21,"<*>.flash2-http.qq.com:<*> close, <*> bytes sent, <*> bytes (<*> KB) received, lifetime <*> sec"
+E22,"impservice.dictapp.youdao.com:<*> close, <*> bytes sent, <*> bytes received, lifetime <*>"
+E23,oimagec7.ydstatic.com:<*> error : A connection request was canceled before the completion.
+E24,"formi.baidu.com:<*> error : Could not connect through proxy proxy.cse.cuhk.edu.hk:<*> - Proxy server cannot establish a connection with the target, status code <*>"
+E25,"<*> close, <*> bytes sent, <*> bytes received, lifetime <*>"
+E26,<*> error : Could not connect through proxy proxy.cse.cuhk.edu.hk:<*> - Proxy closed the connection unexpectedly.
+E27,oimagea5.ydstatic.com:<*> error : A connection request was canceled before the completion.
+E28,"<*> error : Could not connect through proxy proxy.cse.cuhk.edu.hk:<*> - Proxy server cannot establish a connection with the target, status code <*>"
+E29,oimageb3.ydstatic.com:<*> error : A connection request was canceled before the completion.
+E30,oimageb1.ydstatic.com:<*> error : A connection request was canceled before the completion.
+E31,oimagea3.ydstatic.com:<*> error : A connection request was canceled before the completion.
+E32,oimagec1.ydstatic.com:<*> error : A connection request was canceled before the completion.
+E33,oimageb5.ydstatic.com:<*> error : A connection request was canceled before the completion.
+E34,"oimageb7.ydstatic.com:<*> close, <*> bytes sent, <*> bytes (<*> KB) received, lifetime <*>"
+E35,oimageb2.ydstatic.com:<*> error : A connection request was canceled before the completion.
+E36,oimageb4.ydstatic.com:<*> error : A connection request was canceled before the completion.
+E37,oimagec4.ydstatic.com:<*> error : A connection request was canceled before the completion.
+E38,oimageb8.ydstatic.com:<*> error : A connection request was canceled before the completion.
+E39,"oimageb6.ydstatic.com:<*> close, <*> bytes sent, <*> bytes (<*> KB) received, lifetime <*>"
+E40,"oimagea7.ydstatic.com:<*> close, <*> bytes sent, <*> bytes (<*> KB) received, lifetime <*>"
+E41,"oimagec3.ydstatic.com:<*> close, <*> bytes sent, <*> bytes (<*> KB) received, lifetime <*>"
+E42,"www.googletagservices.com:<*> close, <*> bytes (<*> KB) sent, <*> bytes received, lifetime <*>"
+E43,"dup.baidustatic.com:<*> close, <*> bytes sent, <*> bytes (<*> KB) received, lifetime <*>"
+E44,"odr.mookie1.com:<*> close, <*> bytes sent, <*> bytes (<*> KB) received, lifetime <*>"
+E45,"clients6.google.com:<*> close, <*> bytes (<*> KB) sent, <*> bytes received, lifetime <*>"
+E46,"d.dropbox.com:<*> close, <*> bytes sent, <*> bytes (<*> KB) received, lifetime <*>"
+E47,"r6---sn-i3b7kn7d.googlevideo.com:<*> close, <*> bytes (<*> KB) sent, <*> bytes (<*> MB) received, lifetime <*>"
+E48,"r6---sn-i3b7knez.googlevideo.com:<*> close, <*> bytes (<*> KB) sent, <*> bytes (<*> MB) received, lifetime <*>"
+E49,"c.baidu.com:<*> close, <*> bytes (<*> KB) sent, <*> bytes received, lifetime <*> sec"
+E50,"eclick.baidu.com:<*> close, <*> bytes (<*> KB) sent, <*> bytes received, lifetime <*>"
+E51,"cpro.baidustatic.com:<*> close, <*> bytes sent, <*> bytes (<*> KB) received, lifetime <*>"
+E52,hm.baidu.com:<*> error : A connection request was canceled before the completion.
+E53,"w.cnzz.com:<*> close, <*> bytes sent, <*> bytes (<*> KB) received, lifetime <*>"
+E54,"notifications.google.com:<*> close, <*> bytes sent, <*> bytes (<*> KB) received, lifetime <*>"
+E55,"get.sogou.com:<*> close, <*> bytes sent, <*> bytes (<*> KB) received, lifetime <*>"
+E56,"clientservices.googleapis.com:<*> close, <*> bytes (<*> KB) sent, <*> bytes received, lifetime <*>"
+E57,"lh6.googleusercontent.com:<*> close, <*> bytes sent, <*> bytes (<*> KB) received, lifetime <*>"
+E58,"ocsp.digicert.com:<*> close, <*> bytes sent, <*> bytes (<*> KB) received, lifetime <*>"
+E59,"static.adobelogin.com:<*> close, <*> bytes sent, <*> bytes (<*> KB) received, lifetime <*>"
+E60,"dj1.baidu.com:<*> close, <*> bytes (<*> KB) sent, <*> bytes received, lifetime <*>"
+E61,"sclick.baidu.com:<*> close, <*> bytes (<*> KB) sent, <*> bytes received, lifetime <*>"
+E62,"t12.baidu.com:<*> close, <*> bytes sent, <*> bytes (<*> KB) received, lifetime <*>"
+E63,"www.baidu.com:<*> close, <*> bytes (<*> KB) sent, <*> bytes received, lifetime <*>"
+E64,"long.open.weixin.qq.com:<*> close, <*> bytes (<*> KB) sent, <*> bytes received, lifetime <*>"
+E65,"update.googleapis.com:<*> close, <*> bytes sent, <*> bytes (<*> KB) received, lifetime <*> sec"
+E66,"lh4.googleusercontent.com:<*> close, <*> bytes sent, <*> bytes (<*> KB) received, lifetime <*>"
+E67,"ping.pinyin.sogou.com:<*> close, <*> bytes (<*> KB) sent, <*> bytes received, lifetime <*>"
+E68,"live.github.com:<*> close, <*> bytes (<*> KB) sent, <*> bytes received, lifetime <*>"
+E69,"www.gmail.com:<*> close, <*> bytes sent, <*> bytes (<*> KB) received, lifetime <*>"
+E70,"plus.google.com:<*> close, <*> bytes sent, <*> bytes (<*> KB) received, lifetime <*>"
+E71,"api.github.com:<*> close, <*> bytes sent, <*> bytes (<*> KB) received, lifetime <*>"
+E72,"pic4.zhimg.com:<*> close, <*> bytes sent, <*> bytes (<*> KB) received, lifetime <*>"
+E73,"zhihu-web-analytics.zhihu.com:<*> close, <*> bytes sent, <*> bytes (<*> KB) received, lifetime <*>"
+E74,"content.googleapis.com:<*> close, <*> bytes (<*> KB) sent, <*> bytes received, lifetime <*>"
+E75,"pubads.g.doubleclick.net:<*> close, <*> bytes sent, <*> bytes (<*> KB) received, lifetime <*>"
+E76,"clients1.google.com:<*> close, <*> bytes sent, <*> bytes (<*> KB) received, lifetime <*>"
+E77,"user-images.githubusercontent.com:<*> close, <*> bytes sent, <*> bytes (<*> KB) received, lifetime <*>"
+E78,"<*>.client-channel.google.com:<*> close, <*> bytes sent, <*> bytes (<*> KB) received, lifetime <*> sec"
+E79,"fonts.gstatic.com:<*> close, <*> bytes sent, <*> bytes (<*> KB) received, lifetime <*>"
+E80,"d0.sina.com.cn:<*> close, <*> bytes sent, <*> bytes (<*> KB) received, lifetime <*> sec"
+E81,"tvax1.sinaimg.cn:<*> close, <*> bytes sent, <*> bytes (<*> KB) received, lifetime <*>"
+E82,"rs.sinajs.cn:<*> close, <*> bytes (<*> KB) sent, <*> bytes received, lifetime <*>"
+E83,"strip.alicdn.com:<*> close, <*> bytes sent, <*> bytes (<*> KB) received, lifetime <*>"
+E84,"dslb.cdn.krcom.cn:<*> close, <*> bytes sent, <*> bytes (<*> KB) received, lifetime <*>"
+E85,"www.weibo.com:<*> close, <*> bytes (<*> KB) sent, <*> bytes received, lifetime <*>"
+E86,"<*>.client-channel.google.com:<*> close, <*> bytes sent, <*> bytes (<*> KB) received, lifetime <*>"
+E87,"dict.youdao.com:<*> close, <*> bytes sent, <*> bytes (<*> KB) received, lifetime <*>"
+E88,"assets-cdn.github.com:<*> close, <*> bytes sent, <*> bytes (<*> KB) received, lifetime <*>"
+E89,"apis.google.com:<*> close, <*> bytes sent, <*> bytes (<*> KB) received, lifetime <*> sec"
+E90,"drive-thirdparty.googleusercontent.com:<*> close, <*> bytes sent, <*> bytes (<*> KB) received, lifetime <*>"
+E91,"avatars1.githubusercontent.com:<*> close, <*> bytes (<*> KB) sent, <*> bytes received, lifetime <*>"
+E92,"ssl.gstatic.com:<*> close, <*> bytes sent, <*> bytes (<*> KB) received, lifetime <*>"
+E93,"clients4.google.com:<*> close, <*> bytes (<*> KB) sent, <*> bytes received, lifetime <*>"
+E94,"avatars.githubusercontent.com:<*> close, <*> bytes sent, <*> bytes (<*> KB) received, lifetime <*>"
+E95,"secure.quantserve.com:<*> close, <*> bytes sent, <*> bytes (<*> KB) received, lifetime <*>"
+E96,<*> error : Could not connect to proxy proxy.cse.cuhk.edu.hk:<*> - Could not resolve proxy.cse.cuhk.edu.hk error <*>
+E97,"mtalk.google.com:<*> close, <*> bytes sent, <*> bytes (<*> KB) received, lifetime <*>"
+E98,csdnimg.cn:<*> error : A connection request was canceled before the completion.
+E99,"intf.zsall.mobilem.<*>.cn:<*> close, <*> bytes sent, <*> bytes (<*> KB) received, lifetime <*>"
+E100,"dc.csdn.net:<*> close, <*> bytes (<*> KB) sent, <*> bytes received, lifetime <*>"
+E101,"eclick.baidu.com:<*> close, <*> bytes sent, <*> bytes (<*> KB) received, lifetime <*>"
+E102,"beacon.tingyun.com:<*> close, <*> bytes (<*> KB) sent, <*> bytes received, lifetime <*>"
+E103,"www.gstatic.com:<*> close, <*> bytes sent, <*> bytes (<*> KB) received, lifetime <*>"
+E104,"c.trello.com:<*> close, <*> bytes sent, <*> bytes (<*> KB) received, lifetime <*>"
+E105,"play.google.com:<*> close, <*> bytes (<*> KB) sent, <*> bytes received, lifetime <*>"
+E106,"trello.com:<*> close, <*> bytes (<*> KB) sent, <*> bytes received, lifetime <*>"
+E107,"qa.sockets.stackexchange.com:<*> close, <*> bytes (<*> KB) sent, <*> bytes received, lifetime <*>"
+E108,"short.weixin.qq.com:<*> close, <*> bytes sent, <*> bytes (<*> KB) received, lifetime <*> sec"
+E109,"securepubads.g.doubleclick.net:<*> close, <*> bytes sent, <*> bytes (<*> KB) received, lifetime <*>"
+E110,"d.agkn.com:<*> close, <*> bytes sent, <*> bytes (<*> KB) received, lifetime <*>"
+E111,"puui.qpic.cn:<*> close, <*> bytes sent, <*> bytes (<*> KB) received, lifetime <*> sec"
+E112,"puui.qpic.cn:<*> close, <*> bytes sent, <*> bytes (<*> KB) received, lifetime <*>"
+E113,"suggestion.baidu.com:<*> close, <*> bytes (<*> KB) sent, <*> bytes received, lifetime <*>"
+E114,"clients5.google.com:<*> close, <*> bytes sent, <*> bytes (<*> KB) received, lifetime <*>"
+E115,"ogs.google.com:<*> close, <*> bytes sent, <*> bytes (<*> KB) received, lifetime <*>"
+E116,"lh3.googleusercontent.com:<*> close, <*> bytes sent, <*> bytes (<*> KB) received, lifetime <*>"
+E117,"r2---sn-i3b7kne6.googlevideo.com:<*> close, <*> bytes (<*> KB) sent, <*> bytes (<*> MB) received, lifetime <*>"
+E118,"www.googletagservices.com:<*> close, <*> bytes sent, <*> bytes (<*> KB) received, lifetime <*>"
+E119,"static.doubleclick.net:<*> close, <*> bytes (<*> KB) sent, <*> bytes received, lifetime <*>"
+E120,"www.zhihu.com:<*> close, <*> bytes sent, <*> bytes (<*> KB) received, lifetime <*>"
+E121,"video-hkg3-<*>.xx.fbcdn.net:<*> close, <*> bytes (<*> KB) sent, <*> bytes (<*> MB) received, lifetime <*>"
+E122,"ssl.google-analytics.com:<*> close, <*> bytes sent, <*> bytes (<*> KB) received, lifetime <*>"
+E123,"avatars0.githubusercontent.com:<*> close, <*> bytes sent, <*> bytes (<*> KB) received, lifetime <*>"
+E124,"info.pinyin.sogou.com:<*> close, <*> bytes (<*> KB) sent, <*> bytes received, lifetime <*>"
+E125,client-cf.dropbox.com:<*> error : A connection request was canceled before the completion.
+E126,"tc.dl.pinyin.sogoucdn.com:<*> close, <*> bytes sent, <*> bytes (<*> KB) received, lifetime <*> sec"
+E127,qa.sockets.stackexchange.com:<*> error : Could not connect to proxy proxy.cse.cuhk.edu.hk:<*> - connection attempt failed with error <*>
+E128,<*>.client-channel.google.com:<*> error : Could not connect to proxy proxy.cse.cuhk.edu.hk:<*> - connection attempt failed with error <*>
+E129,www.google.com:<*> error : Could not connect to proxy proxy.cse.cuhk.edu.hk:<*> - connection attempt failed with error <*>
+E130,client-cf.dropbox.com:<*> error : Could not connect to proxy proxy.cse.cuhk.edu.hk:<*> - connection attempt failed with error <*>
+E131,bolt.dropbox.com:<*> error : Could not connect to proxy proxy.cse.cuhk.edu.hk:<*> - connection attempt failed with error <*>
+E132,mtalk.google.com:<*> error : Could not connect to proxy proxy.cse.cuhk.edu.hk:<*> - connection attempt failed with error <*>
+E133,client-lb.dropbox.com:<*> error : Could not connect to proxy proxy.cse.cuhk.edu.hk:<*> - connection attempt failed with error <*>
+E134,"client-cf.dropbox.com:<*> close, <*> bytes sent, <*> bytes (<*> KB) received, lifetime <*>"
+E135,"p2.qhimg.com:<*> close, <*> bytes sent, <*> bytes (<*> KB) received, lifetime <*>"
+E136,"pv.mini.sohu.com:<*> close, <*> bytes sent, <*> bytes (<*> KB) received, lifetime <*>"
+E137,"s2.googleusercontent.com:<*> close, <*> bytes sent, <*> bytes (<*> KB) received, lifetime <*>"
+E138,"d3cv4a9a9wh0bt.cloudfront.net:<*> close, <*> bytes sent, <*> bytes (<*> KB) received, lifetime <*>"
+E139,"r1---sn-i3belnez.googlevideo.com:<*> close, <*> bytes (<*> KB) sent, <*> bytes (<*> MB) received, lifetime <*>"
+E140,"f-log-extension.grammarly.io:<*> close, <*> bytes sent, <*> bytes (<*> KB) received, lifetime <*>"
+E141,"zhstatic.zhihu.com:<*> close, <*> bytes sent, <*> bytes (<*> KB) received, lifetime <*>"
+E142,"imgsrc.baidu.com:<*> close, <*> bytes sent, <*> bytes (<*> KB) received, lifetime <*>"
+E143,"wn.pos.baidu.com:<*> close, <*> bytes sent, <*> bytes (<*> KB) received, lifetime <*>"

@@ -1,0 +1,56 @@
+EventId,EventTemplate
+E1,reverse mapping checking getaddrinfo for <*> [<*>] failed - POSSIBLE BREAK-IN ATTEMPT!
+E2,Invalid user webmaster from <*>
+E3,input_userauth_request: invalid user webmaster [preauth]
+E4,pam_unix(sshd:auth): check pass; user unknown
+E5,pam_unix(sshd:auth): authentication failure; logname= uid=<*> euid=<*> tty=ssh ruser= rhost=<*>
+E6,Failed password for invalid user webmaster from <*> port <*> ssh2
+E7,Connection closed by <*> [preauth]
+E8,Invalid user test9 from <*>
+E9,input_userauth_request: invalid user test9 [preauth]
+E10,Failed password for invalid user test9 from <*> port <*> ssh2
+E11,Received disconnect from <*>: <*>: Bye Bye [preauth]
+E12,Invalid user chen from <*>
+E13,input_userauth_request: invalid user chen [preauth]
+E14,Failed password for invalid user chen from <*> port <*> ssh2
+E15,Failed password for root from <*> port <*> ssh2
+E16,message repeated <*> times: [ Failed password for root from <*> port <*> ssh2]
+E17,Disconnecting: Too many authentication failures for root [preauth]
+E18,PAM <*> more authentication failures; logname= uid=<*> euid=<*> tty=ssh ruser= rhost=<*>.dynamic-dsl-ip.omantel.net.om user=root
+E19,PAM service(sshd) ignoring max retries; <*> > <*>
+E20,Invalid user pgadmin from <*>
+E21,input_userauth_request: invalid user pgadmin [preauth]
+E22,Failed password for invalid user pgadmin from <*> port <*> ssh2
+E23,Invalid user utsims from <*>
+E24,input_userauth_request: invalid user utsims [preauth]
+E25,Failed password for invalid user utsims from <*> port <*> ssh2
+E26,Did not receive identification string from <*>
+E27,Invalid user inspur from <*>
+E28,input_userauth_request: invalid user inspur [preauth]
+E29,Failed password for invalid user inspur from <*> port <*> ssh2
+E30,Invalid user support from <*>
+E31,input_userauth_request: invalid user support [preauth]
+E32,Failed password for invalid user support from <*> port <*> ssh2
+E33,error: Received disconnect from <*>: <*>: com.jcraft.jsch.JSchException: Auth fail [preauth]
+E34,Failed password for uucp from <*> port <*> ssh2
+E35,Invalid user test from <*>
+E36,input_userauth_request: invalid user test [preauth]
+E37,Failed password for invalid user test from <*> port <*> ssh2
+E38,Received disconnect from <*>: <*>: Closed due to user request. [preauth]
+E39,Invalid user <*> from <*>
+E40,input_userauth_request: invalid user <*> [preauth]
+E41,Failed password for invalid user <*> from <*> port <*> ssh2
+E42,Failed none for invalid user <*> from <*> port <*> ssh2
+E43,PAM <*> more authentication failures; logname= uid=<*> euid=<*> tty=ssh ruser= rhost=<*>
+E44,PAM <*> more authentication failure; logname= uid=<*> euid=<*> tty=ssh ruser= rhost=<*>
+E45,Failed password for ftp from <*> port <*> ssh2
+E46,error: Received disconnect from <*>: <*>: No more user authentication methods available. [preauth]
+E47,Failed password for sshd from <*> port <*> ssh2
+E48,Failed password for git from <*> port <*> ssh2
+E49,Failed password for mysql from <*> port <*> ssh2
+E50,Accepted password for fztu from <*> port <*> ssh2
+E51,pam_unix(sshd:session): session opened for user fztu by (uid=<*>)
+E52,Received disconnect from <*>: <*>: disconnected by user
+E53,pam_unix(sshd:session): session closed for user fztu
+E54,Disconnecting: Too many authentication failures for admin [preauth]
+E55,fatal: Write failed: Connection reset by peer [preauth]
